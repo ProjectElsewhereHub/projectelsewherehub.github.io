@@ -2314,7 +2314,7 @@
     },
     "a->token",
     {
-        "card_name": "1/1 Peasant Token",
+        "card_name": "Elsewhere Reminder",
         "number": 1,
         "shape": "token",
         "set": "ADD",
@@ -2322,23 +2322,7 @@
         "position": ""
     },
     {
-        "card_name": "Building Token",
-        "number": 3,
-        "shape": "token",
-        "set": "ADD",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Clue Token",
-        "number": 4,
-        "shape": "token",
-        "set": "ADD",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "0/1 Demon Token",
+        "card_name": "1/1 Peasant Token",
         "number": 2,
         "shape": "token",
         "set": "ADD",
@@ -2346,7 +2330,28 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Building Token",
+        "number": 4,
+        "shape": "token",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Clue Token",
+        "number": 5,
+        "shape": "token",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "0/1 Demon Token",
+        "number": 3,
+        "shape": "token",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"

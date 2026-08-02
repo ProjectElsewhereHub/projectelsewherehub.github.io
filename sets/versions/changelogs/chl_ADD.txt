@@ -1,4 +1,11 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Elsewhere Reminder added.
+
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -3038,9 +3038,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Peasant",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/1t_1/1 Peasant Token.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/2t_1/1 Peasant Token.jpg"
 			}
 		},
 		{
@@ -3048,9 +3048,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demon",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/2t_0/1 Demon Token.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/3t_0/1 Demon Token.jpg"
 			}
 		},
 		{
@@ -3058,9 +3058,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Building",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/3t_Building Token.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/4t_Building Token.jpg"
 			}
 		},
 		{
@@ -3068,14 +3068,24 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/4t_Clue Token.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/5t_Clue Token.jpg"
+			}
+		},
+		{
+			"name": "Elsewhere Reminder",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/1t_Elsewhere Reminder.jpg"
 			}
 		}
 	]
 
-[rare(2)]
+[rare(1)]
 	5 MC01 The Wanderer of Worlds
 	5 RC01 Epitome of Wanderlust
 	5 RC02 Minion of Lunacy
@@ -3155,7 +3165,7 @@
 	5 RL03 City of Brain and Brawn
 	5 RL04 City of Passion and Devotion
 	5 RL05 City of Thaw and Frost
-[uncommon(4)]
+[uncommon(3)]
 	5 UC01 Essence of Kinship
 	5 UC02 Serum Wanderings
 	5 UW01 Grounded Investigation
@@ -3245,7 +3255,7 @@
 	5 UL08 Festival of Death
 	5 UL09 Festival of Light
 	5 UL10 Festival of Water
-[common(8)]
+[common(10)]
 	5 CC01 Whimsical Farmer
 	5 CC02 Prophet's Downfall
 	5 CC03 Wilderness Essence

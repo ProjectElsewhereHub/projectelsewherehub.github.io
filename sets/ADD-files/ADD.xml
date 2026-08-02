@@ -5826,7 +5826,7 @@ Draw a card.
 		<card>
 			<name>1/1 Peasant Token ADD</name>
 			<text></text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/1t_1/1 Peasant Token.jpg" num="1">ADD</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/2t_1/1 Peasant Token.jpg" num="2">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5849,7 +5849,7 @@ Draw a card.
 		<card>
 			<name>0/1 Demon Token ADD</name>
 			<text>Blaze of Glory — Whenever this creature attacks, you may have it get +2/+1. If you do, sacrifice it at end of combat.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/2t_0/1 Demon Token.jpg" num="2">ADD</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/3t_0/1 Demon Token.jpg" num="3">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5868,7 +5868,7 @@ Draw a card.
 		<card>
 			<name>Building Token ADD</name>
 			<text></text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/3t_Building Token.jpg" num="3">ADD</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/4t_Building Token.jpg" num="4">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5902,7 +5902,7 @@ Draw a card.
 		<card>
 			<name>Clue Token ADD</name>
 			<text>{2}, Sacrifice this token: Draw a card.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/4t_Clue Token.jpg" num="4">ADD</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/5t_Clue Token.jpg" num="5">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5917,6 +5917,21 @@ Draw a card.
 			<reverse-related>RU02 Vinki the Reflective</reverse-related>
 			<reverse-related>RU03 Timewinder Supreme</reverse-related>
 			<reverse-related>CB13 Visions of Conspiracy</reverse-related>
+		</card>
+		<card>
+			<name>Elsewhere Reminder ADD</name>
+			<text></text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/1t_Elsewhere Reminder.jpg" num="1">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
