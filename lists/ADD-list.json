@@ -1,0 +1,2366 @@
+﻿[
+    {
+        "card_name": "MW01 Sungleam",
+        "number": 24,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MU01 Ketaro, Traitor",
+        "number": 61,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MB01 Shifter of Secrets",
+        "number": 98,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MR01 Vetari, Traitor",
+        "number": 135,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MG01 Ambassador of Thorns",
+        "number": 172,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MW02 Formidable Fluxuation",
+        "number": 25,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MU02 Omniscient Builder",
+        "number": 62,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MB02 Relic of Obsession",
+        "number": 99,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MR02 Bladearm of Eternal Warfare",
+        "number": 136,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MG02 Solatic",
+        "number": 173,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW01 Gatel the Frozen",
+        "number": 26,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU01 Braxtus the Breaker",
+        "number": 63,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB01 Venshi the Absorbative",
+        "number": 100,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR01 Katori the Brawnslayer",
+        "number": 137,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG01 Sufelia the Devout",
+        "number": 174,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW02 Bethela the Builder",
+        "number": 27,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU02 Vinki the Reflective",
+        "number": 64,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB02 Klaror the Brainslayer",
+        "number": 101,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR02 Raflegos the Passionate",
+        "number": 138,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG02 Telegia the Thawed",
+        "number": 175,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW03 Purveyor of Change",
+        "number": 28,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU03 Timewinder Supreme",
+        "number": 65,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB03 Three-Lie Teller",
+        "number": 102,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR03 Raging Hero",
+        "number": 139,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG03 Three-Eyed Teller",
+        "number": 176,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW04 Banishing Ranger",
+        "number": 29,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU04 Opting Ranger",
+        "number": 66,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB04 Thoughtseizing Ranger",
+        "number": 103,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR04 Bolting Ranger",
+        "number": 140,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG04 Cultivating Ranger",
+        "number": 177,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW05 Whimsical Greater Angel",
+        "number": 30,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU05 Riddle Stealer",
+        "number": 67,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB05 Grim Greater Demon",
+        "number": 104,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR05 Moodhoarder Dragon",
+        "number": 141,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG05 Moodbound Hydra",
+        "number": 178,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW06 Innefficient Exchange",
+        "number": 31,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU06 Wanderlust Musings",
+        "number": 68,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB06 Visions of Darkness",
+        "number": 105,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR06 Foolish Mockery",
+        "number": 142,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG06 What a Whimsical World",
+        "number": 179,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RW07 Ruinous Wrath",
+        "number": 32,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU07 Ruinous Wanderlust",
+        "number": 69,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RB07 Ruinous Slice",
+        "number": 106,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RR07 Ruinous Lightning",
+        "number": 143,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RG07 Ruinous Growth",
+        "number": 180,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW01 Grounded Investigation",
+        "number": 33,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU01 Timewinder Motivator",
+        "number": 70,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB01 Mindshattered Triclops",
+        "number": 107,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR01 Running Stones",
+        "number": 144,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG01 Caretaking Figment",
+        "number": 181,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW02 Pearl Dreamer of Whimsy",
+        "number": 34,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU02 Sapphire Dreamer of Whimsy",
+        "number": 71,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB02 Jet Dreamer of Whimsy",
+        "number": 108,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR02 Ruby Dreamer of Whimsy",
+        "number": 145,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG02 Emerald Dreamer of Whimsy",
+        "number": 182,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW03 Cauterizing Healer",
+        "number": 35,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU03 Hovering Platformite",
+        "number": 72,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB03 Blighted Bully",
+        "number": 109,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR03 Swift Seeker",
+        "number": 146,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG03 Sniffing Wildebeast",
+        "number": 183,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW04 Triclops Storyteller",
+        "number": 36,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU04 Pacifist Fireborn",
+        "number": 73,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB04 Wanderlust Channeler",
+        "number": 110,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR04 Solarflame Zealot",
+        "number": 147,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG03 Wilderness Maniac",
+        "number": 184,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW05 Blighted Bard",
+        "number": 37,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU05 Scholar of Wanderlust",
+        "number": 74,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB05 Lunarkin Assassin",
+        "number": 111,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR05 Inspired Whimsyshaman",
+        "number": 148,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG05 Oathsworn Triclops",
+        "number": 185,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW06 Mason-Doctor",
+        "number": 38,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU06 Flowbringer Lunarkin",
+        "number": 75,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB06 Blighted Abomination",
+        "number": 112,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR06 Archival Pyromancer",
+        "number": 149,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG06 Singer of Might",
+        "number": 186,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW07 Wanderlust Golem",
+        "number": 39,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU07 Whimsywinder",
+        "number": 76,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB07 Blazing Blade Champion",
+        "number": 113,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR07 Grim-Might Beast",
+        "number": 150,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG07 Dreadmawform Solarkin",
+        "number": 187,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW08 Wandering Recruiter",
+        "number": 40,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU08 Wandering Magician",
+        "number": 77,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB08 Wandering Summoner",
+        "number": 114,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR08 Wandering Firebreather",
+        "number": 151,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG08 Wandering Strongman",
+        "number": 188,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW09 Fragmented Purge",
+        "number": 41,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU09 Fragmented Counterspell",
+        "number": 78,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB09 Fragmented Murder",
+        "number": 115,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR09 Fragmented Flames",
+        "number": 152,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG09 Fragmented Naturalization",
+        "number": 189,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW10 Formidable Hammer",
+        "number": 42,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU10 Box of Lunacy",
+        "number": 79,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB10 Vengeant Venture",
+        "number": 116,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR10 Act of Courageous Treason",
+        "number": 153,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG10 Enhancement of Finding",
+        "number": 190,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW11 Foundational Virtue",
+        "number": 43,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU11 Foundational Curiosity",
+        "number": 80,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB11 Arena of Insanity",
+        "number": 117,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR11 Column of Swift Dreams",
+        "number": 154,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG11 Surveyor's Stone",
+        "number": 191,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW12 Loyal Wanderings",
+        "number": 44,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU12 Knowledgeable Wanderings",
+        "number": 81,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB12 Persistent Wanderings",
+        "number": 118,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR12 Courageous Wanderings",
+        "number": 155,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG12 Strengthful Wanderings",
+        "number": 192,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW13 Crystalcore of Loyalty",
+        "number": 45,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU13 Crystalcore of Knowledge",
+        "number": 82,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB13 Crystalcore of Persistence",
+        "number": 119,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR13 Crystalcore of Courage",
+        "number": 156,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG13 Crystalcore of Strength",
+        "number": 193,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW01 White Dreamer of Whimsy",
+        "number": 9,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU01 Blue Dreamer of Whimsy",
+        "number": 46,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB01 Black Dreamer of Whimsy",
+        "number": 83,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR01 Red Dreamer of Whimsy",
+        "number": 120,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG01 Green Dreamer of Whimsy",
+        "number": 157,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW02 Starving Triclops",
+        "number": 10,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU02 Deranged Lunarkin",
+        "number": 47,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB02 Roaming Bloodsucker",
+        "number": 84,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR02 Sunfire Trainee",
+        "number": 121,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG02 Well-Fed Triclops",
+        "number": 158,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW03 Silly Mockingbird",
+        "number": 11,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU03 Incomplete Scrapthopter",
+        "number": 48,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB03 Cutting Mockingbird",
+        "number": 85,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR03 Bladearm Ritualist",
+        "number": 122,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG03 Sun-Basking Caretaker",
+        "number": 159,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW04 Helpful Seeker",
+        "number": 12,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU04 Brickfolk Surveyor",
+        "number": 49,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB04 Terrorizing Bladearm",
+        "number": 86,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR04 Foolish Smuggler",
+        "number": 123,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG04 Eight-Legged Bartender",
+        "number": 160,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW05 Pranking Pumpkin",
+        "number": 13,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU05 Grim Looter",
+        "number": 50,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB05 Hopeless Seeker",
+        "number": 87,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR05 Nomadic Brute",
+        "number": 124,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG05 Sun-Flame Berserker",
+        "number": 161,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW06 Clay Cleric",
+        "number": 14,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU06 Wanderlust Eater",
+        "number": 51,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB06 Tricky Timewinder",
+        "number": 88,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR06 Blazebolt Crossbowman",
+        "number": 125,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG06 Blighted Triclops",
+        "number": 162,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW07 Elder Populace",
+        "number": 15,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU07 Riddleless Riddler",
+        "number": 52,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB07 Lunacy Construct",
+        "number": 89,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR07 Playful Ravager",
+        "number": 126,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG07 Exploratory Herbalist",
+        "number": 163,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW08 Meandering Minstrel",
+        "number": 16,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU08 Sturdy Platformite",
+        "number": 53,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB08 Shrouded Demon",
+        "number": 90,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR08 Spinblade Demon",
+        "number": 127,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG08 Recruiter of the Range",
+        "number": 164,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW09 Stone Ressurector",
+        "number": 17,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU09 Delusions of Idiocy",
+        "number": 54,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB09 Scion of the Dark",
+        "number": 91,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR09 Land-Raze Gargantuan",
+        "number": 128,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG09 Colossal Dreadbeast",
+        "number": 165,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW10 Triclops Sentinel",
+        "number": 18,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU10 Flimsy Transformation",
+        "number": 55,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB10 Blood Helix",
+        "number": 92,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR10 Seek Inner Fire",
+        "number": 129,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG10 Wild-Darkened Duelist",
+        "number": 166,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW11 Shrouded Angel",
+        "number": 19,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU11 Delirious Cancellation",
+        "number": 56,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB11 Inundation of Insanity",
+        "number": 93,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR11 Return Again",
+        "number": 130,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG11 Whom to Pray",
+        "number": 167,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW12 Knightly Execution",
+        "number": 20,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU12 Moonlit Bauble",
+        "number": 57,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB12 Reflected Rending",
+        "number": 94,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR12 Ruinous Pyre",
+        "number": 131,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG12 Rotting Fangs",
+        "number": 168,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW13 Three-Eyed Pacifism",
+        "number": 21,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU13 Wisdom of Wanderlust",
+        "number": 58,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB13 Visions of Conspiracy",
+        "number": 95,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR13 Flames of Wanderlust",
+        "number": 132,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG13 Commune with Travelers",
+        "number": 169,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW14 Honorable Exertion",
+        "number": 22,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU14 Bloody Guardianship",
+        "number": 59,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB14 Lunacy Totem",
+        "number": 96,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR14 Fall into Might",
+        "number": 133,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG14 Spontaneous Strength",
+        "number": 170,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW15 Enhancement of Seeking",
+        "number": 23,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU15 Trader's Intent",
+        "number": 60,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB15 Enduring Metal",
+        "number": 97,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR15 Overwhelming Assault",
+        "number": 134,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG15 Earth and Sun",
+        "number": 171,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "RM01 Lord of the Foundation",
+        "number": 211,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RM02 Lord of the Isle",
+        "number": 212,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RM03 Lord of the Pass",
+        "number": 213,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RM04 Lord of the Summit",
+        "number": 214,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RM05 Lord of the Hall",
+        "number": 215,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RM06 Mortared Revelation",
+        "number": 216,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RM07 Flowing Renewal",
+        "number": 217,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RM08 Army of Blades",
+        "number": 218,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RM09 Solar Ritual",
+        "number": 219,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RM10 Sight of Threes",
+        "number": 220,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM01 Brickfolk Kinmage",
+        "number": 226,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM02 Lunarkin Kinmage",
+        "number": 227,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM03 Blade Demon Kinmage",
+        "number": 228,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM04 Solarkin Kinmage",
+        "number": 229,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM05 Triclops Kinmage",
+        "number": 230,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM06 Brickfolk Charm",
+        "number": 231,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM07 Lunarkin Charm",
+        "number": 232,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM08 Blade Demon Charm",
+        "number": 233,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM09 Solarkin Charm",
+        "number": 234,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM10 Triclops Charm",
+        "number": 235,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CM01 Hero of Brick",
+        "number": 194,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CM02 Hero of Moon",
+        "number": 195,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CM03 Hero of Blade",
+        "number": 196,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CM04 Hero of Sun",
+        "number": 197,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CM05 Hero of Sight",
+        "number": 198,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CM06 Safe Construction",
+        "number": 199,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CM07 Lunar Current-Rod",
+        "number": 200,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CM08 Violent Return",
+        "number": 201,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CM09 Expressive Conflagration",
+        "number": 202,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CM10 Formidable Anthem",
+        "number": 203,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CZ01 Walking Stones",
+        "number": 204,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CZ02 Soaring Shadow",
+        "number": 205,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CZ03 Sprinting Blade",
+        "number": 206,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CZ04 Crushing Flame",
+        "number": 207,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CZ05 Warding Eyes",
+        "number": 208,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RZ01 Harbinger of Whimsy Bone",
+        "number": 221,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RZ02 Harbinger of Whimsy Thunder",
+        "number": 222,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "MM01 Season of Whimsy",
+        "number": 209,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RZ04 Harbinger of Whimsy Light",
+        "number": 224,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RZ05 Harbinger of Whimsy Water",
+        "number": 225,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "RZ03 Harbinger of Whimsy Death",
+        "number": 223,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "MM02 Varasti, Fluid Dancer",
+        "number": 210,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "MC01 The Wanderer of Worlds",
+        "number": 4,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RC01 Epitome of Wanderlust",
+        "number": 5,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RC02 Minion of Lunacy",
+        "number": 6,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RA01 Whimsy Monolith",
+        "number": 239,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RA02 Lunatic Sphere",
+        "number": 240,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UC01 Essence of Kinship",
+        "number": 7,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UC02 Serum Wanderings",
+        "number": 8,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UA01 Wildforged Automaton",
+        "number": 241,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UA02 Opal Dreamer of Whimsy",
+        "number": 242,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CC01 Whimsical Farmer",
+        "number": 1,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CC02 Prophet's Downfall",
+        "number": 2,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CC03 Wilderness Essence",
+        "number": 3,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CA01 Wildforged Golem",
+        "number": 236,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CA02 Mechanical Pilgrim",
+        "number": 237,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CA03 Imposing Monolith",
+        "number": 238,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "ML01 The Grand Foundation",
+        "number": 243,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "ML02 The Lunar Isle",
+        "number": 244,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "ML03 The Bladed Pass",
+        "number": 245,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "ML04 The Solar Summit",
+        "number": 246,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "ML05 The Hall of Sight",
+        "number": 247,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RL01 City of Building and Breaking",
+        "number": 250,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RL02 City of Reflecting and Absorbing",
+        "number": 251,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RL03 City of Brain and Brawn",
+        "number": 252,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RL04 City of Passion and Devotion",
+        "number": 253,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RL05 City of Thaw and Frost",
+        "number": 254,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL01 Festival of Frost",
+        "number": 255,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL02 Festival of Darkness",
+        "number": 256,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL03 Festival of Blood",
+        "number": 257,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL04 Festival of Fire",
+        "number": 258,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL05 Festival of Life",
+        "number": 259,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "UL06 Festival of Bone",
+        "number": 260,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL07 Festival of Thunder",
+        "number": 261,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL08 Festival of Death",
+        "number": 262,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL09 Festival of Light",
+        "number": 263,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL10 Festival of Water",
+        "number": 264,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "ML06 The Dreamer's Home",
+        "number": 248,
+        "shape": "modal double faced",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "ML07 The Wandering Refuge",
+        "number": 249,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 265,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Island",
+        "number": 266,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Swamp",
+        "number": 267,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mountain",
+        "number": 268,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forest",
+        "number": 269,
+        "shape": "normal",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "1/1 Peasant Token",
+        "number": 1,
+        "shape": "token",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Building Token",
+        "number": 3,
+        "shape": "token",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Clue Token",
+        "number": 4,
+        "shape": "token",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "0/1 Demon Token",
+        "number": 2,
+        "shape": "token",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
