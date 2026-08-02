@@ -5920,7 +5920,7 @@ Draw a card.
 		</card>
 		<card>
 			<name>Elsewhere Reminder ADD</name>
-			<text></text>
+			<text>The elsewhere is a new zone. At the start of the game, put up to 10 elsewhere keyword worth of cards with the elsewhere keyword into your elsewhere from outside the game. (Your draft pool in limited, or a separate place for your elsewhere in constructed.)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/1t_Elsewhere Reminder.jpg" num="1">ADD</set>
 			<prop>
 				<layout>normal</layout>

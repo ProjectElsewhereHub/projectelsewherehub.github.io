@@ -1,4 +1,13 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Elsewhere Reminder
+rules_text:  => The elsewhere is a new zone. At the start of the game, put up to 10 elsewhere keyword worth of cards with the elsewhere keyword into your elsewhere from outside the game. [i](Your draft pool in limited, or a separate place for your elsewhere in constructed.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Elsewhere Reminder added.
