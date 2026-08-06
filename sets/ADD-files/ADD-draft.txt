@@ -3085,7 +3085,7 @@
 		}
 	]
 
-[rare(1)]
+[rare(2)]
 	5 MC01 The Wanderer of Worlds
 	5 RC01 Epitome of Wanderlust
 	5 RC02 Minion of Lunacy
@@ -3165,7 +3165,7 @@
 	5 RL03 City of Brain and Brawn
 	5 RL04 City of Passion and Devotion
 	5 RL05 City of Thaw and Frost
-[uncommon(3)]
+[uncommon(4)]
 	5 UC01 Essence of Kinship
 	5 UC02 Serum Wanderings
 	5 UW01 Grounded Investigation
@@ -3255,7 +3255,7 @@
 	5 UL08 Festival of Death
 	5 UL09 Festival of Light
 	5 UL10 Festival of Water
-[common(10)]
+[common(8)]
 	5 CC01 Whimsical Farmer
 	5 CC02 Prophet's Downfall
 	5 CC03 Wilderness Essence
