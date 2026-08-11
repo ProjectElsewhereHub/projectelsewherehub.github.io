@@ -1,0 +1,5 @@
+﻿[
+	{ "name": "rare", "count": 2, "balanced": true, "custom": false, "filtered": false },
+	{ "name": "uncommon", "count": 4, "balanced": true, "custom": false, "filtered": false },
+	{ "name": "common", "count": 8, "balanced": true, "custom": false, "filtered": false }
+]

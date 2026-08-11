@@ -1,0 +1,2251 @@
+﻿[
+    {
+        "card_name": "Elistor, Exalted One",
+        "number": 11,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Eon Swallower",
+        "number": 52,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cycle's End",
+        "number": 84,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Aria of Ashes",
+        "number": 117,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spellgorger Tyrano",
+        "number": 185,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Presence of Greatness",
+        "number": 24,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Normungan, Shelled Scourge",
+        "number": 62,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Essence Etcher",
+        "number": 89,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Huro, the Ash-Reader",
+        "number": 134,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Worldtender",
+        "number": 192,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Anger to Remorse",
+        "number": 3,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Adalrad, Concoctopus",
+        "number": 40,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Agony Caster",
+        "number": 79,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cinder Spree",
+        "number": 123,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Archdruid",
+        "number": 157,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Edgecrosser",
+        "number": 10,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Arvis, the Tidewaker",
+        "number": 41,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Arisen Insanity",
+        "number": 80,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Disciple of Eos",
+        "number": 125,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blind Bashing",
+        "number": 158,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hushmaker",
+        "number": 18,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bident of Kiora",
+        "number": 43,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Doom to Inferiority",
+        "number": 86,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Embers of Creation",
+        "number": 128,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Daunting Titan",
+        "number": 161,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Loa, The All-Caller",
+        "number": 20,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Command the Deep",
+        "number": 45,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Etchweaver",
+        "number": 90,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Intimidation Tactics",
+        "number": 136,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Director of Rebirth",
+        "number": 163,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Masked Healer",
+        "number": 21,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Coralhide Wurm",
+        "number": 47,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Grim Revelation",
+        "number": 95,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keeper of Great Flames",
+        "number": 137,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "End the End",
+        "number": 165,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Prosperous Hope",
+        "number": 25,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Enigma Field",
+        "number": 51,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Malrin, Slaughter-Regent",
+        "number": 102,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Massive Scale",
+        "number": 138,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Essence-Flooded Serpent",
+        "number": 166,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pulai, Esteemed Honorer",
+        "number": 26,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Limitless Insight",
+        "number": 59,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Patron of Blood",
+        "number": 105,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Relentless Mako",
+        "number": 146,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Master Reshaper",
+        "number": 176,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stalwart Instructor",
+        "number": 33,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lucid Seer",
+        "number": 60,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sanguine Devotion",
+        "number": 110,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ruinator Scourge",
+        "number": 148,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sing to the Horizon",
+        "number": 183,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tireless Traveler",
+        "number": 36,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nuvan, the Deep-Favored",
+        "number": 63,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Uncover the Vault",
+        "number": 112,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vargad, the Golden Titan",
+        "number": 152,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "U'Kala, Revered Protector",
+        "number": 187,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ambassador of the Protectors",
+        "number": 2,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wisdom Quantifier",
+        "number": 78,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Call to Life",
+        "number": 81,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Brutal Conflict",
+        "number": 121,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Act of the Ancients",
+        "number": 155,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Communual Offering",
+        "number": 7,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Evergrowing Kraken",
+        "number": 53,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Edge of the Beyond",
+        "number": 87,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Churn the Tides",
+        "number": 122,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Animist Tracker",
+        "number": 156,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Eternal Prison",
+        "number": 12,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Glimpse the Deep-Keeper",
+        "number": 55,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Embrace Oblivion",
+        "number": 88,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Electrified Predator",
+        "number": 127,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Brilliant Communion",
+        "number": 159,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keeper of the Splendid",
+        "number": 19,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Glorious Reward",
+        "number": 56,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Exemplary Follower",
+        "number": 91,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Furybringer",
+        "number": 131,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Defender of the Vastlands",
+        "number": 162,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Neverending Persistence",
+        "number": 23,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keeper of the Sunken",
+        "number": 58,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "False Caller",
+        "number": 92,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Havoc Rush",
+        "number": 133,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Druid of New Life",
+        "number": 164,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Restless Wanderer",
+        "number": 31,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "See the Inevitable",
+        "number": 71,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Follower of the Inevitable",
+        "number": 93,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Melt to Material",
+        "number": 139,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Manyheaded Serpent",
+        "number": 174,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stalwart Solidarity",
+        "number": 34,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Summit of Revelation",
+        "number": 73,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nightmare's Thirst",
+        "number": 104,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Preparer of Rites",
+        "number": 141,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sylvan Scrying",
+        "number": 186,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wingminded Warpriest",
+        "number": 39,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tome Implanter",
+        "number": 75,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Unseal the Vault",
+        "number": 113,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pyrewise Master",
+        "number": 144,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Undying Undergrowth",
+        "number": 188,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Battledriver Giant",
+        "number": 4,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tribute of Sanity",
+        "number": 76,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Carrion Scrounger",
+        "number": 82,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Assert Dominance",
+        "number": 118,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Call for Biotace",
+        "number": 160,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Caller of the Protectors",
+        "number": 5,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Beneath the Tides",
+        "number": 42,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Commune With the Forbidden",
+        "number": 83,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Axehead Shark",
+        "number": 119,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Evoke the Elements",
+        "number": 167,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cast to Nothingness",
+        "number": 6,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Breach the Surface",
+        "number": 44,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Deathchaser Serpent",
+        "number": 85,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Battlesweeper Giant",
+        "number": 120,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Flourishing Giant",
+        "number": 168,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Courrier of Hope",
+        "number": 8,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Contingency Plan",
+        "number": 46,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gravecrawler Wurm",
+        "number": 94,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Crushing Weight",
+        "number": 124,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Followed Protector",
+        "number": 169,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dawnwaker",
+        "number": 9,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Crafter of Relics",
+        "number": 48,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Heartless Winnower",
+        "number": 96,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dominate the Shallows",
+        "number": 126,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Grapple with the Past",
+        "number": 170,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Follower of Footsteps",
+        "number": 13,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Crafty Octopod",
+        "number": 49,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Induce Despair",
+        "number": 97,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Frenzied Callings",
+        "number": 129,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Greater Land Serpent",
+        "number": 171,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gather the Devoted",
+        "number": 14,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Drown Out",
+        "number": 50,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Infernal Edict",
+        "number": 98,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Frenzied Follower",
+        "number": 130,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Harbinger of the Great Ones",
+        "number": 172,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Giant's Steppe Seekers",
+        "number": 15,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Exalted Griffin",
+        "number": 54,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Invoke the Harbinger",
+        "number": 99,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Grinning Ignus",
+        "number": 132,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Invoker of the Undergrowth",
+        "number": 173,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Guiding Light",
+        "number": 16,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Grip of Tentacles",
+        "number": 57,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Invoker of the Past",
+        "number": 100,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Imbue with Fury",
+        "number": 135,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Manyminded Deathbloom",
+        "number": 175,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Honored Protector",
+        "number": 17,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Murkwater Lurker",
+        "number": 61,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lace With Potency",
+        "number": 101,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Molten Concoction",
+        "number": 140,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ravage the Canopy",
+        "number": 177,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mighty Eagle",
+        "number": 22,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Octopod Manipulator",
+        "number": 64,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mark of Oblivion",
+        "number": 103,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pressence of the Mighty",
+        "number": 142,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Relic of Biotace",
+        "number": 178,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Radiant Mentor",
+        "number": 27,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Plunge Sanity",
+        "number": 65,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Relic of Exodais",
+        "number": 106,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pyremaker",
+        "number": 143,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ruthless Contest",
+        "number": 179,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Readied Protection",
+        "number": 28,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Protected by the Deep",
+        "number": 66,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rise Again",
+        "number": 107,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reckless Battledriver",
+        "number": 145,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Seaweaver Serpent",
+        "number": 180,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Relic of Xiphaes",
+        "number": 29,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Relic of Abussaee",
+        "number": 67,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ritual Keeper",
+        "number": 108,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Relic of Eos",
+        "number": 147,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Serene Animist",
+        "number": 181,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Render Insignificant",
+        "number": 30,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rethink",
+        "number": 68,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ritualist of the Forbidden",
+        "number": 109,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ruthless Invoker",
+        "number": 149,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Serpent of the Grove",
+        "number": 182,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Seeker of Greatness",
+        "number": 32,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sanity Drowner",
+        "number": 69,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Scion of Oblivion",
+        "number": 111,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Schooling Serpent",
+        "number": 150,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skyward Giant",
+        "number": 184,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Steadfast Protector",
+        "number": 35,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Scavenger of Shipwrecks",
+        "number": 70,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vengeant Reaver",
+        "number": 114,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Squash",
+        "number": 151,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vital Infusion",
+        "number": 189,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Triumph Against Ferocity",
+        "number": 37,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spawn of the Depths",
+        "number": 72,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Weight of Insignificance",
+        "number": 115,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Viscous Mangler",
+        "number": 153,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vitalizing Boon",
+        "number": 190,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Triumphant Efforts",
+        "number": 38,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sweep the Shores",
+        "number": 74,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Willing Vessel",
+        "number": 116,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Voltaic Titan",
+        "number": 154,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wildwood Waker",
+        "number": 191,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Windward Seer",
+        "number": 77,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "O'Lime, Reefkeeper",
+        "number": 205,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Semaj, Eternity-Seer",
+        "number": 207,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hekmaj, the Hatemaker",
+        "number": 199,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mt. Skyshred",
+        "number": 203,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Autochthon Wurm",
+        "number": 193,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Doomsnap, the Tide-Eater",
+        "number": 194,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gorod, the Walking City",
+        "number": 197,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Nerak, Herald of Processions",
+        "number": 204,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ruyel, Tribute Keeper",
+        "number": 206,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gulcux, Acolyte of Ends",
+        "number": 198,
+        "shape": "planeswalker",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "E'Sol, Radiant One",
+        "number": 195,
+        "shape": "planeswalker",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kiora, Caller of the Deep",
+        "number": 201,
+        "shape": "planeswalker",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Icknick, Life-Invoker",
+        "number": 200,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gern, the Quakemaker",
+        "number": 196,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Marine, Kraken Breeder",
+        "number": 202,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Total Devotion",
+        "number": 1,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Beacon of Greatness",
+        "number": 210,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Awakened Attendant",
+        "number": 209,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Obelisk of Origin",
+        "number": 218,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pendant of Potency",
+        "number": 219,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thought Replicator",
+        "number": 223,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Animate Offering",
+        "number": 208,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Behemoth Maul",
+        "number": 211,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cityback Golem",
+        "number": 212,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cursed Relic",
+        "number": 213,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Endless Spoils",
+        "number": 214,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Living Landmass",
+        "number": 217,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Springleaf Drum",
+        "number": 221,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tome of the Ancients",
+        "number": 225,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Voltaic Wurm",
+        "number": 226,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Worldcrawler Golem",
+        "number": 228,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Great Sentinel",
+        "number": 215,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Idol of Inevitability",
+        "number": 216,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pinnacle of Worship",
+        "number": 220,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Staff of the Ancients",
+        "number": 222,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tireless Worshiper",
+        "number": 224,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wayfarer's Bauble",
+        "number": 227,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Tomb of the Slain",
+        "number": 263,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Maw of the Deep",
+        "number": 246,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vault of the End",
+        "number": 264,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nexus of the Beginning",
+        "number": 249,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Heart of the World",
+        "number": 245,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bed of the Sun",
+        "number": 229,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Everlasting Typhoon",
+        "number": 235,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Soul Cages",
+        "number": 260,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Predator's Den",
+        "number": 254,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cradle of Evergrowth",
+        "number": 233,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sacred Valley",
+        "number": 256,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gorged Trench",
+        "number": 241,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Throne of Bones",
+        "number": 262,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Scourged Grounds",
+        "number": 257,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Enduring Elevation",
+        "number": 234,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Followed Path",
+        "number": 237,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cascading Fountain",
+        "number": 231,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gargantuan Grave",
+        "number": 239,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Carved Peak",
+        "number": 230,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Flowering Grove",
+        "number": 236,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Great Den",
+        "number": 242,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Churning Depths",
+        "number": 232,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hall of Temptations",
+        "number": 243,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gnarled Waves",
+        "number": 240,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Head of the Woods",
+        "number": 244,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Monument to the Skybound",
+        "number": 247,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Frozen Wastes",
+        "number": 238,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Murky Waters",
+        "number": 248,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ravaged Vista",
+        "number": 255,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Path of Thorns",
+        "number": 251,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Signs of Protection",
+        "number": 259,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Seafloor of Shipwrecks",
+        "number": 258,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pool of Blood",
+        "number": 252,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Volcanic Edge",
+        "number": 265,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pool of Vitality",
+        "number": 253,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Path of Ruin",
+        "number": 250,
+        "shape": "modal double faced",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Throne of Amplalo",
+        "number": 261,
+        "shape": "normal",
+        "set": "AMP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

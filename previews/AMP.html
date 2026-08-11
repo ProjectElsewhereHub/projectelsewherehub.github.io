@@ -1,0 +1,895 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/AMP-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>AMP visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/AMP-files/logo.png" />
+	<img class="preload-hidden" src="../sets/ADD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/AMP-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/AMP"><img src="../sets/AMP-files/icon.png">Amplalo, Realm of the Colossi</a>
+	
+		<a class="set-bar inactive" href="../previews/ADD"><img src="../sets/ADD-files/icon.png">A Dream of Darkness</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/AMP-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\AMP-files\img\11_Elistor, Exalted One.jpg" id="AMP_11_Elistor, Exalted One" data-flag="@X" onclick="openSidebar('AMP_11_Elistor, Exalted One',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\52_Eon Swallower.jpg" id="AMP_52_Eon Swallower" data-flag="@X" onclick="openSidebar('AMP_52_Eon Swallower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\84_Cycle's End.jpg" id="AMP_84_Cycles End" data-flag="@X" onclick="openSidebar('AMP_84_Cycles End',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\117_Aria of Ashes.jpg" id="AMP_117_Aria of Ashes" data-flag="@X" onclick="openSidebar('AMP_117_Aria of Ashes',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\185_Spellgorger Tyrano.jpg" id="AMP_185_Spellgorger Tyrano" data-flag="@X" onclick="openSidebar('AMP_185_Spellgorger Tyrano',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\24_Presence of Greatness.jpg" id="AMP_24_Presence of Greatness" data-flag="@X" onclick="openSidebar('AMP_24_Presence of Greatness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\62_Normungan, Shelled Scourge.jpg" id="AMP_62_Normungan, Shelled Scourge" data-flag="@X" onclick="openSidebar('AMP_62_Normungan, Shelled Scourge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\89_Essence Etcher.jpg" id="AMP_89_Essence Etcher" data-flag="@X" onclick="openSidebar('AMP_89_Essence Etcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\134_Huro, the Ash-Reader.jpg" id="AMP_134_Huro, the Ash-Reader" data-flag="@X" onclick="openSidebar('AMP_134_Huro, the Ash-Reader',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\192_Worldtender.jpg" id="AMP_192_Worldtender" data-flag="@X" onclick="openSidebar('AMP_192_Worldtender',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\3_Anger to Remorse.jpg" id="AMP_3_Anger to Remorse" data-flag="@X" onclick="openSidebar('AMP_3_Anger to Remorse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\40_Adalrad, Concoctopus.jpg" id="AMP_40_Adalrad, Concoctopus" data-flag="@X" onclick="openSidebar('AMP_40_Adalrad, Concoctopus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\79_Agony Caster.jpg" id="AMP_79_Agony Caster" data-flag="@X" onclick="openSidebar('AMP_79_Agony Caster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\123_Cinder Spree.jpg" id="AMP_123_Cinder Spree" data-flag="@X" onclick="openSidebar('AMP_123_Cinder Spree',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\157_Archdruid.jpg" id="AMP_157_Archdruid" data-flag="@X" onclick="openSidebar('AMP_157_Archdruid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\10_Edgecrosser.jpg" id="AMP_10_Edgecrosser" data-flag="@X" onclick="openSidebar('AMP_10_Edgecrosser',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\41_Arvis, the Tidewaker.jpg" id="AMP_41_Arvis, the Tidewaker" data-flag="@X" onclick="openSidebar('AMP_41_Arvis, the Tidewaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\80_Arisen Insanity.jpg" id="AMP_80_Arisen Insanity" data-flag="@X" onclick="openSidebar('AMP_80_Arisen Insanity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\125_Disciple of Eos.jpg" id="AMP_125_Disciple of Eos" data-flag="@X" onclick="openSidebar('AMP_125_Disciple of Eos',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\158_Blind Bashing.jpg" id="AMP_158_Blind Bashing" data-flag="@X" onclick="openSidebar('AMP_158_Blind Bashing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\18_Hushmaker.jpg" id="AMP_18_Hushmaker" data-flag="@X" onclick="openSidebar('AMP_18_Hushmaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\43_Bident of Kiora.jpg" id="AMP_43_Bident of Kiora" data-flag="@X" onclick="openSidebar('AMP_43_Bident of Kiora',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\86_Doom to Inferiority.jpg" id="AMP_86_Doom to Inferiority" data-flag="@X" onclick="openSidebar('AMP_86_Doom to Inferiority',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\128_Embers of Creation.jpg" id="AMP_128_Embers of Creation" data-flag="@X" onclick="openSidebar('AMP_128_Embers of Creation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\161_Daunting Titan.jpg" id="AMP_161_Daunting Titan" data-flag="@X" onclick="openSidebar('AMP_161_Daunting Titan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\20_Loa, The All-Caller.jpg" id="AMP_20_Loa, The All-Caller" data-flag="@X" onclick="openSidebar('AMP_20_Loa, The All-Caller',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\45_Command the Deep.jpg" id="AMP_45_Command the Deep" data-flag="@X" onclick="openSidebar('AMP_45_Command the Deep',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\90_Etchweaver.jpg" id="AMP_90_Etchweaver" data-flag="@X" onclick="openSidebar('AMP_90_Etchweaver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\136_Intimidation Tactics.jpg" id="AMP_136_Intimidation Tactics" data-flag="@X" onclick="openSidebar('AMP_136_Intimidation Tactics',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\163_Director of Rebirth.jpg" id="AMP_163_Director of Rebirth" data-flag="@X" onclick="openSidebar('AMP_163_Director of Rebirth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\21_The Masked Healer.jpg" id="AMP_21_The Masked Healer" data-flag="@X" onclick="openSidebar('AMP_21_The Masked Healer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\47_Coralhide Wurm.jpg" id="AMP_47_Coralhide Wurm" data-flag="@X" onclick="openSidebar('AMP_47_Coralhide Wurm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\95_Grim Revelation.jpg" id="AMP_95_Grim Revelation" data-flag="@X" onclick="openSidebar('AMP_95_Grim Revelation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\137_Keeper of Great Flames.jpg" id="AMP_137_Keeper of Great Flames" data-flag="@X" onclick="openSidebar('AMP_137_Keeper of Great Flames',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\165_End the End.jpg" id="AMP_165_End the End" data-flag="@X" onclick="openSidebar('AMP_165_End the End',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\25_Prosperous Hope.jpg" id="AMP_25_Prosperous Hope" data-flag="@X" onclick="openSidebar('AMP_25_Prosperous Hope',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\51_Enigma Field.jpg" id="AMP_51_Enigma Field" data-flag="@X" onclick="openSidebar('AMP_51_Enigma Field',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\102_Malrin, Slaughter-Regent.jpg" id="AMP_102_Malrin, Slaughter-Regent" data-flag="@X" onclick="openSidebar('AMP_102_Malrin, Slaughter-Regent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\138_Massive Scale.jpg" id="AMP_138_Massive Scale" data-flag="@X" onclick="openSidebar('AMP_138_Massive Scale',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\166_Essence-Flooded Serpent.jpg" id="AMP_166_Essence-Flooded Serpent" data-flag="@X" onclick="openSidebar('AMP_166_Essence-Flooded Serpent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\26_Pulai, Esteemed Honorer.jpg" id="AMP_26_Pulai, Esteemed Honorer" data-flag="@X" onclick="openSidebar('AMP_26_Pulai, Esteemed Honorer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\59_Limitless Insight.jpg" id="AMP_59_Limitless Insight" data-flag="@X" onclick="openSidebar('AMP_59_Limitless Insight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\105_Patron of Blood.jpg" id="AMP_105_Patron of Blood" data-flag="@X" onclick="openSidebar('AMP_105_Patron of Blood',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\146_Relentless Mako.jpg" id="AMP_146_Relentless Mako" data-flag="@X" onclick="openSidebar('AMP_146_Relentless Mako',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\176_Master Reshaper.jpg" id="AMP_176_Master Reshaper" data-flag="@X" onclick="openSidebar('AMP_176_Master Reshaper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\33_Stalwart Instructor.jpg" id="AMP_33_Stalwart Instructor" data-flag="@X" onclick="openSidebar('AMP_33_Stalwart Instructor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\60_Lucid Seer.jpg" id="AMP_60_Lucid Seer" data-flag="@X" onclick="openSidebar('AMP_60_Lucid Seer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\110_Sanguine Devotion.jpg" id="AMP_110_Sanguine Devotion" data-flag="@X" onclick="openSidebar('AMP_110_Sanguine Devotion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\148_Ruinator Scourge.jpg" id="AMP_148_Ruinator Scourge" data-flag="@X" onclick="openSidebar('AMP_148_Ruinator Scourge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\183_Sing to the Horizon.jpg" id="AMP_183_Sing to the Horizon" data-flag="@X" onclick="openSidebar('AMP_183_Sing to the Horizon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\36_Tireless Traveler.jpg" id="AMP_36_Tireless Traveler" data-flag="@X" onclick="openSidebar('AMP_36_Tireless Traveler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\63_Nuvan, the Deep-Favored.jpg" id="AMP_63_Nuvan, the Deep-Favored" data-flag="@X" onclick="openSidebar('AMP_63_Nuvan, the Deep-Favored',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\112_Uncover the Vault.jpg" id="AMP_112_Uncover the Vault" data-flag="@X" onclick="openSidebar('AMP_112_Uncover the Vault',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\152_Vargad, the Golden Titan.jpg" id="AMP_152_Vargad, the Golden Titan" data-flag="@X" onclick="openSidebar('AMP_152_Vargad, the Golden Titan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\187_U'Kala, Revered Protector.jpg" id="AMP_187_UKala, Revered Protector" data-flag="@X" onclick="openSidebar('AMP_187_UKala, Revered Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\2_Ambassador of the Protectors.jpg" id="AMP_2_Ambassador of the Protectors" data-flag="@X" onclick="openSidebar('AMP_2_Ambassador of the Protectors',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\78_Wisdom Quantifier.jpg" id="AMP_78_Wisdom Quantifier" data-flag="@X" onclick="openSidebar('AMP_78_Wisdom Quantifier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\81_Call to Life.jpg" id="AMP_81_Call to Life" data-flag="@X" onclick="openSidebar('AMP_81_Call to Life',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\121_Brutal Conflict.jpg" id="AMP_121_Brutal Conflict" data-flag="@X" onclick="openSidebar('AMP_121_Brutal Conflict',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\155_Act of the Ancients.jpg" id="AMP_155_Act of the Ancients" data-flag="@X" onclick="openSidebar('AMP_155_Act of the Ancients',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\7_Communual Offering.jpg" id="AMP_7_Communual Offering" data-flag="@X" onclick="openSidebar('AMP_7_Communual Offering',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\53_Evergrowing Kraken.jpg" id="AMP_53_Evergrowing Kraken" data-flag="@X" onclick="openSidebar('AMP_53_Evergrowing Kraken',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\87_Edge of the Beyond.jpg" id="AMP_87_Edge of the Beyond" data-flag="@X" onclick="openSidebar('AMP_87_Edge of the Beyond',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\122_Churn the Tides.jpg" id="AMP_122_Churn the Tides" data-flag="@X" onclick="openSidebar('AMP_122_Churn the Tides',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\156_Animist Tracker.jpg" id="AMP_156_Animist Tracker" data-flag="@X" onclick="openSidebar('AMP_156_Animist Tracker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\12_Eternal Prison.jpg" id="AMP_12_Eternal Prison" data-flag="@X" onclick="openSidebar('AMP_12_Eternal Prison',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\55_Glimpse the Deep-Keeper.jpg" id="AMP_55_Glimpse the Deep-Keeper" data-flag="@X" onclick="openSidebar('AMP_55_Glimpse the Deep-Keeper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\88_Embrace Oblivion.jpg" id="AMP_88_Embrace Oblivion" data-flag="@X" onclick="openSidebar('AMP_88_Embrace Oblivion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\127_Electrified Predator.jpg" id="AMP_127_Electrified Predator" data-flag="@X" onclick="openSidebar('AMP_127_Electrified Predator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\159_Brilliant Communion.jpg" id="AMP_159_Brilliant Communion" data-flag="@X" onclick="openSidebar('AMP_159_Brilliant Communion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\19_Keeper of the Splendid.jpg" id="AMP_19_Keeper of the Splendid" data-flag="@X" onclick="openSidebar('AMP_19_Keeper of the Splendid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\56_Glorious Reward.jpg" id="AMP_56_Glorious Reward" data-flag="@X" onclick="openSidebar('AMP_56_Glorious Reward',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\91_Exemplary Follower.jpg" id="AMP_91_Exemplary Follower" data-flag="@X" onclick="openSidebar('AMP_91_Exemplary Follower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\131_Furybringer.jpg" id="AMP_131_Furybringer" data-flag="@X" onclick="openSidebar('AMP_131_Furybringer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\162_Defender of the Vastlands.jpg" id="AMP_162_Defender of the Vastlands" data-flag="@X" onclick="openSidebar('AMP_162_Defender of the Vastlands',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\23_Neverending Persistence.jpg" id="AMP_23_Neverending Persistence" data-flag="@X" onclick="openSidebar('AMP_23_Neverending Persistence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\58_Keeper of the Sunken.jpg" id="AMP_58_Keeper of the Sunken" data-flag="@X" onclick="openSidebar('AMP_58_Keeper of the Sunken',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\92_False Caller.jpg" id="AMP_92_False Caller" data-flag="@X" onclick="openSidebar('AMP_92_False Caller',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\133_Havoc Rush.jpg" id="AMP_133_Havoc Rush" data-flag="@X" onclick="openSidebar('AMP_133_Havoc Rush',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\164_Druid of New Life.jpg" id="AMP_164_Druid of New Life" data-flag="@X" onclick="openSidebar('AMP_164_Druid of New Life',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\31_Restless Wanderer.jpg" id="AMP_31_Restless Wanderer" data-flag="@X" onclick="openSidebar('AMP_31_Restless Wanderer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\71_See the Inevitable.jpg" id="AMP_71_See the Inevitable" data-flag="@X" onclick="openSidebar('AMP_71_See the Inevitable',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\93_Follower of the Inevitable.jpg" id="AMP_93_Follower of the Inevitable" data-flag="@X" onclick="openSidebar('AMP_93_Follower of the Inevitable',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\139_Melt to Material.jpg" id="AMP_139_Melt to Material" data-flag="@X" onclick="openSidebar('AMP_139_Melt to Material',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\174_Manyheaded Serpent.jpg" id="AMP_174_Manyheaded Serpent" data-flag="@X" onclick="openSidebar('AMP_174_Manyheaded Serpent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\34_Stalwart Solidarity.jpg" id="AMP_34_Stalwart Solidarity" data-flag="@X" onclick="openSidebar('AMP_34_Stalwart Solidarity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\73_Summit of Revelation.jpg" id="AMP_73_Summit of Revelation" data-flag="@X" onclick="openSidebar('AMP_73_Summit of Revelation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\104_Nightmare's Thirst.jpg" id="AMP_104_Nightmares Thirst" data-flag="@X" onclick="openSidebar('AMP_104_Nightmares Thirst',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\141_Preparer of Rites.jpg" id="AMP_141_Preparer of Rites" data-flag="@X" onclick="openSidebar('AMP_141_Preparer of Rites',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\186_Sylvan Scrying.jpg" id="AMP_186_Sylvan Scrying" data-flag="@X" onclick="openSidebar('AMP_186_Sylvan Scrying',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\39_Wingminded Warpriest.jpg" id="AMP_39_Wingminded Warpriest" data-flag="@X" onclick="openSidebar('AMP_39_Wingminded Warpriest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\75_Tome Implanter.jpg" id="AMP_75_Tome Implanter" data-flag="@X" onclick="openSidebar('AMP_75_Tome Implanter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\113_Unseal the Vault.jpg" id="AMP_113_Unseal the Vault" data-flag="@X" onclick="openSidebar('AMP_113_Unseal the Vault',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\144_Pyrewise Master.jpg" id="AMP_144_Pyrewise Master" data-flag="@X" onclick="openSidebar('AMP_144_Pyrewise Master',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\188_Undying Undergrowth.jpg" id="AMP_188_Undying Undergrowth" data-flag="@X" onclick="openSidebar('AMP_188_Undying Undergrowth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\4_Battledriver Giant.jpg" id="AMP_4_Battledriver Giant" data-flag="@X" onclick="openSidebar('AMP_4_Battledriver Giant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\76_Tribute of Sanity.jpg" id="AMP_76_Tribute of Sanity" data-flag="@X" onclick="openSidebar('AMP_76_Tribute of Sanity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\82_Carrion Scrounger.jpg" id="AMP_82_Carrion Scrounger" data-flag="@X" onclick="openSidebar('AMP_82_Carrion Scrounger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\118_Assert Dominance.jpg" id="AMP_118_Assert Dominance" data-flag="@X" onclick="openSidebar('AMP_118_Assert Dominance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\160_Call for Biotace.jpg" id="AMP_160_Call for Biotace" data-flag="@X" onclick="openSidebar('AMP_160_Call for Biotace',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\5_Caller of the Protectors.jpg" id="AMP_5_Caller of the Protectors" data-flag="@X" onclick="openSidebar('AMP_5_Caller of the Protectors',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\42_Beneath the Tides.jpg" id="AMP_42_Beneath the Tides" data-flag="@X" onclick="openSidebar('AMP_42_Beneath the Tides',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\83_Commune With the Forbidden.jpg" id="AMP_83_Commune With the Forbidden" data-flag="@X" onclick="openSidebar('AMP_83_Commune With the Forbidden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\119_Axehead Shark.jpg" id="AMP_119_Axehead Shark" data-flag="@X" onclick="openSidebar('AMP_119_Axehead Shark',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\167_Evoke the Elements.jpg" id="AMP_167_Evoke the Elements" data-flag="@X" onclick="openSidebar('AMP_167_Evoke the Elements',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\6_Cast to Nothingness.jpg" id="AMP_6_Cast to Nothingness" data-flag="@X" onclick="openSidebar('AMP_6_Cast to Nothingness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\44_Breach the Surface.jpg" id="AMP_44_Breach the Surface" data-flag="@X" onclick="openSidebar('AMP_44_Breach the Surface',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\85_Deathchaser Serpent.jpg" id="AMP_85_Deathchaser Serpent" data-flag="@X" onclick="openSidebar('AMP_85_Deathchaser Serpent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\120_Battlesweeper Giant.jpg" id="AMP_120_Battlesweeper Giant" data-flag="@X" onclick="openSidebar('AMP_120_Battlesweeper Giant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\168_Flourishing Giant.jpg" id="AMP_168_Flourishing Giant" data-flag="@X" onclick="openSidebar('AMP_168_Flourishing Giant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\8_Courrier of Hope.jpg" id="AMP_8_Courrier of Hope" data-flag="@X" onclick="openSidebar('AMP_8_Courrier of Hope',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\46_Contingency Plan.jpg" id="AMP_46_Contingency Plan" data-flag="@X" onclick="openSidebar('AMP_46_Contingency Plan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\94_Gravecrawler Wurm.jpg" id="AMP_94_Gravecrawler Wurm" data-flag="@X" onclick="openSidebar('AMP_94_Gravecrawler Wurm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\124_Crushing Weight.jpg" id="AMP_124_Crushing Weight" data-flag="@X" onclick="openSidebar('AMP_124_Crushing Weight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\169_Followed Protector.jpg" id="AMP_169_Followed Protector" data-flag="@X" onclick="openSidebar('AMP_169_Followed Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\9_Dawnwaker.jpg" id="AMP_9_Dawnwaker" data-flag="@X" onclick="openSidebar('AMP_9_Dawnwaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\48_Crafter of Relics.jpg" id="AMP_48_Crafter of Relics" data-flag="@X" onclick="openSidebar('AMP_48_Crafter of Relics',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\96_Heartless Winnower.jpg" id="AMP_96_Heartless Winnower" data-flag="@X" onclick="openSidebar('AMP_96_Heartless Winnower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\126_Dominate the Shallows.jpg" id="AMP_126_Dominate the Shallows" data-flag="@X" onclick="openSidebar('AMP_126_Dominate the Shallows',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\170_Grapple with the Past.jpg" id="AMP_170_Grapple with the Past" data-flag="@X" onclick="openSidebar('AMP_170_Grapple with the Past',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\13_Follower of Footsteps.jpg" id="AMP_13_Follower of Footsteps" data-flag="@X" onclick="openSidebar('AMP_13_Follower of Footsteps',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\49_Crafty Octopod.jpg" id="AMP_49_Crafty Octopod" data-flag="@X" onclick="openSidebar('AMP_49_Crafty Octopod',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\97_Induce Despair.jpg" id="AMP_97_Induce Despair" data-flag="@X" onclick="openSidebar('AMP_97_Induce Despair',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\129_Frenzied Callings.jpg" id="AMP_129_Frenzied Callings" data-flag="@X" onclick="openSidebar('AMP_129_Frenzied Callings',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\171_Greater Land Serpent.jpg" id="AMP_171_Greater Land Serpent" data-flag="@X" onclick="openSidebar('AMP_171_Greater Land Serpent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\14_Gather the Devoted.jpg" id="AMP_14_Gather the Devoted" data-flag="@X" onclick="openSidebar('AMP_14_Gather the Devoted',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\50_Drown Out.jpg" id="AMP_50_Drown Out" data-flag="@X" onclick="openSidebar('AMP_50_Drown Out',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\98_Infernal Edict.jpg" id="AMP_98_Infernal Edict" data-flag="@X" onclick="openSidebar('AMP_98_Infernal Edict',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\130_Frenzied Follower.jpg" id="AMP_130_Frenzied Follower" data-flag="@X" onclick="openSidebar('AMP_130_Frenzied Follower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\172_Harbinger of the Great Ones.jpg" id="AMP_172_Harbinger of the Great Ones" data-flag="@X" onclick="openSidebar('AMP_172_Harbinger of the Great Ones',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\15_Giant's Steppe Seekers.jpg" id="AMP_15_Giants Steppe Seekers" data-flag="@X" onclick="openSidebar('AMP_15_Giants Steppe Seekers',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\54_Exalted Griffin.jpg" id="AMP_54_Exalted Griffin" data-flag="@X" onclick="openSidebar('AMP_54_Exalted Griffin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\99_Invoke the Harbinger.jpg" id="AMP_99_Invoke the Harbinger" data-flag="@X" onclick="openSidebar('AMP_99_Invoke the Harbinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\132_Grinning Ignus.jpg" id="AMP_132_Grinning Ignus" data-flag="@X" onclick="openSidebar('AMP_132_Grinning Ignus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\173_Invoker of the Undergrowth.jpg" id="AMP_173_Invoker of the Undergrowth" data-flag="@X" onclick="openSidebar('AMP_173_Invoker of the Undergrowth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\16_Guiding Light.jpg" id="AMP_16_Guiding Light" data-flag="@X" onclick="openSidebar('AMP_16_Guiding Light',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\57_Grip of Tentacles.jpg" id="AMP_57_Grip of Tentacles" data-flag="@X" onclick="openSidebar('AMP_57_Grip of Tentacles',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\100_Invoker of the Past.jpg" id="AMP_100_Invoker of the Past" data-flag="@X" onclick="openSidebar('AMP_100_Invoker of the Past',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\135_Imbue with Fury.jpg" id="AMP_135_Imbue with Fury" data-flag="@X" onclick="openSidebar('AMP_135_Imbue with Fury',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\175_Manyminded Deathbloom.jpg" id="AMP_175_Manyminded Deathbloom" data-flag="@X" onclick="openSidebar('AMP_175_Manyminded Deathbloom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\17_Honored Protector.jpg" id="AMP_17_Honored Protector" data-flag="@X" onclick="openSidebar('AMP_17_Honored Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\61_Murkwater Lurker.jpg" id="AMP_61_Murkwater Lurker" data-flag="@X" onclick="openSidebar('AMP_61_Murkwater Lurker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\101_Lace With Potency.jpg" id="AMP_101_Lace With Potency" data-flag="@X" onclick="openSidebar('AMP_101_Lace With Potency',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\140_Molten Concoction.jpg" id="AMP_140_Molten Concoction" data-flag="@X" onclick="openSidebar('AMP_140_Molten Concoction',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\177_Ravage the Canopy.jpg" id="AMP_177_Ravage the Canopy" data-flag="@X" onclick="openSidebar('AMP_177_Ravage the Canopy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\22_Mighty Eagle.jpg" id="AMP_22_Mighty Eagle" data-flag="@X" onclick="openSidebar('AMP_22_Mighty Eagle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\64_Octopod Manipulator.jpg" id="AMP_64_Octopod Manipulator" data-flag="@X" onclick="openSidebar('AMP_64_Octopod Manipulator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\103_Mark of Oblivion.jpg" id="AMP_103_Mark of Oblivion" data-flag="@X" onclick="openSidebar('AMP_103_Mark of Oblivion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\142_Pressence of the Mighty.jpg" id="AMP_142_Pressence of the Mighty" data-flag="@X" onclick="openSidebar('AMP_142_Pressence of the Mighty',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\178_Relic of Biotace.jpg" id="AMP_178_Relic of Biotace" data-flag="@X" onclick="openSidebar('AMP_178_Relic of Biotace',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\27_Radiant Mentor.jpg" id="AMP_27_Radiant Mentor" data-flag="@X" onclick="openSidebar('AMP_27_Radiant Mentor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\65_Plunge Sanity.jpg" id="AMP_65_Plunge Sanity" data-flag="@X" onclick="openSidebar('AMP_65_Plunge Sanity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\106_Relic of Exodais.jpg" id="AMP_106_Relic of Exodais" data-flag="@X" onclick="openSidebar('AMP_106_Relic of Exodais',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\143_Pyremaker.jpg" id="AMP_143_Pyremaker" data-flag="@X" onclick="openSidebar('AMP_143_Pyremaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\179_Ruthless Contest.jpg" id="AMP_179_Ruthless Contest" data-flag="@X" onclick="openSidebar('AMP_179_Ruthless Contest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\28_Readied Protection.jpg" id="AMP_28_Readied Protection" data-flag="@X" onclick="openSidebar('AMP_28_Readied Protection',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\66_Protected by the Deep.jpg" id="AMP_66_Protected by the Deep" data-flag="@X" onclick="openSidebar('AMP_66_Protected by the Deep',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\107_Rise Again.jpg" id="AMP_107_Rise Again" data-flag="@X" onclick="openSidebar('AMP_107_Rise Again',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\145_Reckless Battledriver.jpg" id="AMP_145_Reckless Battledriver" data-flag="@X" onclick="openSidebar('AMP_145_Reckless Battledriver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\180_Seaweaver Serpent.jpg" id="AMP_180_Seaweaver Serpent" data-flag="@X" onclick="openSidebar('AMP_180_Seaweaver Serpent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\29_Relic of Xiphaes.jpg" id="AMP_29_Relic of Xiphaes" data-flag="@X" onclick="openSidebar('AMP_29_Relic of Xiphaes',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\67_Relic of Abussaee.jpg" id="AMP_67_Relic of Abussaee" data-flag="@X" onclick="openSidebar('AMP_67_Relic of Abussaee',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\108_Ritual Keeper.jpg" id="AMP_108_Ritual Keeper" data-flag="@X" onclick="openSidebar('AMP_108_Ritual Keeper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\147_Relic of Eos.jpg" id="AMP_147_Relic of Eos" data-flag="@X" onclick="openSidebar('AMP_147_Relic of Eos',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\181_Serene Animist.jpg" id="AMP_181_Serene Animist" data-flag="@X" onclick="openSidebar('AMP_181_Serene Animist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\30_Render Insignificant.jpg" id="AMP_30_Render Insignificant" data-flag="@X" onclick="openSidebar('AMP_30_Render Insignificant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\68_Rethink.jpg" id="AMP_68_Rethink" data-flag="@X" onclick="openSidebar('AMP_68_Rethink',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\109_Ritualist of the Forbidden.jpg" id="AMP_109_Ritualist of the Forbidden" data-flag="@X" onclick="openSidebar('AMP_109_Ritualist of the Forbidden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\149_Ruthless Invoker.jpg" id="AMP_149_Ruthless Invoker" data-flag="@X" onclick="openSidebar('AMP_149_Ruthless Invoker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\182_Serpent of the Grove.jpg" id="AMP_182_Serpent of the Grove" data-flag="@X" onclick="openSidebar('AMP_182_Serpent of the Grove',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\32_Seeker of Greatness.jpg" id="AMP_32_Seeker of Greatness" data-flag="@X" onclick="openSidebar('AMP_32_Seeker of Greatness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\69_Sanity Drowner.jpg" id="AMP_69_Sanity Drowner" data-flag="@X" onclick="openSidebar('AMP_69_Sanity Drowner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\111_Scion of Oblivion.jpg" id="AMP_111_Scion of Oblivion" data-flag="@X" onclick="openSidebar('AMP_111_Scion of Oblivion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\150_Schooling Serpent.jpg" id="AMP_150_Schooling Serpent" data-flag="@X" onclick="openSidebar('AMP_150_Schooling Serpent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\184_Skyward Giant.jpg" id="AMP_184_Skyward Giant" data-flag="@X" onclick="openSidebar('AMP_184_Skyward Giant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\35_Steadfast Protector.jpg" id="AMP_35_Steadfast Protector" data-flag="@X" onclick="openSidebar('AMP_35_Steadfast Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\70_Scavenger of Shipwrecks.jpg" id="AMP_70_Scavenger of Shipwrecks" data-flag="@X" onclick="openSidebar('AMP_70_Scavenger of Shipwrecks',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\114_Vengeant Reaver.jpg" id="AMP_114_Vengeant Reaver" data-flag="@X" onclick="openSidebar('AMP_114_Vengeant Reaver',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\151_Squash.jpg" id="AMP_151_Squash" data-flag="@X" onclick="openSidebar('AMP_151_Squash',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\189_Vital Infusion.jpg" id="AMP_189_Vital Infusion" data-flag="@X" onclick="openSidebar('AMP_189_Vital Infusion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\37_Triumph Against Ferocity.jpg" id="AMP_37_Triumph Against Ferocity" data-flag="@X" onclick="openSidebar('AMP_37_Triumph Against Ferocity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\72_Spawn of the Depths.jpg" id="AMP_72_Spawn of the Depths" data-flag="@X" onclick="openSidebar('AMP_72_Spawn of the Depths',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\115_Weight of Insignificance.jpg" id="AMP_115_Weight of Insignificance" data-flag="@X" onclick="openSidebar('AMP_115_Weight of Insignificance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\153_Viscous Mangler.jpg" id="AMP_153_Viscous Mangler" data-flag="@X" onclick="openSidebar('AMP_153_Viscous Mangler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\190_Vitalizing Boon.jpg" id="AMP_190_Vitalizing Boon" data-flag="@X" onclick="openSidebar('AMP_190_Vitalizing Boon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\38_Triumphant Efforts.jpg" id="AMP_38_Triumphant Efforts" data-flag="@X" onclick="openSidebar('AMP_38_Triumphant Efforts',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\74_Sweep the Shores.jpg" id="AMP_74_Sweep the Shores" data-flag="@X" onclick="openSidebar('AMP_74_Sweep the Shores',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\116_Willing Vessel.jpg" id="AMP_116_Willing Vessel" data-flag="@X" onclick="openSidebar('AMP_116_Willing Vessel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\154_Voltaic Titan.jpg" id="AMP_154_Voltaic Titan" data-flag="@X" onclick="openSidebar('AMP_154_Voltaic Titan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\191_Wildwood Waker.jpg" id="AMP_191_Wildwood Waker" data-flag="@X" onclick="openSidebar('AMP_191_Wildwood Waker',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\77_Windward Seer.jpg" id="AMP_77_Windward Seer" data-flag="@X" onclick="openSidebar('AMP_77_Windward Seer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\205_O'Lime, Reefkeeper.jpg" id="AMP_205_OLime, Reefkeeper" data-flag="@X" onclick="openSidebar('AMP_205_OLime, Reefkeeper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\207_Semaj, Eternity-Seer.jpg" id="AMP_207_Semaj, Eternity-Seer" data-flag="@X" onclick="openSidebar('AMP_207_Semaj, Eternity-Seer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\199_Hekmaj, the Hatemaker.jpg" id="AMP_199_Hekmaj, the Hatemaker" data-flag="@X" onclick="openSidebar('AMP_199_Hekmaj, the Hatemaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\203_Mt. Skyshred.jpg" id="AMP_203_Mt. Skyshred" data-flag="@X" onclick="openSidebar('AMP_203_Mt. Skyshred',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\193_Autochthon Wurm.jpg" id="AMP_193_Autochthon Wurm" data-flag="@X" onclick="openSidebar('AMP_193_Autochthon Wurm',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\194_Doomsnap, the Tide-Eater.jpg" id="AMP_194_Doomsnap, the Tide-Eater" data-flag="@X" onclick="openSidebar('AMP_194_Doomsnap, the Tide-Eater',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\197_Gorod, the Walking City.jpg" id="AMP_197_Gorod, the Walking City" data-flag="@X" onclick="openSidebar('AMP_197_Gorod, the Walking City',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\204_Nerak, Herald of Processions.jpg" id="AMP_204_Nerak, Herald of Processions" data-flag="@X" onclick="openSidebar('AMP_204_Nerak, Herald of Processions',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\206_Ruyel, Tribute Keeper.jpg" id="AMP_206_Ruyel, Tribute Keeper" data-flag="@X" onclick="openSidebar('AMP_206_Ruyel, Tribute Keeper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\198_Gulcux, Acolyte of Ends.jpg" id="AMP_198_Gulcux, Acolyte of Ends" data-flag="@X" onclick="openSidebar('AMP_198_Gulcux, Acolyte of Ends',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\195_E'Sol, Radiant One.jpg" id="AMP_195_ESol, Radiant One" data-flag="@X" onclick="openSidebar('AMP_195_ESol, Radiant One',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\201_Kiora, Caller of the Deep.jpg" id="AMP_201_Kiora, Caller of the Deep" data-flag="@X" onclick="openSidebar('AMP_201_Kiora, Caller of the Deep',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\200_Icknick, Life-Invoker.jpg" id="AMP_200_Icknick, Life-Invoker" data-flag="@X" onclick="openSidebar('AMP_200_Icknick, Life-Invoker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\196_Gern, the Quakemaker.jpg" id="AMP_196_Gern, the Quakemaker" data-flag="@X" onclick="openSidebar('AMP_196_Gern, the Quakemaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\202_Marine, Kraken Breeder.jpg" id="AMP_202_Marine, Kraken Breeder" data-flag="@X" onclick="openSidebar('AMP_202_Marine, Kraken Breeder',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\1_Total Devotion.jpg" id="AMP_1_Total Devotion" data-flag="@X" onclick="openSidebar('AMP_1_Total Devotion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\210_Beacon of Greatness.jpg" id="AMP_210_Beacon of Greatness" data-flag="@X" onclick="openSidebar('AMP_210_Beacon of Greatness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\209_Awakened Attendant.jpg" id="AMP_209_Awakened Attendant" data-flag="@X" onclick="openSidebar('AMP_209_Awakened Attendant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\218_Obelisk of Origin.jpg" id="AMP_218_Obelisk of Origin" data-flag="@X" onclick="openSidebar('AMP_218_Obelisk of Origin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\219_Pendant of Potency.jpg" id="AMP_219_Pendant of Potency" data-flag="@X" onclick="openSidebar('AMP_219_Pendant of Potency',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\223_Thought Replicator.jpg" id="AMP_223_Thought Replicator" data-flag="@X" onclick="openSidebar('AMP_223_Thought Replicator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\208_Animate Offering.jpg" id="AMP_208_Animate Offering" data-flag="@X" onclick="openSidebar('AMP_208_Animate Offering',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\211_Behemoth Maul.jpg" id="AMP_211_Behemoth Maul" data-flag="@X" onclick="openSidebar('AMP_211_Behemoth Maul',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\212_Cityback Golem.jpg" id="AMP_212_Cityback Golem" data-flag="@X" onclick="openSidebar('AMP_212_Cityback Golem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\213_Cursed Relic.jpg" id="AMP_213_Cursed Relic" data-flag="@X" onclick="openSidebar('AMP_213_Cursed Relic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\214_Endless Spoils.jpg" id="AMP_214_Endless Spoils" data-flag="@X" onclick="openSidebar('AMP_214_Endless Spoils',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\217_Living Landmass.jpg" id="AMP_217_Living Landmass" data-flag="@X" onclick="openSidebar('AMP_217_Living Landmass',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\221_Springleaf Drum.jpg" id="AMP_221_Springleaf Drum" data-flag="@X" onclick="openSidebar('AMP_221_Springleaf Drum',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\225_Tome of the Ancients.jpg" id="AMP_225_Tome of the Ancients" data-flag="@X" onclick="openSidebar('AMP_225_Tome of the Ancients',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\226_Voltaic Wurm.jpg" id="AMP_226_Voltaic Wurm" data-flag="@X" onclick="openSidebar('AMP_226_Voltaic Wurm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\228_Worldcrawler Golem.jpg" id="AMP_228_Worldcrawler Golem" data-flag="@X" onclick="openSidebar('AMP_228_Worldcrawler Golem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\215_Great Sentinel.jpg" id="AMP_215_Great Sentinel" data-flag="@X" onclick="openSidebar('AMP_215_Great Sentinel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\216_Idol of Inevitability.jpg" id="AMP_216_Idol of Inevitability" data-flag="@X" onclick="openSidebar('AMP_216_Idol of Inevitability',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\220_Pinnacle of Worship.jpg" id="AMP_220_Pinnacle of Worship" data-flag="@X" onclick="openSidebar('AMP_220_Pinnacle of Worship',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\222_Staff of the Ancients.jpg" id="AMP_222_Staff of the Ancients" data-flag="@X" onclick="openSidebar('AMP_222_Staff of the Ancients',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\224_Tireless Worshiper.jpg" id="AMP_224_Tireless Worshiper" data-flag="@X" onclick="openSidebar('AMP_224_Tireless Worshiper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\227_Wayfarer's Bauble.jpg" id="AMP_227_Wayfarers Bauble" data-flag="@X" onclick="openSidebar('AMP_227_Wayfarers Bauble',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\263_Tomb of the Slain_back.jpg" alt="sets\AMP-files\img\263_Tomb of the Slain_front.jpg" id="AMP_263_Tomb of the Slain" data-flag="@XD" onclick="openSidebar('AMP_263_Tomb of the Slain',false)"><button class="flip-btn" onclick="imgFlip('AMP_263_Tomb of the Slain')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\246_Maw of the Deep_back.jpg" alt="sets\AMP-files\img\246_Maw of the Deep_front.jpg" id="AMP_246_Maw of the Deep" data-flag="@XD" onclick="openSidebar('AMP_246_Maw of the Deep',false)"><button class="flip-btn" onclick="imgFlip('AMP_246_Maw of the Deep')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\264_Vault of the End_back.jpg" alt="sets\AMP-files\img\264_Vault of the End_front.jpg" id="AMP_264_Vault of the End" data-flag="@XD" onclick="openSidebar('AMP_264_Vault of the End',false)"><button class="flip-btn" onclick="imgFlip('AMP_264_Vault of the End')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\249_Nexus of the Beginning_back.jpg" alt="sets\AMP-files\img\249_Nexus of the Beginning_front.jpg" id="AMP_249_Nexus of the Beginning" data-flag="@XD" onclick="openSidebar('AMP_249_Nexus of the Beginning',false)"><button class="flip-btn" onclick="imgFlip('AMP_249_Nexus of the Beginning')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\245_Heart of the World_back.jpg" alt="sets\AMP-files\img\245_Heart of the World_front.jpg" id="AMP_245_Heart of the World" data-flag="@XD" onclick="openSidebar('AMP_245_Heart of the World',false)"><button class="flip-btn" onclick="imgFlip('AMP_245_Heart of the World')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\229_Bed of the Sun_back.jpg" alt="sets\AMP-files\img\229_Bed of the Sun_front.jpg" id="AMP_229_Bed of the Sun" data-flag="@XD" onclick="openSidebar('AMP_229_Bed of the Sun',false)"><button class="flip-btn" onclick="imgFlip('AMP_229_Bed of the Sun')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\235_Everlasting Typhoon_back.jpg" alt="sets\AMP-files\img\235_Everlasting Typhoon_front.jpg" id="AMP_235_Everlasting Typhoon" data-flag="@XD" onclick="openSidebar('AMP_235_Everlasting Typhoon',false)"><button class="flip-btn" onclick="imgFlip('AMP_235_Everlasting Typhoon')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\260_The Soul Cages_back.jpg" alt="sets\AMP-files\img\260_The Soul Cages_front.jpg" id="AMP_260_The Soul Cages" data-flag="@XD" onclick="openSidebar('AMP_260_The Soul Cages',false)"><button class="flip-btn" onclick="imgFlip('AMP_260_The Soul Cages')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\254_Predator's Den_back.jpg" alt="sets\AMP-files\img\254_Predator's Den_front.jpg" id="AMP_254_Predators Den" data-flag="@XD" onclick="openSidebar('AMP_254_Predators Den',false)"><button class="flip-btn" onclick="imgFlip('AMP_254_Predators Den')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\233_Cradle of Evergrowth_back.jpg" alt="sets\AMP-files\img\233_Cradle of Evergrowth_front.jpg" id="AMP_233_Cradle of Evergrowth" data-flag="@XD" onclick="openSidebar('AMP_233_Cradle of Evergrowth',false)"><button class="flip-btn" onclick="imgFlip('AMP_233_Cradle of Evergrowth')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\256_Sacred Valley_back.jpg" alt="sets\AMP-files\img\256_Sacred Valley_front.jpg" id="AMP_256_Sacred Valley" data-flag="@XD" onclick="openSidebar('AMP_256_Sacred Valley',false)"><button class="flip-btn" onclick="imgFlip('AMP_256_Sacred Valley')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\241_Gorged Trench_back.jpg" alt="sets\AMP-files\img\241_Gorged Trench_front.jpg" id="AMP_241_Gorged Trench" data-flag="@XD" onclick="openSidebar('AMP_241_Gorged Trench',false)"><button class="flip-btn" onclick="imgFlip('AMP_241_Gorged Trench')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\262_Throne of Bones_back.jpg" alt="sets\AMP-files\img\262_Throne of Bones_front.jpg" id="AMP_262_Throne of Bones" data-flag="@XD" onclick="openSidebar('AMP_262_Throne of Bones',false)"><button class="flip-btn" onclick="imgFlip('AMP_262_Throne of Bones')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\257_Scourged Grounds_back.jpg" alt="sets\AMP-files\img\257_Scourged Grounds_front.jpg" id="AMP_257_Scourged Grounds" data-flag="@XD" onclick="openSidebar('AMP_257_Scourged Grounds',false)"><button class="flip-btn" onclick="imgFlip('AMP_257_Scourged Grounds')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\234_Enduring Elevation_back.jpg" alt="sets\AMP-files\img\234_Enduring Elevation_front.jpg" id="AMP_234_Enduring Elevation" data-flag="@XD" onclick="openSidebar('AMP_234_Enduring Elevation',false)"><button class="flip-btn" onclick="imgFlip('AMP_234_Enduring Elevation')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\237_Followed Path_back.jpg" alt="sets\AMP-files\img\237_Followed Path_front.jpg" id="AMP_237_Followed Path" data-flag="@XD" onclick="openSidebar('AMP_237_Followed Path',false)"><button class="flip-btn" onclick="imgFlip('AMP_237_Followed Path')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\231_Cascading Fountain_back.jpg" alt="sets\AMP-files\img\231_Cascading Fountain_front.jpg" id="AMP_231_Cascading Fountain" data-flag="@XD" onclick="openSidebar('AMP_231_Cascading Fountain',false)"><button class="flip-btn" onclick="imgFlip('AMP_231_Cascading Fountain')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\239_Gargantuan Grave_back.jpg" alt="sets\AMP-files\img\239_Gargantuan Grave_front.jpg" id="AMP_239_Gargantuan Grave" data-flag="@XD" onclick="openSidebar('AMP_239_Gargantuan Grave',false)"><button class="flip-btn" onclick="imgFlip('AMP_239_Gargantuan Grave')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\230_Carved Peak_back.jpg" alt="sets\AMP-files\img\230_Carved Peak_front.jpg" id="AMP_230_Carved Peak" data-flag="@XD" onclick="openSidebar('AMP_230_Carved Peak',false)"><button class="flip-btn" onclick="imgFlip('AMP_230_Carved Peak')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\236_Flowering Grove_back.jpg" alt="sets\AMP-files\img\236_Flowering Grove_front.jpg" id="AMP_236_Flowering Grove" data-flag="@XD" onclick="openSidebar('AMP_236_Flowering Grove',false)"><button class="flip-btn" onclick="imgFlip('AMP_236_Flowering Grove')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\242_Great Den_back.jpg" alt="sets\AMP-files\img\242_Great Den_front.jpg" id="AMP_242_Great Den" data-flag="@XD" onclick="openSidebar('AMP_242_Great Den',false)"><button class="flip-btn" onclick="imgFlip('AMP_242_Great Den')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\232_Churning Depths_back.jpg" alt="sets\AMP-files\img\232_Churning Depths_front.jpg" id="AMP_232_Churning Depths" data-flag="@XD" onclick="openSidebar('AMP_232_Churning Depths',false)"><button class="flip-btn" onclick="imgFlip('AMP_232_Churning Depths')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\243_Hall of Temptations_back.jpg" alt="sets\AMP-files\img\243_Hall of Temptations_front.jpg" id="AMP_243_Hall of Temptations" data-flag="@XD" onclick="openSidebar('AMP_243_Hall of Temptations',false)"><button class="flip-btn" onclick="imgFlip('AMP_243_Hall of Temptations')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\240_Gnarled Waves_back.jpg" alt="sets\AMP-files\img\240_Gnarled Waves_front.jpg" id="AMP_240_Gnarled Waves" data-flag="@XD" onclick="openSidebar('AMP_240_Gnarled Waves',false)"><button class="flip-btn" onclick="imgFlip('AMP_240_Gnarled Waves')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\244_Head of the Woods_back.jpg" alt="sets\AMP-files\img\244_Head of the Woods_front.jpg" id="AMP_244_Head of the Woods" data-flag="@XD" onclick="openSidebar('AMP_244_Head of the Woods',false)"><button class="flip-btn" onclick="imgFlip('AMP_244_Head of the Woods')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\247_Monument to the Skybound_back.jpg" alt="sets\AMP-files\img\247_Monument to the Skybound_front.jpg" id="AMP_247_Monument to the Skybound" data-flag="@XD" onclick="openSidebar('AMP_247_Monument to the Skybound',false)"><button class="flip-btn" onclick="imgFlip('AMP_247_Monument to the Skybound')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\238_Frozen Wastes_back.jpg" alt="sets\AMP-files\img\238_Frozen Wastes_front.jpg" id="AMP_238_Frozen Wastes" data-flag="@XD" onclick="openSidebar('AMP_238_Frozen Wastes',false)"><button class="flip-btn" onclick="imgFlip('AMP_238_Frozen Wastes')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\248_Murky Waters_back.jpg" alt="sets\AMP-files\img\248_Murky Waters_front.jpg" id="AMP_248_Murky Waters" data-flag="@XD" onclick="openSidebar('AMP_248_Murky Waters',false)"><button class="flip-btn" onclick="imgFlip('AMP_248_Murky Waters')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\255_Ravaged Vista_back.jpg" alt="sets\AMP-files\img\255_Ravaged Vista_front.jpg" id="AMP_255_Ravaged Vista" data-flag="@XD" onclick="openSidebar('AMP_255_Ravaged Vista',false)"><button class="flip-btn" onclick="imgFlip('AMP_255_Ravaged Vista')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\251_Path of Thorns_back.jpg" alt="sets\AMP-files\img\251_Path of Thorns_front.jpg" id="AMP_251_Path of Thorns" data-flag="@XD" onclick="openSidebar('AMP_251_Path of Thorns',false)"><button class="flip-btn" onclick="imgFlip('AMP_251_Path of Thorns')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\259_Signs of Protection_back.jpg" alt="sets\AMP-files\img\259_Signs of Protection_front.jpg" id="AMP_259_Signs of Protection" data-flag="@XD" onclick="openSidebar('AMP_259_Signs of Protection',false)"><button class="flip-btn" onclick="imgFlip('AMP_259_Signs of Protection')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\258_Seafloor of Shipwrecks_back.jpg" alt="sets\AMP-files\img\258_Seafloor of Shipwrecks_front.jpg" id="AMP_258_Seafloor of Shipwrecks" data-flag="@XD" onclick="openSidebar('AMP_258_Seafloor of Shipwrecks',false)"><button class="flip-btn" onclick="imgFlip('AMP_258_Seafloor of Shipwrecks')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\252_Pool of Blood_back.jpg" alt="sets\AMP-files\img\252_Pool of Blood_front.jpg" id="AMP_252_Pool of Blood" data-flag="@XD" onclick="openSidebar('AMP_252_Pool of Blood',false)"><button class="flip-btn" onclick="imgFlip('AMP_252_Pool of Blood')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\265_Volcanic Edge_back.jpg" alt="sets\AMP-files\img\265_Volcanic Edge_front.jpg" id="AMP_265_Volcanic Edge" data-flag="@XD" onclick="openSidebar('AMP_265_Volcanic Edge',false)"><button class="flip-btn" onclick="imgFlip('AMP_265_Volcanic Edge')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\253_Pool of Vitality_back.jpg" alt="sets\AMP-files\img\253_Pool of Vitality_front.jpg" id="AMP_253_Pool of Vitality" data-flag="@XD" onclick="openSidebar('AMP_253_Pool of Vitality',false)"><button class="flip-btn" onclick="imgFlip('AMP_253_Pool of Vitality')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\AMP-files\img\250_Path of Ruin_back.jpg" alt="sets\AMP-files\img\250_Path of Ruin_front.jpg" id="AMP_250_Path of Ruin" data-flag="@XD" onclick="openSidebar('AMP_250_Path of Ruin',false)"><button class="flip-btn" onclick="imgFlip('AMP_250_Path of Ruin')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\AMP-files\img\261_Throne of Amplalo.jpg" id="AMP_261_Throne of Amplalo" data-flag="@X" onclick="openSidebar('AMP_261_Throne of Amplalo',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="AMP_e" data-flag="@E" onclick="openSidebar('AMP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="AMP_er" data-flag="@E" onclick="openSidebar('AMP_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1].toLowerCase());
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

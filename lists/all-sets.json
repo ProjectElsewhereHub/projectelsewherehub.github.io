@@ -4,6 +4,11 @@
             "set_code": "ADD",
             "set_name": "A Dream of Darkness",
             "formats": ""
+        },
+        {
+            "set_code": "AMP",
+            "set_name": "Amplalo, Realm of the Colossi",
+            "formats": ""
         }
     ]
 }
