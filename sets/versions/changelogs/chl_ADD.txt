@@ -1,4 +1,522 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CW02 Hospitable Triclops added.
+UW03 Revolutionary Healer added.
+CU15 Deliberate Paws added.
+UR06 Revolutionary Archivist added.
+UG04 Wilderness Maniac added.
+CM08 Violent Return# added.
+MR02 Pyre of Dreams added.
+UU01 Arcane Investigator added.
+
+CW02 Starving Triclops removed.
+UW03 Cauterizing Healer removed.
+CU15 Trader's Intent removed.
+UU01 Timewinder Motivator removed.
+MR02 Bladearm of Eternal Warfare removed.
+UR06 Archival Pyromancer removed.
+UG03 Wilderness Maniac removed.
+CM08 Violent Return removed.
+0/1 Demon Token removed.
+
+MC01 The Wanderer of Worlds
+rules_text: Elsewhere 3 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Defender
+{T}, Put a -1/-1 counter on this creature: Scry 1.
+{T}, Remove two -1/-1 counters from this creature: Draw a card.
+When this creature dies, if it had seven -1/-1 counters on it, draw seven cards. => Elsewhere 3 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Defender
+{T}, Put a -1/-1 counter on this creature: Scry 2.
+{T}, Remove two -1/-1 counters from this creature: Draw two cards.
+When this creature dies, if it had seven -1/-1 counters on it, draw seven cards.
+
+RC01 Epitome of Wanderlust
+type: Instant => Sorcery
+cost: {1} => {2}
+rules_text: Wander. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i] => Scry 2, then wander. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i]
+
+RC02 Minion of Lunacy
+rules_text: Moonflow 3 [i](You may play this card from your graveyard as long as 3 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => Moonflow 4 [i](You may play this card from your graveyard as long as 4 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+pt: 1/1 => 0/1
+
+UC01 Essence of Kinship
+cost: {1} => {2}
+
+CW03 Silly Mockingbird
+rules_text: Flying
+When this creature enters, you gain 2 life.
+This creature gets +1/+0 as long as you're whimsical. [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less.)[/i] => Flying
+When this creature enters, you gain 2 life.
+This creature gets +2/+0 as long as you're whimsical. [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less.)[/i]
+pt: 1/1 => 0/1
+
+CW05 Pranking Pumpkin
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+{1}{W}, {T}: Tap target artifact or creature. Put a stun counter on it. Activate only as a sorcery. => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+{W}, {T}: Tap target artifact or creature. Activate only as a sorcery.
+
+CW06 Clay Cleric
+rules_text: Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]When this creature dies, draw a card.[/b]] => Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]When this creature dies, you gain 3 life.[/b]]
+
+CW09 Stone Ressurector
+rules_text: Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]When this creature dies, return target creature with lesser power from your graveyard to the battlefield.[/b]] => Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]When this creature dies, return target creature with less mana value than this creature's power from your graveyard to the battlefield.[/b]]
+
+CW12 Knightly Execution
+
+MW01 Sungleam
+rules_text: This creature enters with six -1/-1 counters.
+Whenever you attack with one or more creatures, remove that many -1/-1 counters from this creature at the beginning of the next end step. => This creature enters with four -1/-1 counters.
+Whenever you attack with one or more creatures, remove that many -1/-1 counters from this creature at the beginning of the next end step.
+pt: 7/7 => 5/5
+
+MW02 Formidable Fluxuation
+cost: {1}{W} => {W}
+rules_text: Whenever a creature you control dies, if before it died creatures you control had total power 8 or greater, and after it died, they don't, return to the battlefield target creature with mana value less than the total power among creatures you control from your graveyard that wasn't put there this turn. => Whenever a creature you control dies, if before it died creatures you control had total power 8 or greater, and after it died, they don't, return to the battlefield target creature with mana value less than the total power among creatures you control from your graveyard that wasn't put there this turn. If you do, sacrifice this enchantment.
+
+RW01 Gatel the Frozen
+cost: {W} => {1}{W}
+
+RW02 Bethela the Builder
+cost: {1}{W} => {3}{W}
+
+RW05 Whimsical Greater Angel
+cost: {1}{W} => {2}{W}
+rules_text: As an additional cost to cast this spell, tap five untapped permanents you control.
+Flying, vigilance => As an additional cost to cast this spell, tap four untapped permanents you control.
+Flying, vigilance
+pt: 4/4 => 3/4
+
+RW07 Ruinous Wrath
+rules_text: Put three -1/-1 counters on each creature. => Put two -1/-1 counters on each creature.
+
+UW01 Grounded Investigation
+type: Instant => Sorcery
+rules_text: Create a Clue token and a 1/1 colorless Peasant creature token. => Create a Clue token and a tapped 1/1 colorless Peasant creature token.
+
+UW07 Wanderlust Golem
+rules_text: When this creature enters, each player wanders twice. [i](To wander, reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i] [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i] => When this creature enters, wander twice. Target opponent wanders. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i]
+
+UW12 Loyal Wanderings
+cost: {4}{W} => {2}{W}
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Creatures you control get +2/+0 until end of turn. => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Create two 1/1 colorless Peasant creature tokens.
+
+UW13 Crystalcore of Loyalty
+cost: {3}{W} => {2}{W}
+
+CU03 Incomplete Scrapthopter
+pt: 3/4 => 3/3
+
+CU04 Brickfolk Surveyor
+pt: 1/2 => 2/2
+
+CU07 Riddleless Riddler
+pt: 4/2 => 3/2
+
+CU12 Moonlit Bauble
+cost: {U} => {1}{U}
+
+CU14 Bloody Guardianship
+rules_text: Kicker—Sacrifice a creature [i](You may sacrifice a creature in addition to any other costs as you cast this spell.)[/i]
+Target creature you control gets +0/+2 and gains reach until end of turn. If this spell was kicked, that creature gets an additional +0/+1 and gains hexproof until end of turn. => Kicker—Sacrifice a creature [i](You may sacrifice a creature in addition to any other costs as you cast this spell.)[/i]
+Target creature you control gets +0/+3 and gains reach until end of turn. If this spell was kicked, that creature gets an additional +0/+2 and gains hexproof until end of turn.
+
+MU01 Ketaro, Traitor
+rules_text: Partner with Vetari, Traitor [i](When this creature enters, target player may put Vetari into their hand from their library, then shuffle.)[/i]
+Replace “as long as N or more creatures have died this turn” with “as long as N or more creature cards were put into graveyards this turn” in moonflow abilities of cards you own. => Replace “as long as N or more creatures have died this turn” with “as long as N or more creature cards were put into graveyards this turn” in moonflow abilities of cards you own.
+
+MU02 Omniscient Builder
+cost: {4}{U} => {3}{U}
+pt: 0/5 => 0/4
+
+RU01 Braxtus the Breaker
+cost: {U} => {1}{U}
+rules_text: Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[1[b]U, Sacrifice this creature: Draw cards equal to its power.[/b]] => Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[2[b]U, Sacrifice this creature: Draw cards equal to its power.[/b]]
+
+RU02 Vinki the Reflective
+cost: {1}{U} => {U}
+pt: 0/3 => 0/1
+
+RU03 Timewinder Supreme
+rules_text: Haste, flying
+When this creature enters, if it's your turn, end the turn. [i](Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and “this turn” and “until end of turn” effects end.)[/i]
+{T}: Target creature gets -2/-0 until the start of your next turn. Create a Clue token. => Haste, flying
+When this creature enters, if it's your turn, end the turn. [i](Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and “this turn” and “until end of turn” effects end.)[/i]
+{T}: Target creature gets -1/-0 until the start of your next turn. Create a Clue token.
+pt: 2/3 => 1/2
+
+RU07 Ruinous Wanderlust
+type: Instant => Sorcery
+rules_text: As an additional cost to cast this spell, put a -1/-1 counter on three creatures you control.
+Wander twice. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i] => As an additional cost to cast this spell, put a -1/-1 counter on two creatures you control.
+Wander twice. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i]
+
+UU04 Pacifist Fireborn
+rules_text: Sunfire — You may pay {U}. If you do, draw a card. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+Whenever you activate a sunfire ability, mill a card. => Sunfire — You may pay {2}{U}. If you do, draw a card. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+Whenever you activate a sunfire ability, mill a card.
+
+UU05 Scholar of Wanderlust
+rules_text: This creature enters with five -1/-1 counters.
+Whenever you draw a card or wander for the second time each turn, remove a -1/-1 counter from this creature. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i] => This creature enters with four -1/-1 counters.
+Whenever you draw a card or wander for the second time each turn, remove two -1/-1 counters from this creature. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i]
+pt: 8/8 => 7/7
+
+UU06 Flowbringer Lunarkin
+rules_text: When this creature enters, return target nonland permanent to its owner's hand.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => When this creature enters, return target nonland permanent to its owner's hand.
+Moonflow 3 [i](You may play this card from your graveyard as long as 3 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+UU11 Foundational Curiosity
+rules_text: Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+Enchant creature
+[[b]Whenever this creature or enchanted creature attacks, draw a card.[/b]] => Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+Enchant creature
+[[b]Whenever this creature or enchanted creature deals combat damage to a player, draw a card.[/b]]
+
+UU13 Crystalcore of Knowledge
+cost: {3}{U} => {2}{U}
+
+CB03 Cutting Mockingbird
+rules_text: Flying
+When this creature enters, you gain 1 life and each opponent loses 1 life.
+This creature gets +1/+0 as long as you're grim. [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater.)[/i] => Flying
+When this creature enters, you gain 1 life and each opponent loses 1 life.
+This creature gets +2/+0 as long as you're grim. [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater.)[/i]
+pt: 1/1 => 0/1
+
+CB04 Terrorizing Bladearm
+rules_text: Menace
+[i]Blaze of Glory[/i] — Whenever this creature attacks, you may have it get +2/+2 until end of turn. If you do, sacrifice this creature at end of combat. => Menace
+[i]Revolt[/i] — When this creature enters, if a permanent left the battlefield under your control this turn, you gain 2 life and each opponent loses 2 life.
+
+CB06 Tricky Timewinder
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Flying
+Whenever this creature deals combat damage to a player, you may pay 1 life. If you do, untap it.
+{T}, Pay 1 life: Draw a card. => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Flying
+Whenever this creature deals combat damage to a player, you may pay 1 life. If you do, untap it.
+{T}, Pay 1 life, Sacrifice a permanent: Draw a card.
+
+CB08 Shrouded Demon
+rules_text: Ward—Pay 2 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+[i]Blaze of Glory[/i] — Whenever this creature attacks, you may have it deal 3 damage to target creature. If you do, sacrifice this creature at end of combat. => Ward—Pay 2 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+[i]Revolt[/i] — When this creature enters, if a permanent left the battlefield under your control this turn, this creature deals 3 damage to target creature.
+pt: 5/3 => 6/3
+
+CB12 Reflected Rending
+rules_text: Exile target creature.
+{2}{B}, Exile this card from your graveyard: Wander. You lose 1 life. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i] => Exile target creature.
+{5}{B}, Exile this card from your graveyard: Wander. You lose 1 life. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i]
+
+RB01 Venshi the Absorbative
+cost: {B} => {1}{B}
+
+RB02 Klaror the Brainslayer
+cost: {1}{B} => {3}{B}
+rules_text: [i]Blaze of Glory[/i] — Whenever this creature attacks, you may have each opponent discard a card at random. If you do, sacrifice this creature at end of combat. => [i]Revolt[/i] — At the beginning of your end step, if a permanent left the battlefield under your control this turn, each opponent discards a card at random.
+pt: 2/2 => 3/3
+
+RB03 Three-Lie Teller
+rules_text: When this creature enters, if it entered from your graveyard or you cast it from your graveyard, add {B}{B}{B}.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => When this creature enters, if you cast it from your graveyard, add {B}{B}{B}.
+Moonflow 3 [i](You may play this card from your graveyard as long as 3 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+RB07 Ruinous Slice
+rules_text: Put three -1/-1 counters on target creature. => Put two -1/-1 counters on target creature.
+
+UB01 Mindshattered Triclops
+rules_text: [i]Formidable[/i] — Whenever this creature attacks, if creatures you control don't have total power 8 or greater, discard a card. => [i]Formidable[/i] — Whenever this creature attacks, unless creatures you control have total power 8 or greater, discard a card.
+
+UB07 Blazing Blade Champion
+rules_text: [i]Blaze of Glory[/i] — Whenever this creature attacks, you may have each opponent lose 4 life. If you do, sacrifice this creature at end of turn. => [i]Revolt[/i] — When this creature enters, if a permanent left the battlefield under your control this turn, each opponent loses 4 life.
+
+UB08 Wandering Summoner
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Menace
+When this creature enters, create two 0/1 black and red Demon creature tokens with “[i]Blaze of Glory[/i] — Whenever this creature attacks, you may have it get +2/+1. If you do, sacrifice it at end of combat.” => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Menace
+When this creature enters, draw a card. You lose 2 life.
+
+UB10 Vengeant Venture
+cost: {4}{B} => {5}{B}
+
+UB13 Crystalcore of Persistence
+cost: {3}{B} => {2}{B}
+
+CR01 Red Dreamer of Whimsy
+
+CR02 Sunfire Trainee
+pt: 1/2 => 0/2
+
+CR03 Bladearm Ritualist
+rules_text: Haste
+[i]Blaze of Glory[/i] — Whenever this creature attacks, you may add one mana of any color. This mana lasts until end of turn. If you do, sacrifice this creature at end of combat. => Haste
+[i]Revolt[/i] — At the beginning of your end step, if a permanent left the battlefield under your control this turn, add one mana of any color. This mana lasts until the end of your next turn.
+
+CR04 Foolish Smuggler
+pt: 3/2 => 2/2
+
+CR06 Blazebolt Crossbowman
+pt: 2/3 => 2/4
+
+CR07 Playful Ravager
+rules_text: Trample
+Whenever this creature attacks, if you're whimsical, it deals 4 damage to the defending player. [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less.)[/i] => Trample
+Whenever this creature attacks, if you're whimsical, it deals 2 damage to the defending player. [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less.)[/i]
+
+CR08 Spinblade Demon
+rules_text: [i]Blaze of Glory[/i] — Whenever this creature attacks, you may discard two cards. If you do, draw three cards, and sacrifice this creature at end of combat. => [i]Revolt[/i] — At the beginning of your end step, if a permanent left the battlefield under your control this turn, you may discard two cards. If you do, draw two cards.
+
+CR11 Return Again
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Mill two cards. You may play them this turn. => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Mill two cards. You may play one of them this turn.
+
+CR14 Fall into Might
+rules_text: Target creature gets +4/+0 until end of turn. Put a -1/-1 counter on it. => Target creature gets +5/+0 until end of turn. Put a -1/-1 counter on it.
+
+MR01 Vetari, Traitor
+rules_text: Partner with Ketaro, Traitor [i](When this creature enters, target player may put Ketaro into their hand from their library, then shuffle.)[/i]
+If a sunfire ability you control would trigger, you may instead discard a card, then draw a card. => If a sunfire ability you control would trigger, you may instead discard a card, then draw a card.
+
+RR01 Katori the Brawnslayer
+cost: {R} => {2}{R}
+rules_text: [i]Blaze of Glory[/i] — Whenever this creature attacks, you may have this creature deal 2 damage to the defending player. If you do, sacrifice this creature at end of combat. => [i]Revolt[/i] — At the beginning of your end step, if a permanent left the battlefield under your control this turn, this creature deals 2 damage to each opponent.
+pt: 2/1 => 2/3
+
+RR02 Raflegos the Passionate
+cost: {1}{R} => {4}{R}
+pt: 1/2 => 3/5
+
+RR03 Raging Hero
+pt: 2/3 => 2/4
+
+RR05 Moodhoarder Dragon
+cost: {3}{R} => {2}{R}
+
+RR06 Foolish Mockery
+cost: {1}{R} => {3}{R}
+
+RR07 Ruinous Lightning
+type: Instant => Sorcery
+rules_text: As an additional cost to cast this spell, put a -1/-1 counter on three creatures you control.
+This spell deals 3 damage to any target. => As an additional cost to cast this spell, put a -1/-1 counter on two creatures you control.
+This spell deals 3 damage to any target.
+
+UR01 Running Stones
+cost: {R} => {1}{R}
+
+UR09 Fragmented Flames
+rules_text: Cleave {R} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+This spell deals 2 damage to [[b]up to two[/b]] target creature[[b]s[/b]]. => Cleave {R} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+This spell deals 2 damage to target creature [[b]and its controller[/b]].
+
+UR11 Column of Swift Dreams
+rules_text: When this artifact enters, you may discard a card. If you do, draw two cards.
+This artifact enters tapped.
+{T}: Add {R}.
+{1}, Sacrifice this enchantment: Creatures you control gain haste until end of turn. => When this artifact enters, you may discard a card. If you do, draw two cards.
+This artifact enters tapped.
+{T}: Add {R}.
+{1}, Sacrifice this artifact: Creatures you control gain haste until end of turn.
+
+UR12 Courageous Wanderings
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Add {R}{R}{R}{R}{R}{R}. => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Add {R}{R}{R}{R}{R}.
+
+UR13 Crystalcore of Courage
+cost: {3}{R} => {2}{R}
+
+CG03 Sun-Basking Caretaker
+rules_text: Vigilance
+{T}: Add {G}.
+Sunfire — Add {G}. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i] => {T}: Add {G}.
+Sunfire — Add {G}. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+pt: 1/2 => 1/1
+
+CG04 Eight-Legged Bartender
+pt: 2/3 => 2/2
+
+CG06 Blighted Triclops
+rules_text: This creature enters with three -1/-1 counters on it.
+[i]Formidable[/i] — Whenever this creature attacks, if creatures you control have total power 8 or greater remove a -1/-1 counter from this creature. => This creature enters with three -1/-1 counters on it.
+[i]Formidable[/i] — At the beginning of combat on your turn, if creatures you control have total power 8 or greater remove a -1/-1 counter from this creature.
+
+CG07 Exploratory Herbalist
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+When this creature enters, you gain 8 life. => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+When this creature enters, you gain 6 life.
+pt: 2/2 => 3/3
+
+CG08 Recruiter of the Range
+rules_text: This creature enters with two -1/-1 counters.
+{2}{G}, {T}, Remove two -1/-1 counters from this creature: Wander. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i] => This creature enters with two -1/-1 counters.
+{1}{G}, {T}, Remove two -1/-1 counters from this creature: Wander. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i]
+pt: 6/5 => 6/6
+
+CG09 Colossal Dreadbeast
+rules_text: Whenever this creature attacks, put target card from a graveyard on the bottom of its owner's library. => Trample
+Whenever this creature attacks, put target card from a graveyard on the bottom of its owner's library.
+
+CG10 Wild-Darkened Duelist
+pt: 5/5 => 6/6
+
+MG02 Solatic
+rules_text: Vigilance
+Sunfire — Mill two cards. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+Exile three noncreature cards from your graveyard: Return this creature to its owner's hand. => Vigilance
+Sunfire — Mill three cards. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+Exile three noncreature cards from your graveyard: Return this creature to its owner's hand.
+pt: 2/3 => 3/3
+
+RG01 Sufelia the Devout
+rules_text: Sunfire — Add {G} or this creature gets +1/+1 until end of turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+When this creature enters, surveil 1. => Sunfire — Add {G} or this creature gets +1/+1 until end of turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+
+RG02 Telegia the Thawed
+pt: 2/2 => 3/2
+
+RG03 Three-Eyed Teller
+rules_text: [i]Formidable[/i] — When this creature enters, if creatures you control have total power 8 or greater, add {G}{G}{G}{G}. => [i]Formidable[/i] — When this creature enters, if you cast it and creatures you control have total power 8 or greater, add {G}{G}{G}.
+pt: 3/2 => 2/2
+
+RG06 What a Whimsical World
+cost: {1}{G} => {2}{G}
+
+RG07 Ruinous Growth
+type: Instant => Sorcery
+rules_text: As an additional cost to cast this spell, put a -1/-1 counter on three creatures you control.
+Search your library for two land cards, reveal them, put them onto the battlefield tapped, then shuffle. => As an additional cost to cast this spell, put a -1/-1 counter on two creatures you control.
+Search your library for two land cards, reveal them, put them onto the battlefield tapped, then shuffle.
+
+UG01 Caretaking Figment
+cost: {G} => {1}{G}
+pt: 0/1 => 1/2
+
+UG05 Oathsworn Triclops
+rules_text: [i]Formidable[/i] — When this creature dies, if creatures you control have total power 8 or greater, reveal cards from the top of your library until you reveal a creature card, put it onto the battlefield, and the the rest into your graveyard. => [i]Formidable[/i] — When this creature enters, if creatures you control have total power 8 or greater, reveal cards from the top of your library until you reveal a creature card, put it onto the battlefield, and the the rest into your graveyard.
+pt: 4/3 => 2/3
+
+UG06 Singer of Might
+rules_text: Creatures you control get +3/+3. => Creatures you control get +2/+2.
+pt: 1/1 => 2/2
+
+UG12 Strengthful Wanderings
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Search your library for an Equipment or Aura card, put it onto the battlefield attached to target creature you control it could equip or enchant, then shuffle. => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Creatures you control get +3/+3 until end of turn.
+
+UG13 Crystalcore of Strength
+cost: {3}{G} => {2}{G}
+
+CM02 Hero of Moon
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+When this creature enters, surveil 2.
+Moonflow 2 => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+When this creature enters, surveil 2.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+CM03 Hero of Blade
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Haste
+[i]Blaze of Glory[/i] — Whenever this creature attacks, you may have it gain trample until end of turn. If you do, sacrifice it at end of turn. => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Haste
+[i]Revolt[/i] — When this creature enters, if a permanent left the battlefield under your control this turn, you gain 1 life and each opponent loses 1 life.
+
+CM04 Hero of Sun
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Sunfire — Exile the top card of your library. You may play that card this turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i] => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Sunfire — This creature gets +1/+0 until end of turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+pt: 1/2 => 0/2
+
+CM09 Expressive Conflagration
+cost: {R}{G} => {1}{R}{G}
+
+CM10 Formidable Anthem
+cost: {2}{G}{W} => {3}{G}{W}
+
+CZ02 Soaring Shadow
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Flying
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Flying
+Moonflow 3 [i](You may play this card from your graveyard as long as 3 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+pt: 2/2 => 2/1
+
+CZ03 Sprinting Blade
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Haste
+[i]Blaze of Glory[/i] — Whenever this creature attacks, you may have it gain menace until end of turn. If you do, sacrifice this creature at end of combat. => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Haste
+[i]Revolt[/i] — At the beginning of your end step, if a permanent left the battlefield under your control this turn, this creature deals 2 damage to each opponent.
+
+CZ04 Crushing Flame
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Trample
+Sunfire — This creature gets +0/+2 until end of turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i] => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Trample
+Sunfire — This creature gets +1/+1 until end of turn. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+pt: 4/2 => 4/4
+
+RM01 Lord of the Foundation
+cost: {W}{U} => {2}{W}{U}
+rules_text: Other Walls you control have Foundation. [i](When they enter, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on those cards. This stacks.)[/i] [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i] => Other Walls you control have Foundation. [i](When they enter, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on those cards. This stacks, including the abilities.)[/i]
+
+RM02 Lord of the Isle
+cost: {U}{B} => {1}{U}{B}
+
+RM03 Lord of the Pass
+rules_text: Whenever a Demon you control dies, return it to the battlefield tapped with a finality counter. => Other Demons you control have “[i]Revolt[/i] — At the beginning of your end step, if a permanent left the battlefield under your control this turn, this creature deals 1 damage to each opponent.
+
+RM04 Lord of the Summit
+cost: {R}{G} => {1}{R}{G}
+
+RM09 Solar Ritual
+rules_text: Add seven mana in any combination of colors. => Add six mana in any combination of colors.
+
+UM03 Blade Demon Kinmage
+rules_text: [i]Blaze of Glory[/i] — Whenever this creature attacks, you may draw two cards. If you do, you lose 2 life, discard two cards, and sacrifice this creature at end of combat.
+{B}{R}, {T}, Discard a Demon card: This creature deals 3 damage to any target. You gain 3 life. => [i]Revolt[/i] — At the beginning of your end step, if a permanent left the battlefield under your control this turn, discard a card, then draw a card. You lose 1 life.
+{B}{R}, {T}, Discard a Demon card: This creature deals 3 damage to any target. You gain 3 life.
+
+UM06 Brickfolk Charm
+rules_text: Choose one —
+• Until end of turn, target creature with foundation gains “[[b]Whenever this creature deals combat damage to player this turn, you gain 1 life and draw a card.[/b]]” [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+• Exile target creature you control, then return it to the battlefield tapped under its owner's control.
+• Return to the battlefield tapped target creature card in your graveyard that was put there this turn from the battlefield. => Choose one —
+• Until end of turn, target creature with foundation gains “[[b]Whenever this creature deals combat damage to player this turn, you gain 1 life and draw a card.[/b]]”
+• Exile target creature you control, then return it to the battlefield tapped under its owner's control.
+• Return to the battlefield tapped target creature card in your graveyard that was put there this turn from the battlefield.
+
+ML03 The Bladed Pass
+rules_text: This land enters tapped. When it does, create a 0/1 black and red Demon creature token with “[i]Blaze of Glory[/i] — Whenever this creature attacks, you may have it get +2/+1. If you do, sacrifice it at end of combat.”
+{T}: Add {B} or {R}. => This land enters tapped.
+{T}: Add {B} or {R}.
+[i]Revolt[/i] — At the beginning of your end step, if a permanent left the battlefield under your control this turn, untap this land.
+
+1/1 Peasant Token
+
+Clue Token
+
+Elsewhere Reminder
+type:  => Reminder
+rules_text: The elsewhere is a new zone. At the start of the game, put up to 10 elsewhere keyword worth of cards with the elsewhere keyword into your elsewhere from outside the game. [i](Your draft pool in limited, or a separate place for your elsewhere in constructed.)[/i] => Before the game stars, place your elsewhere here. It is not a deck.
+Your starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.
+You can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don't exceed total elsewhere value 10.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

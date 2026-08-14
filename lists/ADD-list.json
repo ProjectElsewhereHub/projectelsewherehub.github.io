@@ -64,7 +64,7 @@
         "position": ""
     },
     {
-        "card_name": "MR02 Bladearm of Eternal Warfare",
+        "card_name": "MR02 Pyre of Dreams",
         "number": 136,
         "shape": "normal",
         "set": "ADD",
@@ -368,7 +368,7 @@
         "position": ""
     },
     {
-        "card_name": "UU01 Timewinder Motivator",
+        "card_name": "UU01 Arcane Investigator",
         "number": 70,
         "shape": "normal",
         "set": "ADD",
@@ -440,7 +440,7 @@
         "position": ""
     },
     {
-        "card_name": "UW03 Cauterizing Healer",
+        "card_name": "UW03 Revolutionary Healer",
         "number": 35,
         "shape": "normal",
         "set": "ADD",
@@ -512,7 +512,7 @@
         "position": ""
     },
     {
-        "card_name": "UG03 Wilderness Maniac",
+        "card_name": "UG04 Wilderness Maniac",
         "number": 184,
         "shape": "normal",
         "set": "ADD",
@@ -584,7 +584,7 @@
         "position": ""
     },
     {
-        "card_name": "UR06 Archival Pyromancer",
+        "card_name": "UR06 Revolutionary Archivist",
         "number": 149,
         "shape": "normal",
         "set": "ADD",
@@ -920,7 +920,7 @@
         "position": ""
     },
     {
-        "card_name": "CW02 Starving Triclops",
+        "card_name": "CW02 Hospitable Triclops",
         "number": 10,
         "shape": "normal",
         "set": "ADD",
@@ -1448,7 +1448,7 @@
         "position": ""
     },
     {
-        "card_name": "CU15 Trader's Intent",
+        "card_name": "CU15 Deliberate Paws",
         "number": 60,
         "shape": "modal double faced",
         "set": "ADD",
@@ -1709,7 +1709,7 @@
         "position": ""
     },
     {
-        "card_name": "CM08 Violent Return",
+        "card_name": "CM08 Violent Return#",
         "number": 201,
         "shape": "normal",
         "set": "ADD",
@@ -2331,7 +2331,7 @@
     },
     {
         "card_name": "Building Token",
-        "number": 4,
+        "number": 3,
         "shape": "token",
         "set": "ADD",
         "rotated": false,
@@ -2339,19 +2339,14 @@
     },
     {
         "card_name": "Clue Token",
-        "number": 5,
+        "number": 4,
         "shape": "token",
         "set": "ADD",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "0/1 Demon Token",
-        "number": 3,
-        "shape": "token",
-        "set": "ADD",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "er"
