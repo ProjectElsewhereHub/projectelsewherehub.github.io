@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/DEM-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>DEM visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/DEM-files/logo.png" />
+	<img class="preload-hidden" src="../sets/ADD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/AMP-files/icon.png" />
+		<img class="preload-hidden" src="../sets/DEM-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/DEM"><img src="../sets/DEM-files/icon.png">Deus Ex Memoriam</a>
+	
+		<a class="set-bar inactive" href="../previews/ADD"><img src="../sets/ADD-files/icon.png">A Dream of Darkness</a>
+	
+		<a class="set-bar inactive" href="../previews/AMP"><img src="../sets/AMP-files/icon.png">Amplalo, Realm of the Colossi</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/DEM-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\DEM-files\img\33_MW01 Reirbor the Penitent.jpg" id="DEM_33_MW01 Reirbor the Penitent" data-flag="@X" onclick="openSidebar('DEM_33_MW01 Reirbor the Penitent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\66_MU01 Godshard of Enlightenment.jpg" id="DEM_66_MU01 Godshard of Enlightenment" data-flag="@X" onclick="openSidebar('DEM_66_MU01 Godshard of Enlightenment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\99_MB01 Hand of God.jpg" id="DEM_99_MB01 Hand of God" data-flag="@X" onclick="openSidebar('DEM_99_MB01 Hand of God',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\132_MR01 Godshard of Ascendance.jpg" id="DEM_132_MR01 Godshard of Ascendance" data-flag="@X" onclick="openSidebar('DEM_132_MR01 Godshard of Ascendance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\165_MG01 Godslayer Vagathia.jpg" id="DEM_165_MG01 Godslayer Vagathia" data-flag="@X" onclick="openSidebar('DEM_165_MG01 Godslayer Vagathia',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\34_RW01 Keeper's Loyalty.jpg" id="DEM_34_RW01 Keepers Loyalty" data-flag="@X" onclick="openSidebar('DEM_34_RW01 Keepers Loyalty',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\67_RU01 Keeper's Insight.jpg" id="DEM_67_RU01 Keepers Insight" data-flag="@X" onclick="openSidebar('DEM_67_RU01 Keepers Insight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\100_RB01 Keeper's Persistence.jpg" id="DEM_100_RB01 Keepers Persistence" data-flag="@X" onclick="openSidebar('DEM_100_RB01 Keepers Persistence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\133_RR01 Keeper's Courage.jpg" id="DEM_133_RR01 Keepers Courage" data-flag="@X" onclick="openSidebar('DEM_133_RR01 Keepers Courage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\166_RG01 Keeper's Strength.jpg" id="DEM_166_RG01 Keepers Strength" data-flag="@X" onclick="openSidebar('DEM_166_RG01 Keepers Strength',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\35_RW02 Generous Choirsinger.jpg" id="DEM_35_RW02 Generous Choirsinger" data-flag="@X" onclick="openSidebar('DEM_35_RW02 Generous Choirsinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\68_RU02 Raven of Superstition.jpg" id="DEM_68_RU02 Raven of Superstition" data-flag="@X" onclick="openSidebar('DEM_68_RU02 Raven of Superstition',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\101_RB02 Appendage of Agony.jpg" id="DEM_101_RB02 Appendage of Agony" data-flag="@X" onclick="openSidebar('DEM_101_RB02 Appendage of Agony',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\134_RR02 Greatersoul Champion.jpg" id="DEM_134_RR02 Greatersoul Champion" data-flag="@X" onclick="openSidebar('DEM_134_RR02 Greatersoul Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\167_RG02 Exertion Animist.jpg" id="DEM_167_RG02 Exertion Animist" data-flag="@X" onclick="openSidebar('DEM_167_RG02 Exertion Animist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\36_RW03 Godshard of Spirituality.jpg" id="DEM_36_RW03 Godshard of Spirituality" data-flag="@X" onclick="openSidebar('DEM_36_RW03 Godshard of Spirituality',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\69_RU03 Godshard of Arcana.jpg" id="DEM_69_RU03 Godshard of Arcana" data-flag="@X" onclick="openSidebar('DEM_69_RU03 Godshard of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\102_RB03 Godshard of Populace.jpg" id="DEM_102_RB03 Godshard of Populace" data-flag="@X" onclick="openSidebar('DEM_102_RB03 Godshard of Populace',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\135_RR03 Godshard of Artifice.jpg" id="DEM_135_RR03 Godshard of Artifice" data-flag="@X" onclick="openSidebar('DEM_135_RR03 Godshard of Artifice',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\168_RG03 Godshard of Nature.jpg" id="DEM_168_RG03 Godshard of Nature" data-flag="@X" onclick="openSidebar('DEM_168_RG03 Godshard of Nature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\37_RW04 Lightform of Unification.jpg" id="DEM_37_RW04 Lightform of Unification" data-flag="@X" onclick="openSidebar('DEM_37_RW04 Lightform of Unification',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\70_RU04 Lightform of Formalization.jpg" id="DEM_70_RU04 Lightform of Formalization" data-flag="@X" onclick="openSidebar('DEM_70_RU04 Lightform of Formalization',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\103_RB04 Lightform of Domination.jpg" id="DEM_103_RB04 Lightform of Domination" data-flag="@X" onclick="openSidebar('DEM_103_RB04 Lightform of Domination',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\136_RR04 Lightform of Alliances.jpg" id="DEM_136_RR04 Lightform of Alliances" data-flag="@X" onclick="openSidebar('DEM_136_RR04 Lightform of Alliances',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\169_RG04 Lightform of Subservience.jpg" id="DEM_169_RG04 Lightform of Subservience" data-flag="@X" onclick="openSidebar('DEM_169_RG04 Lightform of Subservience',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\38_RW05 Dualblade Guardian.jpg" id="DEM_38_RW05 Dualblade Guardian" data-flag="@X" onclick="openSidebar('DEM_38_RW05 Dualblade Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\71_RU05 Wizened Mage.jpg" id="DEM_71_RU05 Wizened Mage" data-flag="@X" onclick="openSidebar('DEM_71_RU05 Wizened Mage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\104_RB05 Bloodsong Choirsinger.jpg" id="DEM_104_RB05 Bloodsong Choirsinger" data-flag="@X" onclick="openSidebar('DEM_104_RB05 Bloodsong Choirsinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\137_RR05 Godseeker Torazin.jpg" id="DEM_137_RR05 Godseeker Torazin" data-flag="@X" onclick="openSidebar('DEM_137_RR05 Godseeker Torazin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\170_RG05 Exertion Battlemaster.jpg" id="DEM_170_RG05 Exertion Battlemaster" data-flag="@X" onclick="openSidebar('DEM_170_RG05 Exertion Battlemaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\39_RW06 Heralding Crusader.jpg" id="DEM_39_RW06 Heralding Crusader" data-flag="@X" onclick="openSidebar('DEM_39_RW06 Heralding Crusader',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\72_RU06 Surprising Magus.jpg" id="DEM_72_RU06 Surprising Magus" data-flag="@X" onclick="openSidebar('DEM_72_RU06 Surprising Magus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\105_RB06 Surprising Ritualist.jpg" id="DEM_105_RB06 Surprising Ritualist" data-flag="@X" onclick="openSidebar('DEM_105_RB06 Surprising Ritualist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\138_RR06 Tablet of Songs.jpg" id="DEM_138_RR06 Tablet of Songs" data-flag="@X" onclick="openSidebar('DEM_138_RR06 Tablet of Songs',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\171_RG06 Handed Hands.jpg" id="DEM_171_RG06 Handed Hands" data-flag="@X" onclick="openSidebar('DEM_171_RG06 Handed Hands',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\40_RW07 Angel of the Choir.jpg" id="DEM_40_RW07 Angel of the Choir" data-flag="@X" onclick="openSidebar('DEM_40_RW07 Angel of the Choir',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\73_RU07 Empty Ritual.jpg" id="DEM_73_RU07 Empty Ritual" data-flag="@X" onclick="openSidebar('DEM_73_RU07 Empty Ritual',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\106_RB07 Tranmutation Tutor.jpg" id="DEM_106_RB07 Tranmutation Tutor" data-flag="@X" onclick="openSidebar('DEM_106_RB07 Tranmutation Tutor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\139_RR07 Pyretic Soul.jpg" id="DEM_139_RR07 Pyretic Soul" data-flag="@X" onclick="openSidebar('DEM_139_RR07 Pyretic Soul',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\172_RG07 Expert Shieldcrafter.jpg" id="DEM_172_RG07 Expert Shieldcrafter" data-flag="@X" onclick="openSidebar('DEM_172_RG07 Expert Shieldcrafter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\41_RW08 Penultimate Prayer.jpg" id="DEM_41_RW08 Penultimate Prayer" data-flag="@X" onclick="openSidebar('DEM_41_RW08 Penultimate Prayer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\74_RU08 Chronotwiddle.jpg" id="DEM_74_RU08 Chronotwiddle" data-flag="@X" onclick="openSidebar('DEM_74_RU08 Chronotwiddle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\107_RB08 Soul of Exultation.jpg" id="DEM_107_RB08 Soul of Exultation" data-flag="@X" onclick="openSidebar('DEM_107_RB08 Soul of Exultation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\140_RR08 Boon of the Pyre.jpg" id="DEM_140_RR08 Boon of the Pyre" data-flag="@X" onclick="openSidebar('DEM_140_RR08 Boon of the Pyre',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\173_RG08 Soul of Decay.jpg" id="DEM_173_RG08 Soul of Decay" data-flag="@X" onclick="openSidebar('DEM_173_RG08 Soul of Decay',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\42_UW01 Keeper's Cat.jpg" id="DEM_42_UW01 Keepers Cat" data-flag="@X" onclick="openSidebar('DEM_42_UW01 Keepers Cat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\75_UU01 Keeper's Crow.jpg" id="DEM_75_UU01 Keepers Crow" data-flag="@X" onclick="openSidebar('DEM_75_UU01 Keepers Crow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\108_UB01 Keeper's Rat.jpg" id="DEM_108_UB01 Keepers Rat" data-flag="@X" onclick="openSidebar('DEM_108_UB01 Keepers Rat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\141_UR01 Keeper's Lizard.jpg" id="DEM_141_UR01 Keepers Lizard" data-flag="@X" onclick="openSidebar('DEM_141_UR01 Keepers Lizard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\174_UG01 Keeper's Hound.jpg" id="DEM_174_UG01 Keepers Hound" data-flag="@X" onclick="openSidebar('DEM_174_UG01 Keepers Hound',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\43_UW02 Keeper's Camel.jpg" id="DEM_43_UW02 Keepers Camel" data-flag="@X" onclick="openSidebar('DEM_43_UW02 Keepers Camel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\76_UU02 Keeper's Turtle.jpg" id="DEM_76_UU02 Keepers Turtle" data-flag="@X" onclick="openSidebar('DEM_76_UU02 Keepers Turtle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\109_UB02 Keeper's Bat.jpg" id="DEM_109_UB02 Keepers Bat" data-flag="@X" onclick="openSidebar('DEM_109_UB02 Keepers Bat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\142_UR02 Keeper's Jackal.jpg" id="DEM_142_UR02 Keepers Jackal" data-flag="@X" onclick="openSidebar('DEM_142_UR02 Keepers Jackal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\175_UG02 Keeper's Bear.jpg" id="DEM_175_UG02 Keepers Bear" data-flag="@X" onclick="openSidebar('DEM_175_UG02 Keepers Bear',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\44_UW03 Godshard of Loyalty.jpg" id="DEM_44_UW03 Godshard of Loyalty" data-flag="@X" onclick="openSidebar('DEM_44_UW03 Godshard of Loyalty',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\77_UU03 Godshard of Knowledge.jpg" id="DEM_77_UU03 Godshard of Knowledge" data-flag="@X" onclick="openSidebar('DEM_77_UU03 Godshard of Knowledge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\110_UB03 Appendageous Anthemsinger.jpg" id="DEM_110_UB03 Appendageous Anthemsinger" data-flag="@X" onclick="openSidebar('DEM_110_UB03 Appendageous Anthemsinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\143_UR03 Choirsung Flame-Druid.jpg" id="DEM_143_UR03 Choirsung Flame-Druid" data-flag="@X" onclick="openSidebar('DEM_143_UR03 Choirsung Flame-Druid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\176_UG03 Appendageous Ritualist.jpg" id="DEM_176_UG03 Appendageous Ritualist" data-flag="@X" onclick="openSidebar('DEM_176_UG03 Appendageous Ritualist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\45_UW04 Guarding Choirsinger.jpg" id="DEM_45_UW04 Guarding Choirsinger" data-flag="@X" onclick="openSidebar('DEM_45_UW04 Guarding Choirsinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\78_UU04 Trickgrin Mockingbird.jpg" id="DEM_78_UU04 Trickgrin Mockingbird" data-flag="@X" onclick="openSidebar('DEM_78_UU04 Trickgrin Mockingbird',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\111_UB04 Insulting Choirsinger.jpg" id="DEM_111_UB04 Insulting Choirsinger" data-flag="@X" onclick="openSidebar('DEM_111_UB04 Insulting Choirsinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\144_UR04 Deepfaith Ritualist.jpg" id="DEM_144_UR04 Deepfaith Ritualist" data-flag="@X" onclick="openSidebar('DEM_144_UR04 Deepfaith Ritualist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\177_UG04 Druid of Exertion.jpg" id="DEM_177_UG04 Druid of Exertion" data-flag="@X" onclick="openSidebar('DEM_177_UG04 Druid of Exertion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\46_UW05 Elder Disciple.jpg" id="DEM_46_UW05 Elder Disciple" data-flag="@X" onclick="openSidebar('DEM_46_UW05 Elder Disciple',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\79_UU05 Sapphire Savior.jpg" id="DEM_79_UU05 Sapphire Savior" data-flag="@X" onclick="openSidebar('DEM_79_UU05 Sapphire Savior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\112_UB05 Godshard of Persistence.jpg" id="DEM_112_UB05 Godshard of Persistence" data-flag="@X" onclick="openSidebar('DEM_112_UB05 Godshard of Persistence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\145_UR05 Soulmight Blademaster.jpg" id="DEM_145_UR05 Soulmight Blademaster" data-flag="@X" onclick="openSidebar('DEM_145_UR05 Soulmight Blademaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\178_UG05 Godshard of Strength.jpg" id="DEM_178_UG05 Godshard of Strength" data-flag="@X" onclick="openSidebar('DEM_178_UG05 Godshard of Strength',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\47_UW06 Harbinger of Trinity.jpg" id="DEM_47_UW06 Harbinger of Trinity" data-flag="@X" onclick="openSidebar('DEM_47_UW06 Harbinger of Trinity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\80_UU06 Luxblight Sphinx.jpg" id="DEM_80_UU06 Luxblight Sphinx" data-flag="@X" onclick="openSidebar('DEM_80_UU06 Luxblight Sphinx',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\113_UB06 Jet Savior.jpg" id="DEM_113_UB06 Jet Savior" data-flag="@X" onclick="openSidebar('DEM_113_UB06 Jet Savior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\146_UR06 Ruby Savior.jpg" id="DEM_146_UR06 Ruby Savior" data-flag="@X" onclick="openSidebar('DEM_146_UR06 Ruby Savior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\179_UG06 Hermetic Shieldcrafter.jpg" id="DEM_179_UG06 Hermetic Shieldcrafter" data-flag="@X" onclick="openSidebar('DEM_179_UG06 Hermetic Shieldcrafter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\48_UW07 Pearl Savior.jpg" id="DEM_48_UW07 Pearl Savior" data-flag="@X" onclick="openSidebar('DEM_48_UW07 Pearl Savior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\81_UU07 Greatwing Riddleherald.jpg" id="DEM_81_UU07 Greatwing Riddleherald" data-flag="@X" onclick="openSidebar('DEM_81_UU07 Greatwing Riddleherald',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\114_UB07 Luxblight Demon.jpg" id="DEM_114_UB07 Luxblight Demon" data-flag="@X" onclick="openSidebar('DEM_114_UB07 Luxblight Demon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\147_UR07 Luxblight Dragon.jpg" id="DEM_147_UR07 Luxblight Dragon" data-flag="@X" onclick="openSidebar('DEM_147_UR07 Luxblight Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\180_UG07 Emerald Savior.jpg" id="DEM_180_UG07 Emerald Savior" data-flag="@X" onclick="openSidebar('DEM_180_UG07 Emerald Savior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\49_UW08 Luxblight Angel.jpg" id="DEM_49_UW08 Luxblight Angel" data-flag="@X" onclick="openSidebar('DEM_49_UW08 Luxblight Angel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\82_UU08 Negative Countermagic.jpg" id="DEM_82_UU08 Negative Countermagic" data-flag="@X" onclick="openSidebar('DEM_82_UU08 Negative Countermagic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\115_UB08 Grinning Renegade.jpg" id="DEM_115_UB08 Grinning Renegade" data-flag="@X" onclick="openSidebar('DEM_115_UB08 Grinning Renegade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\148_UR08 Godshard of Courage.jpg" id="DEM_148_UR08 Godshard of Courage" data-flag="@X" onclick="openSidebar('DEM_148_UR08 Godshard of Courage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\181_UG08 Luxblight Titan.jpg" id="DEM_181_UG08 Luxblight Titan" data-flag="@X" onclick="openSidebar('DEM_181_UG08 Luxblight Titan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\50_UW09 Mighty Crusader.jpg" id="DEM_50_UW09 Mighty Crusader" data-flag="@X" onclick="openSidebar('DEM_50_UW09 Mighty Crusader',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\83_UU09 Study in Faith.jpg" id="DEM_83_UU09 Study in Faith" data-flag="@X" onclick="openSidebar('DEM_83_UU09 Study in Faith',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\116_UB09 Faithful Rites.jpg" id="DEM_116_UB09 Faithful Rites" data-flag="@X" onclick="openSidebar('DEM_116_UB09 Faithful Rites',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\149_UR09 Faithful Inspiration.jpg" id="DEM_149_UR09 Faithful Inspiration" data-flag="@X" onclick="openSidebar('DEM_149_UR09 Faithful Inspiration',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\182_UG09 Weaveline Duplimancer.jpg" id="DEM_182_UG09 Weaveline Duplimancer" data-flag="@X" onclick="openSidebar('DEM_182_UG09 Weaveline Duplimancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\51_UW10 Banishing Soul-Scars.jpg" id="DEM_51_UW10 Banishing Soul-Scars" data-flag="@X" onclick="openSidebar('DEM_51_UW10 Banishing Soul-Scars',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\84_UU10 Strenuous Twiddling.jpg" id="DEM_84_UU10 Strenuous Twiddling" data-flag="@X" onclick="openSidebar('DEM_84_UU10 Strenuous Twiddling',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\117_UB10 Soul-Scar Siphonability.jpg" id="DEM_117_UB10 Soul-Scar Siphonability" data-flag="@X" onclick="openSidebar('DEM_117_UB10 Soul-Scar Siphonability',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\150_UR10 Weaveline Obsession.jpg" id="DEM_150_UR10 Weaveline Obsession" data-flag="@X" onclick="openSidebar('DEM_150_UR10 Weaveline Obsession',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\183_UG10 Faith's Claim.jpg" id="DEM_183_UG10 Faiths Claim" data-flag="@X" onclick="openSidebar('DEM_183_UG10 Faiths Claim',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\52_UW11 Inspiring Harp.jpg" id="DEM_52_UW11 Inspiring Harp" data-flag="@X" onclick="openSidebar('DEM_52_UW11 Inspiring Harp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\85_UU11 Combative Spellcraft.jpg" id="DEM_85_UU11 Combative Spellcraft" data-flag="@X" onclick="openSidebar('DEM_85_UU11 Combative Spellcraft',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\118_UB11 Soulrot Amplification.jpg" id="DEM_118_UB11 Soulrot Amplification" data-flag="@X" onclick="openSidebar('DEM_118_UB11 Soulrot Amplification',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\151_UR11 Overwhelming Soulmight.jpg" id="DEM_151_UR11 Overwhelming Soulmight" data-flag="@X" onclick="openSidebar('DEM_151_UR11 Overwhelming Soulmight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\184_UG11 Growth Through Faith.jpg" id="DEM_184_UG11 Growth Through Faith" data-flag="@X" onclick="openSidebar('DEM_184_UG11 Growth Through Faith',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\53_UW12 Great Prayer of Protection.jpg" id="DEM_53_UW12 Great Prayer of Protection" data-flag="@X" onclick="openSidebar('DEM_53_UW12 Great Prayer of Protection',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\86_UU12 Great Prayer of Arcana.jpg" id="DEM_86_UU12 Great Prayer of Arcana" data-flag="@X" onclick="openSidebar('DEM_86_UU12 Great Prayer of Arcana',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\119_UB12 Great Prayer of Dexterity.jpg" id="DEM_119_UB12 Great Prayer of Dexterity" data-flag="@X" onclick="openSidebar('DEM_119_UB12 Great Prayer of Dexterity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\152_UR12 Great Prayer of Soul.jpg" id="DEM_152_UR12 Great Prayer of Soul" data-flag="@X" onclick="openSidebar('DEM_152_UR12 Great Prayer of Soul',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\185_UG12 Great Prayer of Effort.jpg" id="DEM_185_UG12 Great Prayer of Effort" data-flag="@X" onclick="openSidebar('DEM_185_UG12 Great Prayer of Effort',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\21_CW01 Keeper of Loyalty.jpg" id="DEM_21_CW01 Keeper of Loyalty" data-flag="@X" onclick="openSidebar('DEM_21_CW01 Keeper of Loyalty',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\54_CU01 Keeper of Knowledge.jpg" id="DEM_54_CU01 Keeper of Knowledge" data-flag="@X" onclick="openSidebar('DEM_54_CU01 Keeper of Knowledge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\87_CB01 Keeper of Persistence.jpg" id="DEM_87_CB01 Keeper of Persistence" data-flag="@X" onclick="openSidebar('DEM_87_CB01 Keeper of Persistence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\120_CR01 Keeper of Courage.jpg" id="DEM_120_CR01 Keeper of Courage" data-flag="@X" onclick="openSidebar('DEM_120_CR01 Keeper of Courage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\153_CG01 Keeper of Strength.jpg" id="DEM_153_CG01 Keeper of Strength" data-flag="@X" onclick="openSidebar('DEM_153_CG01 Keeper of Strength',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\22_CW02 Young Singer.jpg" id="DEM_22_CW02 Young Singer" data-flag="@X" onclick="openSidebar('DEM_22_CW02 Young Singer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\55_CU02 Devout Assassin.jpg" id="DEM_55_CU02 Devout Assassin" data-flag="@X" onclick="openSidebar('DEM_55_CU02 Devout Assassin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\88_CB02 Soul-Essence Vulture.jpg" id="DEM_88_CB02 Soul-Essence Vulture" data-flag="@X" onclick="openSidebar('DEM_88_CB02 Soul-Essence Vulture',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\121_CR02 Solarstain Mystic.jpg" id="DEM_121_CR02 Solarstain Mystic" data-flag="@X" onclick="openSidebar('DEM_121_CR02 Solarstain Mystic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\154_CG02 Greatsong Guardian.jpg" id="DEM_154_CG02 Greatsong Guardian" data-flag="@X" onclick="openSidebar('DEM_154_CG02 Greatsong Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\23_CW03 Omenful Dove.jpg" id="DEM_23_CW03 Omenful Dove" data-flag="@X" onclick="openSidebar('DEM_23_CW03 Omenful Dove',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\56_CU03 Forceful Looter.jpg" id="DEM_56_CU03 Forceful Looter" data-flag="@X" onclick="openSidebar('DEM_56_CU03 Forceful Looter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\89_CB03 Marching Hands.jpg" id="DEM_89_CB03 Marching Hands" data-flag="@X" onclick="openSidebar('DEM_89_CB03 Marching Hands',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\122_CR03 Choirsung Combatant.jpg" id="DEM_122_CR03 Choirsung Combatant" data-flag="@X" onclick="openSidebar('DEM_122_CR03 Choirsung Combatant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\155_CG03 Druid of Forgetten Soul.jpg" id="DEM_155_CG03 Druid of Forgetten Soul" data-flag="@X" onclick="openSidebar('DEM_155_CG03 Druid of Forgetten Soul',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\24_CW04 Heralding Harbinger.jpg" id="DEM_24_CW04 Heralding Harbinger" data-flag="@X" onclick="openSidebar('DEM_24_CW04 Heralding Harbinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\57_CU04 Chained Airwinder.jpg" id="DEM_57_CU04 Chained Airwinder" data-flag="@X" onclick="openSidebar('DEM_57_CU04 Chained Airwinder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\90_CB04 Choirsung Ritualist.jpg" id="DEM_90_CB04 Choirsung Ritualist" data-flag="@X" onclick="openSidebar('DEM_90_CB04 Choirsung Ritualist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\123_CR04 Cyclefaith Serpent.jpg" id="DEM_123_CR04 Cyclefaith Serpent" data-flag="@X" onclick="openSidebar('DEM_123_CR04 Cyclefaith Serpent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\156_CG04 Paired Appendage.jpg" id="DEM_156_CG04 Paired Appendage" data-flag="@X" onclick="openSidebar('DEM_156_CG04 Paired Appendage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\25_CW05 Heretic Ressurector.jpg" id="DEM_25_CW05 Heretic Ressurector" data-flag="@X" onclick="openSidebar('DEM_25_CW05 Heretic Ressurector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\58_CU05 Haughty Savior.jpg" id="DEM_58_CU05 Haughty Savior" data-flag="@X" onclick="openSidebar('DEM_58_CU05 Haughty Savior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\91_CB05 Appendage of War.jpg" id="DEM_91_CB05 Appendage of War" data-flag="@X" onclick="openSidebar('DEM_91_CB05 Appendage of War',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\124_CR05 Spellcraft Abomination.jpg" id="DEM_124_CR05 Spellcraft Abomination" data-flag="@X" onclick="openSidebar('DEM_124_CR05 Spellcraft Abomination',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\157_CG05 Titanic Appendage.jpg" id="DEM_157_CG05 Titanic Appendage" data-flag="@X" onclick="openSidebar('DEM_157_CG05 Titanic Appendage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\26_CW06 Choirsung Healer.jpg" id="DEM_26_CW06 Choirsung Healer" data-flag="@X" onclick="openSidebar('DEM_26_CW06 Choirsung Healer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\59_CU06 Faithful Negation.jpg" id="DEM_59_CU06 Faithful Negation" data-flag="@X" onclick="openSidebar('DEM_59_CU06 Faithful Negation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\92_CB06 Commanding Savior.jpg" id="DEM_92_CB06 Commanding Savior" data-flag="@X" onclick="openSidebar('DEM_92_CB06 Commanding Savior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\125_CR06 Traitorous Savior.jpg" id="DEM_125_CR06 Traitorous Savior" data-flag="@X" onclick="openSidebar('DEM_125_CR06 Traitorous Savior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\158_CG06 Enlarged Shieldbearer.jpg" id="DEM_158_CG06 Enlarged Shieldbearer" data-flag="@X" onclick="openSidebar('DEM_158_CG06 Enlarged Shieldbearer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\27_CW07 Avatar of the Choir.jpg" id="DEM_27_CW07 Avatar of the Choir" data-flag="@X" onclick="openSidebar('DEM_27_CW07 Avatar of the Choir',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\60_CU07 Flowing Dismissal.jpg" id="DEM_60_CU07 Flowing Dismissal" data-flag="@X" onclick="openSidebar('DEM_60_CU07 Flowing Dismissal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\93_CB07 Solace in Death.jpg" id="DEM_93_CB07 Solace in Death" data-flag="@X" onclick="openSidebar('DEM_93_CB07 Solace in Death',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\126_CR07 Faith's Fire.jpg" id="DEM_126_CR07 Faiths Fire" data-flag="@X" onclick="openSidebar('DEM_126_CR07 Faiths Fire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\159_CG07 Stubborn Savior.jpg" id="DEM_159_CG07 Stubborn Savior" data-flag="@X" onclick="openSidebar('DEM_159_CG07 Stubborn Savior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\28_CW08 Fervent Savior.jpg" id="DEM_28_CW08 Fervent Savior" data-flag="@X" onclick="openSidebar('DEM_28_CW08 Fervent Savior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\61_CU08 Callous Disbelief.jpg" id="DEM_61_CU08 Callous Disbelief" data-flag="@X" onclick="openSidebar('DEM_61_CU08 Callous Disbelief',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\94_CB08 Variety Slaughter.jpg" id="DEM_94_CB08 Variety Slaughter" data-flag="@X" onclick="openSidebar('DEM_94_CB08 Variety Slaughter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\127_CR08 Flame of Luxblight.jpg" id="DEM_127_CR08 Flame of Luxblight" data-flag="@X" onclick="openSidebar('DEM_127_CR08 Flame of Luxblight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\160_CG08 Faith-Guided Blades.jpg" id="DEM_160_CG08 Faith-Guided Blades" data-flag="@X" onclick="openSidebar('DEM_160_CG08 Faith-Guided Blades',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\29_CW09 Loyal Flames.jpg" id="DEM_29_CW09 Loyal Flames" data-flag="@X" onclick="openSidebar('DEM_29_CW09 Loyal Flames',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\62_CU09 Indoctrinating Insight.jpg" id="DEM_62_CU09 Indoctrinating Insight" data-flag="@X" onclick="openSidebar('DEM_62_CU09 Indoctrinating Insight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\95_CB09 Sickening Soulrot.jpg" id="DEM_95_CB09 Sickening Soulrot" data-flag="@X" onclick="openSidebar('DEM_95_CB09 Sickening Soulrot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\128_CR09 Discordant Flamesong.jpg" id="DEM_128_CR09 Discordant Flamesong" data-flag="@X" onclick="openSidebar('DEM_128_CR09 Discordant Flamesong',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\161_CG09 Shield Smash.jpg" id="DEM_161_CG09 Shield Smash" data-flag="@X" onclick="openSidebar('DEM_161_CG09 Shield Smash',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\30_CW10 Shifting Soul-Scars.jpg" id="DEM_30_CW10 Shifting Soul-Scars" data-flag="@X" onclick="openSidebar('DEM_30_CW10 Shifting Soul-Scars',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\63_CU10 Intellectual Ritual.jpg" id="DEM_63_CU10 Intellectual Ritual" data-flag="@X" onclick="openSidebar('DEM_63_CU10 Intellectual Ritual',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\96_CB10 Artificial Culling.jpg" id="DEM_96_CB10 Artificial Culling" data-flag="@X" onclick="openSidebar('DEM_96_CB10 Artificial Culling',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\129_CR10 Weaveline Pinnacle.jpg" id="DEM_129_CR10 Weaveline Pinnacle" data-flag="@X" onclick="openSidebar('DEM_129_CR10 Weaveline Pinnacle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\162_CG10 Seek Solutions.jpg" id="DEM_162_CG10 Seek Solutions" data-flag="@X" onclick="openSidebar('DEM_162_CG10 Seek Solutions',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\31_CW11 Overwhelming Soulshatter.jpg" id="DEM_31_CW11 Overwhelming Soulshatter" data-flag="@X" onclick="openSidebar('DEM_31_CW11 Overwhelming Soulshatter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\64_CU11 Shields Up.jpg" id="DEM_64_CU11 Shields Up" data-flag="@X" onclick="openSidebar('DEM_64_CU11 Shields Up',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\97_CB11 Maddening Devotion.jpg" id="DEM_97_CB11 Maddening Devotion" data-flag="@X" onclick="openSidebar('DEM_97_CB11 Maddening Devotion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\130_CR11 Chaotic Bagpipes.jpg" id="DEM_130_CR11 Chaotic Bagpipes" data-flag="@X" onclick="openSidebar('DEM_130_CR11 Chaotic Bagpipes',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\163_CG11 Weaveline Might.jpg" id="DEM_163_CG11 Weaveline Might" data-flag="@X" onclick="openSidebar('DEM_163_CG11 Weaveline Might',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\32_CW12 Praise Be.jpg" id="DEM_32_CW12 Praise Be" data-flag="@X" onclick="openSidebar('DEM_32_CW12 Praise Be',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\65_CU12 Soul of Curiosity.jpg" id="DEM_65_CU12 Soul of Curiosity" data-flag="@X" onclick="openSidebar('DEM_65_CU12 Soul of Curiosity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\98_CB12 Faith in Extremis.jpg" id="DEM_98_CB12 Faith in Extremis" data-flag="@X" onclick="openSidebar('DEM_98_CB12 Faith in Extremis',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\131_CR12 Infused Brutality.jpg" id="DEM_131_CR12 Infused Brutality" data-flag="@X" onclick="openSidebar('DEM_131_CR12 Infused Brutality',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\164_CG12 Severed Appendage.jpg" id="DEM_164_CG12 Severed Appendage" data-flag="@X" onclick="openSidebar('DEM_164_CG12 Severed Appendage',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\198_RM01 Flag Seamstress.jpg" id="DEM_198_RM01 Flag Seamstress" data-flag="@X" onclick="openSidebar('DEM_198_RM01 Flag Seamstress',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\199_RM02 Grinning Sphinx.jpg" id="DEM_199_RM02 Grinning Sphinx" data-flag="@X" onclick="openSidebar('DEM_199_RM02 Grinning Sphinx',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\200_RM03 Demon of Soul's Force.jpg" id="DEM_200_RM03 Demon of Souls Force" data-flag="@X" onclick="openSidebar('DEM_200_RM03 Demon of Souls Force',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\201_RM04 Druid of Soul.jpg" id="DEM_201_RM04 Druid of Soul" data-flag="@X" onclick="openSidebar('DEM_201_RM04 Druid of Soul',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\202_RM05 Guardian of Thorns.jpg" id="DEM_202_RM05 Guardian of Thorns" data-flag="@X" onclick="openSidebar('DEM_202_RM05 Guardian of Thorns',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\208_UM01 Eagle of Heraldry.jpg" id="DEM_208_UM01 Eagle of Heraldry" data-flag="@X" onclick="openSidebar('DEM_208_UM01 Eagle of Heraldry',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\209_UM02 Duplicitous Faithbeast.jpg" id="DEM_209_UM02 Duplicitous Faithbeast" data-flag="@X" onclick="openSidebar('DEM_209_UM02 Duplicitous Faithbeast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\210_UM03 Solarstain Monk.jpg" id="DEM_210_UM03 Solarstain Monk" data-flag="@X" onclick="openSidebar('DEM_210_UM03 Solarstain Monk',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\211_UM04 Weaveline Emmissary.jpg" id="DEM_211_UM04 Weaveline Emmissary" data-flag="@X" onclick="openSidebar('DEM_211_UM04 Weaveline Emmissary',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\212_UM05 Charming Pianist.jpg" id="DEM_212_UM05 Charming Pianist" data-flag="@X" onclick="openSidebar('DEM_212_UM05 Charming Pianist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\218_UM11 Heralding Anthem.jpg" id="DEM_218_UM11 Heralding Anthem" data-flag="@X" onclick="openSidebar('DEM_218_UM11 Heralding Anthem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\219_UM12 Grinning Monolith.jpg" id="DEM_219_UM12 Grinning Monolith" data-flag="@X" onclick="openSidebar('DEM_219_UM12 Grinning Monolith',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\220_UM13 Solarstain Energization.jpg" id="DEM_220_UM13 Solarstain Energization" data-flag="@X" onclick="openSidebar('DEM_220_UM13 Solarstain Energization',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\221_UM14 Weaveline Entombation.jpg" id="DEM_221_UM14 Weaveline Entombation" data-flag="@X" onclick="openSidebar('DEM_221_UM14 Weaveline Entombation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\222_UM15 Mighty Choirsong.jpg" id="DEM_222_UM15 Mighty Choirsong" data-flag="@X" onclick="openSidebar('DEM_222_UM15 Mighty Choirsong',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\186_CZ01 Godshard of Frost.jpg" id="DEM_186_CZ01 Godshard of Frost" data-flag="@X" onclick="openSidebar('DEM_186_CZ01 Godshard of Frost',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\187_CZ02 Godshard of Darkness.jpg" id="DEM_187_CZ02 Godshard of Darkness" data-flag="@X" onclick="openSidebar('DEM_187_CZ02 Godshard of Darkness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\188_CZ03 Godshard of Blood.jpg" id="DEM_188_CZ03 Godshard of Blood" data-flag="@X" onclick="openSidebar('DEM_188_CZ03 Godshard of Blood',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\189_CZ04 Godshard of Fire.jpg" id="DEM_189_CZ04 Godshard of Fire" data-flag="@X" onclick="openSidebar('DEM_189_CZ04 Godshard of Fire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\190_CZ05 Godshard of Life.jpg" id="DEM_190_CZ05 Godshard of Life" data-flag="@X" onclick="openSidebar('DEM_190_CZ05 Godshard of Life',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\197_MM02 Banishing Darkness.jpg" id="DEM_197_MM02 Banishing Darkness" data-flag="@X" onclick="openSidebar('DEM_197_MM02 Banishing Darkness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\204_RM07 Arcane Electromancer.jpg" id="DEM_204_RM07 Arcane Electromancer" data-flag="@X" onclick="openSidebar('DEM_204_RM07 Arcane Electromancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\205_RM08 Hand-Powered Thrower.jpg" id="DEM_205_RM08 Hand-Powered Thrower" data-flag="@X" onclick="openSidebar('DEM_205_RM08 Hand-Powered Thrower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\206_RM09 Choirsung Champion.jpg" id="DEM_206_RM09 Choirsung Champion" data-flag="@X" onclick="openSidebar('DEM_206_RM09 Choirsung Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\207_RM10 Avatar of Exertion.jpg" id="DEM_207_RM10 Avatar of Exertion" data-flag="@X" onclick="openSidebar('DEM_207_RM10 Avatar of Exertion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\203_RM06 Greatest Choirsinger.jpg" id="DEM_203_RM06 Greatest Choirsinger" data-flag="@X" onclick="openSidebar('DEM_203_RM06 Greatest Choirsinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\214_UM07 Faithful Steam-Mage.jpg" id="DEM_214_UM07 Faithful Steam-Mage" data-flag="@X" onclick="openSidebar('DEM_214_UM07 Faithful Steam-Mage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\215_UM08 Purveyor of Appendages.jpg" id="DEM_215_UM08 Purveyor of Appendages" data-flag="@X" onclick="openSidebar('DEM_215_UM08 Purveyor of Appendages',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\216_UM09 Choirsung Hero.jpg" id="DEM_216_UM09 Choirsung Hero" data-flag="@X" onclick="openSidebar('DEM_216_UM09 Choirsung Hero',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\217_UM10 Exertion Seeker.jpg" id="DEM_217_UM10 Exertion Seeker" data-flag="@X" onclick="openSidebar('DEM_217_UM10 Exertion Seeker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\213_UM06 Minister of the Choir.jpg" id="DEM_213_UM06 Minister of the Choir" data-flag="@X" onclick="openSidebar('DEM_213_UM06 Minister of the Choir',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\224_UM17 Magus' Mastery.jpg" id="DEM_224_UM17 Magus Mastery" data-flag="@X" onclick="openSidebar('DEM_224_UM17 Magus Mastery',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\225_UM18 Appendageous Insight.jpg" id="DEM_225_UM18 Appendageous Insight" data-flag="@X" onclick="openSidebar('DEM_225_UM18 Appendageous Insight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\226_UM19 Lonesome Hero's Lance.jpg" id="DEM_226_UM19 Lonesome Heros Lance" data-flag="@X" onclick="openSidebar('DEM_226_UM19 Lonesome Heros Lance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\227_UM20 Flurry of Effort.jpg" id="DEM_227_UM20 Flurry of Effort" data-flag="@X" onclick="openSidebar('DEM_227_UM20 Flurry of Effort',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\223_UM16 Grand Organ of the Choir.jpg" id="DEM_223_UM16 Grand Organ of the Choir" data-flag="@X" onclick="openSidebar('DEM_223_UM16 Grand Organ of the Choir',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\192_CZ07 Godshard of Thunder.jpg" id="DEM_192_CZ07 Godshard of Thunder" data-flag="@X" onclick="openSidebar('DEM_192_CZ07 Godshard of Thunder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\193_CZ08 Godshard of Death.jpg" id="DEM_193_CZ08 Godshard of Death" data-flag="@X" onclick="openSidebar('DEM_193_CZ08 Godshard of Death',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\194_CZ09 Godshard of Light.jpg" id="DEM_194_CZ09 Godshard of Light" data-flag="@X" onclick="openSidebar('DEM_194_CZ09 Godshard of Light',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\195_CZ10 Godshard of Water.jpg" id="DEM_195_CZ10 Godshard of Water" data-flag="@X" onclick="openSidebar('DEM_195_CZ10 Godshard of Water',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\191_CZ06 Godshard of Bone.jpg" id="DEM_191_CZ06 Godshard of Bone" data-flag="@X" onclick="openSidebar('DEM_191_CZ06 Godshard of Bone',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\196_MM01 The Corpse of Regitholem.jpg" id="DEM_196_MM01 The Corpse of Regitholem" data-flag="@X" onclick="openSidebar('DEM_196_MM01 The Corpse of Regitholem',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\14_MC01 Curator of Ages.jpg" id="DEM_14_MC01 Curator of Ages" data-flag="@X" onclick="openSidebar('DEM_14_MC01 Curator of Ages',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\15_MC02 Divine Duplicant.jpg" id="DEM_15_MC02 Divine Duplicant" data-flag="@X" onclick="openSidebar('DEM_15_MC02 Divine Duplicant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\16_MC03 Saviorality Perfected.jpg" id="DEM_16_MC03 Saviorality Perfected" data-flag="@X" onclick="openSidebar('DEM_16_MC03 Saviorality Perfected',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\17_MC04 Lightform of Deity.jpg" id="DEM_17_MC04 Lightform of Deity" data-flag="@X" onclick="openSidebar('DEM_17_MC04 Lightform of Deity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\18_MC05 Tagross, Void Ascendant.jpg" id="DEM_18_MC05 Tagross, Void Ascendant" data-flag="@X" onclick="openSidebar('DEM_18_MC05 Tagross, Void Ascendant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\19_MC06 Tagross, Void Deified.jpg" id="DEM_19_MC06 Tagross, Void Deified" data-flag="@X" onclick="openSidebar('DEM_19_MC06 Tagross, Void Deified',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\229_MA01 Mox Eternity.jpg" id="DEM_229_MA01 Mox Eternity" data-flag="@X" onclick="openSidebar('DEM_229_MA01 Mox Eternity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\230_MA02 Mox Ichor.jpg" id="DEM_230_MA02 Mox Ichor" data-flag="@X" onclick="openSidebar('DEM_230_MA02 Mox Ichor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\20_RC01 Elsewhere Stalker.jpg" id="DEM_20_RC01 Elsewhere Stalker" data-flag="@X" onclick="openSidebar('DEM_20_RC01 Elsewhere Stalker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\231_RA01 Exertion Amplifier.jpg" id="DEM_231_RA01 Exertion Amplifier" data-flag="@X" onclick="openSidebar('DEM_231_RA01 Exertion Amplifier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\1_CC01 Lightform of the Eye.jpg" id="DEM_1_CC01 Lightform of the Eye" data-flag="@X" onclick="openSidebar('DEM_1_CC01 Lightform of the Eye',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\2_CC02 Lightform of the Head.jpg" id="DEM_2_CC02 Lightform of the Head" data-flag="@X" onclick="openSidebar('DEM_2_CC02 Lightform of the Head',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\3_CC03 Lightform of the Tongue.jpg" id="DEM_3_CC03 Lightform of the Tongue" data-flag="@X" onclick="openSidebar('DEM_3_CC03 Lightform of the Tongue',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\4_CC04 Lightform of the Soul.jpg" id="DEM_4_CC04 Lightform of the Soul" data-flag="@X" onclick="openSidebar('DEM_4_CC04 Lightform of the Soul',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\5_CC05 Lightform of the Limb.jpg" id="DEM_5_CC05 Lightform of the Limb" data-flag="@X" onclick="openSidebar('DEM_5_CC05 Lightform of the Limb',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\6_CC06 Lightform of the Heart.jpg" id="DEM_6_CC06 Lightform of the Heart" data-flag="@X" onclick="openSidebar('DEM_6_CC06 Lightform of the Heart',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\7_CC07 Lightform of the Nose.jpg" id="DEM_7_CC07 Lightform of the Nose" data-flag="@X" onclick="openSidebar('DEM_7_CC07 Lightform of the Nose',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\8_CC08 Lightform of the Hand.jpg" id="DEM_8_CC08 Lightform of the Hand" data-flag="@X" onclick="openSidebar('DEM_8_CC08 Lightform of the Hand',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\9_CC09 Lightform of the Voice.jpg" id="DEM_9_CC09 Lightform of the Voice" data-flag="@X" onclick="openSidebar('DEM_9_CC09 Lightform of the Voice',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\10_CC10 Lightform of the Ear.jpg" id="DEM_10_CC10 Lightform of the Ear" data-flag="@X" onclick="openSidebar('DEM_10_CC10 Lightform of the Ear',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\11_CC11 Foreign Peasant.jpg" id="DEM_11_CC11 Foreign Peasant" data-flag="@X" onclick="openSidebar('DEM_11_CC11 Foreign Peasant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\12_CC12 Efficient Savior.jpg" id="DEM_12_CC12 Efficient Savior" data-flag="@X" onclick="openSidebar('DEM_12_CC12 Efficient Savior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\13_CC13 Spiritual Monolith.jpg" id="DEM_13_CC13 Spiritual Monolith" data-flag="@X" onclick="openSidebar('DEM_13_CC13 Spiritual Monolith',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\228_CA01 Walking Piano.jpg" id="DEM_228_CA01 Walking Piano" data-flag="@X" onclick="openSidebar('DEM_228_CA01 Walking Piano',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\237_RL01 Foundation of Pearl.jpg" id="DEM_237_RL01 Foundation of Pearl" data-flag="@X" onclick="openSidebar('DEM_237_RL01 Foundation of Pearl',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\238_RL02 Foundation of Sapphire.jpg" id="DEM_238_RL02 Foundation of Sapphire" data-flag="@X" onclick="openSidebar('DEM_238_RL02 Foundation of Sapphire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\239_RL03 Foundation of Jet.jpg" id="DEM_239_RL03 Foundation of Jet" data-flag="@X" onclick="openSidebar('DEM_239_RL03 Foundation of Jet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\240_RL04 Foundation of Ruby.jpg" id="DEM_240_RL04 Foundation of Ruby" data-flag="@X" onclick="openSidebar('DEM_240_RL04 Foundation of Ruby',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\241_RL05 Foundation of Emerald.jpg" id="DEM_241_RL05 Foundation of Emerald" data-flag="@X" onclick="openSidebar('DEM_241_RL05 Foundation of Emerald',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\232_CL01 Foreign Plains.jpg" id="DEM_232_CL01 Foreign Plains" data-flag="@X" onclick="openSidebar('DEM_232_CL01 Foreign Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\233_CL02 Foreign Island.jpg" id="DEM_233_CL02 Foreign Island" data-flag="@X" onclick="openSidebar('DEM_233_CL02 Foreign Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\234_CL03 Foreign Swamp.jpg" id="DEM_234_CL03 Foreign Swamp" data-flag="@X" onclick="openSidebar('DEM_234_CL03 Foreign Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\235_CL04 Foreign Mountain.jpg" id="DEM_235_CL04 Foreign Mountain" data-flag="@X" onclick="openSidebar('DEM_235_CL04 Foreign Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\236_CL05 Foreign Forest.jpg" id="DEM_236_CL05 Foreign Forest" data-flag="@X" onclick="openSidebar('DEM_236_CL05 Foreign Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\243_UL01 Temple of Frost.jpg" id="DEM_243_UL01 Temple of Frost" data-flag="@X" onclick="openSidebar('DEM_243_UL01 Temple of Frost',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\244_UL02 Temple of Darkness.jpg" id="DEM_244_UL02 Temple of Darkness" data-flag="@X" onclick="openSidebar('DEM_244_UL02 Temple of Darkness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\245_UL03 Temple of Blood.jpg" id="DEM_245_UL03 Temple of Blood" data-flag="@X" onclick="openSidebar('DEM_245_UL03 Temple of Blood',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\246_UL05 Temple of Fire.jpg" id="DEM_246_UL05 Temple of Fire" data-flag="@X" onclick="openSidebar('DEM_246_UL05 Temple of Fire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\247_UL05 Temple of Life.jpg" id="DEM_247_UL05 Temple of Life" data-flag="@X" onclick="openSidebar('DEM_247_UL05 Temple of Life',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\248_UL06 Temple of Bone.jpg" id="DEM_248_UL06 Temple of Bone" data-flag="@X" onclick="openSidebar('DEM_248_UL06 Temple of Bone',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\249_UL07 Temple of Thunder.jpg" id="DEM_249_UL07 Temple of Thunder" data-flag="@X" onclick="openSidebar('DEM_249_UL07 Temple of Thunder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\250_UL08 Temple of Death.jpg" id="DEM_250_UL08 Temple of Death" data-flag="@X" onclick="openSidebar('DEM_250_UL08 Temple of Death',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\251_UL09 Temple of Light.jpg" id="DEM_251_UL09 Temple of Light" data-flag="@X" onclick="openSidebar('DEM_251_UL09 Temple of Light',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\252_UL10 Temple of Water.jpg" id="DEM_252_UL10 Temple of Water" data-flag="@X" onclick="openSidebar('DEM_252_UL10 Temple of Water',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\242_RL06 Foreign Outpost.jpg" id="DEM_242_RL06 Foreign Outpost" data-flag="@X" onclick="openSidebar('DEM_242_RL06 Foreign Outpost',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\253_Plains.jpg" id="DEM_253_Plains" data-flag="@X" onclick="openSidebar('DEM_253_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\254_Island.jpg" id="DEM_254_Island" data-flag="@X" onclick="openSidebar('DEM_254_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\255_Swamp.jpg" id="DEM_255_Swamp" data-flag="@X" onclick="openSidebar('DEM_255_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\256_Mountain.jpg" id="DEM_256_Mountain" data-flag="@X" onclick="openSidebar('DEM_256_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\257_Forest.jpg" id="DEM_257_Forest" data-flag="@X" onclick="openSidebar('DEM_257_Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\1t_Choir token.jpg" id="DEM_1t_Choir token" data-flag="@X" onclick="openSidebar('DEM_1t_Choir token',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\2t_Elsewhere Reminder.jpg" id="DEM_2t_Elsewhere Reminder" data-flag="@X" onclick="openSidebar('DEM_2t_Elsewhere Reminder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DEM-files\img\3t_Faith token.jpg" id="DEM_3t_Faith token" data-flag="@X" onclick="openSidebar('DEM_3t_Faith token',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DEM_e" data-flag="@E" onclick="openSidebar('DEM_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DEM_er" data-flag="@E" onclick="openSidebar('DEM_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1].toLowerCase());
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

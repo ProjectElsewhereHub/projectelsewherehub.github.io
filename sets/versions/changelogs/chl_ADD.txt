@@ -1,4 +1,20 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+CM08 Violent Revolution added.
+
+CM08 Violent Return# removed.
+
+CW15 Enhancement of Seeking
+type: Enchantment => Enchantment — Aura
+
+UW03 Revolutionary Healer
+rules_text: [i]Revolt[/i] — At the beginning of your end step, if a permanent left the battlefield under your control, you gain 3 life. => [i]Revolt[/i] — At the beginning of your end step, if a permanent left the battlefield under your control this turn, you gain 3 life.
+
+Elsewhere Reminder
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.

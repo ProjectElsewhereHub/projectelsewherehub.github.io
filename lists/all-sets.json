@@ -9,6 +9,11 @@
             "set_code": "AMP",
             "set_name": "Amplalo, Realm of the Colossi",
             "formats": ""
+        },
+        {
+            "set_code": "DEM",
+            "set_name": "Deus Ex Memoriam",
+            "formats": ""
         }
     ]
 }

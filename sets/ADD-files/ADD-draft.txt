@@ -252,7 +252,7 @@
 			"name": "CW15 Enhancement of Seeking",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Enchantment",
+			"type": "Enchantment — Aura",
 			"collector_number": "23",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/23_CW15 Enhancement of Seeking.jpg"
@@ -2198,13 +2198,13 @@
 			}
 		},
 		{
-			"name": "CM08 Violent Return#",
+			"name": "CM08 Violent Revolution",
 			"rarity": "common",
-			"mana_cost": "{1}{B}{R}",
+			"mana_cost": "{B}{R}",
 			"type": "Instant",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/201_CM08 Violent Return#.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/201_CM08 Violent Revolution.jpg"
 			}
 		},
 		{
@@ -3044,16 +3044,6 @@
 			}
 		},
 		{
-			"name": "Elsewhere Reminder",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Reminder",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/1t_Elsewhere Reminder.jpg"
-			}
-		},
-		{
 			"name": "MR02 Pyre of Dreams",
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}",
@@ -3071,6 +3061,16 @@
 			"collector_number": "70",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/70_UU01 Arcane Investigator.jpg"
+			}
+		},
+		{
+			"name": "Elsewhere Reminder",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Reminder",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/1t_Elsewhere Reminder.jpg"
 			}
 		}
 	]
@@ -3331,7 +3331,7 @@
 	5 CM05 Hero of Sight
 	5 CM06 Safe Construction
 	5 CM07 Lunar Current-Rod
-	5 CM08 Violent Return#
+	5 CM08 Violent Revolution
 	5 CM09 Expressive Conflagration
 	5 CM10 Formidable Anthem
 	5 CZ01 Walking Stones
@@ -3342,3 +3342,5 @@
 	5 CA01 Wildforged Golem
 	5 CA02 Mechanical Pilgrim
 	5 CA03 Imposing Monolith
+[reminderslot(1)]
+	100 Elsewhere Reminder

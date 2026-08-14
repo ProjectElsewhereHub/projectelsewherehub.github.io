@@ -468,7 +468,7 @@
             "card_name": "CW15 Enhancement of Seeking",
             "color": "W",
             "rarity": "common",
-            "type": "Enchantment",
+            "type": "Enchantment \u2014 Aura",
             "number": 23,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -710,7 +710,7 @@
             "number": 35,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "[i]Revolt[/i] \u2014 At the beginning of your end step, if a permanent left the battlefield under your control, you gain 3 life.",
+            "rules_text": "[i]Revolt[/i] \u2014 At the beginning of your end step, if a permanent left the battlefield under your control this turn, you gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -4079,14 +4079,14 @@
             "notes": ""
         },
         {
-            "card_name": "CM08 Violent Return#",
+            "card_name": "CM08 Violent Revolution",
             "color": "BR",
             "rarity": "common",
             "type": "Instant",
             "number": 201,
             "color_identity": "BR",
-            "cost": "{1}{B}{R}",
-            "rules_text": "Until end of turn, target creature you control gains \u201cWhen this creature dies, return it to the battlefield tapped. It deals damage equal to its power to each opponent.\u201d",
+            "cost": "{B}{R}",
+            "rules_text": "[i]Revolt[/i] \u2014 This spell deals 4 damage to each opponent. If a permanent has left the battlefield under your control this turn, that player draws a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5627,25 +5627,6 @@
             "notes": "!exportname Clue Token\n!related UW01 Grounded Investigation;RU02 Vinki the Reflective;RU03 Timewinder Supreme;UU01 Arcane Investigator;CB13 Visions of Conspiracy"
         },
         {
-            "card_name": "Elsewhere Reminder",
-            "color": "",
-            "rarity": "common",
-            "type": "Reminder",
-            "number": 1,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "Before the game stars, place your elsewhere here. It is not a deck.\nYour starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.\nYou can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don't exceed total elsewhere value 10.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "ADD",
-            "loyalty": "",
-            "designer": "",
-            "artist": "Thomas Stoops",
-            "notes": ""
-        },
-        {
             "card_name": "MR02 Pyre of Dreams",
             "color": "R",
             "rarity": "mythic",
@@ -5682,7 +5663,26 @@
             "designer": "",
             "artist": "",
             "notes": ""
+        },
+        {
+            "card_name": "Elsewhere Reminder",
+            "color": "",
+            "rarity": "common",
+            "type": "Reminder",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Before the game stars, place your elsewhere here. It is not a deck.\nYour starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.\nYou can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don't exceed total elsewhere value 10.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "ADD",
+            "loyalty": "",
+            "designer": "",
+            "artist": "Thomas Stoops",
+            "notes": "!tag reminderslot"
         }
     ],
-    "version": 3
+    "version": 4
 }

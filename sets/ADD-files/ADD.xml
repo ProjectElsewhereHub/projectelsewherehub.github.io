@@ -481,7 +481,7 @@ Enchanted creature gets +2/+2.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
+				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
 				<manacost>2W</manacost>
 				<cmc>3</cmc>
@@ -705,7 +705,7 @@ During each player&apos;s turn, that player may play cards they don&apos;t own e
 		</card>
 		<card>
 			<name>UW03 Revolutionary Healer</name>
-			<text>Revolt — At the beginning of your end step, if a permanent left the battlefield under your control, you gain 3 life.</text>
+			<text>Revolt — At the beginning of your end step, if a permanent left the battlefield under your control this turn, you gain 3 life.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/35_UW03 Revolutionary Healer.jpg" num="35">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4205,16 +4205,16 @@ Formidable — Whenever this creature attacks, if creatures you control have tot
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CM08 Violent Return#</name>
-			<text>Until end of turn, target creature you control gains &quot;When this creature dies, return it to the battlefield tapped. It deals damage equal to its power to each opponent.&quot;</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/201_CM08 Violent Return#.jpg" num="201">ADD</set>
+			<name>CM08 Violent Revolution</name>
+			<text>Revolt — This spell deals 4 damage to each opponent. If a permanent has left the battlefield under your control this turn, that player draws a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/201_CM08 Violent Revolution.jpg" num="201">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1BR</manacost>
-				<cmc>3</cmc>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 			</prop>
@@ -5866,23 +5866,6 @@ Draw a card.
 			<reverse-related>CB13 Visions of Conspiracy</reverse-related>
 		</card>
 		<card>
-			<name>Elsewhere Reminder ADD</name>
-			<text>Before the game stars, place your elsewhere here. It is not a deck.
-Your starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.
-You can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don&apos;t exceed total elsewhere value 10.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/1t_Elsewhere Reminder.jpg" num="1">ADD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Reminder</type>
-				<maintype>Reminder</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
-		</card>
-		<card>
 			<name>MR02 Pyre of Dreams</name>
 			<text>Sacrifice any number of permanents. Add that much {R}.</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/136_MR02 Pyre of Dreams.jpg" num="136">ADD</set>
@@ -5914,6 +5897,23 @@ You can move cards in and out of your elsewhere in sideboarding, provided all ca
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elsewhere Reminder ADD</name>
+			<text>Before the game stars, place your elsewhere here. It is not a deck.
+Your starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.
+You can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don&apos;t exceed total elsewhere value 10.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/1t_Elsewhere Reminder.jpg" num="1">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Reminder</type>
+				<maintype>Reminder</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

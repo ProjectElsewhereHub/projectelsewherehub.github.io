@@ -1,0 +1,2861 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CB03 Marching Hands",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Hand",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/89_CB03 Marching Hands.jpg"
+			}
+		},
+		{
+			"name": "CW12 Praise Be",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/32_CW12 Praise Be.jpg"
+			}
+		},
+		{
+			"name": "MM02 Banishing Darkness",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/197_MM02 Banishing Darkness.jpg"
+			}
+		},
+		{
+			"name": "UM02 Duplicitous Faithbeast",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Beast",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/209_UM02 Duplicitous Faithbeast.jpg"
+			}
+		},
+		{
+			"name": "UM07 Faithful Steam-Mage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Wizard Cleric",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/214_UM07 Faithful Steam-Mage.jpg"
+			}
+		},
+		{
+			"name": "UM08 Purveyor of Appendages",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Hand",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/215_UM08 Purveyor of Appendages.jpg"
+			}
+		},
+		{
+			"name": "RA01 Exertion Amplifier",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/231_RA01 Exertion Amplifier.jpg"
+			}
+		},
+		{
+			"name": "RR05 Godseeker Torazin",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/137_RR05 Godseeker Torazin.jpg"
+			}
+		},
+		{
+			"name": "UM12 Grinning Monolith",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/219_UM12 Grinning Monolith.jpg"
+			}
+		},
+		{
+			"name": "UM10 Exertion Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Human Druid",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/217_UM10 Exertion Seeker.jpg"
+			}
+		},
+		{
+			"name": "UM01 Eagle of Heraldry",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/208_UM01 Eagle of Heraldry.jpg"
+			}
+		},
+		{
+			"name": "UM03 Solarstain Monk",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Monk",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/210_UM03 Solarstain Monk.jpg"
+			}
+		},
+		{
+			"name": "UM04 Weaveline Emmissary",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Human Druid Advisor",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/211_UM04 Weaveline Emmissary.jpg"
+			}
+		},
+		{
+			"name": "UM06 Minister of the Choir",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/213_UM06 Minister of the Choir.jpg"
+			}
+		},
+		{
+			"name": "UM09 Choirsung Hero",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/216_UM09 Choirsung Hero.jpg"
+			}
+		},
+		{
+			"name": "UM11 Heralding Anthem",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/218_UM11 Heralding Anthem.jpg"
+			}
+		},
+		{
+			"name": "UM13 Solarstain Energization",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/220_UM13 Solarstain Energization.jpg"
+			}
+		},
+		{
+			"name": "UM14 Weaveline Entombation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/221_UM14 Weaveline Entombation.jpg"
+			}
+		},
+		{
+			"name": "UM20 Flurry of Effort",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/227_UM20 Flurry of Effort.jpg"
+			}
+		},
+		{
+			"name": "Faith token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Faith",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/3t_Faith token.jpg"
+			}
+		},
+		{
+			"name": "Choir token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Choir",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/1t_Choir token.jpg"
+			}
+		},
+		{
+			"name": "UM16 Grand Organ of the Choir",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Artifact",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/223_UM16 Grand Organ of the Choir.jpg"
+			}
+		},
+		{
+			"name": "UM17 Magus' Mastery",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/224_UM17 Magus' Mastery.jpg"
+			}
+		},
+		{
+			"name": "UM18 Appendageous Insight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Kindred Sorcery — Hand",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/225_UM18 Appendageous Insight.jpg"
+			}
+		},
+		{
+			"name": "UM19 Lonesome Hero's Lance",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/226_UM19 Lonesome Hero's Lance.jpg"
+			}
+		},
+		{
+			"name": "CZ01 Godshard of Frost",
+			"rarity": "common",
+			"mana_cost": "{2}{W/U}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/186_CZ01 Godshard of Frost.jpg"
+			}
+		},
+		{
+			"name": "CZ06 Godshard of Bone",
+			"rarity": "common",
+			"mana_cost": "{4}{W/B}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/191_CZ06 Godshard of Bone.jpg"
+			}
+		},
+		{
+			"name": "UM05 Charming Pianist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/212_UM05 Charming Pianist.jpg"
+			}
+		},
+		{
+			"name": "UM15 Mighty Choirsong",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/222_UM15 Mighty Choirsong.jpg"
+			}
+		},
+		{
+			"name": "CZ10 Godshard of Water",
+			"rarity": "common",
+			"mana_cost": "{4}{G/U}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/195_CZ10 Godshard of Water.jpg"
+			}
+		},
+		{
+			"name": "CZ05 Godshard of Life",
+			"rarity": "common",
+			"mana_cost": "{3}{G/W}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/190_CZ05 Godshard of Life.jpg"
+			}
+		},
+		{
+			"name": "CZ09 Godshard of Light",
+			"rarity": "common",
+			"mana_cost": "{R/W}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/194_CZ09 Godshard of Light.jpg"
+			}
+		},
+		{
+			"name": "CZ02 Godshard of Darkness",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/187_CZ02 Godshard of Darkness.jpg"
+			}
+		},
+		{
+			"name": "CZ07 Godshard of Thunder",
+			"rarity": "common",
+			"mana_cost": "{3}{U/R}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/192_CZ07 Godshard of Thunder.jpg"
+			}
+		},
+		{
+			"name": "CZ03 Godshard of Blood",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/188_CZ03 Godshard of Blood.jpg"
+			}
+		},
+		{
+			"name": "CZ08 Godshard of Death",
+			"rarity": "common",
+			"mana_cost": "{B/G}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/193_CZ08 Godshard of Death.jpg"
+			}
+		},
+		{
+			"name": "CZ04 Godshard of Fire",
+			"rarity": "common",
+			"mana_cost": "{1}{R/G}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/189_CZ04 Godshard of Fire.jpg"
+			}
+		},
+		{
+			"name": "CW03 Omenful Dove",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/23_CW03 Omenful Dove.jpg"
+			}
+		},
+		{
+			"name": "CB12 Faith in Extremis",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/98_CB12 Faith in Extremis.jpg"
+			}
+		},
+		{
+			"name": "CW02 Young Singer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/22_CW02 Young Singer.jpg"
+			}
+		},
+		{
+			"name": "CW01 Keeper of Loyalty",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/21_CW01 Keeper of Loyalty.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/253_Plains.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/254_Island.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/255_Swamp.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/256_Mountain.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/257_Forest.jpg"
+			}
+		},
+		{
+			"name": "CL01 Foreign Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/232_CL01 Foreign Plains.jpg"
+			}
+		},
+		{
+			"name": "CL02 Foreign Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/233_CL02 Foreign Island.jpg"
+			}
+		},
+		{
+			"name": "CL03 Foreign Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/234_CL03 Foreign Swamp.jpg"
+			}
+		},
+		{
+			"name": "CL04 Foreign Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/235_CL04 Foreign Mountain.jpg"
+			}
+		},
+		{
+			"name": "CL05 Foreign Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/236_CL05 Foreign Forest.jpg"
+			}
+		},
+		{
+			"name": "CC11 Foreign Peasant",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/11_CC11 Foreign Peasant.jpg"
+			}
+		},
+		{
+			"name": "UW08 Luxblight Angel",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Horror",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/49_UW08 Luxblight Angel.jpg"
+			}
+		},
+		{
+			"name": "UU06 Luxblight Sphinx",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Sphinx Horror",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/80_UU06 Luxblight Sphinx.jpg"
+			}
+		},
+		{
+			"name": "UB07 Luxblight Demon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Demon Horror",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/114_UB07 Luxblight Demon.jpg"
+			}
+		},
+		{
+			"name": "UR07 Luxblight Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon Horror",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/147_UR07 Luxblight Dragon.jpg"
+			}
+		},
+		{
+			"name": "UG08 Luxblight Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Titan Horror",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/181_UG08 Luxblight Titan.jpg"
+			}
+		},
+		{
+			"name": "CW04 Heralding Harbinger",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/24_CW04 Heralding Harbinger.jpg"
+			}
+		},
+		{
+			"name": "CU01 Keeper of Knowledge",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/54_CU01 Keeper of Knowledge.jpg"
+			}
+		},
+		{
+			"name": "CB01 Keeper of Persistence",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/87_CB01 Keeper of Persistence.jpg"
+			}
+		},
+		{
+			"name": "CR01 Keeper of Courage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/120_CR01 Keeper of Courage.jpg"
+			}
+		},
+		{
+			"name": "CG01 Keeper of Strength",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/153_CG01 Keeper of Strength.jpg"
+			}
+		},
+		{
+			"name": "CW06 Choirsung Healer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/26_CW06 Choirsung Healer.jpg"
+			}
+		},
+		{
+			"name": "CW05 Heretic Ressurector",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/25_CW05 Heretic Ressurector.jpg"
+			}
+		},
+		{
+			"name": "CU07 Flowing Dismissal",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/60_CU07 Flowing Dismissal.jpg"
+			}
+		},
+		{
+			"name": "CW07 Avatar of the Choir",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/27_CW07 Avatar of the Choir.jpg"
+			}
+		},
+		{
+			"name": "CW09 Loyal Flames",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/29_CW09 Loyal Flames.jpg"
+			}
+		},
+		{
+			"name": "RC01 Elsewhere Stalker",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Creature — Horror",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/20_RC01 Elsewhere Stalker.jpg"
+			}
+		},
+		{
+			"name": "CW10 Shifting Soul-Scars",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/30_CW10 Shifting Soul-Scars.jpg"
+			}
+		},
+		{
+			"name": "CW11 Overwhelming Soulshatter",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/31_CW11 Overwhelming Soulshatter.jpg"
+			}
+		},
+		{
+			"name": "CC02 Lightform of the Head",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Sorcery — Lightform",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/2_CC02 Lightform of the Head.jpg"
+			}
+		},
+		{
+			"name": "CC01 Lightform of the Eye",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Instant — Lightform",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/1_CC01 Lightform of the Eye.jpg"
+			}
+		},
+		{
+			"name": "CC03 Lightform of the Tongue",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Sorcery — Lightform",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/3_CC03 Lightform of the Tongue.jpg"
+			}
+		},
+		{
+			"name": "CW08 Fervent Savior",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Savior",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/28_CW08 Fervent Savior.jpg"
+			}
+		},
+		{
+			"name": "CC04 Lightform of the Soul",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Instant — Lightform",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/4_CC04 Lightform of the Soul.jpg"
+			}
+		},
+		{
+			"name": "CC05 Lightform of the Limb",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Sorcery — Lightform",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/5_CC05 Lightform of the Limb.jpg"
+			}
+		},
+		{
+			"name": "CC06 Lightform of the Heart",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Instant — Lightform",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/6_CC06 Lightform of the Heart.jpg"
+			}
+		},
+		{
+			"name": "CC07 Lightform of the Nose",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Instant — Lightform",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/7_CC07 Lightform of the Nose.jpg"
+			}
+		},
+		{
+			"name": "CC08 Lightform of the Hand",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Instant — Lightform",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/8_CC08 Lightform of the Hand.jpg"
+			}
+		},
+		{
+			"name": "CC09 Lightform of the Voice",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Sorcery — Lightform",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/9_CC09 Lightform of the Voice.jpg"
+			}
+		},
+		{
+			"name": "CC10 Lightform of the Ear",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Sorcery — Lightform",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/10_CC10 Lightform of the Ear.jpg"
+			}
+		},
+		{
+			"name": "RL01 Foundation of Pearl",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Foundation",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/237_RL01 Foundation of Pearl.jpg"
+			}
+		},
+		{
+			"name": "RL02 Foundation of Sapphire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Foundation",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/238_RL02 Foundation of Sapphire.jpg"
+			}
+		},
+		{
+			"name": "RL03 Foundation of Jet",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Foundation",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/239_RL03 Foundation of Jet.jpg"
+			}
+		},
+		{
+			"name": "RL04 Foundation of Ruby",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Foundation",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/240_RL04 Foundation of Ruby.jpg"
+			}
+		},
+		{
+			"name": "RL05 Foundation of Emerald",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Foundation",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/241_RL05 Foundation of Emerald.jpg"
+			}
+		},
+		{
+			"name": "CU02 Devout Assassin",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/55_CU02 Devout Assassin.jpg"
+			}
+		},
+		{
+			"name": "CU03 Forceful Looter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/56_CU03 Forceful Looter.jpg"
+			}
+		},
+		{
+			"name": "CU04 Chained Airwinder",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/57_CU04 Chained Airwinder.jpg"
+			}
+		},
+		{
+			"name": "CU05 Haughty Savior",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Savior",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/58_CU05 Haughty Savior.jpg"
+			}
+		},
+		{
+			"name": "CU06 Faithful Negation",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/59_CU06 Faithful Negation.jpg"
+			}
+		},
+		{
+			"name": "CU08 Callous Disbelief",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/61_CU08 Callous Disbelief.jpg"
+			}
+		},
+		{
+			"name": "CU09 Indoctrinating Insight",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/62_CU09 Indoctrinating Insight.jpg"
+			}
+		},
+		{
+			"name": "CU10 Intellectual Ritual",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/63_CU10 Intellectual Ritual.jpg"
+			}
+		},
+		{
+			"name": "CU11 Shields Up",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/64_CU11 Shields Up.jpg"
+			}
+		},
+		{
+			"name": "CU12 Soul of Curiosity",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/65_CU12 Soul of Curiosity.jpg"
+			}
+		},
+		{
+			"name": "CB02 Soul-Essence Vulture",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/88_CB02 Soul-Essence Vulture.jpg"
+			}
+		},
+		{
+			"name": "CB04 Choirsung Ritualist",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Bard Warlock",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/90_CB04 Choirsung Ritualist.jpg"
+			}
+		},
+		{
+			"name": "CB05 Appendage of War",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Hand",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/91_CB05 Appendage of War.jpg"
+			}
+		},
+		{
+			"name": "CB06 Commanding Savior",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Savior",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/92_CB06 Commanding Savior.jpg"
+			}
+		},
+		{
+			"name": "CB07 Solace in Death",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/93_CB07 Solace in Death.jpg"
+			}
+		},
+		{
+			"name": "CB08 Variety Slaughter",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/94_CB08 Variety Slaughter.jpg"
+			}
+		},
+		{
+			"name": "CB09 Sickening Soulrot",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/95_CB09 Sickening Soulrot.jpg"
+			}
+		},
+		{
+			"name": "CB11 Maddening Devotion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/97_CB11 Maddening Devotion.jpg"
+			}
+		},
+		{
+			"name": "CB10 Artificial Culling",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/96_CB10 Artificial Culling.jpg"
+			}
+		},
+		{
+			"name": "CR02 Solarstain Mystic",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/121_CR02 Solarstain Mystic.jpg"
+			}
+		},
+		{
+			"name": "CR03 Choirsung Combatant",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/122_CR03 Choirsung Combatant.jpg"
+			}
+		},
+		{
+			"name": "CR04 Cyclefaith Serpent",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Serpent",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/123_CR04 Cyclefaith Serpent.jpg"
+			}
+		},
+		{
+			"name": "CR05 Spellcraft Abomination",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/124_CR05 Spellcraft Abomination.jpg"
+			}
+		},
+		{
+			"name": "Elsewhere Reminder",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Reminder",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/2t_Elsewhere Reminder.jpg"
+			}
+		},
+		{
+			"name": "CR06 Traitorous Savior",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Savior",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/125_CR06 Traitorous Savior.jpg"
+			}
+		},
+		{
+			"name": "CR07 Faith's Fire",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/126_CR07 Faith's Fire.jpg"
+			}
+		},
+		{
+			"name": "CR08 Flame of Luxblight",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/127_CR08 Flame of Luxblight.jpg"
+			}
+		},
+		{
+			"name": "CR09 Discordant Flamesong",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/128_CR09 Discordant Flamesong.jpg"
+			}
+		},
+		{
+			"name": "CR11 Chaotic Bagpipes",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/130_CR11 Chaotic Bagpipes.jpg"
+			}
+		},
+		{
+			"name": "CR12 Infused Brutality",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/131_CR12 Infused Brutality.jpg"
+			}
+		},
+		{
+			"name": "CR10 Weaveline Pinnacle",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/129_CR10 Weaveline Pinnacle.jpg"
+			}
+		},
+		{
+			"name": "CC13 Spiritual Monolith",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/13_CC13 Spiritual Monolith.jpg"
+			}
+		},
+		{
+			"name": "CA01 Walking Piano",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/228_CA01 Walking Piano.jpg"
+			}
+		},
+		{
+			"name": "CG04 Paired Appendage",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Hand",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/156_CG04 Paired Appendage.jpg"
+			}
+		},
+		{
+			"name": "CG03 Druid of Forgetten Soul",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/155_CG03 Druid of Forgetten Soul.jpg"
+			}
+		},
+		{
+			"name": "CG02 Greatsong Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/154_CG02 Greatsong Guardian.jpg"
+			}
+		},
+		{
+			"name": "CG05 Titanic Appendage",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Hand Giant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/157_CG05 Titanic Appendage.jpg"
+			}
+		},
+		{
+			"name": "CG06 Enlarged Shieldbearer",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Human Giant Warrior",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/158_CG06 Enlarged Shieldbearer.jpg"
+			}
+		},
+		{
+			"name": "CG07 Stubborn Savior",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Savior",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/159_CG07 Stubborn Savior.jpg"
+			}
+		},
+		{
+			"name": "CG08 Faith-Guided Blades",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/160_CG08 Faith-Guided Blades.jpg"
+			}
+		},
+		{
+			"name": "CG09 Shield Smash",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/161_CG09 Shield Smash.jpg"
+			}
+		},
+		{
+			"name": "UL01 Temple of Frost",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/243_UL01 Temple of Frost.jpg"
+			}
+		},
+		{
+			"name": "UL02 Temple of Darkness",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/244_UL02 Temple of Darkness.jpg"
+			}
+		},
+		{
+			"name": "UL06 Temple of Bone",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/248_UL06 Temple of Bone.jpg"
+			}
+		},
+		{
+			"name": "UL07 Temple of Thunder",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/249_UL07 Temple of Thunder.jpg"
+			}
+		},
+		{
+			"name": "UL03 Temple of Blood",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/245_UL03 Temple of Blood.jpg"
+			}
+		},
+		{
+			"name": "UL08 Temple of Death",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/250_UL08 Temple of Death.jpg"
+			}
+		},
+		{
+			"name": "UL05 Temple of Fire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/246_UL05 Temple of Fire.jpg"
+			}
+		},
+		{
+			"name": "UL09 Temple of Light",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/251_UL09 Temple of Light.jpg"
+			}
+		},
+		{
+			"name": "UL05 Temple of Life",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/247_UL05 Temple of Life.jpg"
+			}
+		},
+		{
+			"name": "UL10 Temple of Water",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/252_UL10 Temple of Water.jpg"
+			}
+		},
+		{
+			"name": "CG10 Seek Solutions",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/162_CG10 Seek Solutions.jpg"
+			}
+		},
+		{
+			"name": "CG11 Weaveline Might",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/163_CG11 Weaveline Might.jpg"
+			}
+		},
+		{
+			"name": "CG12 Severed Appendage",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Artifact — Hand",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/164_CG12 Severed Appendage.jpg"
+			}
+		},
+		{
+			"name": "CC12 Efficient Savior",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Creature — Human Savior",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/12_CC12 Efficient Savior.jpg"
+			}
+		},
+		{
+			"name": "UW01 Keeper's Cat",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/42_UW01 Keeper's Cat.jpg"
+			}
+		},
+		{
+			"name": "UU01 Keeper's Crow",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/75_UU01 Keeper's Crow.jpg"
+			}
+		},
+		{
+			"name": "UB01 Keeper's Rat",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/108_UB01 Keeper's Rat.jpg"
+			}
+		},
+		{
+			"name": "UR01 Keeper's Lizard",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/141_UR01 Keeper's Lizard.jpg"
+			}
+		},
+		{
+			"name": "UG01 Keeper's Hound",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Dog",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/174_UG01 Keeper's Hound.jpg"
+			}
+		},
+		{
+			"name": "UG02 Keeper's Bear",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/175_UG02 Keeper's Bear.jpg"
+			}
+		},
+		{
+			"name": "UR02 Keeper's Jackal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Jackal",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/142_UR02 Keeper's Jackal.jpg"
+			}
+		},
+		{
+			"name": "UU02 Keeper's Turtle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/76_UU02 Keeper's Turtle.jpg"
+			}
+		},
+		{
+			"name": "UB02 Keeper's Bat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bat",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/109_UB02 Keeper's Bat.jpg"
+			}
+		},
+		{
+			"name": "UW02 Keeper's Camel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Camel",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/43_UW02 Keeper's Camel.jpg"
+			}
+		},
+		{
+			"name": "RW01 Keeper's Loyalty",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/34_RW01 Keeper's Loyalty.jpg"
+			}
+		},
+		{
+			"name": "RU01 Keeper's Insight",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/67_RU01 Keeper's Insight.jpg"
+			}
+		},
+		{
+			"name": "RB01 Keeper's Persistence",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/100_RB01 Keeper's Persistence.jpg"
+			}
+		},
+		{
+			"name": "RR01 Keeper's Courage",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/133_RR01 Keeper's Courage.jpg"
+			}
+		},
+		{
+			"name": "RG01 Keeper's Strength",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/166_RG01 Keeper's Strength.jpg"
+			}
+		},
+		{
+			"name": "MC02 Divine Duplicant",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Creature — Human Horror",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/15_MC02 Divine Duplicant.jpg"
+			}
+		},
+		{
+			"name": "UW04 Guarding Choirsinger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior Bard",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/45_UW04 Guarding Choirsinger.jpg"
+			}
+		},
+		{
+			"name": "UW03 Godshard of Loyalty",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/44_UW03 Godshard of Loyalty.jpg"
+			}
+		},
+		{
+			"name": "UW06 Harbinger of Trinity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/47_UW06 Harbinger of Trinity.jpg"
+			}
+		},
+		{
+			"name": "UW07 Pearl Savior",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact Creature — Golem Savior",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/48_UW07 Pearl Savior.jpg"
+			}
+		},
+		{
+			"name": "UU05 Sapphire Savior",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact Creature — Golem Savior",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/79_UU05 Sapphire Savior.jpg"
+			}
+		},
+		{
+			"name": "UB06 Jet Savior",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact Creature — Golem Savior",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/113_UB06 Jet Savior.jpg"
+			}
+		},
+		{
+			"name": "UR06 Ruby Savior",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact Creature — Golem Savior",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/146_UR06 Ruby Savior.jpg"
+			}
+		},
+		{
+			"name": "UG07 Emerald Savior",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact Creature — Golem Savior",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/180_UG07 Emerald Savior.jpg"
+			}
+		},
+		{
+			"name": "RL06 Foreign Outpost",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/242_RL06 Foreign Outpost.jpg"
+			}
+		},
+		{
+			"name": "UW10 Banishing Soul-Scars",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/51_UW10 Banishing Soul-Scars.jpg"
+			}
+		},
+		{
+			"name": "UW11 Inspiring Harp",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/52_UW11 Inspiring Harp.jpg"
+			}
+		},
+		{
+			"name": "UW05 Elder Disciple",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/46_UW05 Elder Disciple.jpg"
+			}
+		},
+		{
+			"name": "UW09 Mighty Crusader",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/50_UW09 Mighty Crusader.jpg"
+			}
+		},
+		{
+			"name": "UW12 Great Prayer of Protection",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/53_UW12 Great Prayer of Protection.jpg"
+			}
+		},
+		{
+			"name": "UU12 Great Prayer of Arcana",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/86_UU12 Great Prayer of Arcana.jpg"
+			}
+		},
+		{
+			"name": "UB12 Great Prayer of Dexterity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/119_UB12 Great Prayer of Dexterity.jpg"
+			}
+		},
+		{
+			"name": "UR12 Great Prayer of Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/152_UR12 Great Prayer of Soul.jpg"
+			}
+		},
+		{
+			"name": "UG12 Great Prayer of Effort",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/185_UG12 Great Prayer of Effort.jpg"
+			}
+		},
+		{
+			"name": "UU04 Trickgrin Mockingbird",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/78_UU04 Trickgrin Mockingbird.jpg"
+			}
+		},
+		{
+			"name": "UU07 Greatwing Riddleherald",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/81_UU07 Greatwing Riddleherald.jpg"
+			}
+		},
+		{
+			"name": "UU11 Combative Spellcraft",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/85_UU11 Combative Spellcraft.jpg"
+			}
+		},
+		{
+			"name": "UU08 Negative Countermagic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/82_UU08 Negative Countermagic.jpg"
+			}
+		},
+		{
+			"name": "UU09 Study in Faith",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/83_UU09 Study in Faith.jpg"
+			}
+		},
+		{
+			"name": "UU10 Strenuous Twiddling",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/84_UU10 Strenuous Twiddling.jpg"
+			}
+		},
+		{
+			"name": "UB03 Appendageous Anthemsinger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Hand Bard",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/110_UB03 Appendageous Anthemsinger.jpg"
+			}
+		},
+		{
+			"name": "UB04 Insulting Choirsinger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Bard",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/111_UB04 Insulting Choirsinger.jpg"
+			}
+		},
+		{
+			"name": "UB08 Grinning Renegade",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Demon Warrior",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/115_UB08 Grinning Renegade.jpg"
+			}
+		},
+		{
+			"name": "UB09 Faithful Rites",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/116_UB09 Faithful Rites.jpg"
+			}
+		},
+		{
+			"name": "UB10 Soul-Scar Siphonability",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/117_UB10 Soul-Scar Siphonability.jpg"
+			}
+		},
+		{
+			"name": "UB11 Soulrot Amplification",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/118_UB11 Soulrot Amplification.jpg"
+			}
+		},
+		{
+			"name": "UR04 Deepfaith Ritualist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/144_UR04 Deepfaith Ritualist.jpg"
+			}
+		},
+		{
+			"name": "UR05 Soulmight Blademaster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Druid Warrior",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/145_UR05 Soulmight Blademaster.jpg"
+			}
+		},
+		{
+			"name": "UR03 Choirsung Flame-Druid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Druid",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/143_UR03 Choirsung Flame-Druid.jpg"
+			}
+		},
+		{
+			"name": "UR09 Faithful Inspiration",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/149_UR09 Faithful Inspiration.jpg"
+			}
+		},
+		{
+			"name": "UR10 Weaveline Obsession",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/150_UR10 Weaveline Obsession.jpg"
+			}
+		},
+		{
+			"name": "UR11 Overwhelming Soulmight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/151_UR11 Overwhelming Soulmight.jpg"
+			}
+		},
+		{
+			"name": "UG04 Druid of Exertion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/177_UG04 Druid of Exertion.jpg"
+			}
+		},
+		{
+			"name": "UG03 Appendageous Ritualist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Hand Shaman",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/176_UG03 Appendageous Ritualist.jpg"
+			}
+		},
+		{
+			"name": "RM08 Hand-Powered Thrower",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Hand",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/205_RM08 Hand-Powered Thrower.jpg"
+			}
+		},
+		{
+			"name": "UG06 Hermetic Shieldcrafter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Laborer",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/179_UG06 Hermetic Shieldcrafter.jpg"
+			}
+		},
+		{
+			"name": "UG09 Weaveline Duplimancer",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/182_UG09 Weaveline Duplimancer.jpg"
+			}
+		},
+		{
+			"name": "UU03 Godshard of Knowledge",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/77_UU03 Godshard of Knowledge.jpg"
+			}
+		},
+		{
+			"name": "UB05 Godshard of Persistence",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/112_UB05 Godshard of Persistence.jpg"
+			}
+		},
+		{
+			"name": "UR08 Godshard of Courage",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/148_UR08 Godshard of Courage.jpg"
+			}
+		},
+		{
+			"name": "UG05 Godshard of Strength",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/178_UG05 Godshard of Strength.jpg"
+			}
+		},
+		{
+			"name": "UG10 Faith's Claim",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/183_UG10 Faith's Claim.jpg"
+			}
+		},
+		{
+			"name": "UG11 Growth Through Faith",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/184_UG11 Growth Through Faith.jpg"
+			}
+		},
+		{
+			"name": "RW02 Generous Choirsinger",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/35_RW02 Generous Choirsinger.jpg"
+			}
+		},
+		{
+			"name": "RU02 Raven of Superstition",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/68_RU02 Raven of Superstition.jpg"
+			}
+		},
+		{
+			"name": "RB02 Appendage of Agony",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Hand",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/101_RB02 Appendage of Agony.jpg"
+			}
+		},
+		{
+			"name": "MU01 Godshard of Enlightenment",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/66_MU01 Godshard of Enlightenment.jpg"
+			}
+		},
+		{
+			"name": "MR01 Godshard of Ascendance",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/132_MR01 Godshard of Ascendance.jpg"
+			}
+		},
+		{
+			"name": "RR03 Godshard of Artifice",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/135_RR03 Godshard of Artifice.jpg"
+			}
+		},
+		{
+			"name": "RG03 Godshard of Nature",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/168_RG03 Godshard of Nature.jpg"
+			}
+		},
+		{
+			"name": "RB03 Godshard of Populace",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/102_RB03 Godshard of Populace.jpg"
+			}
+		},
+		{
+			"name": "RU03 Godshard of Arcana",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/69_RU03 Godshard of Arcana.jpg"
+			}
+		},
+		{
+			"name": "RW03 Godshard of Spirituality",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Enchantment Creature — GodShard",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/36_RW03 Godshard of Spirituality.jpg"
+			}
+		},
+		{
+			"name": "MM01 The Corpse of Regitholem",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Legendary Enchantment Creature",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/196_MM01 The Corpse of Regitholem.jpg"
+			}
+		},
+		{
+			"name": "RR02 Greatersoul Champion",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/134_RR02 Greatersoul Champion.jpg"
+			}
+		},
+		{
+			"name": "RG02 Exertion Animist",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/167_RG02 Exertion Animist.jpg"
+			}
+		},
+		{
+			"name": "MC04 Lightform of Deity",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Sorcery — Lightform",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/17_MC04 Lightform of Deity.jpg"
+			}
+		},
+		{
+			"name": "MC03 Saviorality Perfected",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Creature — Savior",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/16_MC03 Saviorality Perfected.jpg"
+			}
+		},
+		{
+			"name": "RW07 Angel of the Choir",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/40_RW07 Angel of the Choir.jpg"
+			}
+		},
+		{
+			"name": "RW05 Dualblade Guardian",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/38_RW05 Dualblade Guardian.jpg"
+			}
+		},
+		{
+			"name": "RW06 Heralding Crusader",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/39_RW06 Heralding Crusader.jpg"
+			}
+		},
+		{
+			"name": "MC01 Curator of Ages",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Creature — Human Transmortal Wizard",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/14_MC01 Curator of Ages.jpg"
+			}
+		},
+		{
+			"name": "MA01 Mox Eternity",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/229_MA01 Mox Eternity.jpg"
+			}
+		},
+		{
+			"name": "MA02 Mox Ichor",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/230_MA02 Mox Ichor.jpg"
+			}
+		},
+		{
+			"name": "RW04 Lightform of Unification",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}",
+			"type": "Instant — Lightform",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/37_RW04 Lightform of Unification.jpg"
+			}
+		},
+		{
+			"name": "RU04 Lightform of Formalization",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Instant — Lightform",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/70_RU04 Lightform of Formalization.jpg"
+			}
+		},
+		{
+			"name": "RB04 Lightform of Domination",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}",
+			"type": "Instant — Lightform",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/103_RB04 Lightform of Domination.jpg"
+			}
+		},
+		{
+			"name": "RR04 Lightform of Alliances",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}",
+			"type": "Instant — Lightform",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/136_RR04 Lightform of Alliances.jpg"
+			}
+		},
+		{
+			"name": "RG04 Lightform of Subservience",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Instant — Lightform",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/169_RG04 Lightform of Subservience.jpg"
+			}
+		},
+		{
+			"name": "RW08 Penultimate Prayer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/41_RW08 Penultimate Prayer.jpg"
+			}
+		},
+		{
+			"name": "RU05 Wizened Mage",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/71_RU05 Wizened Mage.jpg"
+			}
+		},
+		{
+			"name": "RU06 Surprising Magus",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/72_RU06 Surprising Magus.jpg"
+			}
+		},
+		{
+			"name": "RU07 Empty Ritual",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/73_RU07 Empty Ritual.jpg"
+			}
+		},
+		{
+			"name": "RU08 Chronotwiddle",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/74_RU08 Chronotwiddle.jpg"
+			}
+		},
+		{
+			"name": "RB06 Surprising Ritualist",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/105_RB06 Surprising Ritualist.jpg"
+			}
+		},
+		{
+			"name": "RB08 Soul of Exultation",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/107_RB08 Soul of Exultation.jpg"
+			}
+		},
+		{
+			"name": "RB05 Bloodsong Choirsinger",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Bard",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/104_RB05 Bloodsong Choirsinger.jpg"
+			}
+		},
+		{
+			"name": "MB01 Hand of God",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Avatar Hand",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/99_MB01 Hand of God.jpg"
+			}
+		},
+		{
+			"name": "RB07 Tranmutation Tutor",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/106_RB07 Tranmutation Tutor.jpg"
+			}
+		},
+		{
+			"name": "RR06 Tablet of Songs",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/138_RR06 Tablet of Songs.jpg"
+			}
+		},
+		{
+			"name": "RR07 Pyretic Soul",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/139_RR07 Pyretic Soul.jpg"
+			}
+		},
+		{
+			"name": "RR08 Boon of the Pyre",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/140_RR08 Boon of the Pyre.jpg"
+			}
+		},
+		{
+			"name": "RG08 Soul of Decay",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/173_RG08 Soul of Decay.jpg"
+			}
+		},
+		{
+			"name": "RG05 Exertion Battlemaster",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/170_RG05 Exertion Battlemaster.jpg"
+			}
+		},
+		{
+			"name": "RG06 Handed Hands",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}",
+			"type": "Creature — Hand",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/171_RG06 Handed Hands.jpg"
+			}
+		},
+		{
+			"name": "RG07 Expert Shieldcrafter",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/172_RG07 Expert Shieldcrafter.jpg"
+			}
+		},
+		{
+			"name": "RM01 Flag Seamstress",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Laborer",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/198_RM01 Flag Seamstress.jpg"
+			}
+		},
+		{
+			"name": "RM02 Grinning Sphinx",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Sphinx",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/199_RM02 Grinning Sphinx.jpg"
+			}
+		},
+		{
+			"name": "RM03 Demon of Soul's Force",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/200_RM03 Demon of Soul's Force.jpg"
+			}
+		},
+		{
+			"name": "RM04 Druid of Soul",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/201_RM04 Druid of Soul.jpg"
+			}
+		},
+		{
+			"name": "RM05 Guardian of Thorns",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/202_RM05 Guardian of Thorns.jpg"
+			}
+		},
+		{
+			"name": "RM06 Greatest Choirsinger",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Bard",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/203_RM06 Greatest Choirsinger.jpg"
+			}
+		},
+		{
+			"name": "RM07 Arcane Electromancer",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/204_RM07 Arcane Electromancer.jpg"
+			}
+		},
+		{
+			"name": "RM09 Choirsung Champion",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/206_RM09 Choirsung Champion.jpg"
+			}
+		},
+		{
+			"name": "RM10 Avatar of Exertion",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Avatar Laborer",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/207_RM10 Avatar of Exertion.jpg"
+			}
+		},
+		{
+			"name": "MG01 Godslayer Vagathia",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/165_MG01 Godslayer Vagathia.jpg"
+			}
+		},
+		{
+			"name": "MW01 Reirbor the Penitent",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/33_MW01 Reirbor the Penitent.jpg"
+			}
+		},
+		{
+			"name": "MC05 Tagross, Void Ascendant",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/18_MC05 Tagross, Void Ascendant.jpg"
+			}
+		},
+		{
+			"name": "MC06 Tagross, Void Deified",
+			"rarity": "mythic",
+			"mana_cost": "{10}",
+			"type": "Legendary Creature — Human Horror God",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/19_MC06 Tagross, Void Deified.jpg"
+			}
+		}
+	]
+
+[rare(2)]
+	5 MM02 Banishing Darkness
+	5 RA01 Exertion Amplifier
+	5 RR05 Godseeker Torazin
+	5 RC01 Elsewhere Stalker
+	5 RL01 Foundation of Pearl
+	5 RL02 Foundation of Sapphire
+	5 RL03 Foundation of Jet
+	5 RL04 Foundation of Ruby
+	5 RL05 Foundation of Emerald
+	5 RW01 Keeper's Loyalty
+	5 RU01 Keeper's Insight
+	5 RB01 Keeper's Persistence
+	5 RR01 Keeper's Courage
+	5 RG01 Keeper's Strength
+	5 MC02 Divine Duplicant
+	5 RL06 Foreign Outpost
+	5 RM08 Hand-Powered Thrower
+	5 RW02 Generous Choirsinger
+	5 RU02 Raven of Superstition
+	5 RB02 Appendage of Agony
+	5 MU01 Godshard of Enlightenment
+	5 MR01 Godshard of Ascendance
+	5 RR03 Godshard of Artifice
+	5 RG03 Godshard of Nature
+	5 RB03 Godshard of Populace
+	5 RU03 Godshard of Arcana
+	5 RW03 Godshard of Spirituality
+	5 MM01 The Corpse of Regitholem
+	5 RR02 Greatersoul Champion
+	5 RG02 Exertion Animist
+	5 MC04 Lightform of Deity
+	5 MC03 Saviorality Perfected
+	5 RW07 Angel of the Choir
+	5 RW05 Dualblade Guardian
+	5 RW06 Heralding Crusader
+	5 MC01 Curator of Ages
+	5 MA01 Mox Eternity
+	5 MA02 Mox Ichor
+	5 RW04 Lightform of Unification
+	5 RU04 Lightform of Formalization
+	5 RB04 Lightform of Domination
+	5 RR04 Lightform of Alliances
+	5 RG04 Lightform of Subservience
+	5 RW08 Penultimate Prayer
+	5 RU05 Wizened Mage
+	5 RU06 Surprising Magus
+	5 RU07 Empty Ritual
+	5 RU08 Chronotwiddle
+	5 RB06 Surprising Ritualist
+	5 RB08 Soul of Exultation
+	5 RB05 Bloodsong Choirsinger
+	5 MB01 Hand of God
+	5 RB07 Tranmutation Tutor
+	5 RR06 Tablet of Songs
+	5 RR07 Pyretic Soul
+	5 RR08 Boon of the Pyre
+	5 RG08 Soul of Decay
+	5 RG05 Exertion Battlemaster
+	5 RG06 Handed Hands
+	5 RG07 Expert Shieldcrafter
+	5 RM01 Flag Seamstress
+	5 RM02 Grinning Sphinx
+	5 RM03 Demon of Soul's Force
+	5 RM04 Druid of Soul
+	5 RM05 Guardian of Thorns
+	5 RM06 Greatest Choirsinger
+	5 RM07 Arcane Electromancer
+	5 RM09 Choirsung Champion
+	5 RM10 Avatar of Exertion
+	5 MG01 Godslayer Vagathia
+	5 MW01 Reirbor the Penitent
+	5 MC05 Tagross, Void Ascendant
+	5 MC06 Tagross, Void Deified
+[uncommon(5)]
+	5 UM02 Duplicitous Faithbeast
+	5 UM07 Faithful Steam-Mage
+	5 UM08 Purveyor of Appendages
+	5 UM12 Grinning Monolith
+	5 UM10 Exertion Seeker
+	5 UM01 Eagle of Heraldry
+	5 UM03 Solarstain Monk
+	5 UM04 Weaveline Emmissary
+	5 UM06 Minister of the Choir
+	5 UM09 Choirsung Hero
+	5 UM11 Heralding Anthem
+	5 UM13 Solarstain Energization
+	5 UM14 Weaveline Entombation
+	5 UM20 Flurry of Effort
+	5 UM16 Grand Organ of the Choir
+	5 UM17 Magus' Mastery
+	5 UM18 Appendageous Insight
+	5 UM19 Lonesome Hero's Lance
+	5 UM05 Charming Pianist
+	5 UM15 Mighty Choirsong
+	5 UW08 Luxblight Angel
+	5 UU06 Luxblight Sphinx
+	5 UB07 Luxblight Demon
+	5 UR07 Luxblight Dragon
+	5 UG08 Luxblight Titan
+	5 UL01 Temple of Frost
+	5 UL02 Temple of Darkness
+	5 UL06 Temple of Bone
+	5 UL07 Temple of Thunder
+	5 UL03 Temple of Blood
+	5 UL08 Temple of Death
+	5 UL05 Temple of Fire
+	5 UL09 Temple of Light
+	5 UL05 Temple of Life
+	5 UL10 Temple of Water
+	5 UW01 Keeper's Cat
+	5 UU01 Keeper's Crow
+	5 UB01 Keeper's Rat
+	5 UR01 Keeper's Lizard
+	5 UG01 Keeper's Hound
+	5 UG02 Keeper's Bear
+	5 UR02 Keeper's Jackal
+	5 UU02 Keeper's Turtle
+	5 UB02 Keeper's Bat
+	5 UW02 Keeper's Camel
+	5 UW04 Guarding Choirsinger
+	5 UW03 Godshard of Loyalty
+	5 UW06 Harbinger of Trinity
+	5 UW07 Pearl Savior
+	5 UU05 Sapphire Savior
+	5 UB06 Jet Savior
+	5 UR06 Ruby Savior
+	5 UG07 Emerald Savior
+	5 UW10 Banishing Soul-Scars
+	5 UW11 Inspiring Harp
+	5 UW05 Elder Disciple
+	5 UW09 Mighty Crusader
+	5 UW12 Great Prayer of Protection
+	5 UU12 Great Prayer of Arcana
+	5 UB12 Great Prayer of Dexterity
+	5 UR12 Great Prayer of Soul
+	5 UG12 Great Prayer of Effort
+	5 UU04 Trickgrin Mockingbird
+	5 UU07 Greatwing Riddleherald
+	5 UU11 Combative Spellcraft
+	5 UU08 Negative Countermagic
+	5 UU09 Study in Faith
+	5 UU10 Strenuous Twiddling
+	5 UB03 Appendageous Anthemsinger
+	5 UB04 Insulting Choirsinger
+	5 UB08 Grinning Renegade
+	5 UB09 Faithful Rites
+	5 UB10 Soul-Scar Siphonability
+	5 UB11 Soulrot Amplification
+	5 UR04 Deepfaith Ritualist
+	5 UR05 Soulmight Blademaster
+	5 UR03 Choirsung Flame-Druid
+	5 UR09 Faithful Inspiration
+	5 UR10 Weaveline Obsession
+	5 UR11 Overwhelming Soulmight
+	5 UG04 Druid of Exertion
+	5 UG03 Appendageous Ritualist
+	5 UG06 Hermetic Shieldcrafter
+	5 UG09 Weaveline Duplimancer
+	5 UU03 Godshard of Knowledge
+	5 UB05 Godshard of Persistence
+	5 UR08 Godshard of Courage
+	5 UG05 Godshard of Strength
+	5 UG10 Faith's Claim
+	5 UG11 Growth Through Faith
+[common(9)]
+	5 CB03 Marching Hands
+	5 CW12 Praise Be
+	5 CZ01 Godshard of Frost
+	5 CZ06 Godshard of Bone
+	5 CZ10 Godshard of Water
+	5 CZ05 Godshard of Life
+	5 CZ09 Godshard of Light
+	5 CZ02 Godshard of Darkness
+	5 CZ07 Godshard of Thunder
+	5 CZ03 Godshard of Blood
+	5 CZ08 Godshard of Death
+	5 CZ04 Godshard of Fire
+	5 CW03 Omenful Dove
+	5 CB12 Faith in Extremis
+	5 CW02 Young Singer
+	5 CW01 Keeper of Loyalty
+	5 CL01 Foreign Plains
+	5 CL02 Foreign Island
+	5 CL03 Foreign Swamp
+	5 CL04 Foreign Mountain
+	5 CL05 Foreign Forest
+	5 CC11 Foreign Peasant
+	5 CW04 Heralding Harbinger
+	5 CU01 Keeper of Knowledge
+	5 CB01 Keeper of Persistence
+	5 CR01 Keeper of Courage
+	5 CG01 Keeper of Strength
+	5 CW06 Choirsung Healer
+	5 CW05 Heretic Ressurector
+	5 CU07 Flowing Dismissal
+	5 CW07 Avatar of the Choir
+	5 CW09 Loyal Flames
+	5 CW10 Shifting Soul-Scars
+	5 CW11 Overwhelming Soulshatter
+	5 CC02 Lightform of the Head
+	5 CC01 Lightform of the Eye
+	5 CC03 Lightform of the Tongue
+	5 CW08 Fervent Savior
+	5 CC04 Lightform of the Soul
+	5 CC05 Lightform of the Limb
+	5 CC06 Lightform of the Heart
+	5 CC07 Lightform of the Nose
+	5 CC08 Lightform of the Hand
+	5 CC09 Lightform of the Voice
+	5 CC10 Lightform of the Ear
+	5 CU02 Devout Assassin
+	5 CU03 Forceful Looter
+	5 CU04 Chained Airwinder
+	5 CU05 Haughty Savior
+	5 CU06 Faithful Negation
+	5 CU08 Callous Disbelief
+	5 CU09 Indoctrinating Insight
+	5 CU10 Intellectual Ritual
+	5 CU11 Shields Up
+	5 CU12 Soul of Curiosity
+	5 CB02 Soul-Essence Vulture
+	5 CB04 Choirsung Ritualist
+	5 CB05 Appendage of War
+	5 CB06 Commanding Savior
+	5 CB07 Solace in Death
+	5 CB08 Variety Slaughter
+	5 CB09 Sickening Soulrot
+	5 CB11 Maddening Devotion
+	5 CB10 Artificial Culling
+	5 CR02 Solarstain Mystic
+	5 CR03 Choirsung Combatant
+	5 CR04 Cyclefaith Serpent
+	5 CR05 Spellcraft Abomination
+	5 CR06 Traitorous Savior
+	5 CR07 Faith's Fire
+	5 CR08 Flame of Luxblight
+	5 CR09 Discordant Flamesong
+	5 CR11 Chaotic Bagpipes
+	5 CR12 Infused Brutality
+	5 CR10 Weaveline Pinnacle
+	5 CC13 Spiritual Monolith
+	5 CA01 Walking Piano
+	5 CG04 Paired Appendage
+	5 CG03 Druid of Forgetten Soul
+	5 CG02 Greatsong Guardian
+	5 CG05 Titanic Appendage
+	5 CG06 Enlarged Shieldbearer
+	5 CG07 Stubborn Savior
+	5 CG08 Faith-Guided Blades
+	5 CG09 Shield Smash
+	5 CG10 Seek Solutions
+	5 CG11 Weaveline Might
+	5 CG12 Severed Appendage
+	5 CC12 Efficient Savior
+[reminderslot(1)]
+	100 Elsewhere Reminder

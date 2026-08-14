@@ -1,4 +1,17 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Adalrad, Concoctopus
+rules_text: When Adalrad enters, target player mills eight cards.
+{1}{U}: Exile target instant or sorcery card from a graveyard.
+{7}{U}, {T}, Put Adalrad on the bottom of its owner's library: For each nonalnd card exiled with Adalrad, you may cast that card without paying its mana cost. => When Adalrad enters, target player mills eight cards.
+{1}{U}: Exile target instant or sorcery card from a graveyard.
+{7}{U}, {T}, Put Adalrad on the bottom of its owner's library: For each nonland card exiled with Adalrad, you may cast that card without paying its mana cost.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

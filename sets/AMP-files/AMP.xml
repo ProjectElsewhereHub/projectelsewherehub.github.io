@@ -5,7 +5,7 @@
 			<name>AMP</name>
 			<longname>Amplalo, Realm of the Colossi</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-11</releasedate>
+			<releasedate>2026-08-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3683,7 +3683,7 @@ Whenever another sea monster you control enters, control, create a 1/1 blue Fish
 			<name>Adalrad, Concoctopus</name>
 			<text>When Adalrad enters, target player mills eight cards.
 {1}{U}: Exile target instant or sorcery card from a graveyard.
-{7}{U}, {T}, Put Adalrad on the bottom of its owner&apos;s library: For each nonalnd card exiled with Adalrad, you may cast that card without paying its mana cost.</text>
+{7}{U}, {T}, Put Adalrad on the bottom of its owner&apos;s library: For each nonland card exiled with Adalrad, you may cast that card without paying its mana cost.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/40_Adalrad, Concoctopus.jpg" num="40">AMP</set>
 			<prop>
 				<layout>normal</layout>

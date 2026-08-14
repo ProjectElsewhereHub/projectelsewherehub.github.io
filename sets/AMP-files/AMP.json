@@ -3767,7 +3767,7 @@
             "number": 40,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "When Adalrad enters, target player mills eight cards.\n{1}{U}: Exile target instant or sorcery card from a graveyard.\n{7}{U}, {T}, Put Adalrad on the bottom of its owner's library: For each nonalnd card exiled with Adalrad, you may cast that card without paying its mana cost.",
+            "rules_text": "When Adalrad enters, target player mills eight cards.\n{1}{U}: Exile target instant or sorcery card from a graveyard.\n{7}{U}, {T}, Put Adalrad on the bottom of its owner's library: For each nonland card exiled with Adalrad, you may cast that card without paying its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -5402,5 +5402,5 @@
             "notes": "55%"
         }
     ],
-    "version": 1
+    "version": 2
 }
