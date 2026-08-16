@@ -5,7 +5,7 @@
 			<name>ADD</name>
 			<longname>A Dream of Darkness</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-14</releasedate>
+			<releasedate>2026-08-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2101,7 +2101,7 @@ Moonflow 3 (You may play this card from your graveyard as long as 3 or more crea
 		<card>
 			<name>RB04 Thoughtseizing Ranger</name>
 			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-When this creature enters, target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.</text>
+When this creature enters, target player reveals their hand. You choose a noncreature, nonland card from it. That player discards that card. You lose 2 life.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/103_RB04 Thoughtseizing Ranger.jpg" num="103">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -5123,7 +5123,8 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 			<name>ML02 The Lunar Isle</name>
 			<text>This land enters tapped.
 {T}: Add {U} or {B}.
-Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+Moonflow 1 (You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/244_ML02 The Lunar Isle.jpg" num="244">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -5340,21 +5341,22 @@ This land enters tapped.
 		<card>
 			<name>Favor of Frost</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Draw a card.
+{T}: Add {C}.
+When this enchantment enters, draw a card.
 ---
 (Front): UL01 Festival of Frost</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/255_UL01 Festival of Frost_back.jpg" num="255b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>WU</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 			<related attach="transform">UL01 Festival of Frost</related>
 		</card>
 		<card>
@@ -5380,21 +5382,22 @@ This land enters tapped.
 		<card>
 			<name>Favor of Darkness</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Draw a card.
+{T}: Add {C}.
+When this enchantment enters, draw a card.
 ---
 (Front): UL02 Festival of Darkness</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/256_UL02 Festival of Darkness_back.jpg" num="256b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>UB</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 			<related attach="transform">UL02 Festival of Darkness</related>
 		</card>
 		<card>
@@ -5420,21 +5423,22 @@ This land enters tapped.
 		<card>
 			<name>Favor of Blood</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Draw a card.
+{T}: Add {C}.
+When this enchantment enters, draw a card.
 ---
 (Front): UL03 Festival of Blood</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/257_UL03 Festival of Blood_back.jpg" num="257b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>BR</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 			<related attach="transform">UL03 Festival of Blood</related>
 		</card>
 		<card>
@@ -5460,21 +5464,22 @@ This land enters tapped.
 		<card>
 			<name>Favor of Fire</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Draw a card.
+{T}: Add {C}.
+When this enchantment enters, draw a card.
 ---
 (Front): UL04 Festival of Fire</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/258_UL04 Festival of Fire_back.jpg" num="258b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>RG</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 			<related attach="transform">UL04 Festival of Fire</related>
 		</card>
 		<card>
@@ -5500,21 +5505,22 @@ This land enters tapped.
 		<card>
 			<name>Favor of Life</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Draw a card.
+{T}: Add {C}.
+When this enchantment enters, draw a card.
 ---
 (Front): UL05 Festival of Life</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/259_UL05 Festival of Life_back.jpg" num="259b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>GW</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 			<related attach="transform">UL05 Festival of Life</related>
 		</card>
 		<card>
@@ -5540,21 +5546,22 @@ This land enters tapped.
 		<card>
 			<name>Favor of Bone</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Draw a card.
+{T}: Add {C}.
+When this enchantment enters, draw a card.
 ---
 (Front): UL06 Festival of Bone</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/260_UL06 Festival of Bone_back.jpg" num="260b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>WB</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 			<related attach="transform">UL06 Festival of Bone</related>
 		</card>
 		<card>
@@ -5580,21 +5587,22 @@ This land enters tapped.
 		<card>
 			<name>Favor of Thunder</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Draw a card.
+{T}: Add {C}.
+When this enchantment enters, draw a card.
 ---
 (Front): UL07 Festival of Thunder</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/261_UL07 Festival of Thunder_back.jpg" num="261b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>UR</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 			<related attach="transform">UL07 Festival of Thunder</related>
 		</card>
 		<card>
@@ -5620,21 +5628,22 @@ This land enters tapped.
 		<card>
 			<name>Favor of Death</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Draw a card.
+{T}: Add {C}.
+When this enchantment enters, draw a card.
 ---
 (Front): UL08 Festival of Death</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/262_UL08 Festival of Death_back.jpg" num="262b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>BG</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 			<related attach="transform">UL08 Festival of Death</related>
 		</card>
 		<card>
@@ -5660,21 +5669,22 @@ This land enters tapped.
 		<card>
 			<name>Favor of Light</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Draw a card.
+{T}: Add {C}.
+When this enchantment enters, draw a card.
 ---
 (Front): UL09 Festival of Light</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/263_UL09 Festival of Light_back.jpg" num="263b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>RW</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 			<related attach="transform">UL09 Festival of Light</related>
 		</card>
 		<card>
@@ -5700,21 +5710,22 @@ This land enters tapped.
 		<card>
 			<name>Favor of Water</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Draw a card.
+{T}: Add {C}.
+When this enchantment enters, draw a card.
 ---
 (Front): UL10 Festival of Water</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/264_UL10 Festival of Water_back.jpg" num="264b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>GU</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 			<related attach="transform">UL10 Festival of Water</related>
 		</card>
 		<card>
@@ -5790,7 +5801,7 @@ Draw a card.
 		<card>
 			<name>1/1 Peasant Token ADD</name>
 			<text></text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/2t_1/1 Peasant Token.jpg" num="2">ADD</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/3t_1/1 Peasant Token.jpg" num="3">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5814,7 +5825,7 @@ Draw a card.
 		<card>
 			<name>Building Token ADD</name>
 			<text></text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/3t_Building Token.jpg" num="3">ADD</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/4t_Building Token.jpg" num="4">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5848,7 +5859,7 @@ Draw a card.
 		<card>
 			<name>Clue Token ADD</name>
 			<text>{2}, Sacrifice this token: Draw a card.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/4t_Clue Token.jpg" num="4">ADD</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/5t_Clue Token.jpg" num="5">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5900,10 +5911,27 @@ Draw a card.
 		</card>
 		<card>
 			<name>Elsewhere Reminder ADD</name>
-			<text>Before the game stars, place your elsewhere here. It is not a deck.
+			<text>Before the game starts, place your elsewhere here. It is not a deck.
 Your starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.
 You can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don&apos;t exceed total elsewhere value 10.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/1t_Elsewhere Reminder.jpg" num="1">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Reminder</type>
+				<maintype>Reminder</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Moodbound Reminder ADD</name>
+			<text>(Turn this sideways to show that you&apos;re grim.)
+You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less, and grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.
+Bound spells are spells with whimsybound or grimbound.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/2t_Moodbound Reminder.jpg" num="2">ADD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

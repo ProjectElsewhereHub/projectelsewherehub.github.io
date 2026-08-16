@@ -1,4 +1,51 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+UL04 Temple of Fire added.
+
+UL05 Temple of Fire removed.
+
+Faith token
+
+Choir token
+
+UM17 Magus' Mastery
+rules_text: Exile any number of target instant and/or sorcery cards from your graveyard. For each card exiled this way, copy it, and you may cast the copy without paying its mana cost.
+Exile this spell.
+{U}{R}, Discard this card: Draw two cards, then discard two cards. => Exile any number of target instant and/or sorcery cards from your graveyard. For each card exiled this way, copy it, and you may cast the copy without paying its mana cost.
+Exile this spell.
+{U}{R}, Exile this card from your hand: Draw two cards, then discard two cards.
+
+UG11 Growth Through Faith
+rules_text: You may put a land card from your hand onto the battlefield tapped.
+Draw a card.
+Pray twice. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Draw a card.
+You may put a land card from your hand onto the battlefield tapped.
+Pray twice. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i]
+
+MC03 Saviorality Perfected
+rules_text: Elsewhere 5 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+When this creature enters, you may exile ten cards from your graveyard. If you do, take an extra turn after this one. => Elsewhere 5 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+When this creature enters, you may exile ten cards from your graveyard. If you do, draw three cards.
+
+RB04 Lightform of Domination
+rules_text: [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Surveil X. [i](Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{R} — Each player discards their hand, then draws X cards.
+{G}{W} — Return a permanent card from your graveyard to the battlefield. => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Surveil X. [i](Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{R} — Each player discards their hand, then draws X cards.
+{G}{W} — Return a permanent card with mana value 5 or less from your graveyard to the battlefield.
+
+Elsewhere Reminder
+rules_text: Before the game stars, place your elsewhere here. It is not a deck.
+Your starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.
+You can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don't exceed total elsewhere value 10. => Before the game starts, place your elsewhere here. It is not a deck.
+Your starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.
+You can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don't exceed total elsewhere value 10.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

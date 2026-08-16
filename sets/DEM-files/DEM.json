@@ -384,7 +384,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname Faith token"
+            "notes": "!exportname Faith token\n!related CC03 Lightform of the Tongue;CC07 Lightform of the Nose;CW03 Omenful Dove;CW12 Praise Be;RW08 Penultimate Prayer;UW05 Elder Disciple;UW12 Great Prayer of Protection;CU02 Devout Assassin;CU06 Faithful Negation;CU08 Callous Disbelief;CU09 Indoctrinating Insight;RU02 Raven of Superstition;UU09 Study in Faith;UU12 Great Prayer of Arcana;CB07 Solace in Death;CB11 Maddening Devotion;CB12 Faith in Extremis;UB09 Faithful Rites;UB12 Great Prayer of Dexterity;CR04 Cyclefaith Serpent;CR07 Faith's Fire;UR04 Deepfaith Ritualist;UR09 Faithful Inspiration;UR12 Great Prayer of Soul;CG08 Faith-Guided Blades;UG10 Faith's Claim;UG11 Growth Through Faith;UG12 Great Prayer of Effort;UM07 Faithful Steam-Mage;UL01 Temple of Frost;UL02 Temple of Darkness;UL03 Temple of Blood;UL05 Temple of Fire;UL05 Temple of Fire;UL05 Temple of Life;UL06 Temple of Bone;UL07 Temple of Thunder;UL08 Temple of Death;UL09 Temple of Light;UL10 Temple of Water;"
         },
         {
             "card_name": "Choir token",
@@ -403,7 +403,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname Choir token"
+            "notes": "!exportname Choir token\n!related CC09 Lightform of the Voice;CW02 Young Singer;CW06 Choirsung Healer;CW07 Avatar of the Choir;RW02 Generous Choirsinger;RW07 Angel of the Choir;UW04 Guarding Choirsinger;UW11 Inspiring Harp;CB04 Choirsung Ritualist;RB05 Bloodsong Choirsinger;UB04 Insulting Choirsinger;CR03 Choirsung Combatant;CR11 Chaotic Bagpipes;RR06 Tablet of Songs;UR03 Choirsung Flame-Druid;RM06 Greatest Choirsinger;RM09 Choirsung Champion;UM06 Minister of the Choir;UM09 Choirsung Hero;CA01 Walking Piano;"
         },
         {
             "card_name": "UM16 Grand Organ of the Choir",
@@ -432,7 +432,7 @@
             "number": 224,
             "color_identity": "UR",
             "cost": "{5}{U}{R}",
-            "rules_text": "Exile any number of target instant and/or sorcery cards from your graveyard. For each card exiled this way, copy it, and you may cast the copy without paying its mana cost.\nExile this spell.\n{U}{R}, Discard this card: Draw two cards, then discard two cards.",
+            "rules_text": "Exile any number of target instant and/or sorcery cards from your graveyard. For each card exiled this way, copy it, and you may cast the copy without paying its mana cost.\nExile this spell.\n{U}{R}, Exile this card from your hand: Draw two cards, then discard two cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2078,25 +2078,6 @@
             "notes": ""
         },
         {
-            "card_name": "Elsewhere Reminder",
-            "color": "",
-            "rarity": "common",
-            "type": "Reminder",
-            "number": 2,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "Before the game stars, place your elsewhere here. It is not a deck.\nYour starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.\nYou can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don't exceed total elsewhere value 10.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "DEM",
-            "loyalty": "",
-            "designer": "",
-            "artist": "Thomas Stoops",
-            "notes": "!tag reminderslot"
-        },
-        {
             "card_name": "CR06 Traitorous Savior",
             "color": "R",
             "rarity": "common",
@@ -2534,7 +2515,7 @@
             "notes": ""
         },
         {
-            "card_name": "UL05 Temple of Fire",
+            "card_name": "UL04 Temple of Fire",
             "color": "",
             "rarity": "uncommon",
             "type": "Land \u2014 Mountain Forest",
@@ -3871,7 +3852,7 @@
             "number": 184,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "You may put a land card from your hand onto the battlefield tapped.\nDraw a card.\nPray twice. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with \u201c{1}, Sacrifice this enchantment: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Draw a card.\nYou may put a land card from your hand onto the battlefield tapped.\nPray twice. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with \u201c{1}, Sacrifice this enchantment: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4156,7 +4137,7 @@
             "number": 16,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "Elsewhere 5 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nWhen this creature enters, you may exile ten cards from your graveyard. If you do, take an extra turn after this one.",
+            "rules_text": "Elsewhere 5 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nWhen this creature enters, you may exile ten cards from your graveyard. If you do, draw three cards.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4327,7 +4308,7 @@
             "number": 103,
             "color_identity": "WUBRG",
             "cost": "{X}{B}",
-            "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{U} \u2014 Surveil X. [i](Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\n{R} \u2014 Each player discards their hand, then draws X cards.\n{G}{W} \u2014 Return a permanent card from your graveyard to the battlefield.",
+            "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{U} \u2014 Surveil X. [i](Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\n{R} \u2014 Each player discards their hand, then draws X cards.\n{G}{W} \u2014 Return a permanent card with mana value 5 or less from your graveyard to the battlefield.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
             "special_text": "",
@@ -4945,7 +4926,26 @@
             "designer": "",
             "artist": "",
             "notes": ""
+        },
+        {
+            "card_name": "Elsewhere Reminder",
+            "color": "",
+            "rarity": "common",
+            "type": "Reminder",
+            "number": 2,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Before the game starts, place your elsewhere here. It is not a deck.\nYour starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.\nYou can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don't exceed total elsewhere value 10.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "DEM",
+            "loyalty": "",
+            "designer": "",
+            "artist": "Thomas Stoops",
+            "notes": "!tag reminderslot"
         }
     ],
-    "version": 1
+    "version": 2
 }

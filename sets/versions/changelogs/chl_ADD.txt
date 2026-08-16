@@ -1,4 +1,51 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Moodbound Reminder added.
+
+
+RB04 Thoughtseizing Ranger
+rules_text: Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+When this creature enters, target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life. => Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+When this creature enters, target player reveals their hand. You choose a noncreature, nonland card from it. That player discards that card. You lose 2 life.
+
+ML02 The Lunar Isle
+rules_text: This land enters tapped.
+{T}: Add {U} or {B}.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => This land enters tapped.
+{T}: Add {U} or {B}.
+Moonflow 1 [i](You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+UL01 Festival of Frost
+
+UL02 Festival of Darkness
+
+UL03 Festival of Blood
+
+UL04 Festival of Fire
+
+UL05 Festival of Life
+
+UL06 Festival of Bone
+
+UL07 Festival of Thunder
+
+UL08 Festival of Death
+
+UL09 Festival of Light
+
+UL10 Festival of Water
+
+Elsewhere Reminder
+rules_text: Before the game stars, place your elsewhere here. It is not a deck.
+Your starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.
+You can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don't exceed total elsewhere value 10. => Before the game starts, place your elsewhere here. It is not a deck.
+Your starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.
+You can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don't exceed total elsewhere value 10.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 CM08 Violent Revolution added.

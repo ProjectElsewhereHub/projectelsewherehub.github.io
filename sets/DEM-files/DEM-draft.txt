@@ -1091,16 +1091,6 @@
 			}
 		},
 		{
-			"name": "Elsewhere Reminder",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Reminder",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/2t_Elsewhere Reminder.jpg"
-			}
-		},
-		{
 			"name": "CR06 Traitorous Savior",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
@@ -1331,13 +1321,13 @@
 			}
 		},
 		{
-			"name": "UL05 Temple of Fire",
+			"name": "UL04 Temple of Fire",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/246_UL05 Temple of Fire.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/246_UL04 Temple of Fire.jpg"
 			}
 		},
 		{
@@ -2599,6 +2589,16 @@
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/19_MC06 Tagross, Void Deified.jpg"
 			}
+		},
+		{
+			"name": "Elsewhere Reminder",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Reminder",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/2t_Elsewhere Reminder.jpg"
+			}
 		}
 	]
 
@@ -2708,7 +2708,7 @@
 	5 UL07 Temple of Thunder
 	5 UL03 Temple of Blood
 	5 UL08 Temple of Death
-	5 UL05 Temple of Fire
+	5 UL04 Temple of Fire
 	5 UL09 Temple of Light
 	5 UL05 Temple of Life
 	5 UL10 Temple of Water
@@ -2858,4 +2858,3 @@
 	5 CG12 Severed Appendage
 	5 CC12 Efficient Savior
 [reminderslot(1)]
-	100 Elsewhere Reminder

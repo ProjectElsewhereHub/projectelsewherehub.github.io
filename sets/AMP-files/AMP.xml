@@ -5,14 +5,14 @@
 			<name>AMP</name>
 			<longname>Amplalo, Realm of the Colossi</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-14</releasedate>
+			<releasedate>2026-08-16</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>O&apos;Lime, Reefkeeper</name>
 			<text>If an effect would create one or more tokens under your control, create those tokens plus an additional token that&apos;s a copy of of of those tokens.
-Apex—Creatures you control get +1/+1 as long as you control a creature with mana value 6 or greater.</text>
+Apex — Creatures you control get +1/+1 as long as you control a creature with mana value 6 or greater.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/205_O&apos;Lime, Reefkeeper.jpg" num="205">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -48,7 +48,7 @@ At the beginning of your end step, if you control three or more tapped creatures
 		<card>
 			<name>Gern, the Quakemaker</name>
 			<text>Vigilance
-Apex—At the beginning of your end step, if you control another creature with mana value 6 or greater, you may discard a card. If you do, draw a card. If the discarded card is a Giant, instead exile it and you may play that card until the end of your next turn.</text>
+Apex — At the beginning of your end step, if you control another creature with mana value 6 or greater, you may discard a card. If you do, draw a card. If the discarded card is a Giant, instead exile it and you may play that card until the end of your next turn.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/196_Gern, the Quakemaker.jpg" num="196">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -210,7 +210,7 @@ Whenever a creature or planeswalker an opponent controls is dealt excess noncomb
 		<card>
 			<name>Caller of the Protectors</name>
 			<text>Giant spells you cast cost {1} less to cast.
-Apex—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.</text>
+Apex — This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/5_Caller of the Protectors.jpg" num="5">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -244,7 +244,7 @@ Create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice
 		</card>
 		<card>
 			<name>Follower of Footsteps</name>
-			<text>Apex—This creature enters with a +1/+1 counter on it if you control a creature with mana value 6 or greater.</text>
+			<text>Apex — This creature enters with a +1/+1 counter on it if you control a creature with mana value 6 or greater.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/13_Follower of Footsteps.jpg" num="13">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -313,7 +313,7 @@ Whenever another creature you control enters, you gain 1 life.</text>
 		</card>
 		<card>
 			<name>Giant&apos;s Steppe Seekers</name>
-			<text>Apex—At the beginning of your end step, if you control a creature with mana value 6 or greater, put a +1/+1 counter on this creature.</text>
+			<text>Apex — At the beginning of your end step, if you control a creature with mana value 6 or greater, put a +1/+1 counter on this creature.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/15_Giant&apos;s Steppe Seekers.jpg" num="15">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -416,7 +416,7 @@ Vigilance</text>
 		</card>
 		<card>
 			<name>Render Insignificant</name>
-			<text>Apex—This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+			<text>Apex — This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
 Enchant creature
 Enchanted creature can&apos;t attack or block, and its activated abilities can&apos;t be activated.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/30_Render Insignificant.jpg" num="30">AMP</set>
@@ -520,7 +520,7 @@ Creatures you control gain indestructible until end of turn. Put a +1/+1 counter
 		<card>
 			<name>Exalted Griffin</name>
 			<text>Flying
-Apex—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.</text>
+Apex — This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/54_Exalted Griffin.jpg" num="54">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -709,7 +709,7 @@ Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</
 		</card>
 		<card>
 			<name>Beneath the Tides</name>
-			<text>Apex—This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+			<text>Apex — This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
 Draw two cards.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/42_Beneath the Tides.jpg" num="42">AMP</set>
 			<prop>
@@ -759,7 +759,7 @@ Create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice
 		</card>
 		<card>
 			<name>Protected by the Deep</name>
-			<text>Apex—Target creature gets +0/+3 until end of turn. If you control a creature with mana value 6 or greater, that creature also gains hexproof until end of turn.
+			<text>Apex — Target creature gets +0/+3 until end of turn. If you control a creature with mana value 6 or greater, that creature also gains hexproof until end of turn.
 Scry 1.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/66_Protected by the Deep.jpg" num="66">AMP</set>
 			<prop>
@@ -811,7 +811,7 @@ Draw a card.</text>
 		<card>
 			<name>Carrion Scrounger</name>
 			<text>When this creature enters, mill two cards.
-Apex—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.</text>
+Apex — This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/82_Carrion Scrounger.jpg" num="82">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -1038,7 +1038,7 @@ Destroy target creature or planeswalker.</text>
 		</card>
 		<card>
 			<name>Weight of Insignificance</name>
-			<text>Apex—This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+			<text>Apex — This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
 Destroy target creature with power value 3 or less. You gain 3 life.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/115_Weight of Insignificance.jpg" num="115">AMP</set>
 			<prop>
@@ -1173,7 +1173,7 @@ Whenever you sacrifice a permanent, this creature gets +1/+1 until end of turn.<
 		<card>
 			<name>Axehead Shark</name>
 			<text>Menace
-Apex—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.</text>
+Apex — This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/119_Axehead Shark.jpg" num="119">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -1190,7 +1190,7 @@ Apex—This creature gets +2/+1 as long as you control a creature with mana valu
 		</card>
 		<card>
 			<name>Reckless Battledriver</name>
-			<text>Apex—This creature can&apos;t block unless you control a creature with mana value 6 or greater.</text>
+			<text>Apex — This creature can&apos;t block unless you control a creature with mana value 6 or greater.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/145_Reckless Battledriver.jpg" num="145">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -1242,7 +1242,7 @@ Apex—This creature gets +2/+1 as long as you control a creature with mana valu
 		</card>
 		<card>
 			<name>Frenzied Follower</name>
-			<text>Apex—This creature has menace as long as you control a creature with mana value 6 or greater.</text>
+			<text>Apex — This creature has menace as long as you control a creature with mana value 6 or greater.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/130_Frenzied Follower.jpg" num="130">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -1276,7 +1276,7 @@ Apex—This creature gets +2/+1 as long as you control a creature with mana valu
 		</card>
 		<card>
 			<name>Schooling Serpent</name>
-			<text>Apex—This creature gets +2/+2 as long as you control another creature with mana value 6 or greater.</text>
+			<text>Apex — This creature gets +2/+2 as long as you control another creature with mana value 6 or greater.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/150_Schooling Serpent.jpg" num="150">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -1343,7 +1343,7 @@ Squash deals 6 damage to target creature or planeswalker.</text>
 		</card>
 		<card>
 			<name>Assert Dominance</name>
-			<text>Apex—This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+			<text>Apex — This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
 Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/118_Assert Dominance.jpg" num="118">AMP</set>
 			<prop>
@@ -1412,7 +1412,7 @@ Enchanted creature gets +1/+1.</text>
 		</card>
 		<card>
 			<name>Imbue with Fury</name>
-			<text>Apex—Target creature you control gets +3/+0 and gains trample until end of turn. If you control a creature with mana value 6 or greater, instead that creature gets +3/+3 and gains trample until end of turn.</text>
+			<text>Apex — Target creature you control gets +3/+0 and gains trample until end of turn. If you control a creature with mana value 6 or greater, instead that creature gets +3/+3 and gains trample until end of turn.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/135_Imbue with Fury.jpg" num="135">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -1462,7 +1462,7 @@ Enchanted creature gets +1/+1.</text>
 		<card>
 			<name>Harbinger of the Great Ones</name>
 			<text>{T}: Add one mana of any color.
-Apex—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.</text>
+Apex — This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/172_Harbinger of the Great Ones.jpg" num="172">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -1652,7 +1652,7 @@ When this creature enters, put two +1/+1 counters on target creature you control
 		</card>
 		<card>
 			<name>Ruthless Contest</name>
-			<text>Apex—This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+			<text>Apex — This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
 Target creature you control fights target creature you don&apos;t control. (Each deals damage equal to its power to the other.)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/179_Ruthless Contest.jpg" num="179">AMP</set>
 			<prop>
@@ -1786,7 +1786,7 @@ When this creature dies, create a Treasure token. (It&apos;s an artifact with &q
 		<card>
 			<name>Pinnacle of Worship</name>
 			<text>{T}: Add one mana of any color.
-Apex—{T}: Scry 1. You gain 1 life. Activate only if you control a creature with mana value 6 or greater.</text>
+Apex — {T}: Scry 1. You gain 1 life. Activate only if you control a creature with mana value 6 or greater.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/220_Pinnacle of Worship.jpg" num="220">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -1931,7 +1931,7 @@ At the beginning of combat on each turn, tap up to one target creature with powe
 		<card>
 			<name>Eternal Prison</name>
 			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
-Apex—This enchantment has indestructible as long as you control a creature with mana value 6 or greater.</text>
+Apex — This enchantment has indestructible as long as you control a creature with mana value 6 or greater.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/12_Eternal Prison.jpg" num="12">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2016,7 +2016,7 @@ This land enters tapped.
 		<card>
 			<name>Accomplished Protector</name>
 			<text>First strike
-Apex—This creature has vigilance as long as you control another creature with mana value 6 or greater.
+Apex — This creature has vigilance as long as you control another creature with mana value 6 or greater.
 ---
 (Front): Signs of Protection</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/259_Signs of Protection_back.jpg" num="259b">AMP</set>
@@ -2221,7 +2221,7 @@ If X is 0, scry 1 and create a tapped Treasure token. (It&apos;s an artifact wit
 		</card>
 		<card>
 			<name>Summit of Revelation</name>
-			<text>Apex—When you cast this spell, copy it if you control a creature with mana value 6 or greater.
+			<text>Apex — When you cast this spell, copy it if you control a creature with mana value 6 or greater.
 Scry 1, then draw a card.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/73_Summit of Revelation.jpg" num="73">AMP</set>
 			<prop>
@@ -2637,7 +2637,7 @@ This land enters tapped.
 			<name>Pyrewise Master</name>
 			<text>Trample
 Whenever this creature deals combat damage to a player, Giant spells you cast cost {X} less to cast this turn, where X is the amount of damage dealt.
-Apex—This creature gets +2/+2 as long as you control a creature with mana value 6 or greater.</text>
+Apex — This creature gets +2/+2 as long as you control a creature with mana value 6 or greater.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/144_Pyrewise Master.jpg" num="144">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2690,7 +2690,7 @@ Apex—This creature gets +2/+2 as long as you control a creature with mana valu
 		<card>
 			<name>Furybringer</name>
 			<text>This creature enters with three +1/+1 counters on it.
-Apex—{T}: Put a +1/+1 counter on this creature. Put two +1/+1 counters on this creature instead if you control a creature with mana value 6 or greater. Activate only as a sorcery.
+Apex — {T}: Put a +1/+1 counter on this creature. Put two +1/+1 counters on this creature instead if you control a creature with mana value 6 or greater. Activate only as a sorcery.
 {T}, Remove any number of +1/+1 counters from this creature: Add {R} for each +1/+1 counter removed this way.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/131_Furybringer.jpg" num="131">AMP</set>
 			<prop>
@@ -2992,7 +2992,7 @@ When this creature enters, you may have it fight target creature you don&apos;t 
 		<card>
 			<name>Act of the Ancients</name>
 			<text>Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
-Apex—If you control a creature with mana value 6 or greater, you gain life equal to the number of lands you control.</text>
+Apex — If you control a creature with mana value 6 or greater, you gain life equal to the number of lands you control.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/155_Act of the Ancients.jpg" num="155">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -3477,7 +3477,7 @@ Equip {3}</text>
 		<card>
 			<name>Tome of the Ancients</name>
 			<text>{1}, {T}: Scry 1.
-Apex—{2}, {T}: Draw a card. Activate only if you control a creature with mana value 6 or greater.</text>
+Apex — {2}, {T}: Draw a card. Activate only if you control a creature with mana value 6 or greater.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/225_Tome of the Ancients.jpg" num="225">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -3719,7 +3719,7 @@ Ward {6} (Whenever this creature becomes the target of a spell or ability an opp
 		</card>
 		<card>
 			<name>Limitless Insight</name>
-			<text>Apex—At the beginning of your upkeep, each player draws a card. If you control a creature with mana value 6 or greater, instead only you draw a card.</text>
+			<text>Apex — At the beginning of your upkeep, each player draws a card. If you control a creature with mana value 6 or greater, instead only you draw a card.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/59_Limitless Insight.jpg" num="59">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -4346,7 +4346,7 @@ Spells of the chosen type cost {1} less to cast for each charge counter on this 
 		</card>
 		<card>
 			<name>Awakened Attendant</name>
-			<text>Apex—At the beginning of your end step, if you control a creature with mana value 6 or greater, create a token that&apos;s a copy of this creature.</text>
+			<text>Apex — At the beginning of your end step, if you control a creature with mana value 6 or greater, create a token that&apos;s a copy of this creature.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/209_Awakened Attendant.jpg" num="209">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -4513,8 +4513,8 @@ When this creature enters, if it has toughness 0 or less, search your library fo
 				<side>front</side>
 				<type>Creature — Demon</type>
 				<maintype>Creature</maintype>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 				<pt>1+*/1+*</pt>
@@ -4813,7 +4813,7 @@ Scourged Grounds enters tapped.
 		<card>
 			<name>Almax, the Scourge-Tyrant</name>
 			<text>Flying
-Sacrifice thee permanents: Create a 4/4 red Dragon creature token with flying. Activate only once each turn and only as a sorcery.
+Sacrifice three permanents: Create a 4/4 red Dragon creature token with flying. Activate only once each turn and only as a sorcery.
 ---
 (Front): Scourged Grounds</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/257_Scourged Grounds_back.jpg" num="257b">AMP</set>
@@ -5390,7 +5390,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Murkwater Lurker</name>
-			<text>Apex—This creature has hexproof as long as you control another creature with mana value 6 or greater.</text>
+			<text>Apex — This creature has hexproof as long as you control another creature with mana value 6 or greater.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/61_Murkwater Lurker.jpg" num="61">AMP</set>
 			<prop>
 				<layout>normal</layout>

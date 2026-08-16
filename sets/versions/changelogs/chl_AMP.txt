@@ -1,4 +1,150 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+O'Lime, Reefkeeper
+rules_text: If an effect would create one or more tokens under your control, create those tokens plus an additional token that's a copy of of of those tokens.
+[i]Apex[/i]—Creatures you control get +1/+1 as long as you control a creature with mana value 6 or greater. => If an effect would create one or more tokens under your control, create those tokens plus an additional token that's a copy of of of those tokens.
+[i]Apex[/i] — Creatures you control get +1/+1 as long as you control a creature with mana value 6 or greater.
+
+Gern, the Quakemaker
+rules_text: Vigilance
+[i]Apex[/i]—At the beginning of your end step, if you control another creature with mana value 6 or greater, you may discard a card. If you do, draw a card. If the discarded card is a Giant, instead exile it and you may play that card until the end of your next turn. => Vigilance
+[i]Apex[/i] — At the beginning of your end step, if you control another creature with mana value 6 or greater, you may discard a card. If you do, draw a card. If the discarded card is a Giant, instead exile it and you may play that card until the end of your next turn.
+
+Caller of the Protectors
+rules_text: Giant spells you cast cost {1} less to cast.
+[i]Apex[/i]—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater. => Giant spells you cast cost {1} less to cast.
+[i]Apex[/i] — This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.
+
+Follower of Footsteps
+rules_text: [i]Apex[/i]—This creature enters with a +1/+1 counter on it if you control a creature with mana value 6 or greater. => [i]Apex[/i] — This creature enters with a +1/+1 counter on it if you control a creature with mana value 6 or greater.
+
+Giant's Steppe Seekers
+rules_text: [i]Apex[/i]—At the beginning of your end step, if you control a creature with mana value 6 or greater, put a +1/+1 counter on this creature. => [i]Apex[/i] — At the beginning of your end step, if you control a creature with mana value 6 or greater, put a +1/+1 counter on this creature.
+
+Render Insignificant
+rules_text: [i]Apex[/i]—This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated. => [i]Apex[/i] — This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+
+Exalted Griffin
+rules_text: Flying
+[i]Apex[/i]—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater. => Flying
+[i]Apex[/i] — This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.
+
+Beneath the Tides
+rules_text: [i]Apex[/i]—This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+Draw two cards. => [i]Apex[/i] — This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+Draw two cards.
+
+Protected by the Deep
+rules_text: [i]Apex[/i]—Target creature gets +0/+3 until end of turn. If you control a creature with mana value 6 or greater, that creature also gains hexproof until end of turn.
+Scry 1. => [i]Apex[/i] — Target creature gets +0/+3 until end of turn. If you control a creature with mana value 6 or greater, that creature also gains hexproof until end of turn.
+Scry 1.
+
+Carrion Scrounger
+rules_text: When this creature enters, mill two cards.
+[i]Apex[/i]—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater. => When this creature enters, mill two cards.
+[i]Apex[/i] — This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.
+
+Weight of Insignificance
+rules_text: [i]Apex[/i]—This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+Destroy target creature with power value 3 or less. You gain 3 life. => [i]Apex[/i] — This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+Destroy target creature with power value 3 or less. You gain 3 life.
+
+Axehead Shark
+rules_text: Menace
+[i]Apex[/i]—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater. => Menace
+[i]Apex[/i] — This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.
+
+Reckless Battledriver
+rules_text: [i]Apex[/i]—This creature can't block unless you control a creature with mana value 6 or greater. => [i]Apex[/i] — This creature can't block unless you control a creature with mana value 6 or greater.
+
+Frenzied Follower
+rules_text: [i]Apex[/i]—This creature has menace as long as you control a creature with mana value 6 or greater. => [i]Apex[/i] — This creature has menace as long as you control a creature with mana value 6 or greater.
+
+Schooling Serpent
+rules_text: [i]Apex[/i]—This creature gets +2/+2 as long as you control another creature with mana value 6 or greater. => [i]Apex[/i] — This creature gets +2/+2 as long as you control another creature with mana value 6 or greater.
+
+Assert Dominance
+rules_text: [i]Apex[/i]—This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. [i](It can attack and {T} this turn.)[/i] => [i]Apex[/i] — This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. [i](It can attack and {T} this turn.)[/i]
+
+Imbue with Fury
+rules_text: [i]Apex[/i]—Target creature you control gets +3/+0 and gains trample until end of turn. If you control a creature with mana value 6 or greater, instead that creature gets +3/+3 and gains trample until end of turn. => [i]Apex[/i] — Target creature you control gets +3/+0 and gains trample until end of turn. If you control a creature with mana value 6 or greater, instead that creature gets +3/+3 and gains trample until end of turn.
+
+Harbinger of the Great Ones
+rules_text: {T}: Add one mana of any color.
+[i]Apex[/i]—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater. => {T}: Add one mana of any color.
+[i]Apex[/i] — This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.
+
+Ruthless Contest
+rules_text: [i]Apex[/i]—This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+Target creature you control fights target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i] => [i]Apex[/i] — This spell costs {1} less to cast if you control a creature with mana value 6 or greater.
+Target creature you control fights target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+
+Pinnacle of Worship
+rules_text: {T}: Add one mana of any color.
+[i]Apex[/i]—{T}: Scry 1. You gain 1 life. Activate only if you control a creature with mana value 6 or greater. => {T}: Add one mana of any color.
+[i]Apex[/i] — {T}: Scry 1. You gain 1 life. Activate only if you control a creature with mana value 6 or greater.
+
+Eternal Prison
+rules_text: When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+[i]Apex[/i]—This enchantment has indestructible as long as you control a creature with mana value 6 or greater. => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+[i]Apex[/i] — This enchantment has indestructible as long as you control a creature with mana value 6 or greater.
+
+Signs of Protection
+
+Summit of Revelation
+rules_text: [i]Apex[/i]—When you cast this spell, copy it if you control a creature with mana value 6 or greater.
+Scry 1, then draw a card. => [i]Apex[/i] — When you cast this spell, copy it if you control a creature with mana value 6 or greater.
+Scry 1, then draw a card.
+
+Pyrewise Master
+rules_text: Trample
+Whenever this creature deals combat damage to a player, Giant spells you cast cost {X} less to cast this turn, where X is the amount of damage dealt.
+[i]Apex[/i]—This creature gets +2/+2 as long as you control a creature with mana value 6 or greater. => Trample
+Whenever this creature deals combat damage to a player, Giant spells you cast cost {X} less to cast this turn, where X is the amount of damage dealt.
+[i]Apex[/i] — This creature gets +2/+2 as long as you control a creature with mana value 6 or greater.
+
+Furybringer
+rules_text: This creature enters with three +1/+1 counters on it.
+[i]Apex[/i]—{T}: Put a +1/+1 counter on this creature. Put two +1/+1 counters on this creature instead if you control a creature with mana value 6 or greater. Activate only as a sorcery.
+{T}, Remove any number of +1/+1 counters from this creature: Add {R} for each +1/+1 counter removed this way. => This creature enters with three +1/+1 counters on it.
+[i]Apex[/i] — {T}: Put a +1/+1 counter on this creature. Put two +1/+1 counters on this creature instead if you control a creature with mana value 6 or greater. Activate only as a sorcery.
+{T}, Remove any number of +1/+1 counters from this creature: Add {R} for each +1/+1 counter removed this way.
+
+Act of the Ancients
+rules_text: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+[i]Apex[/i]—If you control a creature with mana value 6 or greater, you gain life equal to the number of lands you control. => Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+[i]Apex[/i] — If you control a creature with mana value 6 or greater, you gain life equal to the number of lands you control.
+
+Tome of the Ancients
+rules_text: {1}, {T}: Scry 1.
+[i]Apex[/i]—{2}, {T}: Draw a card. Activate only if you control a creature with mana value 6 or greater. => {1}, {T}: Scry 1.
+[i]Apex[/i] — {2}, {T}: Draw a card. Activate only if you control a creature with mana value 6 or greater.
+
+Limitless Insight
+rules_text: [i]Apex[/i]—At the beginning of your upkeep, each player draws a card. If you control a creature with mana value 6 or greater, instead only you draw a card. => [i]Apex[/i] — At the beginning of your upkeep, each player draws a card. If you control a creature with mana value 6 or greater, instead only you draw a card.
+
+Awakened Attendant
+rules_text: [i]Apex[/i]—At the beginning of your end step, if you control a creature with mana value 6 or greater, create a token that's a copy of this creature. => [i]Apex[/i] — At the beginning of your end step, if you control a creature with mana value 6 or greater, create a token that's a copy of this creature.
+
+Essence Etcher
+cost: {1}{B} => {2}{B}
+
+Scourged Grounds
+
+Murkwater Lurker
+rules_text: [i]Apex[/i]—This creature has hexproof as long as you control another creature with mana value 6 or greater. => [i]Apex[/i] — This creature has hexproof as long as you control another creature with mana value 6 or greater.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

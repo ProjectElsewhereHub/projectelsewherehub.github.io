@@ -2322,7 +2322,7 @@
         "position": ""
     },
     {
-        "card_name": "1/1 Peasant Token",
+        "card_name": "Moodbound Reminder",
         "number": 2,
         "shape": "token",
         "set": "ADD",
@@ -2330,7 +2330,7 @@
         "position": ""
     },
     {
-        "card_name": "Building Token",
+        "card_name": "1/1 Peasant Token",
         "number": 3,
         "shape": "token",
         "set": "ADD",
@@ -2338,7 +2338,7 @@
         "position": ""
     },
     {
-        "card_name": "Clue Token",
+        "card_name": "Building Token",
         "number": 4,
         "shape": "token",
         "set": "ADD",
@@ -2346,7 +2346,12 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Clue Token",
+        "number": 5,
+        "shape": "token",
+        "set": "ADD",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"

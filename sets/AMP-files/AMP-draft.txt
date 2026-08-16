@@ -2483,7 +2483,7 @@
 		{
 			"name": "Essence Etcher",
 			"rarity": "mythic",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Demon",
 			"collector_number": "89",
 			"image_uris": {

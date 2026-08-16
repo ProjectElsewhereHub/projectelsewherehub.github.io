@@ -5,7 +5,7 @@
 			<name>DEM</name>
 			<longname>Deus Ex Memoriam</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-14</releasedate>
+			<releasedate>2026-08-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -351,6 +351,46 @@ If invested permanent has a mana ability, it has {T}: &quot;Add {C}{C}. Each opp
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+			<reverse-related>CC03 Lightform of the Tongue</reverse-related>
+			<reverse-related>CC07 Lightform of the Nose</reverse-related>
+			<reverse-related>CW03 Omenful Dove</reverse-related>
+			<reverse-related>CW12 Praise Be</reverse-related>
+			<reverse-related>RW08 Penultimate Prayer</reverse-related>
+			<reverse-related>UW05 Elder Disciple</reverse-related>
+			<reverse-related>UW12 Great Prayer of Protection</reverse-related>
+			<reverse-related>CU02 Devout Assassin</reverse-related>
+			<reverse-related>CU06 Faithful Negation</reverse-related>
+			<reverse-related>CU08 Callous Disbelief</reverse-related>
+			<reverse-related>CU09 Indoctrinating Insight</reverse-related>
+			<reverse-related>RU02 Raven of Superstition</reverse-related>
+			<reverse-related>UU09 Study in Faith</reverse-related>
+			<reverse-related>UU12 Great Prayer of Arcana</reverse-related>
+			<reverse-related>CB07 Solace in Death</reverse-related>
+			<reverse-related>CB11 Maddening Devotion</reverse-related>
+			<reverse-related>CB12 Faith in Extremis</reverse-related>
+			<reverse-related>UB09 Faithful Rites</reverse-related>
+			<reverse-related>UB12 Great Prayer of Dexterity</reverse-related>
+			<reverse-related>CR04 Cyclefaith Serpent</reverse-related>
+			<reverse-related>CR07 Faith&apos;s Fire</reverse-related>
+			<reverse-related>UR04 Deepfaith Ritualist</reverse-related>
+			<reverse-related>UR09 Faithful Inspiration</reverse-related>
+			<reverse-related>UR12 Great Prayer of Soul</reverse-related>
+			<reverse-related>CG08 Faith-Guided Blades</reverse-related>
+			<reverse-related>UG10 Faith&apos;s Claim</reverse-related>
+			<reverse-related>UG11 Growth Through Faith</reverse-related>
+			<reverse-related>UG12 Great Prayer of Effort</reverse-related>
+			<reverse-related>UM07 Faithful Steam-Mage</reverse-related>
+			<reverse-related>UL01 Temple of Frost</reverse-related>
+			<reverse-related>UL02 Temple of Darkness</reverse-related>
+			<reverse-related>UL03 Temple of Blood</reverse-related>
+			<reverse-related>UL05 Temple of Fire</reverse-related>
+			<reverse-related>UL05 Temple of Fire</reverse-related>
+			<reverse-related>UL05 Temple of Life</reverse-related>
+			<reverse-related>UL06 Temple of Bone</reverse-related>
+			<reverse-related>UL07 Temple of Thunder</reverse-related>
+			<reverse-related>UL08 Temple of Death</reverse-related>
+			<reverse-related>UL09 Temple of Light</reverse-related>
+			<reverse-related>UL10 Temple of Water</reverse-related>
 		</card>
 		<card>
 			<name>Choir token DEM</name>
@@ -368,6 +408,26 @@ This creature can&apos;t block.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse-related>CC09 Lightform of the Voice</reverse-related>
+			<reverse-related>CW02 Young Singer</reverse-related>
+			<reverse-related>CW06 Choirsung Healer</reverse-related>
+			<reverse-related>CW07 Avatar of the Choir</reverse-related>
+			<reverse-related>RW02 Generous Choirsinger</reverse-related>
+			<reverse-related>RW07 Angel of the Choir</reverse-related>
+			<reverse-related>UW04 Guarding Choirsinger</reverse-related>
+			<reverse-related>UW11 Inspiring Harp</reverse-related>
+			<reverse-related>CB04 Choirsung Ritualist</reverse-related>
+			<reverse-related>RB05 Bloodsong Choirsinger</reverse-related>
+			<reverse-related>UB04 Insulting Choirsinger</reverse-related>
+			<reverse-related>CR03 Choirsung Combatant</reverse-related>
+			<reverse-related>CR11 Chaotic Bagpipes</reverse-related>
+			<reverse-related>RR06 Tablet of Songs</reverse-related>
+			<reverse-related>UR03 Choirsung Flame-Druid</reverse-related>
+			<reverse-related>RM06 Greatest Choirsinger</reverse-related>
+			<reverse-related>RM09 Choirsung Champion</reverse-related>
+			<reverse-related>UM06 Minister of the Choir</reverse-related>
+			<reverse-related>UM09 Choirsung Hero</reverse-related>
+			<reverse-related>CA01 Walking Piano</reverse-related>
 		</card>
 		<card>
 			<name>UM16 Grand Organ of the Choir</name>
@@ -390,7 +450,7 @@ Whenever a Choir you control dies, if it had 0 toughness, untap each nonland per
 			<name>UM17 Magus&apos; Mastery</name>
 			<text>Exile any number of target instant and/or sorcery cards from your graveyard. For each card exiled this way, copy it, and you may cast the copy without paying its mana cost.
 Exile this spell.
-{U}{R}, Discard this card: Draw two cards, then discard two cards.</text>
+{U}{R}, Exile this card from your hand: Draw two cards, then discard two cards.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/224_UM17 Magus&apos; Mastery.jpg" num="224">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -1898,23 +1958,6 @@ Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you contro
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Elsewhere Reminder DEM</name>
-			<text>Before the game stars, place your elsewhere here. It is not a deck.
-Your starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.
-You can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don&apos;t exceed total elsewhere value 10.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/2t_Elsewhere Reminder.jpg" num="2">DEM</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Reminder</type>
-				<maintype>Reminder</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
-		</card>
-		<card>
 			<name>CR06 Traitorous Savior</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, gain control of target creature until end of turn. Untap it. It gains haste until end of turn.</text>
@@ -2300,10 +2343,10 @@ This land enters tapped. When it enters, pray. (Create a Faith token. Then you m
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>UL05 Temple of Fire</name>
+			<name>UL04 Temple of Fire</name>
 			<text>({T}: Add {R} or {G}.)
 This land enters tapped. When it enters, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/246_UL05 Temple of Fire.jpg" num="246">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/246_UL04 Temple of Fire.jpg" num="246">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3518,8 +3561,8 @@ Invested creature gets +2/+2 and has trample.</text>
 		</card>
 		<card>
 			<name>UG11 Growth Through Faith</name>
-			<text>You may put a land card from your hand onto the battlefield tapped.
-Draw a card.
+			<text>Draw a card.
+You may put a land card from your hand onto the battlefield tapped.
 Pray twice. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/184_UG11 Growth Through Faith.jpg" num="184">DEM</set>
 			<prop>
@@ -3796,7 +3839,7 @@ As long as this card is in your starting elsewhere, your starting elsewhere may 
 		<card>
 			<name>MC03 Saviorality Perfected</name>
 			<text>Elsewhere 5 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-When this creature enters, you may exile ten cards from your graveyard. If you do, take an extra turn after this one.</text>
+When this creature enters, you may exile ten cards from your graveyard. If you do, draw three cards.</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/16_MC03 Saviorality Perfected.jpg" num="16">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3952,7 +3995,7 @@ This card can&apos;t start in your deck.</text>
 			<text>(This spell gains effects based on the sources and colors of mana spent to cast it.)
 {U} — Surveil X. (Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 {R} — Each player discards their hand, then draws X cards.
-{G}{W} — Return a permanent card from your graveyard to the battlefield.</text>
+{G}{W} — Return a permanent card with mana value 5 or less from your graveyard to the battlefield.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/103_RB04 Lightform of Domination.jpg" num="103">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -4518,6 +4561,23 @@ Whenever this creature attacks, it deals 10 damage to target creature.</text>
 				<pt>10/10</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elsewhere Reminder DEM</name>
+			<text>Before the game starts, place your elsewhere here. It is not a deck.
+Your starting elsewhere consists of any number of cards with total elsewhere value 10 or less. Cards without an elsewhere value cannot start in your elsewhere.
+You can move cards in and out of your elsewhere in sideboarding, provided all cards in it can start there and don&apos;t exceed total elsewhere value 10.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/2t_Elsewhere Reminder.jpg" num="2">DEM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Reminder</type>
+				<maintype>Reminder</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
