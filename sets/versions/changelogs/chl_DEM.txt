@@ -1,4 +1,48 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+RB07 Transmutation Tutor added.
+RG07 Faithful Questgiver added.
+MG02 Vagathia's Command added.
+
+RB07 Tranmutation Tutor removed.
+RG07 Expert Shieldcrafter removed.
+
+CB03 Marching Hands
+rules_text: This spell has ripple 3 as long as it was cast from your hand. [i](When you cast this spell, you may reveal the top three cards of your library. You may cast spells with the same name as this spell from among those cards without paying their mana costs. Put the rest on the bottom of your library.)[/i]
+A deck can have any number of cards named Rippling Rats. => This spell has ripple 3 as long as it was cast from your hand. [i](When you cast this spell, you may reveal the top three cards of your library. You may cast spells with the same name as this spell from among those cards without paying their mana costs. Put the rest on the bottom of your library.)[/i]
+A deck can have any number of cards named Marching Hands.
+
+CW12 Praise Be
+type: Sorcery => Instant
+cost: {W} => {1}{W}
+
+CU09 Indoctrinating Insight
+rules_text: Draw a card, then surveil 2 or pray twice. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order. To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Draw a card, then surveil 2 or pray twice. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i]
+
+CG08 Faith-Guided Blades
+type: Sorcery => Instant
+rules_text: Target creature you control fights target creature you don't control. Pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Choose one —
+• Target creature you control fights target creature you don't control.
+• Counter target spell that targets a creature you control unless its controller pays {2}. Pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i]
+
+MB01 Hand of God
+rules_text: Hands you control get +X/+X, where X is the difference between your starting life total and your life total. => Hands you control get +X/+X, where X is 11 minus your life total.
+pt: -9/-9 => -1/-1
+
+MC05 Tagross, Void Ascendant
+rules_text: Sacrifice ten permanents invested by GodShards and a GodShard investing each of them: If this creature is no longer longer on the battlefield, search your deck for a card named Tagross, [/i][i]Void[/i][i] Deified, put it onto the battlefield, then shuffle. => Sacrifice five permanents invested by GodShards and a GodShard investing each of them: If this creature is no longer longer on the battlefield, search your deck for a card named Tagross, [/i][i]Void[/i][i] Deified, put it onto the battlefield, then shuffle.
+
+MC06 Tagross, Void Deified
+rules_text: Menace
+When this creature enters, draw ten cards.
+Whenever this creature attacks, it deals 10 damage to target creature. => Menace
+When this creature enters, draw two cards.
+Whenever this creature attacks, it deals 5 damage to target creature.
+pt: 10/10 => 5/5
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

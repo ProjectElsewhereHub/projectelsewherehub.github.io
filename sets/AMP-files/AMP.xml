@@ -5,7 +5,7 @@
 			<name>AMP</name>
 			<longname>Amplalo, Realm of the Colossi</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-16</releasedate>
+			<releasedate>2026-08-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4505,7 +4505,7 @@ Whenever this creature deals combat damage to a player, that player skips their 
 		</card>
 		<card>
 			<name>Essence Etcher</name>
-			<text>This creature&apos;s power and toughness are each equal to 1 plus your starting life total minus your life total.
+			<text>This creature&apos;s power and toughness are each equal to 1 plus half the total of your starting life total minus your life total, rounded up.
 When this creature enters, if it has toughness 0 or less, search your library for a card, put that card into your hand, then shuffle.</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/89_Essence Etcher.jpg" num="89">AMP</set>
 			<prop>

@@ -1,4 +1,15 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Essence Etcher
+rules_text: This creature's power and toughness are each equal to 1 plus your starting life total minus your life total.
+When this creature enters, if it has toughness 0 or less, search your library for a card, put that card into your hand, then shuffle. => This creature's power and toughness are each equal to 1 plus half the total of your starting life total minus your life total, rounded up.
+When this creature enters, if it has toughness 0 or less, search your library for a card, put that card into your hand, then shuffle.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

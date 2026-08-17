@@ -4660,7 +4660,7 @@
             "number": 89,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "This creature's power and toughness are each equal to 1 plus your starting life total minus your life total.\nWhen this creature enters, if it has toughness 0 or less, search your library for a card, put that card into your hand, then shuffle.",
+            "rules_text": "This creature's power and toughness are each equal to 1 plus half the total of your starting life total minus your life total, rounded up.\nWhen this creature enters, if it has toughness 0 or less, search your library for a card, put that card into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "1+*/1+*",
             "special_text": "",
@@ -5402,5 +5402,5 @@
             "notes": "55%"
         }
     ],
-    "version": 4
+    "version": 5
 }

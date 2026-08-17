@@ -72,7 +72,7 @@
         "position": ""
     },
     {
-        "card_name": "RG01 Keeper's Strength",
+        "card_name": "MG02 Vagathia's Command",
         "number": 166,
         "shape": "normal",
         "set": "DEM",
@@ -112,7 +112,7 @@
         "position": ""
     },
     {
-        "card_name": "RG02 Exertion Animist",
+        "card_name": "RG01 Keeper's Strength",
         "number": 167,
         "shape": "normal",
         "set": "DEM",
@@ -152,7 +152,7 @@
         "position": ""
     },
     {
-        "card_name": "RG03 Godshard of Nature",
+        "card_name": "RG02 Exertion Animist",
         "number": 168,
         "shape": "normal",
         "set": "DEM",
@@ -192,9 +192,9 @@
         "position": ""
     },
     {
-        "card_name": "RG04 Lightform of Subservience",
+        "card_name": "RG03 Godshard of Nature",
         "number": 169,
-        "shape": "saga",
+        "shape": "normal",
         "set": "DEM",
         "rotated": false,
         "position": ""
@@ -232,9 +232,9 @@
         "position": ""
     },
     {
-        "card_name": "RG05 Exertion Battlemaster",
+        "card_name": "RG04 Lightform of Subservience",
         "number": 170,
-        "shape": "normal",
+        "shape": "saga",
         "set": "DEM",
         "rotated": false,
         "position": ""
@@ -272,7 +272,7 @@
         "position": ""
     },
     {
-        "card_name": "RG06 Handed Hands",
+        "card_name": "RG05 Exertion Battlemaster",
         "number": 171,
         "shape": "normal",
         "set": "DEM",
@@ -296,7 +296,7 @@
         "position": ""
     },
     {
-        "card_name": "RB07 Tranmutation Tutor",
+        "card_name": "RB07 Transmutation Tutor",
         "number": 106,
         "shape": "normal",
         "set": "DEM",
@@ -312,7 +312,7 @@
         "position": ""
     },
     {
-        "card_name": "RG07 Expert Shieldcrafter",
+        "card_name": "RG06 Handed Hands",
         "number": 172,
         "shape": "normal",
         "set": "DEM",
@@ -352,7 +352,7 @@
         "position": ""
     },
     {
-        "card_name": "RG08 Soul of Decay",
+        "card_name": "RG07 Faithful Questgiver",
         "number": 173,
         "shape": "normal",
         "set": "DEM",
@@ -392,7 +392,7 @@
         "position": ""
     },
     {
-        "card_name": "UG01 Keeper's Hound",
+        "card_name": "RG08 Soul of Decay",
         "number": 174,
         "shape": "normal",
         "set": "DEM",
@@ -432,7 +432,7 @@
         "position": ""
     },
     {
-        "card_name": "UG02 Keeper's Bear",
+        "card_name": "UG01 Keeper's Hound",
         "number": 175,
         "shape": "normal",
         "set": "DEM",
@@ -472,7 +472,7 @@
         "position": ""
     },
     {
-        "card_name": "UG03 Appendageous Ritualist",
+        "card_name": "UG02 Keeper's Bear",
         "number": 176,
         "shape": "normal",
         "set": "DEM",
@@ -512,7 +512,7 @@
         "position": ""
     },
     {
-        "card_name": "UG04 Druid of Exertion",
+        "card_name": "UG03 Appendageous Ritualist",
         "number": 177,
         "shape": "normal",
         "set": "DEM",
@@ -552,7 +552,7 @@
         "position": ""
     },
     {
-        "card_name": "UG05 Godshard of Strength",
+        "card_name": "UG04 Druid of Exertion",
         "number": 178,
         "shape": "normal",
         "set": "DEM",
@@ -592,7 +592,7 @@
         "position": ""
     },
     {
-        "card_name": "UG06 Hermetic Shieldcrafter",
+        "card_name": "UG05 Godshard of Strength",
         "number": 179,
         "shape": "normal",
         "set": "DEM",
@@ -632,7 +632,7 @@
         "position": ""
     },
     {
-        "card_name": "UG07 Emerald Savior",
+        "card_name": "UG06 Hermetic Shieldcrafter",
         "number": 180,
         "shape": "normal",
         "set": "DEM",
@@ -672,7 +672,7 @@
         "position": ""
     },
     {
-        "card_name": "UG08 Luxblight Titan",
+        "card_name": "UG07 Emerald Savior",
         "number": 181,
         "shape": "normal",
         "set": "DEM",
@@ -712,7 +712,7 @@
         "position": ""
     },
     {
-        "card_name": "UG09 Weaveline Duplimancer",
+        "card_name": "UG08 Luxblight Titan",
         "number": 182,
         "shape": "normal",
         "set": "DEM",
@@ -752,7 +752,7 @@
         "position": ""
     },
     {
-        "card_name": "UG10 Faith's Claim",
+        "card_name": "UG09 Weaveline Duplimancer",
         "number": 183,
         "shape": "normal",
         "set": "DEM",
@@ -792,7 +792,7 @@
         "position": ""
     },
     {
-        "card_name": "UG11 Growth Through Faith",
+        "card_name": "UG10 Faith's Claim",
         "number": 184,
         "shape": "normal",
         "set": "DEM",
@@ -832,7 +832,7 @@
         "position": ""
     },
     {
-        "card_name": "UG12 Great Prayer of Effort",
+        "card_name": "UG11 Growth Through Faith",
         "number": 185,
         "shape": "normal",
         "set": "DEM",
@@ -872,8 +872,8 @@
         "position": ""
     },
     {
-        "card_name": "CG01 Keeper of Strength",
-        "number": 153,
+        "card_name": "UG12 Great Prayer of Effort",
+        "number": 186,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -912,8 +912,8 @@
         "position": ""
     },
     {
-        "card_name": "CG02 Greatsong Guardian",
-        "number": 154,
+        "card_name": "CG01 Keeper of Strength",
+        "number": 153,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -952,8 +952,8 @@
         "position": ""
     },
     {
-        "card_name": "CG03 Druid of Forgetten Soul",
-        "number": 155,
+        "card_name": "CG02 Greatsong Guardian",
+        "number": 154,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -992,8 +992,8 @@
         "position": ""
     },
     {
-        "card_name": "CG04 Paired Appendage",
-        "number": 156,
+        "card_name": "CG03 Druid of Forgetten Soul",
+        "number": 155,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1032,8 +1032,8 @@
         "position": ""
     },
     {
-        "card_name": "CG05 Titanic Appendage",
-        "number": 157,
+        "card_name": "CG04 Paired Appendage",
+        "number": 156,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1072,8 +1072,8 @@
         "position": ""
     },
     {
-        "card_name": "CG06 Enlarged Shieldbearer",
-        "number": 158,
+        "card_name": "CG05 Titanic Appendage",
+        "number": 157,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1112,8 +1112,8 @@
         "position": ""
     },
     {
-        "card_name": "CG07 Stubborn Savior",
-        "number": 159,
+        "card_name": "CG06 Enlarged Shieldbearer",
+        "number": 158,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1152,8 +1152,8 @@
         "position": ""
     },
     {
-        "card_name": "CG08 Faith-Guided Blades",
-        "number": 160,
+        "card_name": "CG07 Stubborn Savior",
+        "number": 159,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1192,8 +1192,8 @@
         "position": ""
     },
     {
-        "card_name": "CG09 Shield Smash",
-        "number": 161,
+        "card_name": "CG08 Faith-Guided Blades",
+        "number": 160,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1232,8 +1232,8 @@
         "position": ""
     },
     {
-        "card_name": "CG10 Seek Solutions",
-        "number": 162,
+        "card_name": "CG09 Shield Smash",
+        "number": 161,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1272,8 +1272,8 @@
         "position": ""
     },
     {
-        "card_name": "CG11 Weaveline Might",
-        "number": 163,
+        "card_name": "CG10 Seek Solutions",
+        "number": 162,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1312,6 +1312,26 @@
         "position": ""
     },
     {
+        "card_name": "CG11 Weaveline Might",
+        "number": 163,
+        "shape": "normal",
+        "set": "DEM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "CG12 Severed Appendage",
         "number": 164,
         "shape": "normal",
@@ -1334,14 +1354,6 @@
     "a->gold",
     {
         "card_name": "RM01 Flag Seamstress",
-        "number": 198,
-        "shape": "normal",
-        "set": "DEM",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "RM02 Grinning Sphinx",
         "number": 199,
         "shape": "normal",
         "set": "DEM",
@@ -1349,7 +1361,7 @@
         "position": ""
     },
     {
-        "card_name": "RM03 Demon of Soul's Force",
+        "card_name": "RM02 Grinning Sphinx",
         "number": 200,
         "shape": "normal",
         "set": "DEM",
@@ -1357,7 +1369,7 @@
         "position": ""
     },
     {
-        "card_name": "RM04 Druid of Soul",
+        "card_name": "RM03 Demon of Soul's Force",
         "number": 201,
         "shape": "normal",
         "set": "DEM",
@@ -1365,7 +1377,7 @@
         "position": ""
     },
     {
-        "card_name": "RM05 Guardian of Thorns",
+        "card_name": "RM04 Druid of Soul",
         "number": 202,
         "shape": "normal",
         "set": "DEM",
@@ -1373,15 +1385,15 @@
         "position": ""
     },
     {
-        "card_name": "UM01 Eagle of Heraldry",
-        "number": 208,
+        "card_name": "RM05 Guardian of Thorns",
+        "number": 203,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UM02 Duplicitous Faithbeast",
+        "card_name": "UM01 Eagle of Heraldry",
         "number": 209,
         "shape": "normal",
         "set": "DEM",
@@ -1389,7 +1401,7 @@
         "position": ""
     },
     {
-        "card_name": "UM03 Solarstain Monk",
+        "card_name": "UM02 Duplicitous Faithbeast",
         "number": 210,
         "shape": "normal",
         "set": "DEM",
@@ -1397,7 +1409,7 @@
         "position": ""
     },
     {
-        "card_name": "UM04 Weaveline Emmissary",
+        "card_name": "UM03 Solarstain Monk",
         "number": 211,
         "shape": "normal",
         "set": "DEM",
@@ -1405,7 +1417,7 @@
         "position": ""
     },
     {
-        "card_name": "UM05 Charming Pianist",
+        "card_name": "UM04 Weaveline Emmissary",
         "number": 212,
         "shape": "normal",
         "set": "DEM",
@@ -1413,15 +1425,15 @@
         "position": ""
     },
     {
-        "card_name": "UM11 Heralding Anthem",
-        "number": 218,
+        "card_name": "UM05 Charming Pianist",
+        "number": 213,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "UM12 Grinning Monolith",
+        "card_name": "UM11 Heralding Anthem",
         "number": 219,
         "shape": "normal",
         "set": "DEM",
@@ -1429,7 +1441,7 @@
         "position": ""
     },
     {
-        "card_name": "UM13 Solarstain Energization",
+        "card_name": "UM12 Grinning Monolith",
         "number": 220,
         "shape": "normal",
         "set": "DEM",
@@ -1437,7 +1449,7 @@
         "position": ""
     },
     {
-        "card_name": "UM14 Weaveline Entombation",
+        "card_name": "UM13 Solarstain Energization",
         "number": 221,
         "shape": "normal",
         "set": "DEM",
@@ -1445,7 +1457,7 @@
         "position": ""
     },
     {
-        "card_name": "UM15 Mighty Choirsong",
+        "card_name": "UM14 Weaveline Entombation",
         "number": 222,
         "shape": "normal",
         "set": "DEM",
@@ -1453,15 +1465,15 @@
         "position": ""
     },
     {
-        "card_name": "CZ01 Godshard of Frost",
-        "number": 186,
+        "card_name": "UM15 Mighty Choirsong",
+        "number": 223,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CZ02 Godshard of Darkness",
+        "card_name": "CZ01 Godshard of Frost",
         "number": 187,
         "shape": "normal",
         "set": "DEM",
@@ -1469,7 +1481,7 @@
         "position": ""
     },
     {
-        "card_name": "CZ03 Godshard of Blood",
+        "card_name": "CZ02 Godshard of Darkness",
         "number": 188,
         "shape": "normal",
         "set": "DEM",
@@ -1477,7 +1489,7 @@
         "position": ""
     },
     {
-        "card_name": "CZ04 Godshard of Fire",
+        "card_name": "CZ03 Godshard of Blood",
         "number": 189,
         "shape": "normal",
         "set": "DEM",
@@ -1485,8 +1497,16 @@
         "position": ""
     },
     {
-        "card_name": "CZ05 Godshard of Life",
+        "card_name": "CZ04 Godshard of Fire",
         "number": 190,
+        "shape": "normal",
+        "set": "DEM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CZ05 Godshard of Life",
+        "number": 191,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1509,7 +1529,7 @@
     },
     {
         "card_name": "MM02 Banishing Darkness",
-        "number": 197,
+        "number": 198,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1517,14 +1537,6 @@
     },
     {
         "card_name": "RM07 Arcane Electromancer",
-        "number": 204,
-        "shape": "normal",
-        "set": "DEM",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "RM08 Hand-Powered Thrower",
         "number": 205,
         "shape": "normal",
         "set": "DEM",
@@ -1532,7 +1544,7 @@
         "position": ""
     },
     {
-        "card_name": "RM09 Choirsung Champion",
+        "card_name": "RM08 Hand-Powered Thrower",
         "number": 206,
         "shape": "normal",
         "set": "DEM",
@@ -1540,7 +1552,7 @@
         "position": ""
     },
     {
-        "card_name": "RM10 Avatar of Exertion",
+        "card_name": "RM09 Choirsung Champion",
         "number": 207,
         "shape": "normal",
         "set": "DEM",
@@ -1548,8 +1560,16 @@
         "position": ""
     },
     {
+        "card_name": "RM10 Avatar of Exertion",
+        "number": 208,
+        "shape": "normal",
+        "set": "DEM",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "RM06 Greatest Choirsinger",
-        "number": 203,
+        "number": 204,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1557,14 +1577,6 @@
     },
     {
         "card_name": "UM07 Faithful Steam-Mage",
-        "number": 214,
-        "shape": "normal",
-        "set": "DEM",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "UM08 Purveyor of Appendages",
         "number": 215,
         "shape": "normal",
         "set": "DEM",
@@ -1572,7 +1584,7 @@
         "position": ""
     },
     {
-        "card_name": "UM09 Choirsung Hero",
+        "card_name": "UM08 Purveyor of Appendages",
         "number": 216,
         "shape": "normal",
         "set": "DEM",
@@ -1580,7 +1592,7 @@
         "position": ""
     },
     {
-        "card_name": "UM10 Exertion Seeker",
+        "card_name": "UM09 Choirsung Hero",
         "number": 217,
         "shape": "normal",
         "set": "DEM",
@@ -1588,8 +1600,16 @@
         "position": ""
     },
     {
+        "card_name": "UM10 Exertion Seeker",
+        "number": 218,
+        "shape": "normal",
+        "set": "DEM",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "UM06 Minister of the Choir",
-        "number": 213,
+        "number": 214,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1597,14 +1617,6 @@
     },
     {
         "card_name": "UM17 Magus' Mastery",
-        "number": 224,
-        "shape": "normal",
-        "set": "DEM",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "UM18 Appendageous Insight",
         "number": 225,
         "shape": "normal",
         "set": "DEM",
@@ -1612,7 +1624,7 @@
         "position": ""
     },
     {
-        "card_name": "UM19 Lonesome Hero's Lance",
+        "card_name": "UM18 Appendageous Insight",
         "number": 226,
         "shape": "normal",
         "set": "DEM",
@@ -1620,7 +1632,7 @@
         "position": ""
     },
     {
-        "card_name": "UM20 Flurry of Effort",
+        "card_name": "UM19 Lonesome Hero's Lance",
         "number": 227,
         "shape": "normal",
         "set": "DEM",
@@ -1628,8 +1640,16 @@
         "position": ""
     },
     {
+        "card_name": "UM20 Flurry of Effort",
+        "number": 228,
+        "shape": "normal",
+        "set": "DEM",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "UM16 Grand Organ of the Choir",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1637,14 +1657,6 @@
     },
     {
         "card_name": "CZ07 Godshard of Thunder",
-        "number": 192,
-        "shape": "normal",
-        "set": "DEM",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CZ08 Godshard of Death",
         "number": 193,
         "shape": "normal",
         "set": "DEM",
@@ -1652,7 +1664,7 @@
         "position": ""
     },
     {
-        "card_name": "CZ09 Godshard of Light",
+        "card_name": "CZ08 Godshard of Death",
         "number": 194,
         "shape": "normal",
         "set": "DEM",
@@ -1660,7 +1672,7 @@
         "position": ""
     },
     {
-        "card_name": "CZ10 Godshard of Water",
+        "card_name": "CZ09 Godshard of Light",
         "number": 195,
         "shape": "normal",
         "set": "DEM",
@@ -1668,8 +1680,16 @@
         "position": ""
     },
     {
+        "card_name": "CZ10 Godshard of Water",
+        "number": 196,
+        "shape": "normal",
+        "set": "DEM",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "CZ06 Godshard of Bone",
-        "number": 191,
+        "number": 192,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1704,7 +1724,7 @@
     },
     {
         "card_name": "MM01 The Corpse of Regitholem",
-        "number": 196,
+        "number": 197,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1785,7 +1805,7 @@
     },
     {
         "card_name": "MA01 Mox Eternity",
-        "number": 229,
+        "number": 230,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1793,7 +1813,7 @@
     },
     {
         "card_name": "MA02 Mox Ichor",
-        "number": 230,
+        "number": 231,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1809,7 +1829,7 @@
     },
     {
         "card_name": "RA01 Exertion Amplifier",
-        "number": 231,
+        "number": 232,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1921,7 +1941,7 @@
     },
     {
         "card_name": "CA01 Walking Piano",
-        "number": 228,
+        "number": 229,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -1945,14 +1965,6 @@
     "a->land",
     {
         "card_name": "RL01 Foundation of Pearl",
-        "number": 237,
-        "shape": "normal",
-        "set": "DEM",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "RL02 Foundation of Sapphire",
         "number": 238,
         "shape": "normal",
         "set": "DEM",
@@ -1960,7 +1972,7 @@
         "position": ""
     },
     {
-        "card_name": "RL03 Foundation of Jet",
+        "card_name": "RL02 Foundation of Sapphire",
         "number": 239,
         "shape": "normal",
         "set": "DEM",
@@ -1968,7 +1980,7 @@
         "position": ""
     },
     {
-        "card_name": "RL04 Foundation of Ruby",
+        "card_name": "RL03 Foundation of Jet",
         "number": 240,
         "shape": "normal",
         "set": "DEM",
@@ -1976,7 +1988,7 @@
         "position": ""
     },
     {
-        "card_name": "RL05 Foundation of Emerald",
+        "card_name": "RL04 Foundation of Ruby",
         "number": 241,
         "shape": "normal",
         "set": "DEM",
@@ -1984,15 +1996,15 @@
         "position": ""
     },
     {
-        "card_name": "CL01 Foreign Plains",
-        "number": 232,
+        "card_name": "RL05 Foundation of Emerald",
+        "number": 242,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CL02 Foreign Island",
+        "card_name": "CL01 Foreign Plains",
         "number": 233,
         "shape": "normal",
         "set": "DEM",
@@ -2000,7 +2012,7 @@
         "position": ""
     },
     {
-        "card_name": "CL03 Foreign Swamp",
+        "card_name": "CL02 Foreign Island",
         "number": 234,
         "shape": "normal",
         "set": "DEM",
@@ -2008,7 +2020,7 @@
         "position": ""
     },
     {
-        "card_name": "CL04 Foreign Mountain",
+        "card_name": "CL03 Foreign Swamp",
         "number": 235,
         "shape": "normal",
         "set": "DEM",
@@ -2016,8 +2028,16 @@
         "position": ""
     },
     {
-        "card_name": "CL05 Foreign Forest",
+        "card_name": "CL04 Foreign Mountain",
         "number": 236,
+        "shape": "normal",
+        "set": "DEM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CL05 Foreign Forest",
+        "number": 237,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -2040,14 +2060,6 @@
     },
     {
         "card_name": "UL01 Temple of Frost",
-        "number": 243,
-        "shape": "normal",
-        "set": "DEM",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "UL02 Temple of Darkness",
         "number": 244,
         "shape": "normal",
         "set": "DEM",
@@ -2055,7 +2067,7 @@
         "position": ""
     },
     {
-        "card_name": "UL03 Temple of Blood",
+        "card_name": "UL02 Temple of Darkness",
         "number": 245,
         "shape": "normal",
         "set": "DEM",
@@ -2063,7 +2075,7 @@
         "position": ""
     },
     {
-        "card_name": "UL04 Temple of Fire",
+        "card_name": "UL03 Temple of Blood",
         "number": 246,
         "shape": "normal",
         "set": "DEM",
@@ -2071,8 +2083,16 @@
         "position": ""
     },
     {
-        "card_name": "UL05 Temple of Life",
+        "card_name": "UL04 Temple of Fire",
         "number": 247,
+        "shape": "normal",
+        "set": "DEM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL05 Temple of Life",
+        "number": 248,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -2095,14 +2115,6 @@
     },
     {
         "card_name": "UL06 Temple of Bone",
-        "number": 248,
-        "shape": "normal",
-        "set": "DEM",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "UL07 Temple of Thunder",
         "number": 249,
         "shape": "normal",
         "set": "DEM",
@@ -2110,7 +2122,7 @@
         "position": ""
     },
     {
-        "card_name": "UL08 Temple of Death",
+        "card_name": "UL07 Temple of Thunder",
         "number": 250,
         "shape": "normal",
         "set": "DEM",
@@ -2118,7 +2130,7 @@
         "position": ""
     },
     {
-        "card_name": "UL09 Temple of Light",
+        "card_name": "UL08 Temple of Death",
         "number": 251,
         "shape": "normal",
         "set": "DEM",
@@ -2126,8 +2138,16 @@
         "position": ""
     },
     {
-        "card_name": "UL10 Temple of Water",
+        "card_name": "UL09 Temple of Light",
         "number": 252,
+        "shape": "normal",
+        "set": "DEM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL10 Temple of Water",
+        "number": 253,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -2150,7 +2170,7 @@
     },
     {
         "card_name": "RL06 Foreign Outpost",
-        "number": 242,
+        "number": 243,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
@@ -2185,14 +2205,6 @@
     },
     {
         "card_name": "Plains",
-        "number": 253,
-        "shape": "normal",
-        "set": "DEM",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Island",
         "number": 254,
         "shape": "normal",
         "set": "DEM",
@@ -2200,7 +2212,7 @@
         "position": ""
     },
     {
-        "card_name": "Swamp",
+        "card_name": "Island",
         "number": 255,
         "shape": "normal",
         "set": "DEM",
@@ -2208,7 +2220,7 @@
         "position": ""
     },
     {
-        "card_name": "Mountain",
+        "card_name": "Swamp",
         "number": 256,
         "shape": "normal",
         "set": "DEM",
@@ -2216,8 +2228,16 @@
         "position": ""
     },
     {
-        "card_name": "Forest",
+        "card_name": "Mountain",
         "number": 257,
+        "shape": "normal",
+        "set": "DEM",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forest",
+        "number": 258,
         "shape": "normal",
         "set": "DEM",
         "rotated": false,
