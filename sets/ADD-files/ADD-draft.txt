@@ -3353,3 +3353,6 @@
 	5 CA02 Mechanical Pilgrim
 	5 CA03 Imposing Monolith
 [reminderslot(1)]
+	100 Elsewhere Reminder
+[reminderslot2(1)]
+	100 Moodbound Reminder

@@ -4497,7 +4497,7 @@ This creature and Choirs you control get +1/+1 and have trample and lifelink.</t
 		</card>
 		<card>
 			<name>MG01 Godslayer Vagathia</name>
-			<text>Protection from mana value 9 or greater. (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything with mana value 9 or greater.)
+			<text>Protection from mana value 9 or greater. (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything with mana value 9 or greater)
 When this creature enters, exile target card from an elsewhere.</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/165_MG01 Godslayer Vagathia.jpg" num="165">DEM</set>
 			<prop>

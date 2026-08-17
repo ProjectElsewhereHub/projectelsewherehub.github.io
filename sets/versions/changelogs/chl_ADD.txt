@@ -1,4 +1,17 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+RM02 Lord of the Isle
+rules_text: Reflection cards in your graveyard have Moonflow 1. [i](You may play those cards from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i] [i](You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => Reflection cards in your graveyard have Moonflow 1. [i](You may play those cards from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i]
+
+Elsewhere Reminder
+
+Moodbound Reminder
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Moodbound Reminder added.

@@ -4305,7 +4305,7 @@
             "number": 212,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "Reflection cards in your graveyard have Moonflow 1. [i](You may play those cards from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i] [i](You may play this card from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i]",
+            "rules_text": "Reflection cards in your graveyard have Moonflow 1. [i](You may play those cards from your graveyard as long as 1 or more creatures have died this turn. It enters with a finality counter on it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -5681,7 +5681,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "Thomas Stoops",
-            "notes": "!tag reminderslot"
+            "notes": "!reminderslot"
         },
         {
             "card_name": "Moodbound Reminder",
@@ -5700,8 +5700,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "Thomas Stoops",
-            "notes": "!tag reminderslot"
+            "notes": "!reminderslot2"
         }
     ],
-    "version": 5
+    "version": 6
 }

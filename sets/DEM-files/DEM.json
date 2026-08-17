@@ -384,7 +384,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname Faith token\n!related CC03 Lightform of the Tongue;CC07 Lightform of the Nose;CW03 Omenful Dove;CW12 Praise Be;RW08 Penultimate Prayer;UW05 Elder Disciple;UW12 Great Prayer of Protection;CU02 Devout Assassin;CU06 Faithful Negation;CU08 Callous Disbelief;CU09 Indoctrinating Insight;RU02 Raven of Superstition;UU09 Study in Faith;UU12 Great Prayer of Arcana;CB07 Solace in Death;CB11 Maddening Devotion;CB12 Faith in Extremis;UB09 Faithful Rites;UB12 Great Prayer of Dexterity;CR04 Cyclefaith Serpent;CR07 Faith's Fire;UR04 Deepfaith Ritualist;UR09 Faithful Inspiration;UR12 Great Prayer of Soul;CG08 Faith-Guided Blades;UG10 Faith's Claim;UG11 Growth Through Faith;UG12 Great Prayer of Effort;UM07 Faithful Steam-Mage;UL01 Temple of Frost;UL02 Temple of Darkness;UL03 Temple of Blood;UL05 Temple of Fire;UL05 Temple of Fire;UL05 Temple of Life;UL06 Temple of Bone;UL07 Temple of Thunder;UL08 Temple of Death;UL09 Temple of Light;UL10 Temple of Water;"
+            "notes": "!exportname Faith token\n!related CC03 Lightform of the Tongue;CC07 Lightform of the Nose;CW03 Omenful Dove;CW12 Praise Be;RW08 Penultimate Prayer;UW05 Elder Disciple;UW12 Great Prayer of Protection;CU02 Devout Assassin;CU06 Faithful Negation;CU08 Callous Disbelief;CU09 Indoctrinating Insight;RU02 Raven of Superstition;UU09 Study in Faith;UU12 Great Prayer of Arcana;CB07 Solace in Death;CB11 Maddening Devotion;CB12 Faith in Extremis;UB09 Faithful Rites;UB12 Great Prayer of Dexterity;CR04 Cyclefaith Serpent;CR07 Faith's Fire;UR04 Deepfaith Ritualist;UR09 Faithful Inspiration;UR12 Great Prayer of Soul;CG08 Faith-Guided Blades;UG10 Faith's Claim;UG11 Growth Through Faith;UG12 Great Prayer of Effort;UM07 Faithful Steam-Mage;UL01 Temple of Frost;UL02 Temple of Darkness;UL03 Temple of Blood;UL05 Temple of Fire;UL05 Temple of Fire;UL05 Temple of Life;UL06 Temple of Bone;UL07 Temple of Thunder;UL08 Temple of Death;UL09 Temple of Light;UL10 Temple of Water"
         },
         {
             "card_name": "Choir token",
@@ -403,7 +403,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname Choir token\n!related CC09 Lightform of the Voice;CW02 Young Singer;CW06 Choirsung Healer;CW07 Avatar of the Choir;RW02 Generous Choirsinger;RW07 Angel of the Choir;UW04 Guarding Choirsinger;UW11 Inspiring Harp;CB04 Choirsung Ritualist;RB05 Bloodsong Choirsinger;UB04 Insulting Choirsinger;CR03 Choirsung Combatant;CR11 Chaotic Bagpipes;RR06 Tablet of Songs;UR03 Choirsung Flame-Druid;RM06 Greatest Choirsinger;RM09 Choirsung Champion;UM06 Minister of the Choir;UM09 Choirsung Hero;CA01 Walking Piano;"
+            "notes": "!exportname Choir token\n!related CC09 Lightform of the Voice;CW02 Young Singer;CW06 Choirsung Healer;CW07 Avatar of the Choir;RW02 Generous Choirsinger;RW07 Angel of the Choir;UW04 Guarding Choirsinger;UW11 Inspiring Harp;CB04 Choirsung Ritualist;RB05 Bloodsong Choirsinger;UB04 Insulting Choirsinger;CR03 Choirsung Combatant;CR11 Chaotic Bagpipes;RR06 Tablet of Songs;UR03 Choirsung Flame-Druid;RM06 Greatest Choirsinger;RM09 Choirsung Champion;UM06 Minister of the Choir;UM09 Choirsung Hero;CA01 Walking Piano"
         },
         {
             "card_name": "UM16 Grand Organ of the Choir",
@@ -4859,7 +4859,7 @@
             "number": 165,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Protection from mana value 9 or greater. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with mana value 9 or greater.)[/i]\nWhen this creature enters, exile target card from an elsewhere.",
+            "rules_text": "Protection from mana value 9 or greater. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with mana value 9 or greater)[/i]\nWhen this creature enters, exile target card from an elsewhere.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4944,8 +4944,8 @@
             "loyalty": "",
             "designer": "",
             "artist": "Thomas Stoops",
-            "notes": "!tag reminderslot"
+            "notes": "!reminderslot"
         }
     ],
-    "version": 2
+    "version": 3
 }

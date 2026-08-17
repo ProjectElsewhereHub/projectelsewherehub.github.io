@@ -4989,7 +4989,7 @@
             "color2": "",
             "type2": "Legendary Artifact Creature \u2014 Golem Avatar",
             "cost2": "{12}",
-            "rules_text2": "Protection from multicolored [i](This permanent can't be targeted, dealt damage, enchanted, or equipped by anything multicolored.)[/i]\nWhen Drund enters or leaves the battlefield, choose a land of each basic land type, then destroy those lands.",
+            "rules_text2": "Protection from multicolored [i](This permanent can't be targeted, dealt damage, enchanted, or equipped by anything multicolored)[/i]\nWhen Drund enters or leaves the battlefield, choose a land of each basic land type, then destroy those lands.",
             "flavor_text2": "[i][/i]",
             "pt2": "12/12",
             "special_text2": "",
@@ -5402,5 +5402,5 @@
             "notes": "55%"
         }
     ],
-    "version": 3
+    "version": 4
 }

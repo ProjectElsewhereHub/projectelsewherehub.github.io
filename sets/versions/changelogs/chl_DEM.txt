@@ -1,4 +1,21 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Faith token
+
+Choir token
+
+MG01 Godslayer Vagathia
+rules_text: Protection from mana value 9 or greater. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with mana value 9 or greater.)[/i]
+When this creature enters, exile target card from an elsewhere. => Protection from mana value 9 or greater. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with mana value 9 or greater)[/i]
+When this creature enters, exile target card from an elsewhere.
+
+Elsewhere Reminder
+
+
+VERSION 2 CHANGELOG
 ====================
 
 UL04 Temple of Fire added.

@@ -2858,3 +2858,4 @@
 	5 CG12 Severed Appendage
 	5 CC12 Efficient Savior
 [reminderslot(1)]
+	100 Elsewhere Reminder
