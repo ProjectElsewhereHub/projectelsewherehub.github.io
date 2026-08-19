@@ -185,7 +185,7 @@
             "number": 218,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
-            "rules_text": "Whenever a creature you control becomes tapped, choose one \u2014\n\u2022 Surveil 1.\n\u2022 You gain 1 life.",
+            "rules_text": "Whenever a creature you control becomes tapped, choose one \u2014\n\u2022 Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\n\u2022 You gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -4966,5 +4966,5 @@
             "notes": ""
         }
     ],
-    "version": 4
+    "version": 5
 }

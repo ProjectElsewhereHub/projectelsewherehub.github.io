@@ -1,4 +1,17 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+UM10 Exertion Seeker
+rules_text: Whenever a creature you control becomes tapped, choose one —
+• Surveil 1.
+• You gain 1 life. => Whenever a creature you control becomes tapped, choose one —
+• Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+• You gain 1 life.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 RB07 Transmutation Tutor added.

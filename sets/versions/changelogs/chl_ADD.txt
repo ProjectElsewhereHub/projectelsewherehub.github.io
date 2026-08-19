@@ -1,4 +1,37 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+MC02 The Wanderer of Worlds added.
+RU03 Visionary Kinship added.
+MC01 The Dreamer Wakes Up added.
+
+MC01 The Wanderer of Worlds removed.
+RU03 Timewinder Supreme removed.
+
+CC01 Whimsical Farmer
+
+CW01 White Dreamer of Whimsy
+
+CU01 Blue Dreamer of Whimsy
+
+CB01 Black Dreamer of Whimsy
+
+CR01 Red Dreamer of Whimsy
+
+CG01 Green Dreamer of Whimsy
+
+CA01 Wildforged Golem
+
+CA02 Mechanical Pilgrim
+
+CA03 Imposing Monolith
+
+UA01 Wildforged Automaton
+
+ML06 The Dreamer's Home
+
+
+VERSION 7 CHANGELOG
 ====================
 
 No changes.

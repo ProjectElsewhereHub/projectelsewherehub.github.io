@@ -5,7 +5,7 @@
 			<name>DEM</name>
 			<longname>Deus Ex Memoriam</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-17</releasedate>
+			<releasedate>2026-08-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -164,7 +164,7 @@ As long as this creature is invested by a GodShard, whenever it deals combat dam
 		<card>
 			<name>UM10 Exertion Seeker</name>
 			<text>Whenever a creature you control becomes tapped, choose one —
-• Surveil 1.
+• Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 • You gain 1 life.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/218_UM10 Exertion Seeker.jpg" num="218">DEM</set>
 			<prop>
