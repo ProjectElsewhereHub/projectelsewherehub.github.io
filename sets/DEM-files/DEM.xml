@@ -5,7 +5,7 @@
 			<name>DEM</name>
 			<longname>Deus Ex Memoriam</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-18</releasedate>
+			<releasedate>2026-08-19</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>CB03 Marching Hands</name>
 			<text>This spell has ripple 3 as long as it was cast from your hand. (When you cast this spell, you may reveal the top three cards of your library. You may cast spells with the same name as this spell from among those cards without paying their mana costs. Put the rest on the bottom of your library.)
 A deck can have any number of cards named Marching Hands.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/89_CB03 Marching Hands.jpg" num="89">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/90_CB03 Marching Hands.jpg" num="90">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -29,8 +29,8 @@ A deck can have any number of cards named Marching Hands.</text>
 		</card>
 		<card>
 			<name>CW12 Praise Be</name>
-			<text>Pray. Draw a card. You gain 2 life. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/32_CW12 Praise Be.jpg" num="32">DEM</set>
+			<text>Create a prayer token. Draw a card. You gain 2 life. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/33_CW12 Praise Be.jpg" num="33">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -46,7 +46,7 @@ A deck can have any number of cards named Marching Hands.</text>
 		<card>
 			<name>MM02 Banishing Darkness</name>
 			<text>Put target creature into its owner&apos;s elsewhere.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/198_MM02 Banishing Darkness.jpg" num="198">DEM</set>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/199_MM02 Banishing Darkness.jpg" num="199">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -63,7 +63,7 @@ A deck can have any number of cards named Marching Hands.</text>
 			<name>UM02 Duplicitous Faithbeast</name>
 			<text>Flying
 When this creature enters, if mana from three or more differently named sources was spent to cast it, create a token that&apos;s a copy of it.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/210_UM02 Duplicitous Faithbeast.jpg" num="210">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/211_UM02 Duplicitous Faithbeast.jpg" num="211">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -79,9 +79,9 @@ When this creature enters, if mana from three or more differently named sources 
 		</card>
 		<card>
 			<name>UM07 Faithful Steam-Mage</name>
-			<text>Whenever you cast an instant or sorcery spell, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)
-{T}, Sacrifice two Faiths: Add {U}{R}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/215_UM07 Faithful Steam-Mage.jpg" num="215">DEM</set>
+			<text>Whenever you cast an instant or sorcery spell, create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
+{T}, Sacrifice two Prayers: Add {U}{R}.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/216_UM07 Faithful Steam-Mage.jpg" num="216">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -98,7 +98,7 @@ When this creature enters, if mana from three or more differently named sources 
 		<card>
 			<name>UM08 Purveyor of Appendages</name>
 			<text>The second Hand spell you cast each turn costs {2} less to cast.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/216_UM08 Purveyor of Appendages.jpg" num="216">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/217_UM08 Purveyor of Appendages.jpg" num="217">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -115,7 +115,7 @@ When this creature enters, if mana from three or more differently named sources 
 		<card>
 			<name>RA01 Exertion Amplifier</name>
 			<text>Whenever you activate a non-mana ability of a tapped permanent not named Amplifier of Exertion or an ability of a tapped permanent you control not named Amplifier of Exertion triggers, copy that ability. You may choose new targets for the copy.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/232_RA01 Exertion Amplifier.jpg" num="232">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/233_RA01 Exertion Amplifier.jpg" num="233">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -130,8 +130,8 @@ When this creature enters, if mana from three or more differently named sources 
 			<name>RR05 Godseeker Torazin</name>
 			<text>Haste
 Spiritbond abilities can tap this creature as if this creature&apos;s power was 4 greater.
-As long as this creature is invested by a GodShard, whenever it deals combat damage to a player, add {R}{R}. This mana lasts until end of turn.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/137_RR05 Godseeker Torazin.jpg" num="137">DEM</set>
+As long as this creature is invested by a God-Shard, whenever it deals combat damage to a player, add {R}{R}. This mana lasts until end of turn.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/138_RR05 Godseeker Torazin.jpg" num="138">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -148,7 +148,7 @@ As long as this creature is invested by a GodShard, whenever it deals combat dam
 		<card>
 			<name>UM12 Grinning Monolith</name>
 			<text>{T}: Add {U} or {B}. Mill a card.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/220_UM12 Grinning Monolith.jpg" num="220">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/221_UM12 Grinning Monolith.jpg" num="221">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -166,7 +166,7 @@ As long as this creature is invested by a GodShard, whenever it deals combat dam
 			<text>Whenever a creature you control becomes tapped, choose one —
 • Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 • You gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/218_UM10 Exertion Seeker.jpg" num="218">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/219_UM10 Exertion Seeker.jpg" num="219">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -184,7 +184,7 @@ As long as this creature is invested by a GodShard, whenever it deals combat dam
 			<name>UM01 Eagle of Heraldry</name>
 			<text>Flying, lifelink
 You may cast this spell from your graveyard as long as you control three or more creatures.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/209_UM01 Eagle of Heraldry.jpg" num="209">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/210_UM01 Eagle of Heraldry.jpg" num="210">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -202,7 +202,7 @@ You may cast this spell from your graveyard as long as you control three or more
 			<name>UM03 Solarstain Monk</name>
 			<text>Investiture spells you cast cost {1} less to cast.
 Invest abilities you activate cost {1} less to activate.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/211_UM03 Solarstain Monk.jpg" num="211">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/212_UM03 Solarstain Monk.jpg" num="212">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -219,7 +219,7 @@ Invest abilities you activate cost {1} less to activate.</text>
 		<card>
 			<name>UM04 Weaveline Emmissary</name>
 			<text>Whenever you tap an invested permanent for mana, add an additional {C}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/212_UM04 Weaveline Emmissary.jpg" num="212">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/213_UM04 Weaveline Emmissary.jpg" num="213">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -237,7 +237,7 @@ Invest abilities you activate cost {1} less to activate.</text>
 			<name>UM06 Minister of the Choir</name>
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 Whenever a Choir you control dies, if it had 0 toughness, you gain 2 life and each opponent loses 2 life.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/214_UM06 Minister of the Choir.jpg" num="214">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/215_UM06 Minister of the Choir.jpg" num="215">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -255,7 +255,7 @@ Whenever a Choir you control dies, if it had 0 toughness, you gain 2 life and ea
 			<name>UM09 Choirsung Hero</name>
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 {T}: Target Choir you control gets +2/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/217_UM09 Choirsung Hero.jpg" num="217">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/218_UM09 Choirsung Hero.jpg" num="218">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -273,7 +273,7 @@ Whenever a Choir you control dies, if it had 0 toughness, you gain 2 life and ea
 			<name>UM11 Heralding Anthem</name>
 			<text>Creatures you control get +1/+1.
 Whenever a creature you control deals combat damage to a player while you control three or more creatures, draw a card. This ability triggers only three times each turn.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/219_UM11 Heralding Anthem.jpg" num="219">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/220_UM11 Heralding Anthem.jpg" num="220">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -291,7 +291,7 @@ Whenever a creature you control deals combat damage to a player while you contro
 			<text>Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)
 Invested permanent has &quot;Ward—Pay 2 life.&quot; (Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.&quot;.)
 Invested creature gets +2/+1.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/221_UM13 Solarstain Energization.jpg" num="221">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/222_UM13 Solarstain Energization.jpg" num="222">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -308,7 +308,7 @@ Invested creature gets +2/+1.</text>
 			<name>UM14 Weaveline Entombation</name>
 			<text>Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)
 If invested permanent has a mana ability, it has {T}: &quot;Add {C}{C}. Each opponent gains 1 life.&quot;</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/222_UM14 Weaveline Entombation.jpg" num="222">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/223_UM14 Weaveline Entombation.jpg" num="223">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -324,7 +324,7 @@ If invested permanent has a mana ability, it has {T}: &quot;Add {C}{C}. Each opp
 		<card>
 			<name>UM20 Flurry of Effort</name>
 			<text>Tapped creatures you control get +1/+1 and gain hexproof until end of turn. Put a +1/+1 counter on each of them that isn&apos;t attacking.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/228_UM20 Flurry of Effort.jpg" num="228">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/229_UM20 Flurry of Effort.jpg" num="229">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -339,12 +339,13 @@ If invested permanent has a mana ability, it has {T}: &quot;Add {C}{C}. Each opp
 		</card>
 		<card>
 			<name>Faith token DEM</name>
-			<text>{1}, Sacrifice this enchantment: Add one mana of any color.</text>
+			<text>{1}, Sacrifice this enchantment: Add one mana of any color.
+Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/3t_Faith token.jpg" num="3">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Token Enchantment — Faith</type>
+				<type>Token Enchantment — Prayer</type>
 				<maintype>Enchantment</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -433,7 +434,7 @@ This creature can&apos;t block.</text>
 			<name>UM16 Grand Organ of the Choir</name>
 			<text>{T}: Put a -1/-1 counter on target creature. That creature&apos;s controller gains 1 life and each other player loses 1 life.
 Whenever a Choir you control dies, if it had 0 toughness, untap each nonland permanent you control.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/224_UM16 Grand Organ of the Choir.jpg" num="224">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/225_UM16 Grand Organ of the Choir.jpg" num="225">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -451,7 +452,7 @@ Whenever a Choir you control dies, if it had 0 toughness, untap each nonland per
 			<text>Exile any number of target instant and/or sorcery cards from your graveyard. For each card exiled this way, copy it, and you may cast the copy without paying its mana cost.
 Exile this spell.
 {U}{R}, Exile this card from your hand: Draw two cards, then discard two cards.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/225_UM17 Magus&apos; Mastery.jpg" num="225">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/226_UM17 Magus&apos; Mastery.jpg" num="226">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -468,7 +469,7 @@ Exile this spell.
 			<name>UM18 Appendageous Insight</name>
 			<text>Search your deck for up to two Hand cards, reveal them, put them into your hand, then shuffle.
 Add {B}{G}. You can&apos;t spend this mana to cast non-Hand spells.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/226_UM18 Appendageous Insight.jpg" num="226">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/227_UM18 Appendageous Insight.jpg" num="227">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -485,7 +486,7 @@ Add {B}{G}. You can&apos;t spend this mana to cast non-Hand spells.</text>
 			<name>UM19 Lonesome Hero&apos;s Lance</name>
 			<text>Equip {1}
 Whenever equipped creature attacks alone, it gets +4/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/227_UM19 Lonesome Hero&apos;s Lance.jpg" num="227">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/228_UM19 Lonesome Hero&apos;s Lance.jpg" num="228">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -503,11 +504,11 @@ Whenever equipped creature attacks alone, it gets +4/+0 until end of turn.</text
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 3 (You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 This creature and invested creature get +2/+2 and have flying.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/187_CZ01 Godshard of Frost.jpg" num="187">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/188_CZ01 Godshard of Frost.jpg" num="188">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>2W/U</manacost>
 				<cmc>3</cmc>
@@ -522,11 +523,11 @@ This creature and invested creature get +2/+2 and have flying.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 3 (You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 This creature and invested creature get +3/+3 and have lifelink.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/192_CZ06 Godshard of Bone.jpg" num="192">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/193_CZ06 Godshard of Bone.jpg" num="193">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>4W/B</manacost>
 				<cmc>5</cmc>
@@ -539,7 +540,7 @@ This creature and invested creature get +3/+3 and have lifelink.</text>
 		<card>
 			<name>UM05 Charming Pianist</name>
 			<text>Whenever a creature you control with toughness greater than its power enters, put a +1/+1 counter on it. You gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/213_UM05 Charming Pianist.jpg" num="213">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/214_UM05 Charming Pianist.jpg" num="214">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -556,7 +557,7 @@ This creature and invested creature get +3/+3 and have lifelink.</text>
 		<card>
 			<name>UM15 Mighty Choirsong</name>
 			<text>Target creature with toughness greater than its power gets +4/+4 and gains trample and lifelink until end of turn.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/223_UM15 Mighty Choirsong.jpg" num="223">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/224_UM15 Mighty Choirsong.jpg" num="224">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -574,11 +575,11 @@ This creature and invested creature get +3/+3 and have lifelink.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 3 (You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 This creature and invested creature get +3/+4 and have ward {1}.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/196_CZ10 Godshard of Water.jpg" num="196">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/197_CZ10 Godshard of Water.jpg" num="197">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>4G/U</manacost>
 				<cmc>5</cmc>
@@ -593,11 +594,11 @@ This creature and invested creature get +3/+4 and have ward {1}.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 3 (You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 This creature and invested creature get +2/+4 and have vigilance.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/191_CZ05 Godshard of Life.jpg" num="191">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/192_CZ05 Godshard of Life.jpg" num="192">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>3G/W</manacost>
 				<cmc>4</cmc>
@@ -612,11 +613,11 @@ This creature and invested creature get +2/+4 and have vigilance.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 3 (You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 This creature and invested creature get +1/+1 and have first strike.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/195_CZ09 Godshard of Light.jpg" num="195">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/196_CZ09 Godshard of Light.jpg" num="196">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>R/W</manacost>
 				<cmc>1</cmc>
@@ -631,11 +632,11 @@ This creature and invested creature get +1/+1 and have first strike.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 3 (You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 This creature and invested creature get +2/+1 and have skulk. (This creature can&apos;t be blocked by creatures with greater power.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/188_CZ02 Godshard of Darkness.jpg" num="188">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/189_CZ02 Godshard of Darkness.jpg" num="189">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>1U/B</manacost>
 				<cmc>2</cmc>
@@ -650,11 +651,11 @@ This creature and invested creature get +2/+1 and have skulk. (This creature can
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 3 (You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 This creature and invested creature get +2/+2 and have prowess.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/193_CZ07 Godshard of Thunder.jpg" num="193">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/194_CZ07 Godshard of Thunder.jpg" num="194">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>3U/R</manacost>
 				<cmc>4</cmc>
@@ -669,11 +670,11 @@ This creature and invested creature get +2/+2 and have prowess.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 3 (You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 This creature and invested creature get +3/+1 and have menace.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/189_CZ03 Godshard of Blood.jpg" num="189">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/190_CZ03 Godshard of Blood.jpg" num="190">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>2B/R</manacost>
 				<cmc>3</cmc>
@@ -688,11 +689,11 @@ This creature and invested creature get +3/+1 and have menace.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 3 (You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 This creature and invested creature get +1/+1 and have deathtouch.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/194_CZ08 Godshard of Death.jpg" num="194">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/195_CZ08 Godshard of Death.jpg" num="195">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>B/G</manacost>
 				<cmc>1</cmc>
@@ -707,11 +708,11 @@ This creature and invested creature get +1/+1 and have deathtouch.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 3 (You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 This creature and invested creature get +2/+2 and have trample.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/190_CZ04 Godshard of Fire.jpg" num="190">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/191_CZ04 Godshard of Fire.jpg" num="191">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>1R/G</manacost>
 				<cmc>2</cmc>
@@ -724,8 +725,8 @@ This creature and invested creature get +2/+2 and have trample.</text>
 		<card>
 			<name>CW03 Omenful Dove</name>
 			<text>Flying
-When this creature enters, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/23_CW03 Omenful Dove.jpg" num="23">DEM</set>
+When this creature enters, create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/24_CW03 Omenful Dove.jpg" num="24">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -741,8 +742,8 @@ When this creature enters, pray. (Create a Faith token. Then you may sacrifice f
 		</card>
 		<card>
 			<name>CB12 Faith in Extremis</name>
-			<text>Until end of turn, target creature gets +1/+0 and gains &quot;When this creature dies, return it to the battlefield tapped, then pray.&quot; (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/98_CB12 Faith in Extremis.jpg" num="98">DEM</set>
+			<text>Until end of turn, target creature gets +1/+0 and gains &quot;When this creature dies, return it to the battlefield tapped, then create a prayer token.&quot; (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/99_CB12 Faith in Extremis.jpg" num="99">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -759,7 +760,7 @@ When this creature enters, pray. (Create a Faith token. Then you may sacrifice f
 			<name>CW02 Young Singer</name>
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 This creature gets +1/+1 as long as you control a Choir.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/22_CW02 Young Singer.jpg" num="22">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/23_CW02 Young Singer.jpg" num="23">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -776,7 +777,7 @@ This creature gets +1/+1 as long as you control a Choir.</text>
 		<card>
 			<name>CW01 Keeper of Loyalty</name>
 			<text>Grimoire — Foreign Plains; Foreign Peasant; Luxblight Angel; (If you would draw a card, you may instead put a card listed here from your elsewhere into your hand.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/21_CW01 Keeper of Loyalty.jpg" num="21">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/22_CW01 Keeper of Loyalty.jpg" num="22">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -793,7 +794,7 @@ This creature gets +1/+1 as long as you control a Choir.</text>
 		<card>
 			<name>Plains</name>
 			<text>({T}: Add {W}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/254_Plains.jpg" num="254">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/255_Plains.jpg" num="255">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -807,7 +808,7 @@ This creature gets +1/+1 as long as you control a Choir.</text>
 		<card>
 			<name>Island</name>
 			<text>({T}: Add {U}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/255_Island.jpg" num="255">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/256_Island.jpg" num="256">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -821,7 +822,7 @@ This creature gets +1/+1 as long as you control a Choir.</text>
 		<card>
 			<name>Swamp</name>
 			<text>({T}: Add {B}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/256_Swamp.jpg" num="256">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/257_Swamp.jpg" num="257">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -835,7 +836,7 @@ This creature gets +1/+1 as long as you control a Choir.</text>
 		<card>
 			<name>Mountain</name>
 			<text>({T}: Add {R}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/257_Mountain.jpg" num="257">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/258_Mountain.jpg" num="258">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -849,7 +850,7 @@ This creature gets +1/+1 as long as you control a Choir.</text>
 		<card>
 			<name>Forest</name>
 			<text>({T}: Add {G}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/258_Forest.jpg" num="258">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/259_Forest.jpg" num="259">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -865,7 +866,7 @@ This creature gets +1/+1 as long as you control a Choir.</text>
 			<text>({T}: Add {W}.)
 Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/233_CL01 Foreign Plains.jpg" num="233">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/234_CL01 Foreign Plains.jpg" num="234">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -882,7 +883,7 @@ This land enters tapped.</text>
 			<text>({T}: Add {U}.)
 Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/234_CL02 Foreign Island.jpg" num="234">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/235_CL02 Foreign Island.jpg" num="235">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -899,7 +900,7 @@ This land enters tapped.</text>
 			<text>({T}: Add {B}.)
 Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/235_CL03 Foreign Swamp.jpg" num="235">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/236_CL03 Foreign Swamp.jpg" num="236">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -916,7 +917,7 @@ This land enters tapped.</text>
 			<text>({T}: Add {R}.)
 Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/236_CL04 Foreign Mountain.jpg" num="236">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/237_CL04 Foreign Mountain.jpg" num="237">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -933,7 +934,7 @@ This land enters tapped.</text>
 			<text>({T}: Add {G}.)
 Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 This land enters tapped.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/237_CL05 Foreign Forest.jpg" num="237">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/238_CL05 Foreign Forest.jpg" num="238">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -964,8 +965,8 @@ This land enters tapped.</text>
 			<name>UW08 Luxblight Angel</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Flying
-Whenever this creature attacks, if you don&apos;t control a creature invested by a GodShard, the defending player draws a card.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/49_UW08 Luxblight Angel.jpg" num="49">DEM</set>
+Whenever this creature attacks, if you don&apos;t control a creature invested by a God-Shard, the defending player draws a card.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/50_UW08 Luxblight Angel.jpg" num="50">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -983,8 +984,8 @@ Whenever this creature attacks, if you don&apos;t control a creature invested by
 			<name>UU06 Luxblight Sphinx</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Vigilance
-Whenever this creature attacks, if you don&apos;t control a creature invested by a GodShard, discard a card.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/80_UU06 Luxblight Sphinx.jpg" num="80">DEM</set>
+Whenever this creature attacks, if you don&apos;t control a creature invested by a God-Shard, discard a card.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/81_UU06 Luxblight Sphinx.jpg" num="81">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1002,8 +1003,8 @@ Whenever this creature attacks, if you don&apos;t control a creature invested by
 			<name>UB07 Luxblight Demon</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Menace
-Whenever this creature attacks, if you don&apos;t control a creature invested by a GodShard, you lose 4 life.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/114_UB07 Luxblight Demon.jpg" num="114">DEM</set>
+Whenever this creature attacks, if you don&apos;t control a creature invested by a God-Shard, you lose 4 life.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/115_UB07 Luxblight Demon.jpg" num="115">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1021,8 +1022,8 @@ Whenever this creature attacks, if you don&apos;t control a creature invested by
 			<name>UR07 Luxblight Dragon</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Haste
-Whenever this creature attacks, if you don&apos;t control a creature invested by a GodShard, sacrifice a land.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/147_UR07 Luxblight Dragon.jpg" num="147">DEM</set>
+Whenever this creature attacks, if you don&apos;t control a creature invested by a God-Shard, sacrifice a land.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/148_UR07 Luxblight Dragon.jpg" num="148">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1040,8 +1041,8 @@ Whenever this creature attacks, if you don&apos;t control a creature invested by
 			<name>UG08 Luxblight Titan</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Trample
-Whenever this creature attacks, if you don&apos;t control a creature invested by a GodShard, the defending player may put a land card from their hand onto the battlefield.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/182_UG08 Luxblight Titan.jpg" num="182">DEM</set>
+Whenever this creature attacks, if you don&apos;t control a creature invested by a God-Shard, the defending player may put a land card from their hand onto the battlefield.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/183_UG08 Luxblight Titan.jpg" num="183">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1059,7 +1060,7 @@ Whenever this creature attacks, if you don&apos;t control a creature invested by
 			<name>CW04 Heralding Harbinger</name>
 			<text>Vigilance
 Whenever this creature attacks, if you control three or more creatures, put a +1/+1 counter on target creature.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/24_CW04 Heralding Harbinger.jpg" num="24">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/25_CW04 Heralding Harbinger.jpg" num="25">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1076,7 +1077,7 @@ Whenever this creature attacks, if you control three or more creatures, put a +1
 		<card>
 			<name>CU01 Keeper of Knowledge</name>
 			<text>Grimoire — Foreign Island; Foreign Peasant; Luxblight Sphinx; (If you would draw a card, you may instead put a card listed here from your elsewhere into your hand.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/54_CU01 Keeper of Knowledge.jpg" num="54">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/55_CU01 Keeper of Knowledge.jpg" num="55">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1093,7 +1094,7 @@ Whenever this creature attacks, if you control three or more creatures, put a +1
 		<card>
 			<name>CB01 Keeper of Persistence</name>
 			<text>Grimoire — Foreign Swamp; Foreign Peasant; Luxblight Demon; (If you would draw a card, you may instead put a card listed here from your elsewhere into your hand.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/87_CB01 Keeper of Persistence.jpg" num="87">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/88_CB01 Keeper of Persistence.jpg" num="88">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1110,7 +1111,7 @@ Whenever this creature attacks, if you control three or more creatures, put a +1
 		<card>
 			<name>CR01 Keeper of Courage</name>
 			<text>Grimoire — Foreign Mountain; Foreign Peasant; Luxblight Dragon; (If you would draw a card, you may instead put a card listed here from your elsewhere into your hand.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/120_CR01 Keeper of Courage.jpg" num="120">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/121_CR01 Keeper of Courage.jpg" num="121">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1127,7 +1128,7 @@ Whenever this creature attacks, if you control three or more creatures, put a +1
 		<card>
 			<name>CG01 Keeper of Strength</name>
 			<text>Grimoire — Foreign Forest; Foreign Peasant; Luxblight Titan; (If you would draw a card, you may instead put a card listed here from your elsewhere into your hand.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/153_CG01 Keeper of Strength.jpg" num="153">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/154_CG01 Keeper of Strength.jpg" num="154">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1145,7 +1146,7 @@ Whenever this creature attacks, if you control three or more creatures, put a +1
 			<name>CW06 Choirsung Healer</name>
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 When this creature enters, you gain life equal to another target creature&apos;s toughness.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/26_CW06 Choirsung Healer.jpg" num="26">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/27_CW06 Choirsung Healer.jpg" num="27">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1162,7 +1163,7 @@ When this creature enters, you gain life equal to another target creature&apos;s
 		<card>
 			<name>CW05 Heretic Ressurector</name>
 			<text>When this creature enters, return target creature card with mana value 2 or less from your graveyard to the battlefield.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/25_CW05 Heretic Ressurector.jpg" num="25">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/26_CW05 Heretic Ressurector.jpg" num="26">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1181,7 +1182,7 @@ When this creature enters, you gain life equal to another target creature&apos;s
 			<text>Choose one —
 • Return target nonland permanent to its owner&apos;s hand.
 • Put target Investiture with spiritbond into its owner&apos;s elsewhere.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/60_CU07 Flowing Dismissal.jpg" num="60">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/61_CU07 Flowing Dismissal.jpg" num="61">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1198,7 +1199,7 @@ When this creature enters, you gain life equal to another target creature&apos;s
 			<name>CW07 Avatar of the Choir</name>
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 At the beginning of combat on your turn, you may have this creature gain vigilance until end of turn.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/27_CW07 Avatar of the Choir.jpg" num="27">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/28_CW07 Avatar of the Choir.jpg" num="28">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1215,7 +1216,7 @@ At the beginning of combat on your turn, you may have this creature gain vigilan
 		<card>
 			<name>CW09 Loyal Flames</name>
 			<text>This spell deals 3 damage to target attacking or blocking creature. Put a +1/+1 counter on up to one creature blocking or being blocked by that creature.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/29_CW09 Loyal Flames.jpg" num="29">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/30_CW09 Loyal Flames.jpg" num="30">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1232,7 +1233,7 @@ At the beginning of combat on your turn, you may have this creature gain vigilan
 			<name>RC01 Elsewhere Stalker</name>
 			<text>Elsewhere 3 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Sacrifice or counter three permanents and/or spells you control with elsewhere: Put this creature from your elsewhere onto the battlefield.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/20_RC01 Elsewhere Stalker.jpg" num="20">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/21_RC01 Elsewhere Stalker.jpg" num="21">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1248,7 +1249,7 @@ Sacrifice or counter three permanents and/or spells you control with elsewhere: 
 			<name>CW10 Shifting Soul-Scars</name>
 			<text>Invested permanent can&apos;t attack or block, and its non-mana abilities can&apos;t be activated.
 {1}{W}: Attach to target non-aura non-investiture permanent you don&apos;t control. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/30_CW10 Shifting Soul-Scars.jpg" num="30">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/31_CW10 Shifting Soul-Scars.jpg" num="31">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1264,7 +1265,7 @@ Sacrifice or counter three permanents and/or spells you control with elsewhere: 
 		<card>
 			<name>CW11 Overwhelming Soulshatter</name>
 			<text>Destroy target enchantment. If you controlled it, draw a card, then creatures you control get +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/31_CW11 Overwhelming Soulshatter.jpg" num="31">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/32_CW11 Overwhelming Soulshatter.jpg" num="32">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1316,7 +1317,7 @@ Sacrifice or counter three permanents and/or spells you control with elsewhere: 
 		<card>
 			<name>CC03 Lightform of the Tongue</name>
 			<text>(This spell gains effects based on the sources and colors of mana spent to cast it.)
-{U} — Pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)
+{U} — Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
 {B} — Add X mana in any combination of colors.
 {R} — This spell deals X damage to each opponent.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/3_CC03 Lightform of the Tongue.jpg" num="3">DEM</set>
@@ -1335,7 +1336,7 @@ Sacrifice or counter three permanents and/or spells you control with elsewhere: 
 			<name>CW08 Fervent Savior</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, put a +1/+1 counter on another target creature you control.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/28_CW08 Fervent Savior.jpg" num="28">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/29_CW08 Fervent Savior.jpg" num="29">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1408,7 +1409,7 @@ When this creature enters, put a +1/+1 counter on another target creature you co
 			<text>(This spell gains effects based on the sources and colors of mana spent to cast it.)
 {G} — Add one mana of any color.
 {U} — You may tap an untapped creature you control. If you do, surveil X, then draw a card.
-{R} — Pray X times. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
+{R} — Create X prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/7_CC07 Lightform of the Nose.jpg" num="7">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -1480,7 +1481,7 @@ When this creature enters, put a +1/+1 counter on another target creature you co
 			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 {T}: Add {W}.
 You may play this land from your elsewhere as long as you control no Foundations.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/238_RL01 Foundation of Pearl.jpg" num="238">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/239_RL01 Foundation of Pearl.jpg" num="239">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1497,7 +1498,7 @@ You may play this land from your elsewhere as long as you control no Foundations
 			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 {T}: Add {U}.
 You may play this land from your elsewhere as long as you control no Foundations.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/239_RL02 Foundation of Sapphire.jpg" num="239">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/240_RL02 Foundation of Sapphire.jpg" num="240">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1514,7 +1515,7 @@ You may play this land from your elsewhere as long as you control no Foundations
 			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 {T}: Add {B}.
 You may play this land from your elsewhere as long as you control no Foundations.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/240_RL03 Foundation of Jet.jpg" num="240">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/241_RL03 Foundation of Jet.jpg" num="241">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1531,7 +1532,7 @@ You may play this land from your elsewhere as long as you control no Foundations
 			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 {T}: Add {R}.
 You may play this land from your elsewhere as long as you control no Foundations.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/241_RL04 Foundation of Ruby.jpg" num="241">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/242_RL04 Foundation of Ruby.jpg" num="242">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1548,7 +1549,7 @@ You may play this land from your elsewhere as long as you control no Foundations
 			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 {T}: Add {G}.
 You may play this land from your elsewhere as long as you control no Foundations.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/242_RL05 Foundation of Emerald.jpg" num="242">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/243_RL05 Foundation of Emerald.jpg" num="243">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1564,8 +1565,8 @@ You may play this land from your elsewhere as long as you control no Foundations
 			<name>CU02 Devout Assassin</name>
 			<text>Flash
 Reach
-When this creature enters or dies, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/55_CU02 Devout Assassin.jpg" num="55">DEM</set>
+When this creature enters or dies, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/56_CU02 Devout Assassin.jpg" num="56">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1584,7 +1585,7 @@ When this creature enters or dies, pray. (Create a Faith token. Then you may sac
 			<text>Vigilance
 Whenever this creature becomes tapped, draw a card.
 {1}{U}, {T}: Discard a card.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/56_CU03 Forceful Looter.jpg" num="56">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/57_CU03 Forceful Looter.jpg" num="57">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1601,7 +1602,7 @@ Whenever this creature becomes tapped, draw a card.
 			<name>CU04 Chained Airwinder</name>
 			<text>Flying
 This creature can&apos;t attack unless there are a total of three tapped creatures you control and/or instant and/or sorcery cards in your graveyard.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/57_CU04 Chained Airwinder.jpg" num="57">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/58_CU04 Chained Airwinder.jpg" num="58">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1619,7 +1620,7 @@ This creature can&apos;t attack unless there are a total of three tapped creatur
 			<name>CU05 Haughty Savior</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, draw a card.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/58_CU05 Haughty Savior.jpg" num="58">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/59_CU05 Haughty Savior.jpg" num="59">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1635,8 +1636,8 @@ When this creature enters, draw a card.</text>
 		</card>
 		<card>
 			<name>CU06 Faithful Negation</name>
-			<text>Counter target spell. Pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/59_CU06 Faithful Negation.jpg" num="59">DEM</set>
+			<text>Counter target spell. Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/60_CU06 Faithful Negation.jpg" num="60">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1651,8 +1652,8 @@ When this creature enters, draw a card.</text>
 		</card>
 		<card>
 			<name>CU08 Callous Disbelief</name>
-			<text>Target nonland permanent&apos;s owner puts it on the top or bottom of their library. They may pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/61_CU08 Callous Disbelief.jpg" num="61">DEM</set>
+			<text>Target nonland permanent&apos;s owner puts it on the top or bottom of their library. They may create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/62_CU08 Callous Disbelief.jpg" num="62">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1667,8 +1668,8 @@ When this creature enters, draw a card.</text>
 		</card>
 		<card>
 			<name>CU09 Indoctrinating Insight</name>
-			<text>Draw a card, then surveil 2 or pray twice. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/62_CU09 Indoctrinating Insight.jpg" num="62">DEM</set>
+			<text>Draw a card, then surveil 2 or create two Prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/63_CU09 Indoctrinating Insight.jpg" num="63">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1684,7 +1685,7 @@ When this creature enters, draw a card.</text>
 		<card>
 			<name>CU10 Intellectual Ritual</name>
 			<text>Draw two cards. Add {U}.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/63_CU10 Intellectual Ritual.jpg" num="63">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/64_CU10 Intellectual Ritual.jpg" num="64">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1700,7 +1701,7 @@ When this creature enters, draw a card.</text>
 		<card>
 			<name>CU11 Shields Up</name>
 			<text>Target creature you control gets +1/+4 until end of turn.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/64_CU11 Shields Up.jpg" num="64">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/65_CU11 Shields Up.jpg" num="65">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1717,7 +1718,7 @@ When this creature enters, draw a card.</text>
 			<name>CU12 Soul of Curiosity</name>
 			<text>Whenever invested permanent deals damage to a player, you may draw a card.
 Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/65_CU12 Soul of Curiosity.jpg" num="65">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/66_CU12 Soul of Curiosity.jpg" num="66">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1734,7 +1735,7 @@ Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control
 			<name>CB02 Soul-Essence Vulture</name>
 			<text>Flying
 This creature gets +1/+1 as long as it&apos;s invested.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/88_CB02 Soul-Essence Vulture.jpg" num="88">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/89_CB02 Soul-Essence Vulture.jpg" num="89">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1752,7 +1753,7 @@ This creature gets +1/+1 as long as it&apos;s invested.</text>
 			<name>CB04 Choirsung Ritualist</name>
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 Whenever a Choir you control dies, if it had 0 toughness, draw a card.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/90_CB04 Choirsung Ritualist.jpg" num="90">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/91_CB04 Choirsung Ritualist.jpg" num="91">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1770,7 +1771,7 @@ Whenever a Choir you control dies, if it had 0 toughness, draw a card.</text>
 			<name>CB05 Appendage of War</name>
 			<text>Menace
 When this creature enters, put a +1/+1 counter on another target Hand you control.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/91_CB05 Appendage of War.jpg" num="91">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/92_CB05 Appendage of War.jpg" num="92">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1788,7 +1789,7 @@ When this creature enters, put a +1/+1 counter on another target Hand you contro
 			<name>CB06 Commanding Savior</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, each opponent sacrifices a creature.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/92_CB06 Commanding Savior.jpg" num="92">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/93_CB06 Commanding Savior.jpg" num="93">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1804,8 +1805,8 @@ When this creature enters, each opponent sacrifices a creature.</text>
 		</card>
 		<card>
 			<name>CB07 Solace in Death</name>
-			<text>Destroy target creature. Pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/93_CB07 Solace in Death.jpg" num="93">DEM</set>
+			<text>Destroy target creature. Create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/94_CB07 Solace in Death.jpg" num="94">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1822,7 +1823,7 @@ When this creature enters, each opponent sacrifices a creature.</text>
 			<name>CB08 Variety Slaughter</name>
 			<text>Exile target creature.
 If four or more differently named sources of mana were spent to cast this spell, draw a card.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/94_CB08 Variety Slaughter.jpg" num="94">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/95_CB08 Variety Slaughter.jpg" num="95">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1840,7 +1841,7 @@ If four or more differently named sources of mana were spent to cast this spell,
 			<text>When this enchantment enters, destroy target creature with toughness 2 or less.
 Invested permanent has deathtouch.
 Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/95_CB09 Sickening Soulrot.jpg" num="95">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/96_CB09 Sickening Soulrot.jpg" num="96">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1855,8 +1856,8 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 		</card>
 		<card>
 			<name>CB11 Maddening Devotion</name>
-			<text>Each opponent discards two cards. For each land card discarded this way, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/97_CB11 Maddening Devotion.jpg" num="97">DEM</set>
+			<text>Each opponent discards two cards. For each land card discarded this way, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/98_CB11 Maddening Devotion.jpg" num="98">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1873,7 +1874,7 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 			<name>CB10 Artificial Culling</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature or pay {1} from a nonland source.
 Draw two cards.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/96_CB10 Artificial Culling.jpg" num="96">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/97_CB10 Artificial Culling.jpg" num="97">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1890,7 +1891,7 @@ Draw two cards.</text>
 			<name>CR02 Solarstain Mystic</name>
 			<text>Haste
 Investiture spells you cast cost {1} less to cast.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/121_CR02 Solarstain Mystic.jpg" num="121">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/122_CR02 Solarstain Mystic.jpg" num="122">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1908,7 +1909,7 @@ Investiture spells you cast cost {1} less to cast.</text>
 			<name>CR03 Choirsung Combatant</name>
 			<text>Trample
 Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/122_CR03 Choirsung Combatant.jpg" num="122">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/123_CR03 Choirsung Combatant.jpg" num="123">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1925,8 +1926,8 @@ Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you contro
 		<card>
 			<name>CR04 Cyclefaith Serpent</name>
 			<text>Reach
-{R}, Discard this card: Draw a card. Pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/123_CR04 Cyclefaith Serpent.jpg" num="123">DEM</set>
+{R}, Discard this card: Draw a card. Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/124_CR04 Cyclefaith Serpent.jpg" num="124">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1943,7 +1944,7 @@ Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you contro
 		<card>
 			<name>CR05 Spellcraft Abomination</name>
 			<text>This spell costs {1} less to cast for each instant and/or sorcery card in your graveyard.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/124_CR05 Spellcraft Abomination.jpg" num="124">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/125_CR05 Spellcraft Abomination.jpg" num="125">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1961,7 +1962,7 @@ Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you contro
 			<name>CR06 Traitorous Savior</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, gain control of target creature until end of turn. Untap it. It gains haste until end of turn.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/125_CR06 Traitorous Savior.jpg" num="125">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/126_CR06 Traitorous Savior.jpg" num="126">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1977,8 +1978,8 @@ When this creature enters, gain control of target creature until end of turn. Un
 		</card>
 		<card>
 			<name>CR07 Faith&apos;s Fire</name>
-			<text>This spell deals 2 damage to target creature. Pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/126_CR07 Faith&apos;s Fire.jpg" num="126">DEM</set>
+			<text>This spell deals 2 damage to target creature. Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/127_CR07 Faith&apos;s Fire.jpg" num="127">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1993,8 +1994,8 @@ When this creature enters, gain control of target creature until end of turn. Un
 		</card>
 		<card>
 			<name>CR08 Flame of Luxblight</name>
-			<text>This spell deals 4 damage to target creature. If you control a creature invested by a GodShard, this spell also deals 4 damage to that creature&apos;s controller.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/127_CR08 Flame of Luxblight.jpg" num="127">DEM</set>
+			<text>This spell deals 4 damage to target creature. If you control a creature invested by a God-Shard, this spell also deals 4 damage to that creature&apos;s controller.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/128_CR08 Flame of Luxblight.jpg" num="128">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2010,7 +2011,7 @@ When this creature enters, gain control of target creature until end of turn. Un
 		<card>
 			<name>CR09 Discordant Flamesong</name>
 			<text>This spell deals 4 damage to target creature. Put a -1/-1 counter on up to one target creature.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/128_CR09 Discordant Flamesong.jpg" num="128">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/129_CR09 Discordant Flamesong.jpg" num="129">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2028,7 +2029,7 @@ When this creature enters, gain control of target creature until end of turn. Un
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 When this artifact enters or leaves the battlefield, draw a card.
 {T}, Sacrifice this artifact: Discard a card.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/130_CR11 Chaotic Bagpipes.jpg" num="130">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/131_CR11 Chaotic Bagpipes.jpg" num="131">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2047,7 +2048,7 @@ When this artifact enters or leaves the battlefield, draw a card.
 When this enters, attach it to target creature you control.
 Enchanted creature gets +2/+0 and has trample.
 Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/131_CR12 Infused Brutality.jpg" num="131">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/132_CR12 Infused Brutality.jpg" num="132">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2065,7 +2066,7 @@ Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control
 			<text>Whenever invested permanent is tapped for mana, add {C}.
 Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)
 {1}{R}, Discard this card: Destroy target artifact.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/129_CR10 Weaveline Pinnacle.jpg" num="129">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/130_CR10 Weaveline Pinnacle.jpg" num="130">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2098,7 +2099,7 @@ Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control
 			<name>CA01 Walking Piano</name>
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 Whenever a Choir you control dies, if it had 0 toughness, surveil 1.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/229_CA01 Walking Piano.jpg" num="229">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/230_CA01 Walking Piano.jpg" num="230">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2114,7 +2115,7 @@ Whenever a Choir you control dies, if it had 0 toughness, surveil 1.</text>
 			<name>CG04 Paired Appendage</name>
 			<text>Reach
 This creature gets +1/+1 and has vigilance as long as you control another Hand.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/156_CG04 Paired Appendage.jpg" num="156">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/157_CG04 Paired Appendage.jpg" num="157">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2131,7 +2132,7 @@ This creature gets +1/+1 and has vigilance as long as you control another Hand.<
 		<card>
 			<name>CG03 Druid of Forgetten Soul</name>
 			<text>Whenever this creature or an invested land you control becomes tapped, add {G}. This mana lasts until end of turn.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/155_CG03 Druid of Forgetten Soul.jpg" num="155">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/156_CG03 Druid of Forgetten Soul.jpg" num="156">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2148,7 +2149,7 @@ This creature gets +1/+1 and has vigilance as long as you control another Hand.<
 		<card>
 			<name>CG02 Greatsong Guardian</name>
 			<text>When this creature enters, put a +1/+1 counter on another target creature with toughness greater than its power.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/154_CG02 Greatsong Guardian.jpg" num="154">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/155_CG02 Greatsong Guardian.jpg" num="155">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2165,7 +2166,7 @@ This creature gets +1/+1 and has vigilance as long as you control another Hand.<
 		<card>
 			<name>CG05 Titanic Appendage</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/157_CG05 Titanic Appendage.jpg" num="157">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/158_CG05 Titanic Appendage.jpg" num="158">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2182,7 +2183,7 @@ This creature gets +1/+1 and has vigilance as long as you control another Hand.<
 		<card>
 			<name>CG06 Enlarged Shieldbearer</name>
 			<text>Whenever this creature becomes tapped, put a +1/+1 counter on another target creature. You gain life equal to its toughness.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/158_CG06 Enlarged Shieldbearer.jpg" num="158">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/159_CG06 Enlarged Shieldbearer.jpg" num="159">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2200,7 +2201,7 @@ This creature gets +1/+1 and has vigilance as long as you control another Hand.<
 			<name>CG07 Stubborn Savior</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 When this creature enters, you gain 3 life. Return target card from your graveyard to your hand. You can&apos;t play cards this turn.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/159_CG07 Stubborn Savior.jpg" num="159">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/160_CG07 Stubborn Savior.jpg" num="160">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2218,8 +2219,8 @@ When this creature enters, you gain 3 life. Return target card from your graveya
 			<name>CG08 Faith-Guided Blades</name>
 			<text>Choose one —
 • Target creature you control fights target creature you don&apos;t control.
-• Counter target spell that targets a creature you control unless its controller pays {2}. Pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/160_CG08 Faith-Guided Blades.jpg" num="160">DEM</set>
+• Counter target spell that targets a creature you control unless its controller pays {2}. Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/161_CG08 Faith-Guided Blades.jpg" num="161">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2235,7 +2236,7 @@ When this creature enters, you gain 3 life. Return target card from your graveya
 		<card>
 			<name>CG09 Shield Smash</name>
 			<text>Target creature you control deals damage equal to its toughness to target creature you don&apos;t control.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/161_CG09 Shield Smash.jpg" num="161">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/162_CG09 Shield Smash.jpg" num="162">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2251,8 +2252,8 @@ When this creature enters, you gain 3 life. Return target card from your graveya
 		<card>
 			<name>UL01 Temple of Frost</name>
 			<text>({T}: Add {W} or {U}.)
-This land enters tapped. When it enters, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/244_UL01 Temple of Frost.jpg" num="244">DEM</set>
+This land enters tapped. When it enters, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/245_UL01 Temple of Frost.jpg" num="245">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2267,8 +2268,8 @@ This land enters tapped. When it enters, pray. (Create a Faith token. Then you m
 		<card>
 			<name>UL02 Temple of Darkness</name>
 			<text>({T}: Add {U} or {B}.)
-This land enters tapped. When it enters, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/245_UL02 Temple of Darkness.jpg" num="245">DEM</set>
+This land enters tapped. When it enters, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/246_UL02 Temple of Darkness.jpg" num="246">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2283,8 +2284,8 @@ This land enters tapped. When it enters, pray. (Create a Faith token. Then you m
 		<card>
 			<name>UL06 Temple of Bone</name>
 			<text>({T}: Add {W} or {B}.)
-This land enters tapped. When it enters, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/249_UL06 Temple of Bone.jpg" num="249">DEM</set>
+This land enters tapped. When it enters, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/250_UL06 Temple of Bone.jpg" num="250">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2299,8 +2300,8 @@ This land enters tapped. When it enters, pray. (Create a Faith token. Then you m
 		<card>
 			<name>UL07 Temple of Thunder</name>
 			<text>({T}: Add {U} or {R}.)
-This land enters tapped. When it enters, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/250_UL07 Temple of Thunder.jpg" num="250">DEM</set>
+This land enters tapped. When it enters, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/251_UL07 Temple of Thunder.jpg" num="251">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2315,8 +2316,8 @@ This land enters tapped. When it enters, pray. (Create a Faith token. Then you m
 		<card>
 			<name>UL03 Temple of Blood</name>
 			<text>({T}: Add {B} or {R}.)
-This land enters tapped. When it enters, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/246_UL03 Temple of Blood.jpg" num="246">DEM</set>
+This land enters tapped. When it enters, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/247_UL03 Temple of Blood.jpg" num="247">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2331,8 +2332,8 @@ This land enters tapped. When it enters, pray. (Create a Faith token. Then you m
 		<card>
 			<name>UL08 Temple of Death</name>
 			<text>({T}: Add {B} or {G}.)
-This land enters tapped. When it enters, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/251_UL08 Temple of Death.jpg" num="251">DEM</set>
+This land enters tapped. When it enters, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/252_UL08 Temple of Death.jpg" num="252">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2347,8 +2348,8 @@ This land enters tapped. When it enters, pray. (Create a Faith token. Then you m
 		<card>
 			<name>UL04 Temple of Fire</name>
 			<text>({T}: Add {R} or {G}.)
-This land enters tapped. When it enters, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/247_UL04 Temple of Fire.jpg" num="247">DEM</set>
+This land enters tapped. When it enters, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/248_UL04 Temple of Fire.jpg" num="248">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2363,8 +2364,8 @@ This land enters tapped. When it enters, pray. (Create a Faith token. Then you m
 		<card>
 			<name>UL09 Temple of Light</name>
 			<text>({T}: Add {R} or {W}.)
-This land enters tapped. When it enters, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/252_UL09 Temple of Light.jpg" num="252">DEM</set>
+This land enters tapped. When it enters, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/253_UL09 Temple of Light.jpg" num="253">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2379,8 +2380,8 @@ This land enters tapped. When it enters, pray. (Create a Faith token. Then you m
 		<card>
 			<name>UL05 Temple of Life</name>
 			<text>({T}: Add {G} or {W}.)
-This land enters tapped. When it enters, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/248_UL05 Temple of Life.jpg" num="248">DEM</set>
+This land enters tapped. When it enters, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/249_UL05 Temple of Life.jpg" num="249">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2395,8 +2396,8 @@ This land enters tapped. When it enters, pray. (Create a Faith token. Then you m
 		<card>
 			<name>UL10 Temple of Water</name>
 			<text>({T}: Add {G} or {U}.)
-This land enters tapped. When it enters, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/253_UL10 Temple of Water.jpg" num="253">DEM</set>
+This land enters tapped. When it enters, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/254_UL10 Temple of Water.jpg" num="254">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2411,7 +2412,7 @@ This land enters tapped. When it enters, pray. (Create a Faith token. Then you m
 		<card>
 			<name>CG10 Seek Solutions</name>
 			<text>Surveil 3, then reveal the top card of your library. If its a creature or land card, put it into your hand. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/162_CG10 Seek Solutions.jpg" num="162">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/163_CG10 Seek Solutions.jpg" num="163">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2428,7 +2429,7 @@ This land enters tapped. When it enters, pray. (Create a Faith token. Then you m
 			<name>CG11 Weaveline Might</name>
 			<text>Whenever you tap invested permanent for mana, put a +1/+1 counter on another target creature.
 Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/163_CG11 Weaveline Might.jpg" num="163">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/164_CG11 Weaveline Might.jpg" num="164">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2445,7 +2446,7 @@ Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control
 			<name>CG12 Severed Appendage</name>
 			<text>When this artifact enters, draw a card.
 {2}{G}, Sacrifice this artifact: Put two +1/+1 counters on target creature. Activate only as a sorcery. Put an additional +1/+1 counter on it if its a hand.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/164_CG12 Severed Appendage.jpg" num="164">DEM</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/165_CG12 Severed Appendage.jpg" num="165">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2467,9 +2468,9 @@ Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control
 				<side>front</side>
 				<type>Creature — Human Savior</type>
 				<maintype>Creature</maintype>
-				<manacost>5</manacost>
-				<cmc>5</cmc>
-				<pt>4/4</pt>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2477,7 +2478,7 @@ Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control
 			<name>UW01 Keeper&apos;s Cat</name>
 			<text>Grimoire — Foreign Plains; Keeper&apos;s Camel; Keeper&apos;s Loyalty; (If you would draw a card, you may instead put a card listed here from your elsewhere into your hand.)
 Lifelink</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/42_UW01 Keeper&apos;s Cat.jpg" num="42">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/43_UW01 Keeper&apos;s Cat.jpg" num="43">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2495,7 +2496,7 @@ Lifelink</text>
 			<name>UU01 Keeper&apos;s Crow</name>
 			<text>Grimoire — Foreign Island; Keeper&apos;s Turtle; Keeper&apos;s Insight; (If you would draw a card, you may instead put a card listed here from your elsewhere into your hand.)
 Flying</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/75_UU01 Keeper&apos;s Crow.jpg" num="75">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/76_UU01 Keeper&apos;s Crow.jpg" num="76">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2513,7 +2514,7 @@ Flying</text>
 			<name>UB01 Keeper&apos;s Rat</name>
 			<text>Grimoire — Foreign Swamp; Keeper&apos;s Bat; Keeper&apos;s Persistence; (If you would draw a card, you may instead put a card listed here from your elsewhere into your hand.)
 Deathtouch</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/108_UB01 Keeper&apos;s Rat.jpg" num="108">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/109_UB01 Keeper&apos;s Rat.jpg" num="109">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2531,7 +2532,7 @@ Deathtouch</text>
 			<name>UR01 Keeper&apos;s Lizard</name>
 			<text>Grimoire — Foreign Mountain; Keeper&apos;s Jackal; Keeper&apos;s Courage; (If you would draw a card, you may instead put a card listed here from your elsewhere into your hand.)
 Haste</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/141_UR01 Keeper&apos;s Lizard.jpg" num="141">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/142_UR01 Keeper&apos;s Lizard.jpg" num="142">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2549,7 +2550,7 @@ Haste</text>
 			<name>UG01 Keeper&apos;s Hound</name>
 			<text>Grimoire — Foreign Forest; Keeper&apos;s Bear; Keeper&apos;s Strength; (If you would draw a card, you may instead put a card listed here from your elsewhere into your hand.)
 Vigilance</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/175_UG01 Keeper&apos;s Hound.jpg" num="175">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/176_UG01 Keeper&apos;s Hound.jpg" num="176">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2567,7 +2568,7 @@ Vigilance</text>
 			<name>UG02 Keeper&apos;s Bear</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Trample</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/176_UG02 Keeper&apos;s Bear.jpg" num="176">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/177_UG02 Keeper&apos;s Bear.jpg" num="177">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2585,7 +2586,7 @@ Trample</text>
 			<name>UR02 Keeper&apos;s Jackal</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Menace</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/142_UR02 Keeper&apos;s Jackal.jpg" num="142">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/143_UR02 Keeper&apos;s Jackal.jpg" num="143">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2603,7 +2604,7 @@ Menace</text>
 			<name>UU02 Keeper&apos;s Turtle</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Defender</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/76_UU02 Keeper&apos;s Turtle.jpg" num="76">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/77_UU02 Keeper&apos;s Turtle.jpg" num="77">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2621,7 +2622,7 @@ Defender</text>
 			<name>UB02 Keeper&apos;s Bat</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Flying</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/109_UB02 Keeper&apos;s Bat.jpg" num="109">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/110_UB02 Keeper&apos;s Bat.jpg" num="110">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2639,7 +2640,7 @@ Flying</text>
 			<name>UW02 Keeper&apos;s Camel</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Vigilance</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/43_UW02 Keeper&apos;s Camel.jpg" num="43">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/44_UW02 Keeper&apos;s Camel.jpg" num="44">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2657,7 +2658,7 @@ Vigilance</text>
 			<name>RW01 Keeper&apos;s Loyalty</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 You gain 3 life. Draw a card.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/34_RW01 Keeper&apos;s Loyalty.jpg" num="34">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/35_RW01 Keeper&apos;s Loyalty.jpg" num="35">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2674,7 +2675,7 @@ You gain 3 life. Draw a card.</text>
 			<name>RU01 Keeper&apos;s Insight</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Scry 1, then draw a card.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/67_RU01 Keeper&apos;s Insight.jpg" num="67">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/68_RU01 Keeper&apos;s Insight.jpg" num="68">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2691,7 +2692,7 @@ Scry 1, then draw a card.</text>
 			<name>RB01 Keeper&apos;s Persistence</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Return target creature card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/100_RB01 Keeper&apos;s Persistence.jpg" num="100">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/101_RB01 Keeper&apos;s Persistence.jpg" num="101">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2708,7 +2709,7 @@ Return target creature card from your graveyard to your hand.</text>
 			<name>RR01 Keeper&apos;s Courage</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Target creature you control gets +2/+0 and gains trample until end of turn.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/133_RR01 Keeper&apos;s Courage.jpg" num="133">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/134_RR01 Keeper&apos;s Courage.jpg" num="134">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2725,7 +2726,7 @@ Target creature you control gets +2/+0 and gains trample until end of turn.</tex
 			<name>RG01 Keeper&apos;s Strength</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Put a +1/+1 counter on target creature.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/167_RG01 Keeper&apos;s Strength.jpg" num="167">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/168_RG01 Keeper&apos;s Strength.jpg" num="168">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2758,7 +2759,7 @@ Grimoire — Divine Duplicant; (If you would draw a card, you may instead put a 
 			<name>UW04 Guarding Choirsinger</name>
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 Whenever a Choir you control dies, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/45_UW04 Guarding Choirsinger.jpg" num="45">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/46_UW04 Guarding Choirsinger.jpg" num="46">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2777,11 +2778,11 @@ Whenever a Choir you control dies, put a +1/+1 counter on this creature.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 2 (You may play this card from your elsewhere by tapping a creature you control with power 2 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 Invested creature gets +1/+0 and has lifelink.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/44_UW03 Godshard of Loyalty.jpg" num="44">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/45_UW03 Godshard of Loyalty.jpg" num="45">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
@@ -2794,7 +2795,7 @@ Invested creature gets +1/+0 and has lifelink.</text>
 		<card>
 			<name>UW06 Harbinger of Trinity</name>
 			<text>Whenever you attack, three target creatures get +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/47_UW06 Harbinger of Trinity.jpg" num="47">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/48_UW06 Harbinger of Trinity.jpg" num="48">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2813,7 +2814,7 @@ Invested creature gets +1/+0 and has lifelink.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Reach
 {T}: Add {W}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/48_UW07 Pearl Savior.jpg" num="48">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/49_UW07 Pearl Savior.jpg" num="49">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2832,7 +2833,7 @@ Reach
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Reach
 {T}: Add {U}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/79_UU05 Sapphire Savior.jpg" num="79">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/80_UU05 Sapphire Savior.jpg" num="80">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2851,7 +2852,7 @@ Reach
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Reach
 {T}: Add {B}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/113_UB06 Jet Savior.jpg" num="113">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/114_UB06 Jet Savior.jpg" num="114">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2870,7 +2871,7 @@ Reach
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Reach
 {T}: Add {R}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/146_UR06 Ruby Savior.jpg" num="146">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/147_UR06 Ruby Savior.jpg" num="147">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2889,7 +2890,7 @@ Reach
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Reach
 {T}: Add {G}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/181_UG07 Emerald Savior.jpg" num="181">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/182_UG07 Emerald Savior.jpg" num="182">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2908,7 +2909,7 @@ Reach
 			<text>Grimoire — Foreign Plains; Foreign Island; Foreign Swamp; Foreign Mountain; Foreign Forest; (If you would draw a card, you may instead put a card listed here from your elsewhere into your hand.)
 This land enters tapped.
 {T}: Add {C}.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/243_RL06 Foreign Outpost.jpg" num="243">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/244_RL06 Foreign Outpost.jpg" num="244">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2924,7 +2925,7 @@ This land enters tapped.
 			<text>When this enchantment enters, exile target nonland permanent until this enchantment leaves the battlefield.
 Invested permanent can&apos;t attack or block, and its non-mana abilities can&apos;t be activated.
 {1}{W}: Attach to target non-aura non-investiture permanent you don&apos;t control. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/51_UW10 Banishing Soul-Scars.jpg" num="51">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/52_UW10 Banishing Soul-Scars.jpg" num="52">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2941,7 +2942,7 @@ Invested permanent can&apos;t attack or block, and its non-mana abilities can&ap
 			<name>UW11 Inspiring Harp</name>
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 {1}, {1} or {T}: Put a +1/+1 counter on target creature.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/52_UW11 Inspiring Harp.jpg" num="52">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/53_UW11 Inspiring Harp.jpg" num="53">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2956,8 +2957,8 @@ Invested permanent can&apos;t attack or block, and its non-mana abilities can&ap
 		</card>
 		<card>
 			<name>UW05 Elder Disciple</name>
-			<text>When this creature enters, draw a card. Pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/46_UW05 Elder Disciple.jpg" num="46">DEM</set>
+			<text>When this creature enters, draw a card. Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/47_UW05 Elder Disciple.jpg" num="47">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2977,7 +2978,7 @@ Invested permanent can&apos;t attack or block, and its non-mana abilities can&ap
 Whenever this creature deals combat damage to a player, choose one —
 • Destroy target artifact or enchantment controlled by that player.
 • You gain 3 life.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/50_UW09 Mighty Crusader.jpg" num="50">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/51_UW09 Mighty Crusader.jpg" num="51">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2993,8 +2994,8 @@ Whenever this creature deals combat damage to a player, choose one —
 		</card>
 		<card>
 			<name>UW12 Great Prayer of Protection</name>
-			<text>Pray an amount of times equal to the greatest toughness among creatures you control. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/53_UW12 Great Prayer of Protection.jpg" num="53">DEM</set>
+			<text>Create X prayer tokens, where X is the greatest toughness among creatures you control. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/54_UW12 Great Prayer of Protection.jpg" num="54">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3009,8 +3010,8 @@ Whenever this creature deals combat damage to a player, choose one —
 		</card>
 		<card>
 			<name>UU12 Great Prayer of Arcana</name>
-			<text>Pray an amount of times equal to the number of instant and sorcery cards in your graveyard. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/86_UU12 Great Prayer of Arcana.jpg" num="86">DEM</set>
+			<text>Create X prayer tokens, where X is the number of instant and sorcery cards in your graveyard. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/87_UU12 Great Prayer of Arcana.jpg" num="87">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3025,8 +3026,8 @@ Whenever this creature deals combat damage to a player, choose one —
 		</card>
 		<card>
 			<name>UB12 Great Prayer of Dexterity</name>
-			<text>Pray an amount of times equal to the number of Hands you control. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/119_UB12 Great Prayer of Dexterity.jpg" num="119">DEM</set>
+			<text>Create X prayer tokens, where X is the number of Hands you control. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/120_UB12 Great Prayer of Dexterity.jpg" num="120">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3041,8 +3042,8 @@ Whenever this creature deals combat damage to a player, choose one —
 		</card>
 		<card>
 			<name>UR12 Great Prayer of Soul</name>
-			<text>Pray an amount of times equal to the number of invested permanents you control. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/152_UR12 Great Prayer of Soul.jpg" num="152">DEM</set>
+			<text>Create X prayer tokens, where X is the number of invested permanents you control. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/153_UR12 Great Prayer of Soul.jpg" num="153">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3057,8 +3058,8 @@ Whenever this creature deals combat damage to a player, choose one —
 		</card>
 		<card>
 			<name>UG12 Great Prayer of Effort</name>
-			<text>Pray an amount of times equal to the number of tapped creatures you control. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/186_UG12 Great Prayer of Effort.jpg" num="186">DEM</set>
+			<text>Create X prayer tokens, where X is the number of tapped creatures you control. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/187_UG12 Great Prayer of Effort.jpg" num="187">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3075,7 +3076,7 @@ Whenever this creature deals combat damage to a player, choose one —
 			<name>UU04 Trickgrin Mockingbird</name>
 			<text>When this creature enters, if mana from three or more differently named sources was spent to cast it, put a +1/+1 counter on it.
 Flying</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/78_UU04 Trickgrin Mockingbird.jpg" num="78">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/79_UU04 Trickgrin Mockingbird.jpg" num="79">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3093,7 +3094,7 @@ Flying</text>
 			<name>UU07 Greatwing Riddleherald</name>
 			<text>Flying
 When this creature enters, if you control three or more creatures, draw two cards.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/81_UU07 Greatwing Riddleherald.jpg" num="81">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/82_UU07 Greatwing Riddleherald.jpg" num="82">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3111,7 +3112,7 @@ When this creature enters, if you control three or more creatures, draw two card
 			<name>UU11 Combative Spellcraft</name>
 			<text>Target creature gains prowess until end of turn.
 Draw a card.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/85_UU11 Combative Spellcraft.jpg" num="85">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/86_UU11 Combative Spellcraft.jpg" num="86">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3128,7 +3129,7 @@ Draw a card.</text>
 			<name>UU08 Negative Countermagic</name>
 			<text>This spell costs {1}{U} less to cast if it targets an instant or sorcery spell.
 Counter target spell. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/82_UU08 Negative Countermagic.jpg" num="82">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/83_UU08 Negative Countermagic.jpg" num="83">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3143,8 +3144,8 @@ Counter target spell. Surveil 1. (Look at the top card of your library. You may 
 		</card>
 		<card>
 			<name>UU09 Study in Faith</name>
-			<text>Draw two cards. Pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/83_UU09 Study in Faith.jpg" num="83">DEM</set>
+			<text>Draw two cards. Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/84_UU09 Study in Faith.jpg" num="84">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3160,7 +3161,7 @@ Counter target spell. Surveil 1. (Look at the top card of your library. You may 
 		<card>
 			<name>UU10 Strenuous Twiddling</name>
 			<text>Tap or untap target creature. Draw a card if you control a tapped creature.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/84_UU10 Strenuous Twiddling.jpg" num="84">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/85_UU10 Strenuous Twiddling.jpg" num="85">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3176,7 +3177,7 @@ Counter target spell. Surveil 1. (Look at the top card of your library. You may 
 		<card>
 			<name>UB03 Appendageous Anthemsinger</name>
 			<text>Other Hands you control enter with an additional +1/+1 counter.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/110_UB03 Appendageous Anthemsinger.jpg" num="110">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/111_UB03 Appendageous Anthemsinger.jpg" num="111">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3194,7 +3195,7 @@ Counter target spell. Surveil 1. (Look at the top card of your library. You may 
 			<name>UB04 Insulting Choirsinger</name>
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 Whenever a Choir you control dies, if it had 0 toughness, you gain 2 life and each opponent loses 2 life.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/111_UB04 Insulting Choirsinger.jpg" num="111">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/112_UB04 Insulting Choirsinger.jpg" num="112">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3210,7 +3211,7 @@ Whenever a Choir you control dies, if it had 0 toughness, you gain 2 life and ea
 		<card>
 			<name>UB08 Grinning Renegade</name>
 			<text>When this creature enters, if four or more differently named sources of mana were spent to cast this spell, you draw two cards and lose 2 life.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/115_UB08 Grinning Renegade.jpg" num="115">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/116_UB08 Grinning Renegade.jpg" num="116">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3226,8 +3227,8 @@ Whenever a Choir you control dies, if it had 0 toughness, you gain 2 life and ea
 		</card>
 		<card>
 			<name>UB09 Faithful Rites</name>
-			<text>Draw two cards. You lose 2 life. Pray twice. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/116_UB09 Faithful Rites.jpg" num="116">DEM</set>
+			<text>Draw two cards. You lose 2 life. Create two prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/117_UB09 Faithful Rites.jpg" num="117">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3244,7 +3245,7 @@ Whenever a Choir you control dies, if it had 0 toughness, you gain 2 life and ea
 			<name>UB10 Soul-Scar Siphonability</name>
 			<text>Invested creature gets +1/+1 for each invested creature you control.
 Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/117_UB10 Soul-Scar Siphonability.jpg" num="117">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/118_UB10 Soul-Scar Siphonability.jpg" num="118">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3263,7 +3264,7 @@ Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control
 When this enchantment enters, attach it to target creature you control.
 Invested creature gets +2/+3.
 Invest {5} ({5}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/118_UB11 Soulrot Amplification.jpg" num="118">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/119_UB11 Soulrot Amplification.jpg" num="119">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3280,8 +3281,8 @@ Invest {5} ({5}: Attach to target non-aura non-investiture permanent you control
 			<name>UR04 Deepfaith Ritualist</name>
 			<text>Whenever you cast an instant or sorcery spell, choose one —
 • Add {R}.
-• Pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/144_UR04 Deepfaith Ritualist.jpg" num="144">DEM</set>
+• Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/145_UR04 Deepfaith Ritualist.jpg" num="145">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3299,7 +3300,7 @@ Invest {5} ({5}: Attach to target non-aura non-investiture permanent you control
 			<name>UR05 Soulmight Blademaster</name>
 			<text>Trample
 This creature gets +1/+2 as long as you control an invested permanent.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/145_UR05 Soulmight Blademaster.jpg" num="145">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/146_UR05 Soulmight Blademaster.jpg" num="146">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3318,7 +3319,7 @@ This creature gets +1/+2 as long as you control an invested permanent.</text>
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 {T}: Add {R}.
 Whenever a Choir you control attacks, discard a card, then draw a card.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/143_UR03 Choirsung Flame-Druid.jpg" num="143">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/144_UR03 Choirsung Flame-Druid.jpg" num="144">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3334,9 +3335,9 @@ Whenever a Choir you control attacks, discard a card, then draw a card.</text>
 		</card>
 		<card>
 			<name>UR09 Faithful Inspiration</name>
-			<text>Pray twice. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)
-Mill three cards. You may play those cards this turn by sacrificing a Faith in addition to paying their costs.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/149_UR09 Faithful Inspiration.jpg" num="149">DEM</set>
+			<text>Create two prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
+Mill three cards. You may play those cards this turn by sacrificing a Prayer in addition to paying their costs.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/150_UR09 Faithful Inspiration.jpg" num="150">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3353,7 +3354,7 @@ Mill three cards. You may play those cards this turn by sacrificing a Faith in a
 			<name>UR10 Weaveline Obsession</name>
 			<text>Whenever invested permanent is tapped for mana, discard a card, then draw a card.
 Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/150_UR10 Weaveline Obsession.jpg" num="150">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/151_UR10 Weaveline Obsession.jpg" num="151">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3370,7 +3371,7 @@ Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control
 			<name>UR11 Overwhelming Soulmight</name>
 			<text>Invested creature gets +3/+3 and has trample and haste.
 Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/151_UR11 Overwhelming Soulmight.jpg" num="151">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/152_UR11 Overwhelming Soulmight.jpg" num="152">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3386,7 +3387,7 @@ Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control
 		<card>
 			<name>UG04 Druid of Exertion</name>
 			<text>{T}, Tap an untapped creature you control: Add {G}{G}{G}. Mill three cards. (This is not a mana ability.)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/178_UG04 Druid of Exertion.jpg" num="178">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/179_UG04 Druid of Exertion.jpg" num="179">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3403,7 +3404,7 @@ Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control
 		<card>
 			<name>UG03 Appendageous Ritualist</name>
 			<text>Hands you control have &quot;{T}: Add {G}.&quot;</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/177_UG03 Appendageous Ritualist.jpg" num="177">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/178_UG03 Appendageous Ritualist.jpg" num="178">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3421,7 +3422,7 @@ Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control
 			<name>RM08 Hand-Powered Thrower</name>
 			<text>Lifelink
 {T}, Sacrifice a Hand: This creature deals damage equal to its power to any target.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/206_RM08 Hand-Powered Thrower.jpg" num="206">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/207_RM08 Hand-Powered Thrower.jpg" num="207">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3438,7 +3439,7 @@ Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control
 		<card>
 			<name>UG06 Hermetic Shieldcrafter</name>
 			<text>Whenever this creature attacks, creatures you control with toughness greater than their power get +2/+2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/180_UG06 Hermetic Shieldcrafter.jpg" num="180">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/181_UG06 Hermetic Shieldcrafter.jpg" num="181">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3455,7 +3456,7 @@ Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control
 		<card>
 			<name>UG09 Weaveline Duplimancer</name>
 			<text>Whenever you tap an invested permanent for mana, create a token that&apos;s a copy of it.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/183_UG09 Weaveline Duplimancer.jpg" num="183">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/184_UG09 Weaveline Duplimancer.jpg" num="184">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3474,11 +3475,11 @@ Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 2 (You may play this card from your elsewhere by tapping a creature you control with power 2 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 Invested creature gets +1/+1 and has vigilance.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/77_UU03 Godshard of Knowledge.jpg" num="77">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/78_UU03 Godshard of Knowledge.jpg" num="78">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>U</manacost>
 				<cmc>1</cmc>
@@ -3493,11 +3494,11 @@ Invested creature gets +1/+1 and has vigilance.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 2 (You may play this card from your elsewhere by tapping a creature you control with power 2 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 Invested creature gets +3/+2 and has menace.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/112_UB05 Godshard of Persistence.jpg" num="112">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/113_UB05 Godshard of Persistence.jpg" num="113">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>3B</manacost>
 				<cmc>4</cmc>
@@ -3512,11 +3513,11 @@ Invested creature gets +3/+2 and has menace.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 2 (You may play this card from your elsewhere by tapping a creature you control with power 2 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 Invested creature gets +3/+3 and has first strike.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/148_UR08 Godshard of Courage.jpg" num="148">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/149_UR08 Godshard of Courage.jpg" num="149">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>4R</manacost>
 				<cmc>5</cmc>
@@ -3531,11 +3532,11 @@ Invested creature gets +3/+3 and has first strike.</text>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 2 (You may play this card from your elsewhere by tapping a creature you control with power 2 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 Invested creature gets +2/+2 and has trample.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/179_UG05 Godshard of Strength.jpg" num="179">DEM</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/180_UG05 Godshard of Strength.jpg" num="180">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>2G</manacost>
 				<cmc>3</cmc>
@@ -3547,8 +3548,8 @@ Invested creature gets +2/+2 and has trample.</text>
 		</card>
 		<card>
 			<name>UG10 Faith&apos;s Claim</name>
-			<text>Destroy target artifact or enchantment. Its controller may pray. They gain 2 life. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/184_UG10 Faith&apos;s Claim.jpg" num="184">DEM</set>
+			<text>Destroy target artifact or enchantment. Its controller creates a prayer token and gains 2 life. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/185_UG10 Faith&apos;s Claim.jpg" num="185">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3565,8 +3566,8 @@ Invested creature gets +2/+2 and has trample.</text>
 			<name>UG11 Growth Through Faith</name>
 			<text>Draw a card.
 You may put a land card from your hand onto the battlefield tapped.
-Pray twice. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/185_UG11 Growth Through Faith.jpg" num="185">DEM</set>
+Create two prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/186_UG11 Growth Through Faith.jpg" num="186">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3583,7 +3584,7 @@ Pray twice. (To pray, create a Faith token. Then you may sacrifice five Faiths t
 			<name>RW02 Generous Choirsinger</name>
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 Whenever a Choir you control dies, if it had 0 toughness, put two +1/+1 counters on this creature. Draw a card.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/35_RW02 Generous Choirsinger.jpg" num="35">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/36_RW02 Generous Choirsinger.jpg" num="36">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3600,9 +3601,9 @@ Whenever a Choir you control dies, if it had 0 toughness, put two +1/+1 counters
 		<card>
 			<name>RU02 Raven of Superstition</name>
 			<text>Flying
-Whenever this creature attacks, pray. (Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)
+Whenever this creature attacks, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
 {B}{R}{G}{W}, Sacrifice this creature: Draw two cards.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/68_RU02 Raven of Superstition.jpg" num="68">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/69_RU02 Raven of Superstition.jpg" num="69">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3619,7 +3620,7 @@ Whenever this creature attacks, pray. (Create a Faith token. Then you may sacrif
 		<card>
 			<name>RB02 Appendage of Agony</name>
 			<text>The second Hand spell you cast each turn costs {B} less to cast and 2 life more to cast.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/101_RB02 Appendage of Agony.jpg" num="101">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/102_RB02 Appendage of Agony.jpg" num="102">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3638,11 +3639,11 @@ Whenever this creature attacks, pray. (Create a Faith token. Then you may sacrif
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 0 (You may play this card from your elsewhere by tapping a creature you control with power 0 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 Invested creature&apos;s activated abilities cost {1} more and {T} less to activate.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/66_MU01 Godshard of Enlightenment.jpg" num="66">DEM</set>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/67_MU01 Godshard of Enlightenment.jpg" num="67">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>U</manacost>
 				<cmc>1</cmc>
@@ -3657,11 +3658,11 @@ Invested creature&apos;s activated abilities cost {1} more and {T} less to activ
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 0 (You may play this card from your elsewhere by tapping a creature you control with power 0 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 Invested creature can&apos;t be unable to attack. (This includes summoning sickness and being tapped.)</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/132_MR01 Godshard of Ascendance.jpg" num="132">DEM</set>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/133_MR01 Godshard of Ascendance.jpg" num="133">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>R</manacost>
 				<cmc>1</cmc>
@@ -3676,11 +3677,11 @@ Invested creature can&apos;t be unable to attack. (This includes summoning sickn
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 1 (You may play this card from your elsewhere by tapping a creature you control with power 1 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 Invested permanent has &quot;Artifact spells you cast cost {1} less to cast.&quot;</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/135_RR03 Godshard of Artifice.jpg" num="135">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/136_RR03 Godshard of Artifice.jpg" num="136">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
@@ -3695,11 +3696,11 @@ Invested permanent has &quot;Artifact spells you cast cost {1} less to cast.&quo
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 1 (You may play this card from your elsewhere by tapping a creature you control with power 1 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 Invested permanent has &quot;You may play an additional land on each of your turns.&quot;</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/169_RG03 Godshard of Nature.jpg" num="169">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/170_RG03 Godshard of Nature.jpg" num="170">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>1G</manacost>
 				<cmc>2</cmc>
@@ -3714,11 +3715,11 @@ Invested permanent has &quot;You may play an additional land on each of your tur
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 1 (You may play this card from your elsewhere by tapping a creature you control with power 1 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 Invested permanent has &quot;Creature spells you cast cost {1} less to cast.&quot;</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/102_RB03 Godshard of Populace.jpg" num="102">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/103_RB03 Godshard of Populace.jpg" num="103">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
@@ -3733,11 +3734,11 @@ Invested permanent has &quot;Creature spells you cast cost {1} less to cast.&quo
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 1 (You may play this card from your elsewhere by tapping a creature you control with power 1 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 Invested permanent has &quot;Instant and sorcery spells you cast cost {1} less to cast.&quot;</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/69_RU03 Godshard of Arcana.jpg" num="69">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/70_RU03 Godshard of Arcana.jpg" num="70">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>1U</manacost>
 				<cmc>2</cmc>
@@ -3752,11 +3753,11 @@ Invested permanent has &quot;Instant and sorcery spells you cast cost {1} less t
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Spiritbond 1 (You may play this card from your elsewhere by tapping a creature you control with power 1 or greater. This enters as a kindred Investiture enchantment attached to that creature.)
 Invested permanent has &quot;Enchantment spells you cast cost {1} less to cast.&quot;</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/36_RW03 Godshard of Spirituality.jpg" num="36">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/37_RW03 Godshard of Spirituality.jpg" num="37">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Enchantment Creature — GodShard</type>
+				<type>Legendary Enchantment Creature — God-Shard</type>
 				<maintype>Creature</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
@@ -3770,8 +3771,8 @@ Invested permanent has &quot;Enchantment spells you cast cost {1} less to cast.&
 			<name>MM01 The Corpse of Regitholem</name>
 			<text>Elsewhere 10 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 You may cast this spell from your elsewhere.
-As long as this card is in your starting elsewhere, your starting elsewhere may have up to ten GodShard cards without considering their elsewhere values.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/197_MM01 The Corpse of Regitholem.jpg" num="197">DEM</set>
+As long as this card is in your starting elsewhere, your starting elsewhere may have up to ten God-Shard cards without considering their elsewhere values.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/198_MM01 The Corpse of Regitholem.jpg" num="198">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3787,8 +3788,8 @@ As long as this card is in your starting elsewhere, your starting elsewhere may 
 		</card>
 		<card>
 			<name>RR02 Greatersoul Champion</name>
-			<text>Invest abilities you activate cost {1} more activate.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/134_RR02 Greatersoul Champion.jpg" num="134">DEM</set>
+			<text>Invest abilities you activate cost {1} less to activate.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/135_RR02 Greatersoul Champion.jpg" num="135">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3806,7 +3807,7 @@ As long as this card is in your starting elsewhere, your starting elsewhere may 
 			<name>RG02 Exertion Animist</name>
 			<text>Tapped permanents you control have ward {2}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 {T}, Tap three untapped lands you control: Target land you control becomes a 3/3 creature with haste in addition to its other types.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/168_RG02 Exertion Animist.jpg" num="168">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/169_RG02 Exertion Animist.jpg" num="169">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3821,12 +3822,12 @@ As long as this card is in your starting elsewhere, your starting elsewhere may 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>MC04 Lightform of Deity</name>
+			<name>MC05 Lightform of Deity</name>
 			<text>(This spell gains effects based on the sources and colors of mana spent to cast it.)
 {U} — Draw a card.
 {R} — Destroy a land.
 {W}{B}{G} — Exile all creatures.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/17_MC04 Lightform of Deity.jpg" num="17">DEM</set>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/18_MC05 Lightform of Deity.jpg" num="18">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3859,7 +3860,7 @@ When this creature enters, you may exile ten cards from your graveyard. If you d
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 Flying
 Choirs you control get +4/+0 and have flying.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/40_RW07 Angel of the Choir.jpg" num="40">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/41_RW07 Angel of the Choir.jpg" num="41">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3877,7 +3878,7 @@ Choirs you control get +4/+0 and have flying.</text>
 			<name>RW05 Dualblade Guardian</name>
 			<text>Double strike
 Other creatures you control with toughness greater than their power have double strike.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/38_RW05 Dualblade Guardian.jpg" num="38">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/39_RW05 Dualblade Guardian.jpg" num="39">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3895,7 +3896,7 @@ Other creatures you control with toughness greater than their power have double 
 			<name>RW06 Heralding Crusader</name>
 			<text>Vigilance
 Whenever this creature attacks, if you control three or more other creatures, exile target creature until this creature leaves the battlefield.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/39_RW06 Heralding Crusader.jpg" num="39">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/40_RW06 Heralding Crusader.jpg" num="40">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3929,7 +3930,7 @@ Whenever this creature attacks, if you control three or more other creatures, ex
 			<text>Elsewhere 3 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 {T}: Add {C}.
 This card can&apos;t start in your deck.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/230_MA01 Mox Eternity.jpg" num="230">DEM</set>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/231_MA01 Mox Eternity.jpg" num="231">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3942,8 +3943,8 @@ This card can&apos;t start in your deck.</text>
 		</card>
 		<card>
 			<name>MA02 Mox Ichor</name>
-			<text>{T}, Sacrifice a GodShard: Add one mana of any color.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/231_MA02 Mox Ichor.jpg" num="231">DEM</set>
+			<text>{T}, Sacrifice a God-Shard: Add one mana of any color.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/232_MA02 Mox Ichor.jpg" num="232">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3960,7 +3961,7 @@ This card can&apos;t start in your deck.</text>
 {G} — You gain X life.
 {U} — Each player draws X cards.
 {B}{R} — Each opponent discards two cards.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/37_RW04 Lightform of Unification.jpg" num="37">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/38_RW04 Lightform of Unification.jpg" num="38">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3979,7 +3980,7 @@ This card can&apos;t start in your deck.</text>
 {W} — Put a +1/+1 counter on X target creatures.
 {B} — Put a -1/-1 counter on X target creatures.
 {R}{G} — Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/70_RU04 Lightform of Formalization.jpg" num="70">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/71_RU04 Lightform of Formalization.jpg" num="71">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3998,7 +3999,7 @@ This card can&apos;t start in your deck.</text>
 {U} — Surveil X. (Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 {R} — Each player discards their hand, then draws X cards.
 {G}{W} — Return a permanent card with mana value 5 or less from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/103_RB04 Lightform of Domination.jpg" num="103">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/104_RB04 Lightform of Domination.jpg" num="104">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4017,7 +4018,7 @@ This card can&apos;t start in your deck.</text>
 {B} — Mill X cards.
 {G} — You may play up to X cards from your graveyard this turn.
 {W}{U} — The next time you cast a spell from your graveyard this turn, copy it.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/136_RR04 Lightform of Alliances.jpg" num="136">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/137_RR04 Lightform of Alliances.jpg" num="137">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4036,7 +4037,7 @@ This card can&apos;t start in your deck.</text>
 {R} — This spell deals X damage to each opponent.
 {W} — This spell deals X damage to each creature.
 {U}{B} — Draw a card.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/170_RG04 Lightform of Subservience.jpg" num="170">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/171_RG04 Lightform of Subservience.jpg" num="171">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4051,8 +4052,8 @@ This card can&apos;t start in your deck.</text>
 		</card>
 		<card>
 			<name>RW08 Penultimate Prayer</name>
-			<text>Pray four times. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/41_RW08 Penultimate Prayer.jpg" num="41">DEM</set>
+			<text>Create four prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/42_RW08 Penultimate Prayer.jpg" num="42">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4069,7 +4070,7 @@ This card can&apos;t start in your deck.</text>
 			<name>RU05 Wizened Mage</name>
 			<text>When this creature enters, if you control three or more creatures, draw a card.
 Cycling {U} ({U}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/71_RU05 Wizened Mage.jpg" num="71">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/72_RU05 Wizened Mage.jpg" num="72">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4086,7 +4087,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>RU06 Surprising Magus</name>
 			<text>Whenever you cast a spell, if four or more differently named sources of mana were spent to cast it, copy that spell.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/72_RU06 Surprising Magus.jpg" num="72">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/73_RU06 Surprising Magus.jpg" num="73">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4103,7 +4104,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>RU07 Empty Ritual</name>
 			<text>Add twice X {C}. Draw a card.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/73_RU07 Empty Ritual.jpg" num="73">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/74_RU07 Empty Ritual.jpg" num="74">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4119,7 +4120,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>RU08 Chronotwiddle</name>
 			<text>Tap or untap target permanent. Then if you control five or more tapped creatures, exile this spell and take an extra turn after this one.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/74_RU08 Chronotwiddle.jpg" num="74">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/75_RU08 Chronotwiddle.jpg" num="75">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4135,7 +4136,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>RB06 Surprising Ritualist</name>
 			<text>When this creature enters, if four or more differently named sources of mana were spent to cast it, add {B}{B}{B}{B}.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/105_RB06 Surprising Ritualist.jpg" num="105">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/106_RB06 Surprising Ritualist.jpg" num="106">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4153,7 +4154,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 			<name>RB08 Soul of Exultation</name>
 			<text>Invested creature has &quot;Spells you control cost {X} less to cast, where X is this creature&apos;s power.&quot;
 Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/107_RB08 Soul of Exultation.jpg" num="107">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/108_RB08 Soul of Exultation.jpg" num="108">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4171,7 +4172,7 @@ Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 {T}, Pay 1 life: Each opponent loses 1 life.
 Whenever a Choir you control dies, if it had 0 toughness, you draw a card and each opponent discards a card.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/104_RB05 Bloodsong Choirsinger.jpg" num="104">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/105_RB05 Bloodsong Choirsinger.jpg" num="105">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4188,7 +4189,7 @@ Whenever a Choir you control dies, if it had 0 toughness, you draw a card and ea
 		<card>
 			<name>MB01 Hand of God</name>
 			<text>Hands you control get +X/+X, where X is 11 minus your life total.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/99_MB01 Hand of God.jpg" num="99">DEM</set>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/100_MB01 Hand of God.jpg" num="100">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4206,7 +4207,7 @@ Whenever a Choir you control dies, if it had 0 toughness, you draw a card and ea
 			<name>RB07 Transmutation Tutor</name>
 			<text>As an additional cost to cast this spell, discard a card.
 Search your library for a card with the same mana value as the discarded card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/106_RB07 Transmutation Tutor.jpg" num="106">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/107_RB07 Transmutation Tutor.jpg" num="107">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4224,7 +4225,7 @@ Search your library for a card with the same mana value as the discarded card, r
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 When this artifact enters, mill a card. You may play that card this turn.
 {T}: Add {R}{R}. Spend this mana only to cast instant and/or sorcery spells.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/138_RR06 Tablet of Songs.jpg" num="138">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/139_RR06 Tablet of Songs.jpg" num="139">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4241,7 +4242,7 @@ When this artifact enters, mill a card. You may play that card this turn.
 			<name>RR07 Pyretic Soul</name>
 			<text>Double all damage dealt by invested permanent.
 Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/139_RR07 Pyretic Soul.jpg" num="139">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/140_RR07 Pyretic Soul.jpg" num="140">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4257,7 +4258,7 @@ Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control
 		<card>
 			<name>RR08 Boon of the Pyre</name>
 			<text>This spell deals 5 damage to any target. That player or that permanent&apos;s controller draws a card.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/140_RR08 Boon of the Pyre.jpg" num="140">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/141_RR08 Boon of the Pyre.jpg" num="141">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4275,7 +4276,7 @@ Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control
 			<text>Whenever you tap invested permanent for mana, mill two cards.
 {2}{G}, Sacrifice this enchantment: Return target card from your graveyard to your hand.
 Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/174_RG08 Soul of Decay.jpg" num="174">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/175_RG08 Soul of Decay.jpg" num="175">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4291,7 +4292,7 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 		<card>
 			<name>RG05 Exertion Battlemaster</name>
 			<text>Tapped creatures you control get +1/+1.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/171_RG05 Exertion Battlemaster.jpg" num="171">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/172_RG05 Exertion Battlemaster.jpg" num="172">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4308,7 +4309,7 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 		<card>
 			<name>RG06 Handed Hands</name>
 			<text>Affinity for Hands (This spell costs {1} less to cast for each Hand you control.)</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/172_RG06 Handed Hands.jpg" num="172">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/173_RG06 Handed Hands.jpg" num="173">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4324,8 +4325,8 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 		</card>
 		<card>
 			<name>RG07 Faithful Questgiver</name>
-			<text>Whenever this creature becomes blocked, pray twice. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/173_RG07 Faithful Questgiver.jpg" num="173">DEM</set>
+			<text>Whenever this creature becomes blocked, create two prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/174_RG07 Faithful Questgiver.jpg" num="174">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4342,7 +4343,7 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 		<card>
 			<name>RM01 Flag Seamstress</name>
 			<text>At the beginning of combat on your turn, put X +1/+1 counters on another target creature, where X is the number of creatures you control.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/199_RM01 Flag Seamstress.jpg" num="199">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/200_RM01 Flag Seamstress.jpg" num="200">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4360,7 +4361,7 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 			<name>RM02 Grinning Sphinx</name>
 			<text>Flying
 When this creature enters, if mana from five or more differently named sources was spent to cast it, draw three cards.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/200_RM02 Grinning Sphinx.jpg" num="200">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/201_RM02 Grinning Sphinx.jpg" num="201">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4377,7 +4378,7 @@ When this creature enters, if mana from five or more differently named sources w
 		<card>
 			<name>RM03 Demon of Soul&apos;s Force</name>
 			<text>When this creature enters, search your library for an Investiture card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/201_RM03 Demon of Soul&apos;s Force.jpg" num="201">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/202_RM03 Demon of Soul&apos;s Force.jpg" num="202">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4394,7 +4395,7 @@ When this creature enters, if mana from five or more differently named sources w
 		<card>
 			<name>RM04 Druid of Soul</name>
 			<text>At the beginning of your end step, untap each invested permanent you control.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/202_RM04 Druid of Soul.jpg" num="202">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/203_RM04 Druid of Soul.jpg" num="203">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4411,7 +4412,7 @@ When this creature enters, if mana from five or more differently named sources w
 		<card>
 			<name>RM05 Guardian of Thorns</name>
 			<text>Whenever a creature you control with toughness greater than its power becomes blocked, it deals 2 damage to the each creature that&apos;s blocking it.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/203_RM05 Guardian of Thorns.jpg" num="203">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/204_RM05 Guardian of Thorns.jpg" num="204">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4430,7 +4431,7 @@ When this creature enters, if mana from five or more differently named sources w
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 {T}: Exile target card from a graveyard.
 Whenever a Choir you control dies, if it had 0 toughness, you gain 3 life and each opponent loses 3 life.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/204_RM06 Greatest Choirsinger.jpg" num="204">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/205_RM06 Greatest Choirsinger.jpg" num="205">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4448,7 +4449,7 @@ Whenever a Choir you control dies, if it had 0 toughness, you gain 3 life and ea
 			<name>RM07 Arcane Electromancer</name>
 			<text>Prowess
 Instant and sorcery spells you cast cost {1} less to cast.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/205_RM07 Arcane Electromancer.jpg" num="205">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/206_RM07 Arcane Electromancer.jpg" num="206">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4466,7 +4467,7 @@ Instant and sorcery spells you cast cost {1} less to cast.</text>
 			<name>RM09 Choirsung Champion</name>
 			<text>Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don&apos;t control one, first create a 0/4 Choir enchantment creature token with &quot;This creature can&apos;t block.&quot;)
 This creature and Choirs you control get +1/+1 and have trample and lifelink.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/207_RM09 Choirsung Champion.jpg" num="207">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/208_RM09 Choirsung Champion.jpg" num="208">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4483,7 +4484,7 @@ This creature and Choirs you control get +1/+1 and have trample and lifelink.</t
 		<card>
 			<name>RM10 Avatar of Exertion</name>
 			<text>Whenever a creature you control becomes tapped, add {C}. This mana lasts until end of turn.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/208_RM10 Avatar of Exertion.jpg" num="208">DEM</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/209_RM10 Avatar of Exertion.jpg" num="209">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4501,7 +4502,7 @@ This creature and Choirs you control get +1/+1 and have trample and lifelink.</t
 			<name>MG01 Godslayer Vagathia</name>
 			<text>Protection from mana value 9 or greater. (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything with mana value 9 or greater)
 When this creature enters, exile target card from an elsewhere.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/165_MG01 Godslayer Vagathia.jpg" num="165">DEM</set>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/166_MG01 Godslayer Vagathia.jpg" num="166">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4517,8 +4518,8 @@ When this creature enters, exile target card from an elsewhere.</text>
 		</card>
 		<card>
 			<name>MW01 Reirbor the Penitent</name>
-			<text>GodShard spells you cast cost one mana of any type less to cast.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/33_MW01 Reirbor the Penitent.jpg" num="33">DEM</set>
+			<text>God-Shard spells you cast cost one mana of any type less to cast.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/34_MW01 Reirbor the Penitent.jpg" num="34">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4533,9 +4534,9 @@ When this creature enters, exile target card from an elsewhere.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>MC05 Tagross, Void Ascendant</name>
-			<text>Sacrifice five permanents invested by GodShards and a GodShard investing each of them: If this creature is no longer longer on the battlefield, search your deck for a card named Tagross, Void Deified, put it onto the battlefield, then shuffle.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/18_MC05 Tagross, Void Ascendant.jpg" num="18">DEM</set>
+			<name>MC06 Tagross, Void Ascendant</name>
+			<text>Sacrifice five permanents invested by God-Shards and a God-Shard investing each of them: If this creature is no longer longer on the battlefield, search your deck for a card named Tagross, Void Deified, put it onto the battlefield, then shuffle.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/19_MC06 Tagross, Void Ascendant.jpg" num="19">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4548,11 +4549,11 @@ When this creature enters, exile target card from an elsewhere.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>MC06 Tagross, Void Deified</name>
+			<name>MC07 Tagross, Void Deified</name>
 			<text>Menace
 When this creature enters, draw two cards.
 Whenever this creature attacks, it deals 5 damage to target creature.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/19_MC06 Tagross, Void Deified.jpg" num="19">DEM</set>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/20_MC07 Tagross, Void Deified.jpg" num="20">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4586,8 +4587,8 @@ You can move cards in and out of your elsewhere in sideboarding, provided all ca
 			<text>Choose two. You may choose the same mode more than once —
 • Destroy target artifact or enchantment.
 • Target creature you control deals damage equal to its power to target creature, planeswalker, or battle.
-• Pray twice. (To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color.&quot;)</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/166_MG02 Vagathia&apos;s Command.jpg" num="166">DEM</set>
+• Create two prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/167_MG02 Vagathia&apos;s Command.jpg" num="167">DEM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4599,6 +4600,22 @@ You can move cards in and out of your elsewhere in sideboarding, provided all ca
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>MC04 Saviorality Doomed</name>
+			<text>Elsewhere 5 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+When this creature dies, destroy each enchantment you control. Draw a card for each creature destroyed this way.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/17_MC04 Saviorality Doomed.jpg" num="17">DEM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Savior</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

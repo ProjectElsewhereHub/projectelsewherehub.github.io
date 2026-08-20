@@ -1,4 +1,342 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+MC05 Lightform of Deity added.
+MC06 Tagross, Void Ascendant added.
+MC07 Tagross, Void Deified added.
+MC04 Saviorality Doomed added.
+
+MC04 Lightform of Deity removed.
+MC05 Tagross, Void Ascendant removed.
+MC06 Tagross, Void Deified removed.
+
+CW12 Praise Be
+rules_text: Pray. Draw a card. You gain 2 life. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Create a prayer token. Draw a card. You gain 2 life. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UM07 Faithful Steam-Mage
+rules_text: Whenever you cast an instant or sorcery spell, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i]
+{T}, Sacrifice two Faiths: Add {U}{R}. => Whenever you cast an instant or sorcery spell, create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{T}, Sacrifice two Prayers: Add {U}{R}.
+
+RR05 Godseeker Torazin
+rules_text: Haste
+Spiritbond abilities can tap this creature as if this creature's power was 4 greater.
+As long as this creature is invested by a GodShard, whenever it deals combat damage to a player, add {R}{R}. This mana lasts until end of turn. => Haste
+Spiritbond abilities can tap this creature as if this creature's power was 4 greater.
+As long as this creature is invested by a God-Shard, whenever it deals combat damage to a player, add {R}{R}. This mana lasts until end of turn.
+
+Faith token
+type: Token Enchantment — Faith => Token Enchantment — Prayer
+rules_text: {1}, Sacrifice this enchantment: Add one mana of any color. => {1}, Sacrifice this enchantment: Add one mana of any color.
+Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.
+
+CZ01 Godshard of Frost
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+CZ06 Godshard of Bone
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+CZ10 Godshard of Water
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+CZ05 Godshard of Life
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+CZ09 Godshard of Light
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+CZ02 Godshard of Darkness
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+CZ07 Godshard of Thunder
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+CZ03 Godshard of Blood
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+CZ08 Godshard of Death
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+CZ04 Godshard of Fire
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+CW03 Omenful Dove
+rules_text: Flying
+When this creature enters, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Flying
+When this creature enters, create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CB12 Faith in Extremis
+rules_text: Until end of turn, target creature gets +1/+0 and gains “When this creature dies, return it to the battlefield tapped, then pray.” [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Until end of turn, target creature gets +1/+0 and gains “When this creature dies, return it to the battlefield tapped, then create a prayer token.” [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UW08 Luxblight Angel
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Flying
+Whenever this creature attacks, if you don't control a creature invested by a GodShard, the defending player draws a card. => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Flying
+Whenever this creature attacks, if you don't control a creature invested by a God-Shard, the defending player draws a card.
+
+UU06 Luxblight Sphinx
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Vigilance
+Whenever this creature attacks, if you don't control a creature invested by a GodShard, discard a card. => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Vigilance
+Whenever this creature attacks, if you don't control a creature invested by a God-Shard, discard a card.
+
+UB07 Luxblight Demon
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Menace
+Whenever this creature attacks, if you don't control a creature invested by a GodShard, you lose 4 life. => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Menace
+Whenever this creature attacks, if you don't control a creature invested by a God-Shard, you lose 4 life.
+
+UR07 Luxblight Dragon
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Haste
+Whenever this creature attacks, if you don't control a creature invested by a GodShard, sacrifice a land. => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Haste
+Whenever this creature attacks, if you don't control a creature invested by a God-Shard, sacrifice a land.
+
+UG08 Luxblight Titan
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Trample
+Whenever this creature attacks, if you don't control a creature invested by a GodShard, the defending player may put a land card from their hand onto the battlefield. => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Trample
+Whenever this creature attacks, if you don't control a creature invested by a God-Shard, the defending player may put a land card from their hand onto the battlefield.
+
+CC03 Lightform of the Tongue
+rules_text: [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i]
+{B} — Add X mana in any combination of colors.
+{R} — This spell deals X damage to each opponent. => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{B} — Add X mana in any combination of colors.
+{R} — This spell deals X damage to each opponent.
+
+CC07 Lightform of the Nose
+rules_text: [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{G} — Add one mana of any color.
+{U} — You may tap an untapped creature you control. If you do, surveil X, then draw a card.
+{R} — Pray X times. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{G} — Add one mana of any color.
+{U} — You may tap an untapped creature you control. If you do, surveil X, then draw a card.
+{R} — Create X prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CU02 Devout Assassin
+rules_text: Flash
+Reach
+When this creature enters or dies, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Flash
+Reach
+When this creature enters or dies, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CU06 Faithful Negation
+rules_text: Counter target spell. Pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Counter target spell. Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CU08 Callous Disbelief
+rules_text: Target nonland permanent's owner puts it on the top or bottom of their library. They may pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Target nonland permanent's owner puts it on the top or bottom of their library. They may create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CU09 Indoctrinating Insight
+rules_text: Draw a card, then surveil 2 or pray twice. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Draw a card, then surveil 2 or create two Prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CB07 Solace in Death
+rules_text: Destroy target creature. Pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Destroy target creature. Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CB11 Maddening Devotion
+rules_text: Each opponent discards two cards. For each land card discarded this way, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Each opponent discards two cards. For each land card discarded this way, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CR04 Cyclefaith Serpent
+rules_text: Reach
+{R}, Discard this card: Draw a card. Pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Reach
+{R}, Discard this card: Draw a card. Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CR07 Faith's Fire
+rules_text: This spell deals 2 damage to target creature. Pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => This spell deals 2 damage to target creature. Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CR08 Flame of Luxblight
+rules_text: This spell deals 4 damage to target creature. If you control a creature invested by a GodShard, this spell also deals 4 damage to that creature's controller. => This spell deals 4 damage to target creature. If you control a creature invested by a God-Shard, this spell also deals 4 damage to that creature's controller.
+
+CG08 Faith-Guided Blades
+rules_text: Choose one —
+• Target creature you control fights target creature you don't control.
+• Counter target spell that targets a creature you control unless its controller pays {2}. Pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Choose one —
+• Target creature you control fights target creature you don't control.
+• Counter target spell that targets a creature you control unless its controller pays {2}. Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UL01 Temple of Frost
+rules_text: [i]({T}: Add {W} or {U}.)[/i]
+This land enters tapped. When it enters, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => [i]({T}: Add {W} or {U}.)[/i]
+This land enters tapped. When it enters, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UL02 Temple of Darkness
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+This land enters tapped. When it enters, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => [i]({T}: Add {U} or {B}.)[/i]
+This land enters tapped. When it enters, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UL06 Temple of Bone
+rules_text: [i]({T}: Add {W} or {B}.)[/i]
+This land enters tapped. When it enters, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => [i]({T}: Add {W} or {B}.)[/i]
+This land enters tapped. When it enters, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UL07 Temple of Thunder
+rules_text: [i]({T}: Add {U} or {R}.)[/i]
+This land enters tapped. When it enters, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => [i]({T}: Add {U} or {R}.)[/i]
+This land enters tapped. When it enters, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UL03 Temple of Blood
+rules_text: [i]({T}: Add {B} or {R}.)[/i]
+This land enters tapped. When it enters, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => [i]({T}: Add {B} or {R}.)[/i]
+This land enters tapped. When it enters, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UL08 Temple of Death
+rules_text: [i]({T}: Add {B} or {G}.)[/i]
+This land enters tapped. When it enters, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => [i]({T}: Add {B} or {G}.)[/i]
+This land enters tapped. When it enters, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UL04 Temple of Fire
+rules_text: [i]({T}: Add {R} or {G}.)[/i]
+This land enters tapped. When it enters, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => [i]({T}: Add {R} or {G}.)[/i]
+This land enters tapped. When it enters, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UL09 Temple of Light
+rules_text: [i]({T}: Add {R} or {W}.)[/i]
+This land enters tapped. When it enters, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => [i]({T}: Add {R} or {W}.)[/i]
+This land enters tapped. When it enters, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UL05 Temple of Life
+rules_text: [i]({T}: Add {G} or {W}.)[/i]
+This land enters tapped. When it enters, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => [i]({T}: Add {G} or {W}.)[/i]
+This land enters tapped. When it enters, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UL10 Temple of Water
+rules_text: [i]({T}: Add {G} or {U}.)[/i]
+This land enters tapped. When it enters, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => [i]({T}: Add {G} or {U}.)[/i]
+This land enters tapped. When it enters, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CC12 Efficient Savior
+cost: {5} => {3}
+pt: 4/4 => 3/2
+
+UW03 Godshard of Loyalty
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+UW05 Elder Disciple
+rules_text: When this creature enters, draw a card. Pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => When this creature enters, draw a card. Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UW12 Great Prayer of Protection
+rules_text: Pray an amount of times equal to the greatest toughness among creatures you control. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Create X prayer tokens, where X is the greatest toughness among creatures you control. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UU12 Great Prayer of Arcana
+rules_text: Pray an amount of times equal to the number of instant and sorcery cards in your graveyard. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Create X prayer tokens, where X is the number of instant and sorcery cards in your graveyard. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UB12 Great Prayer of Dexterity
+rules_text: Pray an amount of times equal to the number of Hands you control. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Create X prayer tokens, where X is the number of Hands you control. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UR12 Great Prayer of Soul
+rules_text: Pray an amount of times equal to the number of invested permanents you control. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Create X prayer tokens, where X is the number of invested permanents you control. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UG12 Great Prayer of Effort
+rules_text: Pray an amount of times equal to the number of tapped creatures you control. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Create X prayer tokens, where X is the number of tapped creatures you control. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UU09 Study in Faith
+rules_text: Draw two cards. Pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Draw two cards. Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UB09 Faithful Rites
+rules_text: Draw two cards. You lose 2 life. Pray twice. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Draw two cards. You lose 2 life. Create two prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UR04 Deepfaith Ritualist
+rules_text: Whenever you cast an instant or sorcery spell, choose one —
+• Add {R}.
+• Pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Whenever you cast an instant or sorcery spell, choose one —
+• Add {R}.
+• Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UR09 Faithful Inspiration
+rules_text: Pray twice. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i]
+Mill three cards. You may play those cards this turn by sacrificing a Faith in addition to paying their costs. => Create two prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+Mill three cards. You may play those cards this turn by sacrificing a Prayer in addition to paying their costs.
+
+UU03 Godshard of Knowledge
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+UB05 Godshard of Persistence
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+UR08 Godshard of Courage
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+UG05 Godshard of Strength
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+UG10 Faith's Claim
+rules_text: Destroy target artifact or enchantment. Its controller may pray. They gain 2 life. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Destroy target artifact or enchantment. Its controller creates a prayer token and gains 2 life. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UG11 Growth Through Faith
+rules_text: Draw a card.
+You may put a land card from your hand onto the battlefield tapped.
+Pray twice. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Draw a card.
+You may put a land card from your hand onto the battlefield tapped.
+Create two prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+RU02 Raven of Superstition
+rules_text: Flying
+Whenever this creature attacks, pray. [i](Create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i]
+{B}{R}{G}{W}, Sacrifice this creature: Draw two cards. => Flying
+Whenever this creature attacks, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{B}{R}{G}{W}, Sacrifice this creature: Draw two cards.
+
+MU01 Godshard of Enlightenment
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+MR01 Godshard of Ascendance
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+RR03 Godshard of Artifice
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+RG03 Godshard of Nature
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+RB03 Godshard of Populace
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+RU03 Godshard of Arcana
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+RW03 Godshard of Spirituality
+type: Legendary Enchantment Creature — GodShard => Legendary Enchantment Creature — God-Shard
+
+MM01 The Corpse of Regitholem
+rules_text: Elsewhere 10 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+You may cast this spell from your elsewhere.
+As long as this card is in your starting elsewhere, your starting elsewhere may have up to ten GodShard cards without considering their elsewhere values. => Elsewhere 10 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+You may cast this spell from your elsewhere.
+As long as this card is in your starting elsewhere, your starting elsewhere may have up to ten God-Shard cards without considering their elsewhere values.
+
+RR02 Greatersoul Champion
+rules_text: Invest abilities you activate cost {1} more activate. => Invest abilities you activate cost {1} less to activate.
+
+MA02 Mox Ichor
+rules_text: {T}, Sacrifice a GodShard: Add one mana of any color. => {T}, Sacrifice a God-Shard: Add one mana of any color.
+
+RW08 Penultimate Prayer
+rules_text: Pray four times. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Create four prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+RG07 Faithful Questgiver
+rules_text: Whenever this creature becomes blocked, pray twice. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Whenever this creature becomes blocked, create two prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+MW01 Reirbor the Penitent
+rules_text: GodShard spells you cast cost one mana of any type less to cast. => God-Shard spells you cast cost one mana of any type less to cast.
+
+MG02 Vagathia's Command
+rules_text: Choose two. You may choose the same mode more than once —
+• Destroy target artifact or enchantment.
+• Target creature you control deals damage equal to its power to target creature, planeswalker, or battle.
+• Pray twice. [i](To pray, create a Faith token. Then you may sacrifice five Faiths to put a Savior card from your elsewhere onto the battlefield. Faith tokens are enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color.”)[/i] => Choose two. You may choose the same mode more than once —
+• Destroy target artifact or enchantment.
+• Target creature you control deals damage equal to its power to target creature, planeswalker, or battle.
+• Create two prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
