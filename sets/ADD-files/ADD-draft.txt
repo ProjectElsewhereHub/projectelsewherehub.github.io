@@ -2954,56 +2954,6 @@
 			}
 		},
 		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "266",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/266_Plains.jpg"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "267",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/267_Island.jpg"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "268",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/268_Swamp.jpg"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "269",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/269_Mountain.jpg"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "270",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/270_Forest.jpg"
-			}
-		},
-		{
 			"name": "1/1 Peasant Token",
 			"rarity": "common",
 			"mana_cost": "",
@@ -3064,16 +3014,6 @@
 			}
 		},
 		{
-			"name": "Moodbound Reminder",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Reminder",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/2t_Moodbound Reminder.jpg"
-			}
-		},
-		{
 			"name": "RU03 Visionary Kinship",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
@@ -3100,6 +3040,66 @@
 				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/4_MC01 The Dreamer Wakes Up_front.jpg"
 			}
 		},
+		{
+			"name": "Moodbound Reminder",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Reminder",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/2t_Moodbound Reminder.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/266_Plains.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/267_Island.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/268_Swamp.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/269_Mountain.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/270_Forest.jpg"
+			}
+		}
 	]
 
 [rare(2)]
@@ -3370,8 +3370,7 @@
 	5 CA01 Wildforged Golem
 	5 CA02 Mechanical Pilgrim
 	5 CA03 Imposing Monolith
-[reminderslot(1)]
+[reminderslot1(1)]
 	5 Elsewhere Reminder
-	5 Moodbound Reminder
 [reminderslot2(1)]
 	5 Moodbound Reminder

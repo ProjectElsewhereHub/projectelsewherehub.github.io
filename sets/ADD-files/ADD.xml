@@ -5,7 +5,7 @@
 			<name>ADD</name>
 			<longname>A Dream of Darkness</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-19</releasedate>
+			<releasedate>2026-08-20</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4825,8 +4825,8 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 		</card>
 		<card>
 			<name>UM04 Solarkin Kinmage</name>
-			<text>Sunfire — Add {R} or {G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
-{R}{G}, {T}, Discard an Elemental card: Add {R}{R}{G}{G}. Mill four cards.</text>
+			<text>Sunfire — Add {R} or Gatom-reminder-custom&gt; (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.) (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
+RG, {T}, Discard an Elemental card: Add RRGG. Mill four cards.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/230_UM04 Solarkin Kinmage.jpg" num="230">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -4836,7 +4836,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 				<manacost>1RG</manacost>
 				<cmc>3</cmc>
 				<colors>RG</colors>
-				<coloridentity>RG</coloridentity>
+				<coloridentity>URG</coloridentity>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -5138,7 +5138,7 @@ Revolt — At the beginning of your end step, if a permanent left the battlefiel
 		<card>
 			<name>ML04 The Solar Summit</name>
 			<text>This land enters tapped.
-Sunfire — Add {R} or {G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
+Sunfire — Add {R} or Gatom-reminder-custom&gt; (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.) (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 {T}: Add {R} or {G}.</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/247_ML04 The Solar Summit.jpg" num="247">ADD</set>
 			<prop>
@@ -5710,76 +5710,6 @@ When this enchantment enters, draw a card.
 			<related attach="transform">UL10 Festival of Water</related>
 		</card>
 		<card>
-			<name>Plains</name>
-			<text>({T}: Add {W}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/266_Plains.jpg" num="266">ADD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Island</name>
-			<text>({T}: Add {U}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/267_Island.jpg" num="267">ADD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Swamp</name>
-			<text>({T}: Add {B}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/268_Swamp.jpg" num="268">ADD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Mountain</name>
-			<text>({T}: Add {R}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/269_Mountain.jpg" num="269">ADD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Forest</name>
-			<text>({T}: Add {G}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/270_Forest.jpg" num="270">ADD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
 			<name>1/1 Peasant Token ADD</name>
 			<text></text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/3t_1/1 Peasant Token.jpg" num="3">ADD</set>
@@ -5908,23 +5838,6 @@ You can move cards in and out of your elsewhere in sideboarding, provided all ca
 			<token>1</token>
 		</card>
 		<card>
-			<name>Moodbound Reminder ADD</name>
-			<text>(Turn this sideways to show that you&apos;re grim.)
-You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less, and grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater.
-Bound spells are spells with whimsybound or grimbound.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/2t_Moodbound Reminder.jpg" num="2">ADD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Reminder</type>
-				<maintype>Reminder</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
-		</card>
-		<card>
 			<name>RU03 Visionary Kinship</name>
 			<text>As this enchantment enters, choose a creature type.
 Spells you cast of the chosen type cost {1} less to cast.</text>
@@ -5978,6 +5891,98 @@ Exile this saga, then return it to the battlefield transformed under your contro
 			</prop>
 			<tablerow>1</tablerow>
 			<related attach="transform">MC01 The Dreamer Wakes Up</related>
+		</card>
+		<card>
+			<name>Moodbound Reminder ADD</name>
+			<text>(Whimsybound and grimbound spells are moodbound. Turn this card sideways to indicate grimbound.) (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.) (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+You&apos;re whimsical if the last non-moodbound spell you&apos;ve cast had mana value 3 or less.
+You&apos;re grim if the last non-moodbound spell you&apos;ve cast had mana value 4 or greater.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/2t_Moodbound Reminder.jpg" num="2">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Reminder</type>
+				<maintype>Reminder</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text>({T}: Add {W}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/266_Plains.jpg" num="266">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text>({T}: Add {U}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/267_Island.jpg" num="267">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text>({T}: Add {B}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/268_Swamp.jpg" num="268">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text>({T}: Add {R}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/269_Mountain.jpg" num="269">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text>({T}: Add {G}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/270_Forest.jpg" num="270">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

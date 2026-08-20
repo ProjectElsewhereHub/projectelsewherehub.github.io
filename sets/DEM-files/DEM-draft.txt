@@ -411,56 +411,6 @@
 			}
 		},
 		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "255",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/255_Plains.jpg"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "256",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/256_Island.jpg"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "257",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/257_Swamp.jpg"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "258",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/258_Mountain.jpg"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "259",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/259_Forest.jpg"
-			}
-		},
-		{
 			"name": "CL01 Foreign Plains",
 			"rarity": "common",
 			"mana_cost": "",
@@ -2618,6 +2568,56 @@
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/17_MC04 Saviorality Doomed.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/255_Plains.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/256_Island.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/257_Swamp.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/258_Mountain.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/259_Forest.jpg"
 			}
 		}
 	]

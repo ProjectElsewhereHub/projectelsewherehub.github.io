@@ -1,4 +1,31 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+UM04 Solarkin Kinmage
+rules_text: Sunfire — Add {R} or {G}. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+{R}{G}, {T}, Discard an Elemental card: Add {R}{R}{G}{G}. Mill four cards. => Sunfire — Add {R} or Gatom-reminder-custom> [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i] [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+RG, {T}, Discard an Elemental card: Add RRGG. Mill four cards.
+
+ML04 The Solar Summit
+rules_text: This land enters tapped.
+Sunfire — Add {R} or {G}. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+{T}: Add {R} or {G}. => This land enters tapped.
+Sunfire — Add {R} or Gatom-reminder-custom> [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i] [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+{T}: Add {R} or {G}.
+
+Elsewhere Reminder
+
+Moodbound Reminder
+rules_text: [i](Turn this sideways to show that you're grim.)[/i]
+You're whimsical if the last non-bound spell you've cast was mana value 3 or less, and grim if the last non-bound spell you've cast was mana value 4 or greater.
+Bound spells are spells with whimsybound or grimbound. => [i](Whimsybound and grimbound spells are moodbound. Turn this card sideways to indicate grimbound.)[/i] [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i] [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]
+You're whimsical if the last non-moodbound spell you've cast had mana value 3 or less.
+You're grim if the last non-moodbound spell you've cast had mana value 4 or greater.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 No changes.

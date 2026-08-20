@@ -2,6 +2,6 @@
 	{ "name": "rare", "count": 2, "balanced": true, "custom": false, "filtered": false },
 	{ "name": "uncommon", "count": 5, "balanced": true, "custom": false, "filtered": false },
 	{ "name": "common", "count": 9, "balanced": true, "custom": false, "filtered": false },
-	{ "name": "reminderslot", "count": 1, "balanced": true, "custom": true, "filtered": true },
+	{ "name": "reminderslot1", "count": 1, "balanced": true, "custom": true, "filtered": true },
 	{ "name": "reminderslot2", "count": 1, "balanced": true, "custom": true, "filtered": true }
 ]

@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "AAE",
+            "set_name": "Amplalo at Epoch",
+            "formats": ""
+        },
+        {
             "set_code": "ADD",
             "set_name": "A Dream of Darkness",
             "formats": ""

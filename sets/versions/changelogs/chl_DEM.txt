@@ -1,4 +1,130 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+CW12 Praise Be
+rules_text: Create a prayer token. Draw a card. You gain 2 life. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Create a Prayer token. Draw a card. You gain 2 life. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UM07 Faithful Steam-Mage
+rules_text: Whenever you cast an instant or sorcery spell, create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{T}, Sacrifice two Prayers: Add {U}{R}. => Whenever you cast an instant or sorcery spell, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{T}, Sacrifice two Prayers: Add {U}{R}.
+
+UM10 Exertion Seeker
+rules_text: Whenever a creature you control becomes tapped, choose one —
+• Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+• You gain 1 life. => Whenever a creature you control becomes tapped, choose one —
+• Surveil 1.
+• You gain 1 life.
+
+CW03 Omenful Dove
+rules_text: Flying
+When this creature enters, create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Flying
+When this creature enters, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CB12 Faith in Extremis
+rules_text: Until end of turn, target creature gets +1/+0 and gains “When this creature dies, return it to the battlefield tapped, then create a prayer token.” [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Until end of turn, target creature gets +1/+0 and gains “When this creature dies, return it to the battlefield tapped, then create a Prayer token.” [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CC03 Lightform of the Tongue
+rules_text: [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{B} — Add X mana in any combination of colors.
+{R} — This spell deals X damage to each opponent. => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{B} — Add X mana in any combination of colors.
+{R} — This spell deals X damage to each opponent.
+
+CC07 Lightform of the Nose
+rules_text: [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{G} — Add one mana of any color.
+{U} — You may tap an untapped creature you control. If you do, surveil X, then draw a card.
+{R} — Create X prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{G} — Add one mana of any color.
+{U} — You may tap an untapped creature you control. If you do, surveil X, then draw a card.
+{R} — Create X Prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CU06 Faithful Negation
+rules_text: Counter target spell. Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Counter target spell. Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CR04 Cyclefaith Serpent
+rules_text: Reach
+{R}, Discard this card: Draw a card. Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Reach
+{R}, Discard this card: Draw a card. Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CR07 Faith's Fire
+rules_text: This spell deals 2 damage to target creature. Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => This spell deals 2 damage to target creature. Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CG08 Faith-Guided Blades
+rules_text: Choose one —
+• Target creature you control fights target creature you don't control.
+• Counter target spell that targets a creature you control unless its controller pays {2}. Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Choose one —
+• Target creature you control fights target creature you don't control.
+• Counter target spell that targets a creature you control unless its controller pays {2}. Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UW05 Elder Disciple
+rules_text: When this creature enters, draw a card. Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => When this creature enters, draw a card. Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UW12 Great Prayer of Protection
+rules_text: Create X prayer tokens, where X is the greatest toughness among creatures you control. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Create X Prayer tokens, where X is the greatest toughness among creatures you control. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UU12 Great Prayer of Arcana
+rules_text: Create X prayer tokens, where X is the number of instant and sorcery cards in your graveyard. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Create X Prayer tokens, where X is the number of instant and sorcery cards in your graveyard. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UB12 Great Prayer of Dexterity
+rules_text: Create X prayer tokens, where X is the number of Hands you control. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Create X Prayer tokens, where X is the number of Hands you control. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UR12 Great Prayer of Soul
+rules_text: Create X prayer tokens, where X is the number of invested permanents you control. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Create X Prayer tokens, where X is the number of invested permanents you control. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UG12 Great Prayer of Effort
+rules_text: Create X prayer tokens, where X is the number of tapped creatures you control. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Create X Prayer tokens, where X is the number of tapped creatures you control. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UU09 Study in Faith
+rules_text: Draw two cards. Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Draw two cards. Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UB09 Faithful Rites
+rules_text: Draw two cards. You lose 2 life. Create two prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Draw two cards. You lose 2 life. Create two Prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UR04 Deepfaith Ritualist
+rules_text: Whenever you cast an instant or sorcery spell, choose one —
+• Add {R}.
+• Create a prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Whenever you cast an instant or sorcery spell, choose one —
+• Add {R}.
+• Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UR09 Faithful Inspiration
+rules_text: Create two prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+Mill three cards. You may play those cards this turn by sacrificing a Prayer in addition to paying their costs. => Create two Prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+Mill three cards. You may play those cards this turn by sacrificing a Prayer in addition to paying their costs.
+
+UG10 Faith's Claim
+rules_text: Destroy target artifact or enchantment. Its controller creates a prayer token and gains 2 life. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Destroy target artifact or enchantment. Its controller creates a Prayer token and gains 2 life. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+UG11 Growth Through Faith
+rules_text: Draw a card.
+You may put a land card from your hand onto the battlefield tapped.
+Create two prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Draw a card.
+You may put a land card from your hand onto the battlefield tapped.
+Create two Prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+RW08 Penultimate Prayer
+rules_text: Create four prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Create four Prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+RG07 Faithful Questgiver
+rules_text: Whenever this creature becomes blocked, create two prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Whenever this creature becomes blocked, create two Prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+MG02 Vagathia's Command
+rules_text: Choose two. You may choose the same mode more than once —
+• Destroy target artifact or enchantment.
+• Target creature you control deals damage equal to its power to target creature, planeswalker, or battle.
+• Create two prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Choose two. You may choose the same mode more than once —
+• Destroy target artifact or enchantment.
+• Target creature you control deals damage equal to its power to target creature, planeswalker, or battle.
+• Create two Prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+
+VERSION 6 CHANGELOG
 ====================
 
 MC05 Lightform of Deity added.

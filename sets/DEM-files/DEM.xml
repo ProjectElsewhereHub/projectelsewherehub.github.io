@@ -5,7 +5,7 @@
 			<name>DEM</name>
 			<longname>Deus Ex Memoriam</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-19</releasedate>
+			<releasedate>2026-08-20</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -29,7 +29,7 @@ A deck can have any number of cards named Marching Hands.</text>
 		</card>
 		<card>
 			<name>CW12 Praise Be</name>
-			<text>Create a prayer token. Draw a card. You gain 2 life. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>Create a Prayer token. Draw a card. You gain 2 life. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/33_CW12 Praise Be.jpg" num="33">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -79,7 +79,7 @@ When this creature enters, if mana from three or more differently named sources 
 		</card>
 		<card>
 			<name>UM07 Faithful Steam-Mage</name>
-			<text>Whenever you cast an instant or sorcery spell, create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
+			<text>Whenever you cast an instant or sorcery spell, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
 {T}, Sacrifice two Prayers: Add {U}{R}.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/216_UM07 Faithful Steam-Mage.jpg" num="216">DEM</set>
 			<prop>
@@ -164,7 +164,7 @@ As long as this creature is invested by a God-Shard, whenever it deals combat da
 		<card>
 			<name>UM10 Exertion Seeker</name>
 			<text>Whenever a creature you control becomes tapped, choose one —
-• Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+• Surveil 1.
 • You gain 1 life.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/219_UM10 Exertion Seeker.jpg" num="219">DEM</set>
 			<prop>
@@ -725,7 +725,7 @@ This creature and invested creature get +2/+2 and have trample.</text>
 		<card>
 			<name>CW03 Omenful Dove</name>
 			<text>Flying
-When this creature enters, create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+When this creature enters, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/24_CW03 Omenful Dove.jpg" num="24">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -742,7 +742,7 @@ When this creature enters, create a prayer token. (It&apos;s an enchantment with
 		</card>
 		<card>
 			<name>CB12 Faith in Extremis</name>
-			<text>Until end of turn, target creature gets +1/+0 and gains &quot;When this creature dies, return it to the battlefield tapped, then create a prayer token.&quot; (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>Until end of turn, target creature gets +1/+0 and gains &quot;When this creature dies, return it to the battlefield tapped, then create a Prayer token.&quot; (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/99_CB12 Faith in Extremis.jpg" num="99">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -790,76 +790,6 @@ This creature gets +1/+1 as long as you control a Choir.</text>
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Plains</name>
-			<text>({T}: Add {W}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/255_Plains.jpg" num="255">DEM</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Island</name>
-			<text>({T}: Add {U}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/256_Island.jpg" num="256">DEM</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Swamp</name>
-			<text>({T}: Add {B}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/257_Swamp.jpg" num="257">DEM</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Mountain</name>
-			<text>({T}: Add {R}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/258_Mountain.jpg" num="258">DEM</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Forest</name>
-			<text>({T}: Add {G}.)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/259_Forest.jpg" num="259">DEM</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
 		</card>
 		<card>
 			<name>CL01 Foreign Plains</name>
@@ -1317,7 +1247,7 @@ Sacrifice or counter three permanents and/or spells you control with elsewhere: 
 		<card>
 			<name>CC03 Lightform of the Tongue</name>
 			<text>(This spell gains effects based on the sources and colors of mana spent to cast it.)
-{U} — Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
+{U} — Create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
 {B} — Add X mana in any combination of colors.
 {R} — This spell deals X damage to each opponent.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/3_CC03 Lightform of the Tongue.jpg" num="3">DEM</set>
@@ -1409,7 +1339,7 @@ When this creature enters, put a +1/+1 counter on another target creature you co
 			<text>(This spell gains effects based on the sources and colors of mana spent to cast it.)
 {G} — Add one mana of any color.
 {U} — You may tap an untapped creature you control. If you do, surveil X, then draw a card.
-{R} — Create X prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+{R} — Create X Prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/7_CC07 Lightform of the Nose.jpg" num="7">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -1636,7 +1566,7 @@ When this creature enters, draw a card.</text>
 		</card>
 		<card>
 			<name>CU06 Faithful Negation</name>
-			<text>Counter target spell. Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>Counter target spell. Create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/60_CU06 Faithful Negation.jpg" num="60">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -1926,7 +1856,7 @@ Refrain (Whenever this becomes tapped, put a -1/-1 counter on a Choir you contro
 		<card>
 			<name>CR04 Cyclefaith Serpent</name>
 			<text>Reach
-{R}, Discard this card: Draw a card. Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+{R}, Discard this card: Draw a card. Create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/124_CR04 Cyclefaith Serpent.jpg" num="124">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -1978,7 +1908,7 @@ When this creature enters, gain control of target creature until end of turn. Un
 		</card>
 		<card>
 			<name>CR07 Faith&apos;s Fire</name>
-			<text>This spell deals 2 damage to target creature. Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>This spell deals 2 damage to target creature. Create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/127_CR07 Faith&apos;s Fire.jpg" num="127">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -2219,7 +2149,7 @@ When this creature enters, you gain 3 life. Return target card from your graveya
 			<name>CG08 Faith-Guided Blades</name>
 			<text>Choose one —
 • Target creature you control fights target creature you don&apos;t control.
-• Counter target spell that targets a creature you control unless its controller pays {2}. Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+• Counter target spell that targets a creature you control unless its controller pays {2}. Create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/161_CG08 Faith-Guided Blades.jpg" num="161">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -2957,7 +2887,7 @@ Invested permanent can&apos;t attack or block, and its non-mana abilities can&ap
 		</card>
 		<card>
 			<name>UW05 Elder Disciple</name>
-			<text>When this creature enters, draw a card. Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>When this creature enters, draw a card. Create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/47_UW05 Elder Disciple.jpg" num="47">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -2994,7 +2924,7 @@ Whenever this creature deals combat damage to a player, choose one —
 		</card>
 		<card>
 			<name>UW12 Great Prayer of Protection</name>
-			<text>Create X prayer tokens, where X is the greatest toughness among creatures you control. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>Create X Prayer tokens, where X is the greatest toughness among creatures you control. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/54_UW12 Great Prayer of Protection.jpg" num="54">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3010,7 +2940,7 @@ Whenever this creature deals combat damage to a player, choose one —
 		</card>
 		<card>
 			<name>UU12 Great Prayer of Arcana</name>
-			<text>Create X prayer tokens, where X is the number of instant and sorcery cards in your graveyard. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>Create X Prayer tokens, where X is the number of instant and sorcery cards in your graveyard. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/87_UU12 Great Prayer of Arcana.jpg" num="87">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3026,7 +2956,7 @@ Whenever this creature deals combat damage to a player, choose one —
 		</card>
 		<card>
 			<name>UB12 Great Prayer of Dexterity</name>
-			<text>Create X prayer tokens, where X is the number of Hands you control. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>Create X Prayer tokens, where X is the number of Hands you control. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/120_UB12 Great Prayer of Dexterity.jpg" num="120">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3042,7 +2972,7 @@ Whenever this creature deals combat damage to a player, choose one —
 		</card>
 		<card>
 			<name>UR12 Great Prayer of Soul</name>
-			<text>Create X prayer tokens, where X is the number of invested permanents you control. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>Create X Prayer tokens, where X is the number of invested permanents you control. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/153_UR12 Great Prayer of Soul.jpg" num="153">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3058,7 +2988,7 @@ Whenever this creature deals combat damage to a player, choose one —
 		</card>
 		<card>
 			<name>UG12 Great Prayer of Effort</name>
-			<text>Create X prayer tokens, where X is the number of tapped creatures you control. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>Create X Prayer tokens, where X is the number of tapped creatures you control. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/187_UG12 Great Prayer of Effort.jpg" num="187">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3144,7 +3074,7 @@ Counter target spell. Surveil 1. (Look at the top card of your library. You may 
 		</card>
 		<card>
 			<name>UU09 Study in Faith</name>
-			<text>Draw two cards. Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>Draw two cards. Create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/84_UU09 Study in Faith.jpg" num="84">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3227,7 +3157,7 @@ Whenever a Choir you control dies, if it had 0 toughness, you gain 2 life and ea
 		</card>
 		<card>
 			<name>UB09 Faithful Rites</name>
-			<text>Draw two cards. You lose 2 life. Create two prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>Draw two cards. You lose 2 life. Create two Prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/117_UB09 Faithful Rites.jpg" num="117">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3281,7 +3211,7 @@ Invest {5} ({5}: Attach to target non-aura non-investiture permanent you control
 			<name>UR04 Deepfaith Ritualist</name>
 			<text>Whenever you cast an instant or sorcery spell, choose one —
 • Add {R}.
-• Create a prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+• Create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/145_UR04 Deepfaith Ritualist.jpg" num="145">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3335,7 +3265,7 @@ Whenever a Choir you control attacks, discard a card, then draw a card.</text>
 		</card>
 		<card>
 			<name>UR09 Faithful Inspiration</name>
-			<text>Create two prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
+			<text>Create two Prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
 Mill three cards. You may play those cards this turn by sacrificing a Prayer in addition to paying their costs.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/150_UR09 Faithful Inspiration.jpg" num="150">DEM</set>
 			<prop>
@@ -3548,7 +3478,7 @@ Invested creature gets +2/+2 and has trample.</text>
 		</card>
 		<card>
 			<name>UG10 Faith&apos;s Claim</name>
-			<text>Destroy target artifact or enchantment. Its controller creates a prayer token and gains 2 life. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>Destroy target artifact or enchantment. Its controller creates a Prayer token and gains 2 life. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/185_UG10 Faith&apos;s Claim.jpg" num="185">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3566,7 +3496,7 @@ Invested creature gets +2/+2 and has trample.</text>
 			<name>UG11 Growth Through Faith</name>
 			<text>Draw a card.
 You may put a land card from your hand onto the battlefield tapped.
-Create two prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+Create two Prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/186_UG11 Growth Through Faith.jpg" num="186">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -4052,7 +3982,7 @@ This card can&apos;t start in your deck.</text>
 		</card>
 		<card>
 			<name>RW08 Penultimate Prayer</name>
-			<text>Create four prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>Create four Prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/42_RW08 Penultimate Prayer.jpg" num="42">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -4325,7 +4255,7 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 		</card>
 		<card>
 			<name>RG07 Faithful Questgiver</name>
-			<text>Whenever this creature becomes blocked, create two prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+			<text>Whenever this creature becomes blocked, create two Prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/174_RG07 Faithful Questgiver.jpg" num="174">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -4587,7 +4517,7 @@ You can move cards in and out of your elsewhere in sideboarding, provided all ca
 			<text>Choose two. You may choose the same mode more than once —
 • Destroy target artifact or enchantment.
 • Target creature you control deals damage equal to its power to target creature, planeswalker, or battle.
-• Create two prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
+• Create two Prayer tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/167_MG02 Vagathia&apos;s Command.jpg" num="167">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -4616,6 +4546,81 @@ When this creature dies, destroy each enchantment you control. Draw a card for e
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text>({T}: Add {W}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/255_Plains.jpg" num="255">DEM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text>({T}: Add {U}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/256_Island.jpg" num="256">DEM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text>({T}: Add {B}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/257_Swamp.jpg" num="257">DEM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text>({T}: Add {R}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/258_Mountain.jpg" num="258">DEM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text>({T}: Add {G}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/259_Forest.jpg" num="259">DEM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

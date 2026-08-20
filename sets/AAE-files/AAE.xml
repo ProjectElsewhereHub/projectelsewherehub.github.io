@@ -1,0 +1,1128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>AAE</name>
+			<longname>Amplalo at Epoch</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-20</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Dumat, the Fogs As One</name>
+			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
+Ritual — Three monocolored white cards with different names. (You may cast this card from your elsewhere if you&apos;ve played three monocolored white cards with different names this game.) [5/5]
+Vigilance
+When Dumat enters, prevent all damage that would be dealt to you and permanents you control until your next turn.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/6_Dumat, the Fogs As One.jpg" num="6">AAE</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whisper to the Winds</name>
+			<text>Choose one—
+• Create two 1/1 white Cleric creature tokens.
+• You gain 5 life.
+• Return a nonland permanent card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/11_Whisper to the Winds.jpg" num="11">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Speak to Skies</name>
+			<text>Choose two—
+• Create two 1/1 white Cleric creature tokens.
+• You gain 5 life.
+• Return a nonland permanent card from your graveyard to your hand.
+• Draw a card.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/10_Speak to Skies.jpg" num="10">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Naranu, the Tides Alive</name>
+			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
+Ritual — Three monocolored blue cards with different names. (You may cast this card from your elsewhere if you&apos;ve played three monocolored blue cards with different names this game.) [4/4]
+When Naranu enters, scry X, where X is the number of sea monsters you control, then draw a card. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/18_Naranu, the Tides Alive.jpg" num="18">AAE</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wade the Shallows</name>
+			<text>Mill three cards. You may put an instant, sorcery, land, or sea monster card from among the milled cards into your hand. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/21_Wade the Shallows.jpg" num="21">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dive the Depths</name>
+			<text>Mill three cards, then create a tapped 1/1 blue Fish creature token for each card type among cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/14_Dive the Depths.jpg" num="14">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Naph&apos;zed, the Voice of Death</name>
+			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
+Ritual — Three monocolored black cards with different names. (You may cast this card from your elsewhere if you&apos;ve played three monocolored black cards with different names this game.) [4/4]
+Flying
+When Naph&apos;zed enters, you may return target creature card from your graveyard to the battlefield. If you do, you lose life equal to that card&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/28_Naph&apos;zed, the Voice of Death.jpg" num="28">AAE</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twilight Offering</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/31_Twilight Offering.jpg" num="31">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Moonlight Summoning</name>
+			<text>As an additional cost to cast this spell, sacrifice two artifacts and/or creatures.
+Return target creature or planeswalker card with mana value 6 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/27_Moonlight Summoning.jpg" num="27">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tooth, the Blood in the Water</name>
+			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
+Ritual — Three monocolored red cards with different names. (You may cast this card from your elsewhere if you&apos;ve played three monocolored red cards with different names this game.) [4/4]
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/41_Tooth, the Blood in the Water.jpg" num="41">AAE</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Shark</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stoke the Pyres</name>
+			<text>Stoke the Pyres deals 1 damage to any target. Create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/40_Stoke the Pyres.jpg" num="40">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fan the Flames</name>
+			<text>Fan the Flames deals 2 damage divided as you choose among one or two targets. Create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/36_Fan the Flames.jpg" num="36">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Terun, the Land Anew</name>
+			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
+Ritual — Three monocolored green cards with different names. (You may cast this card from your elsewhere if you&apos;ve played three monocolored green cards with different names this game.) [8/6]
+When this creature enters, you gain 1 life for each card in your graveyard, then choose one of those cards. Return that card to your hand and shuffle each other card in your graveyard into your library.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/49_Terun, the Land Anew.jpg" num="49">AAE</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>6GG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chum the Waters</name>
+			<text>When Chum the Waters enters, put a prey counter on target creature.
+Whenever a creature you don&apos;t control with a prey counter on it dies, you gain 3 life.
+Grandeur — Discard another card named Chum the Waters: Put a prey counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/45_Chum the Waters.jpg" num="45">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Attract the Upwelling</name>
+			<text>When Attract the Upwelling enters, put a prey counter on target creature.
+Whenever a creature you don&apos;t control with a prey counter on it dies, create a 1/1 blue Fish creature token.
+Grandeur — Discard another card named Attract the Upwelling: Put a prey counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/43_Attract the Upwelling.jpg" num="43">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Paradox Fragment</name>
+			<text>This artifact enters tapped.
+{T}, Sacrifice this artifact: Add one mana of any color. When that mana is spent to cast a spell, copy that spell and you may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/58_Paradox Fragment.jpg" num="58">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Realmseeker Golem</name>
+			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+Legendary landcycling {3}</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/60_Realmseeker Golem.jpg" num="60">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sentinel Valley</name>
+			<text>This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{W}{U}{B}{R}{G}, {T}, Sacrifice this land: Create a Great Sentinel token. Activate only as a sorcery. (It&apos;s a {6} 6/6 Golem artifact creature.)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/63_Sentinel Valley.jpg" num="63">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>A&apos;Akula, the Heavens on Earth</name>
+			<text>Elsewhere 5 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
+Ritual — Whisper to the Winds, Speak to the Skies, and Shout to the Heavens. (You may cast this card from your elsewhere as long as you&apos;ve played Whisper to the Winds, Speak to the Skies, and Shout to the Heavens this game.) [2/2]
+When A&apos;Akula enters, create two 1/1 white Cleric creature tokens, gain 5 life, return a nonland permanent card from your graveyard to your hand, draw a card, and put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/2_A&apos;Akula, the Heavens on Earth.jpg" num="2">AAE</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>6WW</manacost>
+				<cmc>8</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>All-Paths Nomad</name>
+			<text>As long as this creature is on the battlefield, its has mana value X, where X is the total base mana values of permanents you control.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/4_All-Paths Nomad.jpg" num="4">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shout to the Heavens</name>
+			<text>Choose three—
+• Create two 1/1 white Cleric creature tokens.
+• You gain 5 life.
+• Return a nonland permanent card from your graveyard to your hand.
+• Draw a card.
+• Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/9_Shout to the Heavens.jpg" num="9">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Minute Culling</name>
+			<text>Destroy any number of target nontoken, nonland permanents with total mana value X or less.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/7_Minute Culling.jpg" num="7">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XW</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Act of Xiphaes</name>
+			<text>Exile target permanent if it&apos;s an artifact or enchantment or if it has mana value 4 or greater.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/3_Act of Xiphaes.jpg" num="3">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Anticharm Warden</name>
+			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+As this creature enters, look at an opponent&apos;s hand, then choose any card name.
+Spells with the chosen name can&apos;t be cast.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/56_Anticharm Warden.jpg" num="56">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ikylix, the Infinite Abyss</name>
+			<text>Elsewhere 5 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
+Ritual — Wade the Shallows, Dive the Depths, and Reach the Abyss. (You may cast this card from your elsewhere as long as you&apos;ve played Wade the Shallows, Dive the Depths, and Reach the Abyss this game.) [5/7]
+Ward {2}
+Whenever Ikylix enters or attacks, you may exile a nonland card from a graveyard. Copy that card. You may cast the copy without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/17_Ikylix, the Infinite Abyss.jpg" num="17">AAE</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reach the Abyss</name>
+			<text>Mill three cards, then each opponent mills a card for each card in your graveyard.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/19_Reach the Abyss.jpg" num="19">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Echo Sculptor</name>
+			<text>At the beginning of your upkeep, create a token that&apos;s a copy of another target nontoken creature you control, except it&apos;s a Reflection in addition to its other types and it has &quot;Whenever this creature becomes the target of a spell or ability, sacrifice it.&quot;</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/15_Echo Sculptor.jpg" num="15">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undular Revelation</name>
+			<text>Shuffle your hand and graveyard into your library, then draw cards equal to the greatest mana value among permanents you control.
+Exile Undular Revelation.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/20_Undular Revelation.jpg" num="20">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Act of Abussaee</name>
+			<text>Draw two cards, then you may cast a spell with mana value 4 or less from your hand without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/12_Act of Abussaee.jpg" num="12">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gate to the Horizon</name>
+			<text>Defender (This creature can&apos;t attack.)
+When this creature enters, look at the top seven cards of your library. You may reveal any number of creature cards with power 3 or less from among them and put them into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/52_Gate to the Horizon.jpg" num="52">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>0/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tch&apos;Za, the Jaws of Darkness</name>
+			<text>Elsewhere 5 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
+Ritual — Twilight Offering, Moonlight Summoning, and Darkness Consuming. (You may cast this card from your elsewhere as long as you&apos;ve played Twilight Offering, Moonlight Summoning, and Darkness Consuming this game.) [0/0]
+Menace, ward—Pay life equal to Tch&apos;Za&apos;s power.
+Tch&apos;Za gets +1/+1 for each artifact and/or creature card in your graveyard.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/30_Tch&apos;Za, the Jaws of Darkness.jpg" num="30">AAE</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Darkness Consuming</name>
+			<text>As an additional cost to cast this spell, sacrifice three artifacts and/or creatures.
+Darkness Consuming deals X damage divided as you choose among any number of target creatures and/or planeswalkers and you gain X life, where X is the total mana value of the sacrificed permanents.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/25_Darkness Consuming.jpg" num="25">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Moonbound Chanter</name>
+			<text>Lifelink
+Whenever you gain life, create a 1/1 white Cleric creature token if this is the first time this ability has resolved this turn. If it&apos;s the second time, each opponent loses 2 life. If it&apos;s the third time, draw a card. If it&apos;s the fourth time, destroy target creature.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/26_Moonbound Chanter.jpg" num="26">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Align the Fates</name>
+			<text>Whenever another enchantment you control enters, each opponent loses 1 life and you gain 1 life.
+{T}, Pay 2 life: Add {B}. This mana can&apos;t be spent to cast spells with mana value 5 or less.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/23_Align the Fates.jpg" num="23">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Act of Exodais</name>
+			<text>Destroy target creature. If it had mana value 3 or less, draw a card.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/22_Act of Exodais.jpg" num="22">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Greatness in Unison</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+Greatness in Unison is all colors.
+I — {W} — Target player gains X life.
+II, III — {U} — Target player scries X, then draws a card.
+{B} — Up to one target creature gets -X/-X until end of turn.
+{R} — Greatness in Unison deals X damage to up to one target player or planeswalker.
+{G} — Put X +1/+1 counters on up to one target creature.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/53_Greatness in Unison.jpg" num="53">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Lightform</type>
+				<maintype>Sorcery</maintype>
+				<manacost>X2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>WUBRGI</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gruun, the World Aflame</name>
+			<text>Elsewhere 5 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
+Ritual — Stoke the Pyres, Fan the Flames, and Let the World Burn. (You may cast this card from your elsewhere as long as you&apos;ve played Stoke the Pyres, Fan the Flames, and Let the World Burn this game.) [5/5]
+When Gruun enters, create a tapped Treasure token.
+Artifacts you control have &quot;{T}, Sacrifice this artifact: It deals 2 damage to any target.&quot;</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/37_Gruun, the World Aflame.jpg" num="37">AAE</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Let the World Burn</name>
+			<text>Choose one—
+• Let the World Burn deals 3 damage to each creature, then create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+• Destroy all artifacts, then create a tapped Treasure token.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/38_Let the World Burn.jpg" num="38">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Revelyell</name>
+			<text>Flying, haste
+Whenever you cast a spell with mana value 6 or greater, return this card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/39_Revelyell.jpg" num="39">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Amplalo Anew</name>
+			<text>Destroy all lands. For each land destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Apex — If you control a creature with mana value 6 or greater, Amplalo Anew deals damage to up to one target creature or planeswalker equal to the number of lands destroyed this way.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/33_Amplalo Anew.jpg" num="33">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Act of Eos</name>
+			<text>Exile the top two cards of your library. Until the end of your next turn, you may play one of those cards. When you cast an instant or sorcery spell this way, you may copy that spell and you may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/32_Act of Eos.jpg" num="32">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Titan&apos;s Tomb</name>
+			<text>At the beginning of your end step, put a charge counter on this artifact. Then if a card in your graveyard has mana value greater than or equal to the number of charge counters on this artifact, draw a card.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/61_Titan&apos;s Tomb.jpg" num="61">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fulgur, the Tireless Feast</name>
+			<text>Elsewhere 5 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
+Ritual — Chum the Waters, Attract the Upwelling, and Begin the Feeding. (You may cast this card from your elsewhere as long as you&apos;ve played Chum the Waters, Attract the Upwelling, and Begin the Feeding this game.) [6/4]
+When Fulgur enters, put a prey counter on up to one target creature, then Fulgur deals X damage divided as you choose among any number of creatures with prey counters on them, where X is its power.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/46_Fulgur, the Tireless Feast.jpg" num="46">AAE</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Begin the Feeding</name>
+			<text>When Begin the Feeding enters, put a prey counter on target creature.
+Whenever a creature you don&apos;t control with a prey counter on it dies, draw a card.
+Grandeur — Discard another card named Begin the Feeding: Put a prey counter on target creature.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/44_Begin the Feeding.jpg" num="44">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seek the Great Ones</name>
+			<text>Choose one. Conjure a card of the chosen name onto the battlefield.
+• Tomb of the Slain
+• Maw of the Deep
+• Vault of the End
+• Nexus of the Beginning
+• Heart of the World</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/48_Seek the Great Ones.jpg" num="48">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unlikely Encounter</name>
+			<text>Search your library for a creature or planeswalker card, reveal it, then shuffle. If you revealed a sea monster or Arvis card this way, put it into your hand. Otherwise, put it on top of your library. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/50_Unlikely Encounter.jpg" num="50">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Act of Biotace</name>
+			<text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle. If you control five or more lands, you may put three +1/+1 counters on a land you control. If you do, that land becomes a 0/0 Elemental creature with haste that&apos;s still a land.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/42_Act of Biotace.jpg" num="42">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wyldin, Leader of the Lost</name>
+			<text>Whenever a nontoken creature you control with mana value 1 enters, put X +1/+1 counters on it, where X is its power.
+Whenever you cast a noncreature spell with mana value 1, copy it. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/55_Wyldin, Leader of the Lost.jpg" num="55">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blissful Unity</name>
+			<text>Whenever a legendary creature or planeswalker you control enters, if you cast it, you may reveal cards from the top of your library until you reveal another legendary creature or planeswalker card with lesser mana value. Put that card onto the battlefield and the rest on the bottom of your library in a random order.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/5_Blissful Unity.jpg" num="5">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Radiant Titan</name>
+			<text>Lifelink
+When this creature enters, create a Holy Strength token attached to each creature you control. (It&apos;s a {W} Aura enchantment with enchant creature and &quot;Enchanted creature gets +1/+2.&quot;)</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/8_Radiant Titan.jpg" num="8">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Protean Will</name>
+			<text>You may cast this card as a copy of the last nonland card an opponent cast. (You pay that card&apos;s costs and follow that card&apos;s timing rules. This card remains a copy even if it becomes a permanent.)
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/1_Protean Will.jpg" num="1">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arvis, Who Dives the Eternities</name>
+			<text>[+2]: Create X 1/1 blue Fish creature tokens, where X is one plus the number of Fish you control.
+[-4]: Return each other non-Fish, nonland permanent to its owner&apos;s hand.
+[-11]: Put a flood counter on any number of target lands. Each of those lands is an Island for as long as it has a flood counter on it. You get an emblem with &quot;Whenever you tap an island for mana, add an additional {U}.&quot;</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/13_Arvis, Who Dives the Eternities.jpg" num="13">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Arvis</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>6</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>He Who Wondered</name>
+			<text>When this creature enters, if it&apos;s the first time a permanent you control named He Who Wondered has entered this game, permanently upgrade your draw step. (You get an emblem with &quot;If you would draw your first card during each of your draw steps, instead choose two —
+• Create a tapped Treasure token.
+• Scry 2.
+• Draw a card.&quot;)</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/16_He Who Wondered.jpg" num="16">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>UUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanctum of the Renowned</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add two mana in any combination of colors. Spend this mana only to cast legendary spells or activate abilities of legendary permanents.
+{W}{U}{B}{R}{G}, {T}, Sacrifice Sanctum of the Renowned: Search your library for any number of legendary nonland permanent cards with total mana value 7 or less, put them onto the battlefield, then shuffle. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/62_Sanctum of the Renowned.jpg" num="62">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Night of Endless Souls</name>
+			<text>Your life total is represented by 1/1 white Cleric creature tokens. (As this enchantment enters, create or sacrifice a number of 1/1 white Cleric creature tokens so that the number of those tokens is equal to your life total. Create or sacrifice 1/1 white Cleric creature tokens whenever you gain or lose life. As this enchantment leaves the battlefield, if you control no other permanents named Night of Endless Souls, sacrifice all white Cleric creature tokens you control and your life total becomes equal to the number of tokens sacrificed this way.)</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/29_Night of Endless Souls.jpg" num="29">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Canto, Null Singer</name>
+			<text>Menace
+Whenever Canto becomes tapped, put a verse counter on it. When you do, up to one target creature with mana value X or less has base power and toughness 0/0 until end of turn, where X is the number of verse counters on Canto.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/24_Canto, Null Singer.jpg" num="24">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Satyr Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Realmpoint, Arisen Temple</name>
+			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
+Your starting elsewhere can only have one card named Realmpoint, Arisen Temple.
+Ritual — Three other cards with mana value 6 or greater. (You may cast this card from your elsewhere as long as you&apos;ve played three other cards with mana value 6 or greater this game.) [6/6]
+Vigilance
+If this card started in your elsewhere, your starting life total and minimum deck size are each increased by 10.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/59_Realmpoint, Arisen Temple.jpg" num="59">AAE</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Embers of Origination</name>
+			<text>When this enchantment enters, discard your hand.
+The first spell you cast from your hand during each of your turns may be cast without paying its mana cost.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/35_Embers of Origination.jpg" num="35">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cu&apos;Gahl, Wrath of the Seas</name>
+			<text>This spell can&apos;t be countered.
+When Cu&apos;Gahl enters, you may have target creature you control fight target creature you don&apos;t control.
+As long as a permanent left the battlefield under your control this turn, if a triggered ability of a permanent you control triggers, that ability triggers an additional time.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/34_Cu&apos;Gahl, Wrath of the Seas.jpg" num="34">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ur-Colossus</name>
+			<text>Elsewhere 6
+Ritual — Act of Xiphaes, Act of Abussaee, Act of Exodais, Act of Eos, and Act of Biotace. [10/10]
+This spell can&apos;t be countered. It costs {W}{U}{B}{R}{G} less to cast from your elsewhere.
+Indestructible, protection from creatures
+When Ur-Colossus enters, if it wasn&apos;t cast or no mana was spent to cast it, exile it. Otherwise, mill ten cards. You may cast any number of nonland cards from among the milled cards without paying their mana costs.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/54_Ur-Colossus.jpg" num="54">AAE</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Colossus</type>
+				<maintype>Creature</maintype>
+				<manacost>WWUUBBRRGG</manacost>
+				<cmc>10</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>10/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wake, Primal Empath</name>
+			<text>When Wake enters, search your library for any number of land cards and/or creature cards with mana value 6 or greater, reveal them, then shuffle and put those cards on top in any order.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/51_Wake, Primal Empath.jpg" num="51">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Irgus, Sire of Genesis</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Vigilance, reach
+Other creatures you control have base power and toughness 8/8.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/47_Irgus, Sire of Genesis.jpg" num="47">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>8GG</manacost>
+				<cmc>10</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mox Colossite</name>
+			<text>Apex — {T}: Add one mana of any color. Activate only if you control a creature with mana value 6 or greater.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/57_Mox Colossite.jpg" num="57">AAE</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

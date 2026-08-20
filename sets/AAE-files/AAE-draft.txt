@@ -1,0 +1,700 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Dumat, the Fogs As One",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Creature — Giant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/6_Dumat, the Fogs As One.jpg"
+			}
+		},
+		{
+			"name": "Whisper to the Winds",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/11_Whisper to the Winds.jpg"
+			}
+		},
+		{
+			"name": "Speak to Skies",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/10_Speak to Skies.jpg"
+			}
+		},
+		{
+			"name": "Naranu, the Tides Alive",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Kraken",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/18_Naranu, the Tides Alive.jpg"
+			}
+		},
+		{
+			"name": "Wade the Shallows",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/21_Wade the Shallows.jpg"
+			}
+		},
+		{
+			"name": "Dive the Depths",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/14_Dive the Depths.jpg"
+			}
+		},
+		{
+			"name": "Naph'zed, the Voice of Death",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/28_Naph'zed, the Voice of Death.jpg"
+			}
+		},
+		{
+			"name": "Twilight Offering",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/31_Twilight Offering.jpg"
+			}
+		},
+		{
+			"name": "Moonlight Summoning",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/27_Moonlight Summoning.jpg"
+			}
+		},
+		{
+			"name": "Tooth, the Blood in the Water",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Shark",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/41_Tooth, the Blood in the Water.jpg"
+			}
+		},
+		{
+			"name": "Stoke the Pyres",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/40_Stoke the Pyres.jpg"
+			}
+		},
+		{
+			"name": "Fan the Flames",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/36_Fan the Flames.jpg"
+			}
+		},
+		{
+			"name": "Terun, the Land Anew",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Legendary Creature — Giant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/49_Terun, the Land Anew.jpg"
+			}
+		},
+		{
+			"name": "Chum the Waters",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/45_Chum the Waters.jpg"
+			}
+		},
+		{
+			"name": "Attract the Upwelling",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/43_Attract the Upwelling.jpg"
+			}
+		},
+		{
+			"name": "Paradox Fragment",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Treasure",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/58_Paradox Fragment.jpg"
+			}
+		},
+		{
+			"name": "Realmseeker Golem",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/60_Realmseeker Golem.jpg"
+			}
+		},
+		{
+			"name": "Sentinel Valley",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/63_Sentinel Valley.jpg"
+			}
+		},
+		{
+			"name": "A'Akula, the Heavens on Earth",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}{W}",
+			"type": "Legendary Creature — Giant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/2_A'Akula, the Heavens on Earth.jpg"
+			}
+		},
+		{
+			"name": "All-Paths Nomad",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/4_All-Paths Nomad.jpg"
+			}
+		},
+		{
+			"name": "Shout to the Heavens",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/9_Shout to the Heavens.jpg"
+			}
+		},
+		{
+			"name": "Minute Culling",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/7_Minute Culling.jpg"
+			}
+		},
+		{
+			"name": "Act of Xiphaes",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/3_Act of Xiphaes.jpg"
+			}
+		},
+		{
+			"name": "Anticharm Warden",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/56_Anticharm Warden.jpg"
+			}
+		},
+		{
+			"name": "Ikylix, the Infinite Abyss",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Serpent",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/17_Ikylix, the Infinite Abyss.jpg"
+			}
+		},
+		{
+			"name": "Reach the Abyss",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/19_Reach the Abyss.jpg"
+			}
+		},
+		{
+			"name": "Echo Sculptor",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/15_Echo Sculptor.jpg"
+			}
+		},
+		{
+			"name": "Undular Revelation",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/20_Undular Revelation.jpg"
+			}
+		},
+		{
+			"name": "Act of Abussaee",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/12_Act of Abussaee.jpg"
+			}
+		},
+		{
+			"name": "Gate to the Horizon",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Wall",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/52_Gate to the Horizon.jpg"
+			}
+		},
+		{
+			"name": "Tch'Za, the Jaws of Darkness",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Demon Beast",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/30_Tch'Za, the Jaws of Darkness.jpg"
+			}
+		},
+		{
+			"name": "Darkness Consuming",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/25_Darkness Consuming.jpg"
+			}
+		},
+		{
+			"name": "Moonbound Chanter",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/26_Moonbound Chanter.jpg"
+			}
+		},
+		{
+			"name": "Align the Fates",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/23_Align the Fates.jpg"
+			}
+		},
+		{
+			"name": "Act of Exodais",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/22_Act of Exodais.jpg"
+			}
+		},
+		{
+			"name": "Greatness in Unison",
+			"rarity": "rare",
+			"mana_cost": "{X}{2}",
+			"type": "Sorcery — Lightform",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/53_Greatness in Unison.jpg"
+			}
+		},
+		{
+			"name": "Gruun, the World Aflame",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Creature — Elemental Giant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/37_Gruun, the World Aflame.jpg"
+			}
+		},
+		{
+			"name": "Let the World Burn",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/38_Let the World Burn.jpg"
+			}
+		},
+		{
+			"name": "Revelyell",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/39_Revelyell.jpg"
+			}
+		},
+		{
+			"name": "Amplalo Anew",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/33_Amplalo Anew.jpg"
+			}
+		},
+		{
+			"name": "Act of Eos",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/32_Act of Eos.jpg"
+			}
+		},
+		{
+			"name": "Titan's Tomb",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/61_Titan's Tomb.jpg"
+			}
+		},
+		{
+			"name": "Fulgur, the Tireless Feast",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Leviathan",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/46_Fulgur, the Tireless Feast.jpg"
+			}
+		},
+		{
+			"name": "Begin the Feeding",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/44_Begin the Feeding.jpg"
+			}
+		},
+		{
+			"name": "Seek the Great Ones",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/48_Seek the Great Ones.jpg"
+			}
+		},
+		{
+			"name": "Unlikely Encounter",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/50_Unlikely Encounter.jpg"
+			}
+		},
+		{
+			"name": "Act of Biotace",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/42_Act of Biotace.jpg"
+			}
+		},
+		{
+			"name": "Wyldin, Leader of the Lost",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/55_Wyldin, Leader of the Lost.jpg"
+			}
+		},
+		{
+			"name": "Blissful Unity",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/5_Blissful Unity.jpg"
+			}
+		},
+		{
+			"name": "Radiant Titan",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/8_Radiant Titan.jpg"
+			}
+		},
+		{
+			"name": "Protean Will",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/1_Protean Will.jpg"
+			}
+		},
+		{
+			"name": "Arvis, Who Dives the Eternities",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Planeswalker — Arvis",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/13_Arvis, Who Dives the Eternities.jpg"
+			}
+		},
+		{
+			"name": "He Who Wondered",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/16_He Who Wondered.jpg"
+			}
+		},
+		{
+			"name": "Sanctum of the Renowned",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/62_Sanctum of the Renowned.jpg"
+			}
+		},
+		{
+			"name": "Night of Endless Souls",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/29_Night of Endless Souls.jpg"
+			}
+		},
+		{
+			"name": "Canto, Null Singer",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Satyr Warlock",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/24_Canto, Null Singer.jpg"
+			}
+		},
+		{
+			"name": "Realmpoint, Arisen Temple",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact Creature — Golem",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/59_Realmpoint, Arisen Temple.jpg"
+			}
+		},
+		{
+			"name": "Embers of Origination",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/35_Embers of Origination.jpg"
+			}
+		},
+		{
+			"name": "Cu'Gahl, Wrath of the Seas",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Demon Kraken",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/34_Cu'Gahl, Wrath of the Seas.jpg"
+			}
+		},
+		{
+			"name": "Ur-Colossus",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}",
+			"type": "Legendary Creature — Colossus",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/54_Ur-Colossus.jpg"
+			}
+		},
+		{
+			"name": "Wake, Primal Empath",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/51_Wake, Primal Empath.jpg"
+			}
+		},
+		{
+			"name": "Irgus, Sire of Genesis",
+			"rarity": "mythic",
+			"mana_cost": "{8}{G}{G}",
+			"type": "Legendary Creature — Giant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/47_Irgus, Sire of Genesis.jpg"
+			}
+		},
+		{
+			"name": "Mox Colossite",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AAE-files/img/57_Mox Colossite.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	5 A'Akula, the Heavens on Earth
+	5 All-Paths Nomad
+	5 Shout to the Heavens
+	5 Minute Culling
+	5 Act of Xiphaes
+	5 Anticharm Warden
+	5 Ikylix, the Infinite Abyss
+	5 Reach the Abyss
+	5 Echo Sculptor
+	5 Undular Revelation
+	5 Act of Abussaee
+	5 Gate to the Horizon
+	5 Tch'Za, the Jaws of Darkness
+	5 Darkness Consuming
+	5 Moonbound Chanter
+	5 Align the Fates
+	5 Act of Exodais
+	5 Greatness in Unison
+	5 Gruun, the World Aflame
+	5 Let the World Burn
+	5 Revelyell
+	5 Amplalo Anew
+	5 Act of Eos
+	5 Titan's Tomb
+	5 Fulgur, the Tireless Feast
+	5 Begin the Feeding
+	5 Seek the Great Ones
+	5 Unlikely Encounter
+	5 Act of Biotace
+	5 Wyldin, Leader of the Lost
+	5 Blissful Unity
+	5 Radiant Titan
+	5 Protean Will
+	5 Arvis, Who Dives the Eternities
+	5 He Who Wondered
+	5 Sanctum of the Renowned
+	5 Night of Endless Souls
+	5 Canto, Null Singer
+	5 Realmpoint, Arisen Temple
+	5 Embers of Origination
+	5 Cu'Gahl, Wrath of the Seas
+	5 Ur-Colossus
+	5 Wake, Primal Empath
+	5 Irgus, Sire of Genesis
+	5 Mox Colossite
+[uncommon(3)]
+	5 Dumat, the Fogs As One
+	5 Whisper to the Winds
+	5 Speak to Skies
+	5 Naranu, the Tides Alive
+	5 Wade the Shallows
+	5 Dive the Depths
+	5 Naph'zed, the Voice of Death
+	5 Twilight Offering
+	5 Moonlight Summoning
+	5 Tooth, the Blood in the Water
+	5 Stoke the Pyres
+	5 Fan the Flames
+	5 Terun, the Land Anew
+	5 Chum the Waters
+	5 Attract the Upwelling
+	5 Paradox Fragment
+	5 Realmseeker Golem
+	5 Sentinel Valley
+[common(10)]
