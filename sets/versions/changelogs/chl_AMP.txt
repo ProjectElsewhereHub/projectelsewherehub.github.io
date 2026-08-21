@@ -1,4 +1,18 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Relic of Eos
+rules_text: When this artifact enters, it deals 2 damage to target opponent.
+{T}: Add add {R}. => When this artifact enters, it deals 2 damage to target opponent.
+{T}: Add {R}.
+
+Preparer of Rites
+rules_text: [i]Landfall[/i]—Whenever a land you control enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => [i]Landfall[/i] — Whenever a land you control enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+
+VERSION 8 CHANGELOG
 ====================
 
 No changes.

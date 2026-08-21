@@ -205,7 +205,7 @@
             "number": 11,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "[i]Formidable[/i] \u2014 When this creature enters, if creatures you control have total power 8 or greater, create a 1/1 colorless Human creature token.",
+            "rules_text": "[i]Formidable[/i] \u2014 When this creature enters, if creatures you control have total power 8 or greater, create a 1/1 colorless Peasant creature token.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1742,14 +1742,14 @@
             "notes": ""
         },
         {
-            "card_name": "CB06 Tricky Timewinder",
+            "card_name": "CB06 Tricky Temporalist",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2014 Human Warlock",
             "number": 89,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]\nFlying\nWhenever this creature deals combat damage to a player, you may pay 1 life. If you do, untap it.\n{T}, Pay 1 life, Sacrifice a permanent: Draw a card.",
+            "rules_text": "Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]\nMenace\nWhenever this creature deals combat damage to a player, you may pay 1 life. If you do, untap it.\n{T}, Pay 1 life, Sacrifice a permanent: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -4992,7 +4992,7 @@
             "number": 247,
             "color_identity": "RG",
             "cost": "",
-            "rules_text": "This land enters tapped.\nSunfire \u2014 Add {R} or Gatom-reminder-custom> [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i] [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]\n{T}: Add {R} or {G}.",
+            "rules_text": "This land enters tapped.\nSunfire \u2014 Add {R} or {G}. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]\n{T}: Add {R} or {G}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5030,7 +5030,7 @@
             "number": 249,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]\n{T}: Add {C}. You gain 1 life.",
+            "rules_text": "Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]\nWhen this land enters, you gain 2 life.\n{T}: Add {C}.",
             "flavor_text": "[i]The dreamer's friends and family wait, hoping and fearing that the Dreamer will wake up.[/i]",
             "pt": "",
             "special_text": "",
@@ -5472,7 +5472,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname 1/1 Peasant Token\n!related CW02 Starving Triclops;CW07 Elder Populace;RW03 Purveyor of Change;UW01 Grounded Investigation;UW05 Blighted Bard;UW08 Wandering Recruiter;UW11 Foundational Virtue;UW12 Loyal Wanderings"
+            "notes": "!exportname 1/1 Peasant Token\n!related CW02 Hospitable Triclops;CW07 Elder Populace;RW03 Purveyor of Change;UW01 Grounded Investigation;UW05 Blighted Bard;UW08 Wandering Recruiter;UW11 Foundational Virtue;UW12 Loyal Wanderings"
         },
         {
             "card_name": "Building Token",
@@ -5510,7 +5510,7 @@
             "loyalty": "",
             "designer": "",
             "artist": "",
-            "notes": "!exportname Clue Token\n!related UW01 Grounded Investigation;RU02 Vinki the Reflective;RU03 Timewinder Supreme;UU01 Arcane Investigator;CB13 Visions of Conspiracy"
+            "notes": "!exportname Clue Token\n!related UW01 Grounded Investigation;RU02 Vinki the Reflective;UU01 Arcane Investigator;CB13 Visions of Conspiracy"
         },
         {
             "card_name": "MR02 Pyre of Dreams",
@@ -5625,7 +5625,7 @@
             "number": 2,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "[i](Whimsybound and grimbound spells are moodbound. Turn this card sideways to indicate grimbound.)[/i] [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i] [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nYou're whimsical if the last non-moodbound spell you've cast had mana value 3 or less.\nYou're grim if the last non-moodbound spell you've cast had mana value 4 or greater.",
+            "rules_text": "[i](Whimsybound and grimbound spells are moodbound. Turn this card sideways to indicate grimbound.)[/i]\nYou're whimsical if the last non-moodbound spell you've cast had mana value 3 or less.\nYou're grim if the last non-moodbound spell you've cast had mana value 4 or greater.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5732,5 +5732,5 @@
             "notes": ""
         }
     ],
-    "version": 10
+    "version": 11
 }

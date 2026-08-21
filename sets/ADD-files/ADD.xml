@@ -5,7 +5,7 @@
 			<name>ADD</name>
 			<longname>A Dream of Darkness</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-20</releasedate>
+			<releasedate>2026-08-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -196,7 +196,7 @@ Lifelink
 		</card>
 		<card>
 			<name>CW02 Hospitable Triclops</name>
-			<text>Formidable — When this creature enters, if creatures you control have total power 8 or greater, create a 1/1 colorless Human creature token.</text>
+			<text>Formidable — When this creature enters, if creatures you control have total power 8 or greater, create a 1/1 colorless Peasant creature token.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/11_CW02 Hospitable Triclops.jpg" num="11">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1770,18 +1770,18 @@ Revolt — When this creature enters, if a permanent left the battlefield under 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB06 Tricky Timewinder</name>
+			<name>CB06 Tricky Temporalist</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-Flying
+Menace
 Whenever this creature deals combat damage to a player, you may pay 1 life. If you do, untap it.
 {T}, Pay 1 life, Sacrifice a permanent: Draw a card.
 ---
 (Back): Bloodstained Chronowurm</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/89_CB06 Tricky Timewinder_front.jpg" num="89a">ADD</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/89_CB06 Tricky Temporalist_front.jpg" num="89a">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Creature — Bird</type>
+				<type>Creature — Human Warlock</type>
 				<maintype>Creature</maintype>
 				<manacost>3B</manacost>
 				<cmc>4</cmc>
@@ -1797,8 +1797,8 @@ Whenever this creature deals combat damage to a player, you may pay 1 life. If y
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Whenever this creature deals combat damage to player, end the turn. (Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)
 ---
-(Front): CB06 Tricky Timewinder</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/89_CB06 Tricky Timewinder_back.jpg" num="89b">ADD</set>
+(Front): CB06 Tricky Temporalist</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/89_CB06 Tricky Temporalist_back.jpg" num="89b">ADD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1811,7 +1811,7 @@ Whenever this creature deals combat damage to player, end the turn. (Exile all s
 				<pt>6/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CB06 Tricky Timewinder</related>
+			<related attach="transform">CB06 Tricky Temporalist</related>
 		</card>
 		<card>
 			<name>CB07 Lunacy Construct</name>
@@ -5138,7 +5138,7 @@ Revolt — At the beginning of your end step, if a permanent left the battlefiel
 		<card>
 			<name>ML04 The Solar Summit</name>
 			<text>This land enters tapped.
-Sunfire — Add {R} or Gatom-reminder-custom&gt; (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.) (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
+Sunfire — Add {R} or {G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 {T}: Add {R} or {G}.</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/247_ML04 The Solar Summit.jpg" num="247">ADD</set>
 			<prop>
@@ -5171,7 +5171,8 @@ Formidable — {T}: Add {G} or {W}. If creatures you control have total power 8 
 		<card>
 			<name>ML06 The Dreamer&apos;s Home</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-{T}: Add {C}. You gain 1 life.
+When this land enters, you gain 2 life.
+{T}: Add {C}.
 ---
 (Back): The Dreamer&apos;s World</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/249_ML06 The Dreamer&apos;s Home_front.jpg" num="249a">ADD</set>
@@ -5724,7 +5725,7 @@ When this enchantment enters, draw a card.
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse-related>CW02 Starving Triclops</reverse-related>
+			<reverse-related>CW02 Hospitable Triclops</reverse-related>
 			<reverse-related>CW07 Elder Populace</reverse-related>
 			<reverse-related>RW03 Purveyor of Change</reverse-related>
 			<reverse-related>UW01 Grounded Investigation</reverse-related>
@@ -5783,7 +5784,6 @@ When this enchantment enters, draw a card.
 			<token>1</token>
 			<reverse-related>UW01 Grounded Investigation</reverse-related>
 			<reverse-related>RU02 Vinki the Reflective</reverse-related>
-			<reverse-related>RU03 Timewinder Supreme</reverse-related>
 			<reverse-related>UU01 Arcane Investigator</reverse-related>
 			<reverse-related>CB13 Visions of Conspiracy</reverse-related>
 		</card>
@@ -5894,7 +5894,7 @@ Exile this saga, then return it to the battlefield transformed under your contro
 		</card>
 		<card>
 			<name>Moodbound Reminder ADD</name>
-			<text>(Whimsybound and grimbound spells are moodbound. Turn this card sideways to indicate grimbound.) (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.) (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+			<text>(Whimsybound and grimbound spells are moodbound. Turn this card sideways to indicate grimbound.)
 You&apos;re whimsical if the last non-moodbound spell you&apos;ve cast had mana value 3 or less.
 You&apos;re grim if the last non-moodbound spell you&apos;ve cast had mana value 4 or greater.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/2t_Moodbound Reminder.jpg" num="2">ADD</set>

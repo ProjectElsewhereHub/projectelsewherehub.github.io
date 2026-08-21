@@ -1,4 +1,39 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+CB06 Tricky Temporalist added.
+
+CB06 Tricky Timewinder removed.
+
+CW02 Hospitable Triclops
+rules_text: [i]Formidable[/i] — When this creature enters, if creatures you control have total power 8 or greater, create a 1/1 colorless Human creature token. => [i]Formidable[/i] — When this creature enters, if creatures you control have total power 8 or greater, create a 1/1 colorless Peasant creature token.
+
+ML04 The Solar Summit
+rules_text: This land enters tapped.
+Sunfire — Add {R} or Gatom-reminder-custom> [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i] [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+{T}: Add {R} or {G}. => This land enters tapped.
+Sunfire — Add {R} or {G}. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+{T}: Add {R} or {G}.
+
+ML06 The Dreamer's Home
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+{T}: Add {C}. You gain 1 life. => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+When this land enters, you gain 2 life.
+{T}: Add {C}.
+
+1/1 Peasant Token
+
+Clue Token
+
+Moodbound Reminder
+rules_text: [i](Whimsybound and grimbound spells are moodbound. Turn this card sideways to indicate grimbound.)[/i] [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i] [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]
+You're whimsical if the last non-moodbound spell you've cast had mana value 3 or less.
+You're grim if the last non-moodbound spell you've cast had mana value 4 or greater. => [i](Whimsybound and grimbound spells are moodbound. Turn this card sideways to indicate grimbound.)[/i]
+You're whimsical if the last non-moodbound spell you've cast had mana value 3 or less.
+You're grim if the last non-moodbound spell you've cast had mana value 4 or greater.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 

@@ -185,7 +185,7 @@
             "number": 219,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
-            "rules_text": "Whenever a creature you control becomes tapped, choose one \u2014\n\u2022 Surveil 1.\n\u2022 You gain 1 life.",
+            "rules_text": "Whenever a creature you control becomes tapped, choose one \u2014\n\u2022 Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\n\u2022 You gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -3360,7 +3360,7 @@
             "cost": "{2}{B}",
             "rules_text": "Refrain [i](Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don't control one, first create a 0/4 Choir enchantment creature token with \u201cThis creature can't block.\u201d)[/i]\nWhenever a Choir you control dies, if it had 0 toughness, you gain 2 life and each opponent loses 2 life.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "2/3",
             "special_text": "",
             "shape": "normal",
             "set": "DEM",
@@ -4498,7 +4498,7 @@
             "number": 141,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "This spell deals 5 damage to any target. That player or that permanent's controller draws a card.",
+            "rules_text": "This spell deals 5 damage target creature, planeswalker, or battle. That player or that permanent's controller draws a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4985,5 +4985,5 @@
             "notes": ""
         }
     ],
-    "version": 7
+    "version": 8
 }

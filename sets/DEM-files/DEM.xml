@@ -5,7 +5,7 @@
 			<name>DEM</name>
 			<longname>Deus Ex Memoriam</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-20</releasedate>
+			<releasedate>2026-08-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -164,7 +164,7 @@ As long as this creature is invested by a God-Shard, whenever it deals combat da
 		<card>
 			<name>UM10 Exertion Seeker</name>
 			<text>Whenever a creature you control becomes tapped, choose one —
-• Surveil 1.
+• Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 • You gain 1 life.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/219_UM10 Exertion Seeker.jpg" num="219">DEM</set>
 			<prop>
@@ -3135,6 +3135,7 @@ Whenever a Choir you control dies, if it had 0 toughness, you gain 2 life and ea
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4187,7 +4188,7 @@ Invest {3} ({3}: Attach to target non-aura non-investiture permanent you control
 		</card>
 		<card>
 			<name>RR08 Boon of the Pyre</name>
-			<text>This spell deals 5 damage to any target. That player or that permanent&apos;s controller draws a card.</text>
+			<text>This spell deals 5 damage target creature, planeswalker, or battle. That player or that permanent&apos;s controller draws a card.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/141_RR08 Boon of the Pyre.jpg" num="141">DEM</set>
 			<prop>
 				<layout>normal</layout>

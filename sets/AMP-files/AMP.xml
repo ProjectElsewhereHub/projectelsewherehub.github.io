@@ -5,7 +5,7 @@
 			<name>AMP</name>
 			<longname>Amplalo, Realm of the Colossi</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-20</releasedate>
+			<releasedate>2026-08-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1445,7 +1445,7 @@ Enchanted creature gets +1/+1.</text>
 		<card>
 			<name>Relic of Eos</name>
 			<text>When this artifact enters, it deals 2 damage to target opponent.
-{T}: Add add {R}.</text>
+{T}: Add {R}.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/147_Relic of Eos.jpg" num="147">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2672,7 +2672,7 @@ Apex — This creature gets +2/+2 as long as you control a creature with mana va
 		</card>
 		<card>
 			<name>Preparer of Rites</name>
-			<text>Landfall—Whenever a land you control enters, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<text>Landfall — Whenever a land you control enters, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/141_Preparer of Rites.jpg" num="141">AMP</set>
 			<prop>
 				<layout>normal</layout>

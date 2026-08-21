@@ -935,20 +935,20 @@
 			}
 		},
 		{
-			"name": "CB06 Tricky Timewinder",
+			"name": "CB06 Tricky Temporalist",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Bird",
+			"type": "Creature — Human Warlock",
 			"collector_number": "89",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/89_CB06 Tricky Timewinder_back.jpg"
+					"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/89_CB06 Tricky Temporalist_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/89_CB06 Tricky Timewinder_front.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/ADD-files/img/89_CB06 Tricky Temporalist_front.jpg"
 			}
 		},
 		{
@@ -3312,7 +3312,7 @@
 	5 CB03 Cutting Mockingbird
 	5 CB04 Terrorizing Bladearm
 	5 CB05 Hopeless Seeker
-	5 CB06 Tricky Timewinder
+	5 CB06 Tricky Temporalist
 	5 CB07 Lunacy Construct
 	5 CB08 Shrouded Demon
 	5 CB09 Scion of the Dark

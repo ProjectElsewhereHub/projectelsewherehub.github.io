@@ -1591,7 +1591,7 @@
             "number": 147,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "When this artifact enters, it deals 2 damage to target opponent.\n{T}: Add add {R}.",
+            "rules_text": "When this artifact enters, it deals 2 damage to target opponent.\n{T}: Add {R}.",
             "flavor_text": "[i]A nexus for new beginnings.[/i]",
             "pt": "",
             "special_text": "",
@@ -2821,7 +2821,7 @@
             "number": 141,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "[i]Landfall[/i]\u2014Whenever a land you control enters, create a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, create a tapped Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i]\u201cEvery great fire starts with a spark.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -5402,5 +5402,5 @@
             "notes": "55%"
         }
     ],
-    "version": 8
+    "version": 9
 }

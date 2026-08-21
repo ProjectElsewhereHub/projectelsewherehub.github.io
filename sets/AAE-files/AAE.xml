@@ -5,7 +5,7 @@
 			<name>AAE</name>
 			<longname>Amplalo at Epoch</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-20</releasedate>
+			<releasedate>2026-08-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -895,7 +895,7 @@ When this creature enters, create a Holy Strength token attached to each creatur
 		</card>
 		<card>
 			<name>Protean Will</name>
-			<text>You may cast this card as a copy of the last nonland card an opponent cast. (You pay that card&apos;s costs and follow that card&apos;s timing rules. This card remains a copy even if it becomes a permanent.)
+			<text>You may cast this card as a copy of the last nonland card an opponent cast, except it costs {1} more to cast, and mana of any type may be spent to cast this spell. (You pay that card&apos;s costs and follow that card&apos;s timing rules. This card remains a copy even if it becomes a permanent.)
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/1_Protean Will.jpg" num="1">AAE</set>
 			<prop>
@@ -1004,7 +1004,7 @@ Whenever Canto becomes tapped, put a verse counter on it. When you do, up to one
 Your starting elsewhere can only have one card named Realmpoint, Arisen Temple.
 Ritual — Three other cards with mana value 6 or greater. (You may cast this card from your elsewhere as long as you&apos;ve played three other cards with mana value 6 or greater this game.) [6/6]
 Vigilance
-If this card started in your elsewhere, your starting life total and minimum deck size are each increased by 10.</text>
+At the beginning of your first upkeep, if this card is in your elsewhere and your starting deck contains at least twenty cards more than the minimum deck size, you gain 10 life.</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/59_Realmpoint, Arisen Temple.jpg" num="59">AAE</set>
 			<prop>
 				<layout>leveler</layout>
