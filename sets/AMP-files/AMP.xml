@@ -5,7 +5,7 @@
 			<name>AMP</name>
 			<longname>Amplalo, Realm of the Colossi</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-21</releasedate>
+			<releasedate>2026-08-26</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1087,7 +1087,7 @@ Destroy target creature with power value 3 or less. You gain 3 life.</text>
 		</card>
 		<card>
 			<name>Invoke the Harbinger</name>
-			<text>Each player mills three cards and each opponent discards two cards. Then you may exile a card from a graveyard. You gain life equal to its mana value.</text>
+			<text>Each player mills two cards and each opponent discards two cards. Then you may exile a card from a graveyard. If you do, you gain 2 life.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/99_Invoke the Harbinger.jpg" num="99">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -1136,9 +1136,9 @@ Enchanted Swamp has &quot;{T}, Pay 1 life: Add {B}{B}.&quot;</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Grinning Ignus</name>
+			<name>Scowling Ignus</name>
 			<text>{R}, Return this creature to its owner&apos;s hand: Add {C}{C}{R}. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/132_Grinning Ignus.jpg" num="132">AMP</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/150_Scowling Ignus.jpg" num="150">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1156,7 +1156,7 @@ Enchanted Swamp has &quot;{T}, Pay 1 life: Add {B}{B}.&quot;</text>
 			<name>Ruthless Invoker</name>
 			<text>When this creature enters, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 Whenever you sacrifice a permanent, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/149_Ruthless Invoker.jpg" num="149">AMP</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/148_Ruthless Invoker.jpg" num="148">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1191,7 +1191,7 @@ Apex — This creature gets +2/+1 as long as you control a creature with mana va
 		<card>
 			<name>Reckless Battledriver</name>
 			<text>Apex — This creature can&apos;t block unless you control a creature with mana value 6 or greater.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/145_Reckless Battledriver.jpg" num="145">AMP</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/144_Reckless Battledriver.jpg" num="144">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1209,7 +1209,7 @@ Apex — This creature gets +2/+1 as long as you control a creature with mana va
 			<name>Pyremaker</name>
 			<text>When this creature enters, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 {T}, Sacrifice an artifact or creature: Add {R}{R}.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/143_Pyremaker.jpg" num="143">AMP</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/142_Pyremaker.jpg" num="142">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1277,7 +1277,7 @@ Apex — This creature gets +2/+1 as long as you control a creature with mana va
 		<card>
 			<name>Schooling Serpent</name>
 			<text>Apex — This creature gets +2/+2 as long as you control another creature with mana value 6 or greater.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/150_Schooling Serpent.jpg" num="150">AMP</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/149_Schooling Serpent.jpg" num="149">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1328,7 +1328,7 @@ Squash deals 6 damage to target creature or planeswalker.</text>
 		<card>
 			<name>Pressence of the Mighty</name>
 			<text>Target creature you control deals damage equal to its mana value to target creature or planeswalker you don&apos;t control.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/142_Pressence of the Mighty.jpg" num="142">AMP</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/141_Pressence of the Mighty.jpg" num="141">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1413,7 +1413,7 @@ Enchanted creature gets +1/+1.</text>
 		<card>
 			<name>Imbue with Fury</name>
 			<text>Apex — Target creature you control gets +3/+0 and gains trample until end of turn. If you control a creature with mana value 6 or greater, instead that creature gets +3/+3 and gains trample until end of turn.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/135_Imbue with Fury.jpg" num="135">AMP</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/134_Imbue with Fury.jpg" num="134">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1429,7 +1429,7 @@ Enchanted creature gets +1/+1.</text>
 		<card>
 			<name>Molten Concoction</name>
 			<text>Choose target creature or planeswalker. Create two tapped Treasure tokens, then Molten Concoction deals damage to the chosen permanent equal to the number of artifacts you control. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/140_Molten Concoction.jpg" num="140">AMP</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/139_Molten Concoction.jpg" num="139">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1446,7 +1446,7 @@ Enchanted creature gets +1/+1.</text>
 			<name>Relic of Eos</name>
 			<text>When this artifact enters, it deals 2 damage to target opponent.
 {T}: Add {R}.</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/147_Relic of Eos.jpg" num="147">AMP</set>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/146_Relic of Eos.jpg" num="146">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2638,7 +2638,7 @@ This land enters tapped.
 			<text>Trample
 Whenever this creature deals combat damage to a player, Giant spells you cast cost {X} less to cast this turn, where X is the amount of damage dealt.
 Apex — This creature gets +2/+2 as long as you control a creature with mana value 6 or greater.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/144_Pyrewise Master.jpg" num="144">AMP</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/143_Pyrewise Master.jpg" num="143">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2673,7 +2673,7 @@ Apex — This creature gets +2/+2 as long as you control a creature with mana va
 		<card>
 			<name>Preparer of Rites</name>
 			<text>Landfall — Whenever a land you control enters, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/141_Preparer of Rites.jpg" num="141">AMP</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/140_Preparer of Rites.jpg" num="140">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2710,7 +2710,7 @@ Apex — {T}: Put a +1/+1 counter on this creature. Put two +1/+1 counters on th
 			<name>Melt to Material</name>
 			<text>Melt to Material deals 3 damage to any target.
 Create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/139_Melt to Material.jpg" num="139">AMP</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/138_Melt to Material.jpg" num="138">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3899,7 +3899,7 @@ Each opponent loses X life. You gain life equal to the life lost this way.</text
 			<text>Whenever this creature or another sea monster you control attacks, add {R}. (You lose that mana at the end of the declare attackers step. Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
 {R}: Target sea monster gets +1/+0 until end of turn.
 {R}{R}{R}{R}: Destroy target artifact.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/148_Ruinator Scourge.jpg" num="148">AMP</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/147_Ruinator Scourge.jpg" num="147">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3935,7 +3935,7 @@ Whenever this creature deals combat damage to a player, you may play cards exile
 		<card>
 			<name>Keeper of Great Flames</name>
 			<text>Whenever another nontoken you control Giant enters, create a token that&apos;s a copy of that creature, except the token isn&apos;t legendary. That token gains haste. Exile it at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/137_Keeper of Great Flames.jpg" num="137">AMP</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/136_Keeper of Great Flames.jpg" num="136">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3971,7 +3971,7 @@ Whenever Vargad or another artifact creature you control enters, that creature d
 			<name>Relentless Mako</name>
 			<text>Haste
 Whenever this creature attacks, it fights up to one other target creature.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/146_Relentless Mako.jpg" num="146">AMP</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/145_Relentless Mako.jpg" num="145">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4006,7 +4006,7 @@ Whenever this creature attacks, it fights up to one other target creature.</text
 		<card>
 			<name>Intimidation Tactics</name>
 			<text>Whenever this enchantment or a creature you control with mana value 6 or greater enters, gain control of target creature you don&apos;t control until end of turn. Untap that creature. It gains haste until end of turn.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/136_Intimidation Tactics.jpg" num="136">AMP</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/135_Intimidation Tactics.jpg" num="135">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4113,7 +4113,7 @@ Tap two untapped Druids you control: Search your library for a Forest card, put 
 			<text>Enchant creature
 Enchanted creature gets +2/+2, has menace, and has mana value X, where X is 6 plus its base mana value.
 Whenever a creature with mana value 6 or greater enters the battlefield under your control, you may return this card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/138_Massive Scale.jpg" num="138">AMP</set>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/137_Massive Scale.jpg" num="137">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4181,7 +4181,7 @@ Exile target creature. Its controller gains life equal to its power.</text>
 		<card>
 			<name>Arisen Insanity</name>
 			<text>Mill two cards. When you do, destroy up to one target creature or planeswalker with mana value less than the number of cards in your graveyard.
-{3}{B}{B}, Exile this card from your graveyard: Put target creature or planeswalker card from a graveyard onto the battlefield under your control. Activate only as a sorcery.</text>
+{3}{B}{B}, Exile this card from your graveyard: Return target creature or planeswalker card from your graveyard to the battlefield. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/80_Arisen Insanity.jpg" num="80">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -4541,7 +4541,7 @@ When this creature enters, if it has toughness 0 or less, search your library fo
 			<name>Huro, the Ash-Reader</name>
 			<text>Whenever a creature or planeswalker an opponent controls is dealt excess noncombat damage, you may discard your hand. If you do, draw cards equal to the excess.
 {X}{R}{R}, {T}: This creature deals X damage to target creature or planeswalker. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/134_Huro, the Ash-Reader.jpg" num="134">AMP</set>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/133_Huro, the Ash-Reader.jpg" num="133">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4559,7 +4559,7 @@ When this creature enters, if it has toughness 0 or less, search your library fo
 			<name>Havoc Rush</name>
 			<text>When this enchantment enters, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 At the beginning of combat on your turn, target creature gets +1/+0 until end of turn for each artifact and/or creature you&apos;ve sacrificed this turn.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/133_Havoc Rush.jpg" num="133">AMP</set>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/132_Havoc Rush.jpg" num="132">AMP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

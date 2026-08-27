@@ -1,4 +1,20 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Scowling Ignus added.
+
+Grinning Ignus removed.
+
+Invoke the Harbinger
+rules_text: Each player mills three cards and each opponent discards two cards. Then you may exile a card from a graveyard. You gain life equal to its mana value. => Each player mills two cards and each opponent discards two cards. Then you may exile a card from a graveyard. If you do, you gain 2 life.
+
+Arisen Insanity
+rules_text: Mill two cards. When you do, destroy up to one target creature or planeswalker with mana value less than the number of cards in your graveyard.
+{3}{B}{B}, Exile this card from your graveyard: Put target creature or planeswalker card from a graveyard onto the battlefield under your control. Activate only as a sorcery. => Mill two cards. When you do, destroy up to one target creature or planeswalker with mana value less than the number of cards in your graveyard.
+{3}{B}{B}, Exile this card from your graveyard: Return target creature or planeswalker card from your graveyard to the battlefield. Activate only as a sorcery.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 

@@ -1,4 +1,43 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Prayer token added.
+RL01 Bedrock of Pearl added.
+RL02 Bedrock of Sapphire added.
+RL03 Bedrock of Jet added.
+RL04 Bedrock of Ruby added.
+RL05 Bedrock of Emerald added.
+
+MM02 Banishing Darkness removed.
+Faith token removed.
+RL01 Foundation of Pearl removed.
+RL02 Foundation of Sapphire removed.
+RL03 Foundation of Jet removed.
+RL04 Foundation of Ruby removed.
+RL05 Foundation of Emerald removed.
+
+Choir token
+rules_text: Indestructible
+This creature can't block. => This creature can't block.
+
+CC09 Lightform of the Voice
+rules_text: [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Draw a card.
+{R} — A creature you control gets +X/+0 until end of turn.
+{W} — A creature you control gains refrain until end of turn. [i](Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don't control one, first create a 0/4 Choir enchantment creature token with “This creature can't block.”)[/i] => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Draw a card.
+{R} — A creature you control gets +X/+0 until end of turn.
+{W} — A creature you control gains refrain until end of turn. [i](Whenever it becomes tapped, put a -1/-1 counter on a Choir you control. If you don't control one, first create a 0/4 Choir enchantment creature token with “This creature can't block.”)[/i]
+
+MC04 Saviorality Doomed
+cost: {1} => {5}
+rules_text: Elsewhere 5 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+When this creature dies, destroy each enchantment you control. Draw a card for each creature destroyed this way. => Elsewhere 5 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+When this creature dies, destroy all creatures.
+pt: 1/1 => 1/5
+
+
+VERSION 8 CHANGELOG
 ====================
 
 

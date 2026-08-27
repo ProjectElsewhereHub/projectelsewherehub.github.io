@@ -21,23 +21,13 @@
 			}
 		},
 		{
-			"name": "MM02 Banishing Darkness",
-			"rarity": "mythic",
-			"mana_cost": "{W}{B}",
-			"type": "Instant",
-			"collector_number": "199",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/199_MM02 Banishing Darkness.jpg"
-			}
-		},
-		{
 			"name": "UM02 Duplicitous Faithbeast",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Beast",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/211_UM02 Duplicitous Faithbeast.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/210_UM02 Duplicitous Faithbeast.jpg"
 			}
 		},
 		{
@@ -45,9 +35,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Wizard Cleric",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/216_UM07 Faithful Steam-Mage.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/215_UM07 Faithful Steam-Mage.jpg"
 			}
 		},
 		{
@@ -55,9 +45,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Human Hand",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/217_UM08 Purveyor of Appendages.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/216_UM08 Purveyor of Appendages.jpg"
 			}
 		},
 		{
@@ -65,9 +55,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Artifact",
-			"collector_number": "233",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/233_RA01 Exertion Amplifier.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/232_RA01 Exertion Amplifier.jpg"
 			}
 		},
 		{
@@ -85,9 +75,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Artifact",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/221_UM12 Grinning Monolith.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/220_UM12 Grinning Monolith.jpg"
 			}
 		},
 		{
@@ -95,9 +85,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Human Druid",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/219_UM10 Exertion Seeker.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/218_UM10 Exertion Seeker.jpg"
 			}
 		},
 		{
@@ -105,9 +95,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/210_UM01 Eagle of Heraldry.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/209_UM01 Eagle of Heraldry.jpg"
 			}
 		},
 		{
@@ -115,9 +105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Monk",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/212_UM03 Solarstain Monk.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/211_UM03 Solarstain Monk.jpg"
 			}
 		},
 		{
@@ -125,9 +115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Human Druid Advisor",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/213_UM04 Weaveline Emmissary.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/212_UM04 Weaveline Emmissary.jpg"
 			}
 		},
 		{
@@ -135,9 +125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/215_UM06 Minister of the Choir.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/214_UM06 Minister of the Choir.jpg"
 			}
 		},
 		{
@@ -145,9 +135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/218_UM09 Choirsung Hero.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/217_UM09 Choirsung Hero.jpg"
 			}
 		},
 		{
@@ -155,9 +145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/220_UM11 Heralding Anthem.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/219_UM11 Heralding Anthem.jpg"
 			}
 		},
 		{
@@ -165,9 +155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Enchantment — Investiture",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/222_UM13 Solarstain Energization.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/221_UM13 Solarstain Energization.jpg"
 			}
 		},
 		{
@@ -175,9 +165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Enchantment — Investiture",
-			"collector_number": "223",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/223_UM14 Weaveline Entombation.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/222_UM14 Weaveline Entombation.jpg"
 			}
 		},
 		{
@@ -185,19 +175,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/229_UM20 Flurry of Effort.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/228_UM20 Flurry of Effort.jpg"
 			}
 		},
 		{
-			"name": "Faith token",
+			"name": "Prayer token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment — Prayer",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/3t_Faith token.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/3t_Prayer token.jpg"
 			}
 		},
 		{
@@ -215,9 +205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Artifact",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/225_UM16 Grand Organ of the Choir.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/224_UM16 Grand Organ of the Choir.jpg"
 			}
 		},
 		{
@@ -225,9 +215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "226",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/226_UM17 Magus' Mastery.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/225_UM17 Magus' Mastery.jpg"
 			}
 		},
 		{
@@ -235,9 +225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Kindred Sorcery — Hand",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/227_UM18 Appendageous Insight.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/226_UM18 Appendageous Insight.jpg"
 			}
 		},
 		{
@@ -245,9 +235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/228_UM19 Lonesome Hero's Lance.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/227_UM19 Lonesome Hero's Lance.jpg"
 			}
 		},
 		{
@@ -275,9 +265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Bard",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/214_UM05 Charming Pianist.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/213_UM05 Charming Pianist.jpg"
 			}
 		},
 		{
@@ -285,9 +275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Instant",
-			"collector_number": "224",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/224_UM15 Mighty Choirsong.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/223_UM15 Mighty Choirsong.jpg"
 			}
 		},
 		{
@@ -415,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Plains",
-			"collector_number": "234",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/234_CL01 Foreign Plains.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/233_CL01 Foreign Plains.jpg"
 			}
 		},
 		{
@@ -425,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Island",
-			"collector_number": "235",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/235_CL02 Foreign Island.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/234_CL02 Foreign Island.jpg"
 			}
 		},
 		{
@@ -435,9 +425,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "236",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/236_CL03 Foreign Swamp.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/235_CL03 Foreign Swamp.jpg"
 			}
 		},
 		{
@@ -445,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "237",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/237_CL04 Foreign Mountain.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/236_CL04 Foreign Mountain.jpg"
 			}
 		},
 		{
@@ -455,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Forest",
-			"collector_number": "238",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/238_CL05 Foreign Forest.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/237_CL05 Foreign Forest.jpg"
 			}
 		},
 		{
@@ -761,53 +751,53 @@
 			}
 		},
 		{
-			"name": "RL01 Foundation of Pearl",
+			"name": "RL01 Bedrock of Pearl",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Foundation",
+			"type": "Land — Bedrock",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/238_RL01 Bedrock of Pearl.jpg"
+			}
+		},
+		{
+			"name": "RL02 Bedrock of Sapphire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Bedrock",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/239_RL01 Foundation of Pearl.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/239_RL02 Bedrock of Sapphire.jpg"
 			}
 		},
 		{
-			"name": "RL02 Foundation of Sapphire",
+			"name": "RL03 Bedrock of Jet",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Foundation",
+			"type": "Land — Bedrock",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/240_RL02 Foundation of Sapphire.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/240_RL03 Bedrock of Jet.jpg"
 			}
 		},
 		{
-			"name": "RL03 Foundation of Jet",
+			"name": "RL04 Bedrock of Ruby",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Foundation",
+			"type": "Land — Bedrock",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/241_RL03 Foundation of Jet.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/241_RL04 Bedrock of Ruby.jpg"
 			}
 		},
 		{
-			"name": "RL04 Foundation of Ruby",
+			"name": "RL05 Bedrock of Emerald",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Foundation",
+			"type": "Land — Bedrock",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/242_RL04 Foundation of Ruby.jpg"
-			}
-		},
-		{
-			"name": "RL05 Foundation of Emerald",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Foundation",
-			"collector_number": "243",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/243_RL05 Foundation of Emerald.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/242_RL05 Bedrock of Emerald.jpg"
 			}
 		},
 		{
@@ -1125,9 +1115,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "230",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/230_CA01 Walking Piano.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/229_CA01 Walking Piano.jpg"
 			}
 		},
 		{
@@ -1215,9 +1205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "245",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/245_UL01 Temple of Frost.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/244_UL01 Temple of Frost.jpg"
 			}
 		},
 		{
@@ -1225,9 +1215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/246_UL02 Temple of Darkness.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/245_UL02 Temple of Darkness.jpg"
 			}
 		},
 		{
@@ -1235,9 +1225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/250_UL06 Temple of Bone.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/249_UL06 Temple of Bone.jpg"
 			}
 		},
 		{
@@ -1245,9 +1235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "251",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/251_UL07 Temple of Thunder.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/250_UL07 Temple of Thunder.jpg"
 			}
 		},
 		{
@@ -1255,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/247_UL03 Temple of Blood.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/246_UL03 Temple of Blood.jpg"
 			}
 		},
 		{
@@ -1265,9 +1255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/252_UL08 Temple of Death.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/251_UL08 Temple of Death.jpg"
 			}
 		},
 		{
@@ -1275,9 +1265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/248_UL04 Temple of Fire.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/247_UL04 Temple of Fire.jpg"
 			}
 		},
 		{
@@ -1285,9 +1275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/253_UL09 Temple of Light.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/252_UL09 Temple of Light.jpg"
 			}
 		},
 		{
@@ -1295,9 +1285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/249_UL05 Temple of Life.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/248_UL05 Temple of Life.jpg"
 			}
 		},
 		{
@@ -1305,9 +1295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/254_UL10 Temple of Water.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/253_UL10 Temple of Water.jpg"
 			}
 		},
 		{
@@ -1595,9 +1585,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "244",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/244_RL06 Foreign Outpost.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/243_RL06 Foreign Outpost.jpg"
 			}
 		},
 		{
@@ -1895,9 +1885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Hand",
-			"collector_number": "207",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/207_RM08 Hand-Powered Thrower.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/206_RM08 Hand-Powered Thrower.jpg"
 			}
 		},
 		{
@@ -2175,9 +2165,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{0}",
 			"type": "Legendary Artifact",
-			"collector_number": "231",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/231_MA01 Mox Eternity.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/230_MA01 Mox Eternity.jpg"
 			}
 		},
 		{
@@ -2185,9 +2175,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{0}",
 			"type": "Legendary Artifact",
-			"collector_number": "232",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/232_MA02 Mox Ichor.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/231_MA02 Mox Ichor.jpg"
 			}
 		},
 		{
@@ -2415,9 +2405,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Human Laborer",
-			"collector_number": "200",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/200_RM01 Flag Seamstress.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/199_RM01 Flag Seamstress.jpg"
 			}
 		},
 		{
@@ -2425,9 +2415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Creature — Sphinx",
-			"collector_number": "201",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/201_RM02 Grinning Sphinx.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/200_RM02 Grinning Sphinx.jpg"
 			}
 		},
 		{
@@ -2435,9 +2425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Demon",
-			"collector_number": "202",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/202_RM03 Demon of Soul's Force.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/201_RM03 Demon of Soul's Force.jpg"
 			}
 		},
 		{
@@ -2445,9 +2435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "203",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/203_RM04 Druid of Soul.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/202_RM04 Druid of Soul.jpg"
 			}
 		},
 		{
@@ -2455,9 +2445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/204_RM05 Guardian of Thorns.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/203_RM05 Guardian of Thorns.jpg"
 			}
 		},
 		{
@@ -2465,9 +2455,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Bard",
-			"collector_number": "205",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/205_RM06 Greatest Choirsinger.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/204_RM06 Greatest Choirsinger.jpg"
 			}
 		},
 		{
@@ -2475,9 +2465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "206",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/206_RM07 Arcane Electromancer.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/205_RM07 Arcane Electromancer.jpg"
 			}
 		},
 		{
@@ -2485,9 +2475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "208",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/208_RM09 Choirsung Champion.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/207_RM09 Choirsung Champion.jpg"
 			}
 		},
 		{
@@ -2495,9 +2485,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Avatar Laborer",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/209_RM10 Avatar of Exertion.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/208_RM10 Avatar of Exertion.jpg"
 			}
 		},
 		{
@@ -2563,7 +2553,7 @@
 		{
 			"name": "MC04 Saviorality Doomed",
 			"rarity": "mythic",
-			"mana_cost": "{1}",
+			"mana_cost": "{5}",
 			"type": "Creature — Savior",
 			"collector_number": "17",
 			"image_uris": {
@@ -2575,9 +2565,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/255_Plains.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/254_Plains.jpg"
 			}
 		},
 		{
@@ -2585,9 +2575,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "256",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/256_Island.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/255_Island.jpg"
 			}
 		},
 		{
@@ -2595,9 +2585,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "257",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/257_Swamp.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/256_Swamp.jpg"
 			}
 		},
 		{
@@ -2605,9 +2595,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "258",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/258_Mountain.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/257_Mountain.jpg"
 			}
 		},
 		{
@@ -2615,23 +2605,22 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "259",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/259_Forest.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/258_Forest.jpg"
 			}
 		}
 	]
 
 [rare(2)]
-	5 MM02 Banishing Darkness
 	5 RA01 Exertion Amplifier
 	5 RR05 Godseeker Torazin
 	5 RC01 Elsewhere Stalker
-	5 RL01 Foundation of Pearl
-	5 RL02 Foundation of Sapphire
-	5 RL03 Foundation of Jet
-	5 RL04 Foundation of Ruby
-	5 RL05 Foundation of Emerald
+	5 RL01 Bedrock of Pearl
+	5 RL02 Bedrock of Sapphire
+	5 RL03 Bedrock of Jet
+	5 RL04 Bedrock of Ruby
+	5 RL05 Bedrock of Emerald
 	5 RW01 Keeper's Loyalty
 	5 RU01 Keeper's Insight
 	5 RB01 Keeper's Persistence

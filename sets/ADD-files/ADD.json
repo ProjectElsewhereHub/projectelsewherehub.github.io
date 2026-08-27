@@ -1977,8 +1977,8 @@
             "type": "Artifact",
             "number": 100,
             "color_identity": "B",
-            "cost": "{B}",
-            "rules_text": "Discard a card, put a -1/-1 counter on a creature you control, pay 1 life: Draw a card.",
+            "cost": "{1}{B}",
+            "rules_text": "When this artifact enters, draw a card.\n{T}, Discard a card, put a -1/-1 counter on a creature you control: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3388,7 +3388,7 @@
             "type": "Sorcery",
             "number": 170,
             "color_identity": "G",
-            "cost": "{G}",
+            "cost": "{1}{G}",
             "rules_text": "Reveal the top four cards of your library. You may put a creature card from among them into your hand. Put the rest into your graveyard. If you didn't put a creature card into your hand this way, wander. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -4248,7 +4248,7 @@
             "number": 211,
             "color_identity": "URG",
             "cost": "{G}{U}{R}",
-            "rules_text": "Whenever you draw a card, add {C}. If this is the second time this ability has resolved this turn, this creature deals 3 damage to each creature you don't control. If it's the third time, mill three cards. If it's the fourth time, draw a card.",
+            "rules_text": "Whenever you draw a card during your turn, add {C}. If this is the second time this ability has resolved this turn, this creature deals 3 damage to each creature you don't control. If it's the third time, mill three cards. If it's the fourth time, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5732,5 +5732,5 @@
             "notes": ""
         }
     ],
-    "version": 11
+    "version": 12
 }

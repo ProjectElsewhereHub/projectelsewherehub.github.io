@@ -1,4 +1,21 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+MB02 Relic of Obsession
+cost: {B} => {1}{B}
+rules_text: Discard a card, put a -1/-1 counter on a creature you control, pay 1 life: Draw a card. => When this artifact enters, draw a card.
+{T}, Discard a card, put a -1/-1 counter on a creature you control: Draw a card.
+
+CG13 Commune with Travelers
+cost: {G} => {1}{G}
+
+MM02 Varasti, Fluid Dancer
+rules_text: Whenever you draw a card, add {C}. If this is the second time this ability has resolved this turn, this creature deals 3 damage to each creature you don't control. If it's the third time, mill three cards. If it's the fourth time, draw a card. => Whenever you draw a card during your turn, add {C}. If this is the second time this ability has resolved this turn, this creature deals 3 damage to each creature you don't control. If it's the third time, mill three cards. If it's the fourth time, draw a card.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 CB06 Tricky Temporalist added.

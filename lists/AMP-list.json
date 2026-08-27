@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Huro, the Ash-Reader",
-        "number": 134,
+        "number": 133,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "Intimidation Tactics",
-        "number": 136,
+        "number": 135,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "Keeper of Great Flames",
-        "number": 137,
+        "number": 136,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "Massive Scale",
-        "number": 138,
+        "number": 137,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -345,7 +345,7 @@
     },
     {
         "card_name": "Relentless Mako",
-        "number": 146,
+        "number": 145,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "Ruinator Scourge",
-        "number": 148,
+        "number": 147,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -625,7 +625,7 @@
     },
     {
         "card_name": "Havoc Rush",
-        "number": 133,
+        "number": 132,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -665,7 +665,7 @@
     },
     {
         "card_name": "Melt to Material",
-        "number": 139,
+        "number": 138,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -705,7 +705,7 @@
     },
     {
         "card_name": "Preparer of Rites",
-        "number": 141,
+        "number": 140,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -745,7 +745,7 @@
     },
     {
         "card_name": "Pyrewise Master",
-        "number": 144,
+        "number": 143,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -1064,8 +1064,8 @@
         "position": ""
     },
     {
-        "card_name": "Grinning Ignus",
-        "number": 132,
+        "card_name": "Imbue with Fury",
+        "number": 134,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -1104,8 +1104,8 @@
         "position": ""
     },
     {
-        "card_name": "Imbue with Fury",
-        "number": 135,
+        "card_name": "Molten Concoction",
+        "number": 139,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -1144,8 +1144,8 @@
         "position": ""
     },
     {
-        "card_name": "Molten Concoction",
-        "number": 140,
+        "card_name": "Pressence of the Mighty",
+        "number": 141,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -1184,7 +1184,7 @@
         "position": ""
     },
     {
-        "card_name": "Pressence of the Mighty",
+        "card_name": "Pyremaker",
         "number": 142,
         "shape": "normal",
         "set": "AMP",
@@ -1224,8 +1224,8 @@
         "position": ""
     },
     {
-        "card_name": "Pyremaker",
-        "number": 143,
+        "card_name": "Reckless Battledriver",
+        "number": 144,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -1264,8 +1264,8 @@
         "position": ""
     },
     {
-        "card_name": "Reckless Battledriver",
-        "number": 145,
+        "card_name": "Relic of Eos",
+        "number": 146,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -1304,8 +1304,8 @@
         "position": ""
     },
     {
-        "card_name": "Relic of Eos",
-        "number": 147,
+        "card_name": "Ruthless Invoker",
+        "number": 148,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
@@ -1344,7 +1344,7 @@
         "position": ""
     },
     {
-        "card_name": "Ruthless Invoker",
+        "card_name": "Schooling Serpent",
         "number": 149,
         "shape": "normal",
         "set": "AMP",
@@ -1384,7 +1384,7 @@
         "position": ""
     },
     {
-        "card_name": "Schooling Serpent",
+        "card_name": "Scowling Ignus",
         "number": 150,
         "shape": "normal",
         "set": "AMP",

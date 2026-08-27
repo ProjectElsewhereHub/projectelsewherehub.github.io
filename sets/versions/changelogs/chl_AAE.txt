@@ -1,4 +1,23 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Realmpoint, Arisen Temple
+rules_text: Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Your starting elsewhere can only have one card named Realmpoint, Arisen Temple.
+Ritual — Three other cards with mana value 6 or greater. [i](You may cast this card from your elsewhere as long as you've played three other cards with mana value 6 or greater this game.)[/i] [6/6]
+Vigilance
+At the beginning of your first upkeep, if this card is in your elsewhere and your starting deck contains at least twenty cards more than the minimum deck size, you gain 10 life.
+ => Elsewhere 4
+Your starting elsewhere can only have one card named Realmpoint, Arisen Temple.
+Ritual — Three other cards with mana value 6 or greater. [i](You may cast this card from your elsewhere as long as you've played three other cards with mana value 6 or greater this game.)[/i] [6/6]
+Vigilance
+At the beginning of your first upkeep, if this card is in your elsewhere and your starting deck contains at least twenty cards more than the minimum deck size, you gain 10 life.
+
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

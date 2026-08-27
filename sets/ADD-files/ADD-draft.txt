@@ -1061,7 +1061,7 @@
 		{
 			"name": "MB02 Relic of Obsession",
 			"rarity": "mythic",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Artifact",
 			"collector_number": "100",
 			"image_uris": {
@@ -1821,7 +1821,7 @@
 		{
 			"name": "CG13 Commune with Travelers",
 			"rarity": "common",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "170",
 			"image_uris": {
