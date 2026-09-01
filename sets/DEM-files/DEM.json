@@ -1,10 +1,11 @@
 ﻿{
     "name": "Deus Ex Memoriam",
     "formats": "",
-    "trimmed": "n",
-    "image_type": "jpg",
+    "image_type": "png",
     "draft_structure": "draft booster",
-    "designer": "",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "CB03 Marching Hands",
@@ -21,8 +22,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -40,8 +43,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -49,7 +54,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Creature \u2014 Beast",
-            "number": 210,
+            "number": 200,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "Flying\nWhen this creature enters, if mana from three or more differently named sources was spent to cast it, create a token that's a copy of it.",
@@ -59,8 +64,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -68,7 +75,7 @@
             "color": "UR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Wizard Cleric",
-            "number": 215,
+            "number": 205,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Whenever you cast an instant or sorcery spell, create a Prayer token. [i](It's an enchantment with \u201c{1}, Sacrifice this enchantment: Add one mana of any color\u201d and \u201cSacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.\u201d)[/i]\n{T}, Sacrifice two Prayers: Add {U}{R}.",
@@ -78,8 +85,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -87,7 +96,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Hand",
-            "number": 216,
+            "number": 206,
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "The second Hand spell you cast each turn costs {2} less to cast.",
@@ -97,8 +106,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -116,8 +127,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -135,8 +148,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -144,7 +159,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 220,
+            "number": 210,
             "color_identity": "UB",
             "cost": "{U}{B}",
             "rules_text": "{T}: Add {U} or {B}. Mill a card.",
@@ -154,8 +169,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -163,18 +180,20 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Druid",
-            "number": 218,
+            "number": 208,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
-            "rules_text": "Whenever a creature you control becomes tapped, choose one \u2014\n\u2022 Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\n\u2022 You gain 1 life.",
+            "rules_text": "Whenever a creature you control becomes tapped, choose one \u2014\n\u2022 Surveil 1. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]\n\u2022 You gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -182,7 +201,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Creature \u2014 Bird",
-            "number": 209,
+            "number": 199,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "Flying, lifelink\nYou may cast this spell from your graveyard as long as you control three or more creatures.",
@@ -192,8 +211,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -201,7 +222,7 @@
             "color": "BR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Monk",
-            "number": 211,
+            "number": 201,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "Investiture spells you cast cost {1} less to cast.\nInvest abilities you activate cost {1} less to activate.",
@@ -211,8 +232,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -220,7 +243,7 @@
             "color": "RG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Druid Advisor",
-            "number": 212,
+            "number": 202,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
             "rules_text": "Whenever you tap an invested permanent for mana, add an additional {C}.",
@@ -230,8 +253,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -239,7 +264,7 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Cleric",
-            "number": 214,
+            "number": 204,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
             "rules_text": "Refrain [i](Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don't control one, first create a 0/4 Choir enchantment creature token with \u201cThis creature can't block.\u201d)[/i]\nWhenever a Choir you control dies, if it had 0 toughness, you gain 2 life and each opponent loses 2 life.",
@@ -249,8 +274,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -258,7 +285,7 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Warrior",
-            "number": 217,
+            "number": 207,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "Refrain [i](Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don't control one, first create a 0/4 Choir enchantment creature token with \u201cThis creature can't block.\u201d)[/i]\n{T}: Target Choir you control gets +2/+0 until end of turn.",
@@ -268,8 +295,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -277,7 +306,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 219,
+            "number": 209,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "Creatures you control get +1/+1.\nWhenever a creature you control deals combat damage to a player while you control three or more creatures, draw a card. This ability triggers only three times each turn.",
@@ -287,8 +316,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -296,7 +327,7 @@
             "color": "BR",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Investiture",
-            "number": 221,
+            "number": 211,
             "color_identity": "BR",
             "cost": "{B}{R}",
             "rules_text": "Invest {3} [i]({3}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)[/i]\nInvested permanent has \u201cWard\u2014Pay 2 life.\u201d [i](Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.\u201d.)[/i]\nInvested creature gets +2/+1.",
@@ -306,8 +337,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -315,7 +348,7 @@
             "color": "RG",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Investiture",
-            "number": 222,
+            "number": 212,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "Invest {2} [i]({2}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)[/i]\nIf invested permanent has a mana ability, it has {T}: \u201cAdd {C}{C}. Each opponent gains 1 life.\u201d",
@@ -325,8 +358,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -334,7 +369,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 228,
+            "number": 218,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Tapped creatures you control get +1/+1 and gain hexproof until end of turn. Put a +1/+1 counter on each of them that isn't attacking.",
@@ -344,8 +379,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -363,8 +400,10 @@
             "shape": "token",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "!exportname Prayer token\n!related CC03 Lightform of the Tongue;CC07 Lightform of the Nose;CW03 Omenful Dove;CW12 Praise Be;RW08 Penultimate Prayer;UW05 Elder Disciple;UW12 Great Prayer of Protection;CU02 Devout Assassin;CU06 Faithful Negation;CU08 Callous Disbelief;CU09 Indoctrinating Insight;RU02 Raven of Superstition;UU09 Study in Faith;UU12 Great Prayer of Arcana;CB07 Solace in Death;CB11 Maddening Devotion;CB12 Faith in Extremis;UB09 Faithful Rites;UB12 Great Prayer of Dexterity;CR04 Cyclefaith Serpent;CR07 Faith's Fire;UR04 Deepfaith Ritualist;UR09 Faithful Inspiration;UR12 Great Prayer of Soul;CG08 Faith-Guided Blades;UG10 Faith's Claim;UG11 Growth Through Faith;UG12 Great Prayer of Effort;UM07 Faithful Steam-Mage;UL01 Temple of Frost;UL02 Temple of Darkness;UL03 Temple of Blood;UL05 Temple of Fire;UL05 Temple of Fire;UL05 Temple of Life;UL06 Temple of Bone;UL07 Temple of Thunder;UL08 Temple of Death;UL09 Temple of Light;UL10 Temple of Water"
         },
         {
@@ -382,8 +421,10 @@
             "shape": "token",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "!exportname Choir token\n!related CC09 Lightform of the Voice;CW02 Young Singer;CW06 Choirsung Healer;CW07 Avatar of the Choir;RW02 Generous Choirsinger;RW07 Angel of the Choir;UW04 Guarding Choirsinger;UW11 Inspiring Harp;CB04 Choirsung Ritualist;RB05 Bloodsong Choirsinger;UB04 Insulting Choirsinger;CR03 Choirsung Combatant;CR11 Chaotic Bagpipes;RR06 Tablet of Songs;UR03 Choirsung Flame-Druid;RM06 Greatest Choirsinger;RM09 Choirsung Champion;UM06 Minister of the Choir;UM09 Choirsung Hero;CA01 Walking Piano"
         },
         {
@@ -391,7 +432,7 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 224,
+            "number": 214,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
             "rules_text": "{T}: Put a -1/-1 counter on target creature. That creature's controller gains 1 life and each other player loses 1 life.\nWhenever a Choir you control dies, if it had 0 toughness, untap each nonland permanent you control.",
@@ -401,8 +442,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -410,7 +453,7 @@
             "color": "UR",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 225,
+            "number": 215,
             "color_identity": "UR",
             "cost": "{5}{U}{R}",
             "rules_text": "Exile any number of target instant and/or sorcery cards from your graveyard. For each card exiled this way, copy it, and you may cast the copy without paying its mana cost.\nExile this spell.\n{U}{R}, Exile this card from your hand: Draw two cards, then discard two cards.",
@@ -420,8 +463,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -429,7 +474,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Kindred Sorcery \u2014 Hand",
-            "number": 226,
+            "number": 216,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
             "rules_text": "Search your deck for up to two Hand cards, reveal them, put them into your hand, then shuffle.\nAdd {B}{G}. You can't spend this mana to cast non-Hand spells.",
@@ -439,8 +484,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -448,7 +495,7 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Equipment",
-            "number": 227,
+            "number": 217,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "Equip {1}\nWhenever equipped creature attacks alone, it gets +4/+0 until end of turn.",
@@ -458,8 +505,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -467,7 +516,7 @@
             "color": "WU",
             "rarity": "common",
             "type": "Legendary Enchantment Creature \u2014 God-Shard",
-            "number": 188,
+            "number": 219,
             "color_identity": "WU",
             "cost": "{2}{WU}",
             "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nSpiritbond 3 [i](You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)[/i]\nThis creature and invested creature get +2/+2 and have flying.",
@@ -477,8 +526,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -486,7 +537,7 @@
             "color": "WB",
             "rarity": "common",
             "type": "Legendary Enchantment Creature \u2014 God-Shard",
-            "number": 193,
+            "number": 224,
             "color_identity": "WB",
             "cost": "{4}{WB}",
             "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nSpiritbond 3 [i](You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)[/i]\nThis creature and invested creature get +3/+3 and have lifelink.",
@@ -496,8 +547,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -505,7 +558,7 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Bard",
-            "number": 213,
+            "number": 203,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Whenever a creature you control with toughness greater than its power enters, put a +1/+1 counter on it. You gain 1 life.",
@@ -515,8 +568,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -524,7 +579,7 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 223,
+            "number": 213,
             "color_identity": "WG",
             "cost": "{G}{W}",
             "rules_text": "Target creature with toughness greater than its power gets +4/+4 and gains trample and lifelink until end of turn.",
@@ -534,8 +589,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -543,7 +600,7 @@
             "color": "UG",
             "rarity": "common",
             "type": "Legendary Enchantment Creature \u2014 God-Shard",
-            "number": 197,
+            "number": 228,
             "color_identity": "UG",
             "cost": "{4}{GU}",
             "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nSpiritbond 3 [i](You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)[/i]\nThis creature and invested creature get +3/+4 and have ward {1}.",
@@ -553,8 +610,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -562,7 +621,7 @@
             "color": "WG",
             "rarity": "common",
             "type": "Legendary Enchantment Creature \u2014 God-Shard",
-            "number": 192,
+            "number": 223,
             "color_identity": "WG",
             "cost": "{3}{GW}",
             "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nSpiritbond 3 [i](You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)[/i]\nThis creature and invested creature get +2/+4 and have vigilance.",
@@ -572,8 +631,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -581,7 +642,7 @@
             "color": "WR",
             "rarity": "common",
             "type": "Legendary Enchantment Creature \u2014 God-Shard",
-            "number": 196,
+            "number": 227,
             "color_identity": "WR",
             "cost": "{RW}",
             "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nSpiritbond 3 [i](You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)[/i]\nThis creature and invested creature get +1/+1 and have first strike.",
@@ -591,8 +652,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -600,7 +663,7 @@
             "color": "UB",
             "rarity": "common",
             "type": "Legendary Enchantment Creature \u2014 God-Shard",
-            "number": 189,
+            "number": 220,
             "color_identity": "UB",
             "cost": "{1}{UB}",
             "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nSpiritbond 3 [i](You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)[/i]\nThis creature and invested creature get +2/+1 and have skulk. [i](This creature can't be blocked by creatures with greater power.)[/i]",
@@ -610,8 +673,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -619,7 +684,7 @@
             "color": "UR",
             "rarity": "common",
             "type": "Legendary Enchantment Creature \u2014 God-Shard",
-            "number": 194,
+            "number": 225,
             "color_identity": "UR",
             "cost": "{3}{UR}",
             "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nSpiritbond 3 [i](You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)[/i]\nThis creature and invested creature get +2/+2 and have prowess.",
@@ -629,8 +694,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -638,7 +705,7 @@
             "color": "BR",
             "rarity": "common",
             "type": "Legendary Enchantment Creature \u2014 God-Shard",
-            "number": 190,
+            "number": 221,
             "color_identity": "BR",
             "cost": "{2}{BR}",
             "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nSpiritbond 3 [i](You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)[/i]\nThis creature and invested creature get +3/+1 and have menace.",
@@ -648,8 +715,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -657,7 +726,7 @@
             "color": "BG",
             "rarity": "common",
             "type": "Legendary Enchantment Creature \u2014 God-Shard",
-            "number": 195,
+            "number": 226,
             "color_identity": "BG",
             "cost": "{BG}",
             "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nSpiritbond 3 [i](You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)[/i]\nThis creature and invested creature get +1/+1 and have deathtouch.",
@@ -667,8 +736,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -676,7 +747,7 @@
             "color": "RG",
             "rarity": "common",
             "type": "Legendary Enchantment Creature \u2014 God-Shard",
-            "number": 191,
+            "number": 222,
             "color_identity": "RG",
             "cost": "{1}{RG}",
             "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nSpiritbond 3 [i](You may play this card from your elsewhere by tapping a creature you control with power 3 or greater. This enters as a kindred Investiture enchantment attached to that creature.)[/i]\nThis creature and invested creature get +2/+2 and have trample.",
@@ -686,8 +757,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -705,8 +778,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -724,8 +799,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -743,8 +820,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -762,8 +841,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -781,8 +862,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -800,8 +883,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -819,8 +904,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -838,8 +925,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -857,8 +946,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -876,8 +967,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -895,8 +988,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -914,8 +1009,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -933,8 +1030,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -952,8 +1051,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -971,8 +1072,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -990,8 +1093,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1009,8 +1114,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1028,8 +1135,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1047,8 +1156,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1066,8 +1177,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1085,8 +1198,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1104,8 +1219,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1123,8 +1240,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1142,8 +1261,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1161,8 +1282,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1180,8 +1303,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1199,8 +1324,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1218,8 +1345,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1233,12 +1362,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{W} \u2014 You gain X life.\n{U} \u2014 Scry X, then draw a card.\n{B} \u2014 Add {B}.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{W} \u2014 You gain X life.\n{U} \u2014 Scry X, then draw a card.\n{B} \u2014 Add {B}.",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1252,12 +1383,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{G} \u2014 You may tap an untapped creature you control. Put X +1/+1 counters on it.\n{W} \u2014 Untap a creature you control.\n{U} \u2014 Draw a card for each tapped creature you control. You can't draw more than X cards this way.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{G} \u2014 You may tap an untapped creature you control. Put X +1/+1 counters on it.\n{W} \u2014 Untap a creature you control.\n{U} \u2014 Draw a card for each tapped creature you control. You can't draw more than X cards this way.",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1271,12 +1404,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{U} \u2014 Create a Prayer token. [i](It's an enchantment with \u201c{1}, Sacrifice this enchantment: Add one mana of any color\u201d and \u201cSacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.\u201d)[/i]\n{B} \u2014 Add X mana in any combination of colors.\n{R} \u2014 This spell deals X damage to each opponent.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{U} \u2014 Create a Prayer token. [i](It's an enchantment with \u201c{1}, Sacrifice this enchantment: Add one mana of any color\u201d and \u201cSacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.\u201d)[/i]\n{B} \u2014 Add X mana in any combination of colors.\n{R} \u2014 This spell deals X damage to each opponent.",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1294,8 +1429,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1309,12 +1446,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{B} \u2014 You may sacrifice an enchantment. If you do, draw X cards.\n{R} \u2014 If you control an Investiture, discard X cards, then draw X cards.\n{G} \u2014 Untap each invested permanent you control.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{B} \u2014 You may sacrifice an enchantment. If you do, draw X cards.\n{R} \u2014 If you control an Investiture, discard X cards, then draw X cards.\n{G} \u2014 Untap each invested permanent you control.",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1328,12 +1467,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{R} \u2014 Creatures you control get +1/+0 until end of turn.\n{G} \u2014 Put a +1/+1 counter on a creature you control.\n{W} \u2014 Creatures you control get +0/+X until end of turn.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{R} \u2014 Creatures you control get +1/+0 until end of turn.\n{G} \u2014 Put a +1/+1 counter on a creature you control.\n{W} \u2014 Creatures you control get +0/+X until end of turn.",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1347,12 +1488,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{R} \u2014 Choirs you control get +4/+0 until end of turn.\n{W} \u2014 You gain X life.\n{B} \u2014 Each opponent loses X life.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{R} \u2014 Choirs you control get +4/+0 until end of turn.\n{W} \u2014 You gain X life.\n{B} \u2014 Each opponent loses X life.",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1366,12 +1509,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{G} \u2014 Add one mana of any color.\n{U} \u2014 You may tap an untapped creature you control. If you do, surveil X, then draw a card.\n{R} \u2014 Create X Prayer tokens. [i](They're enchantments with \u201c{1}, Sacrifice this enchantment: Add one mana of any color\u201d and \u201cSacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{G} \u2014 Add one mana of any color.\n{U} \u2014 You may tap an untapped creature you control. If you do, surveil X, then draw a card.\n{R} \u2014 Create X Prayer tokens. [i](They're enchantments with \u201c{1}, Sacrifice this enchantment: Add one mana of any color\u201d and \u201cSacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.\u201d)[/i]",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1385,12 +1530,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{W} \u2014 Until end of turn, each creature assigns combat damage equal to its toughness rather than its power.\n{B} \u2014 Hands you control gain lifelink until end of turn.\n{G} \u2014 Put X +1/+1 counters on a Hand you control.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{W} \u2014 Until end of turn, each creature assigns combat damage equal to its toughness rather than its power.\n{B} \u2014 Hands you control gain lifelink until end of turn.\n{G} \u2014 Put X +1/+1 counters on a Hand you control.",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1404,12 +1551,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{U} \u2014 Draw a card.\n{R} \u2014 A creature you control gets +X/+0 until end of turn.\n{W} \u2014 A creature you control gains refrain until end of turn. [i](Whenever it becomes tapped, put a -1/-1 counter on a Choir you control. If you don't control one, first create a 0/4 Choir enchantment creature token with \u201cThis creature can't block.\u201d)[/i]",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{U} \u2014 Draw a card.\n{R} \u2014 A creature you control gets +X/+0 until end of turn.\n{W} \u2014 A creature you control gains refrain until end of turn. [i](Whenever it becomes tapped, put a -1/-1 counter on a Choir you control. If you don't control one, first create a 0/4 Choir enchantment creature token with \u201cThis creature can't block.\u201d)[/i]",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1423,12 +1572,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{B} \u2014 The next time you cast a multicolored spell this turn, copy it. You may choose new targets for the copy.\n{G} \u2014 Put X +1/+1 counters on a tapped creature you control.\n{U} \u2014 Until end of turn, creatures you control have \u201c{T}: Add {C}.\u201d",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{B} \u2014 The next time you cast a multicolored spell this turn, copy it. You may choose new targets for the copy.\n{G} \u2014 Put X +1/+1 counters on a tapped creature you control.\n{U} \u2014 Until end of turn, creatures you control have \u201c{T}: Add {C}.\u201d",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1446,8 +1597,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1465,8 +1618,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1484,8 +1639,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1503,8 +1660,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1522,8 +1681,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1541,8 +1702,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1560,8 +1723,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1579,8 +1744,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1598,8 +1765,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1617,8 +1786,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1636,8 +1807,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1655,8 +1828,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1674,8 +1849,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1693,8 +1870,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1712,8 +1891,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1731,8 +1912,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1750,8 +1933,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1769,8 +1954,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1788,8 +1975,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1807,8 +1996,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1826,8 +2017,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1845,8 +2038,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1864,8 +2059,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1883,8 +2080,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1902,8 +2101,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1921,8 +2122,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1940,8 +2143,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1959,8 +2164,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1978,8 +2185,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1997,8 +2206,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2016,8 +2227,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2035,8 +2248,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2054,8 +2269,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2073,8 +2290,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2092,8 +2311,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2111,8 +2332,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2130,8 +2353,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2149,8 +2374,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2168,8 +2395,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2187,8 +2416,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2206,8 +2437,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2225,8 +2458,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2244,8 +2479,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2263,8 +2500,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2282,8 +2521,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2301,8 +2542,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2320,8 +2563,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2339,8 +2584,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2358,8 +2605,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2377,8 +2626,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2396,8 +2647,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2415,8 +2668,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2434,8 +2689,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2453,8 +2710,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2472,8 +2731,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2491,8 +2752,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2510,8 +2773,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2529,8 +2794,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2548,8 +2815,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2567,8 +2836,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2586,8 +2857,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2605,8 +2878,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2624,8 +2899,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2643,8 +2920,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2662,8 +2941,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2681,8 +2962,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2700,8 +2983,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2719,8 +3004,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2738,8 +3025,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2757,8 +3046,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2776,8 +3067,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2795,8 +3088,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2814,8 +3109,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2833,8 +3130,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2852,8 +3151,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2871,8 +3172,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2890,8 +3193,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2909,8 +3214,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2928,8 +3235,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2947,8 +3256,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2966,8 +3277,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2985,8 +3298,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3004,8 +3319,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3023,8 +3340,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3042,8 +3361,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3061,8 +3382,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3080,8 +3403,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3099,8 +3424,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3118,8 +3445,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3137,8 +3466,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3156,8 +3487,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3175,8 +3508,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3194,8 +3529,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3213,8 +3550,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3232,8 +3571,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3251,8 +3592,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3270,8 +3613,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3289,8 +3634,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3308,8 +3655,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3327,8 +3676,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3346,8 +3697,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3365,8 +3718,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3384,8 +3739,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3403,8 +3760,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3422,8 +3781,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3441,8 +3802,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3460,8 +3823,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3479,8 +3844,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3498,8 +3865,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3517,8 +3886,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3536,8 +3907,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3555,8 +3928,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3574,8 +3949,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3583,7 +3960,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Creature \u2014 Hand",
-            "number": 206,
+            "number": 196,
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "Lifelink\n{T}, Sacrifice a Hand: This creature deals damage equal to its power to any target.",
@@ -3593,8 +3970,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3612,8 +3991,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3631,8 +4012,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3650,8 +4033,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3669,8 +4054,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3688,8 +4075,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3707,8 +4096,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3726,8 +4117,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3745,8 +4138,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3764,8 +4159,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3783,8 +4180,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3802,8 +4201,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3821,8 +4222,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3840,8 +4243,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3859,8 +4264,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3878,8 +4285,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3897,8 +4306,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3916,8 +4327,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3935,8 +4348,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3944,7 +4359,7 @@
             "color": "WBG",
             "rarity": "mythic",
             "type": "Legendary Enchantment Creature",
-            "number": 198,
+            "number": 188,
             "color_identity": "WBG",
             "cost": "{W}{B}{G}",
             "rules_text": "Elsewhere 10 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nYou may cast this spell from your elsewhere.\nAs long as this card is in your starting elsewhere, your starting elsewhere may have up to ten God-Shard cards without considering their elsewhere values.",
@@ -3954,8 +4369,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3973,8 +4390,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3992,8 +4411,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4007,12 +4428,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{U} \u2014 Draw a card.\n{R} \u2014 Destroy a land.\n{W}{B}{G} \u2014 Exile all creatures.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{U} \u2014 Draw a card.\n{R} \u2014 Destroy a land.\n{W}{B}{G} \u2014 Exile all creatures.",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4030,8 +4453,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4049,8 +4474,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4068,8 +4495,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4087,8 +4516,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4106,8 +4537,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4125,8 +4558,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4144,8 +4579,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4159,12 +4596,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{G} \u2014 You gain X life.\n{U} \u2014 Each player draws X cards.\n{B}{R} \u2014 Each opponent discards two cards.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{G} \u2014 You gain X life.\n{U} \u2014 Each player draws X cards.\n{B}{R} \u2014 Each opponent discards two cards.",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4178,12 +4617,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{W} \u2014 Put a +1/+1 counter on X target creatures.\n{B} \u2014 Put a -1/-1 counter on X target creatures.\n{R}{G} \u2014 Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{W} \u2014 Put a +1/+1 counter on X target creatures.\n{B} \u2014 Put a -1/-1 counter on X target creatures.\n{R}{G} \u2014 Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4197,12 +4638,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{U} \u2014 Surveil X. [i](Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\n{R} \u2014 Each player discards their hand, then draws X cards.\n{G}{W} \u2014 Return a permanent card with mana value 5 or less from your graveyard to the battlefield.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{U} \u2014 Surveil X. [i](Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\n{R} \u2014 Each player discards their hand, then draws X cards.\n{G}{W} \u2014 Return a permanent card with mana value 5 or less from your graveyard to the battlefield.",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4216,12 +4659,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{B} \u2014 Mill X cards.\n{G} \u2014 You may play up to X cards from your graveyard this turn.\n{W}{U} \u2014 The next time you cast a spell from your graveyard this turn, copy it.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{B} \u2014 Mill X cards.\n{G} \u2014 You may play up to X cards from your graveyard this turn.\n{W}{U} \u2014 The next time you cast a spell from your graveyard this turn, copy it.",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4235,12 +4680,14 @@
             "rules_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{R} \u2014 This spell deals X damage to each opponent.\n{W} \u2014 This spell deals X damage to each creature.\n{U}{B} \u2014 Draw a card.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "",
+            "special_text": "[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]\n{R} \u2014 This spell deals X damage to each opponent.\n{W} \u2014 This spell deals X damage to each creature.\n{U}{B} \u2014 Draw a card.",
             "shape": "saga",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4258,8 +4705,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4277,8 +4726,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4296,8 +4747,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4315,8 +4768,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4334,8 +4789,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4353,8 +4810,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4372,8 +4831,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4391,8 +4852,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4410,8 +4873,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4429,8 +4894,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4448,8 +4915,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4467,8 +4936,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4486,8 +4957,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4505,8 +4978,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4524,8 +4999,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4543,8 +5020,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4562,8 +5041,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4571,7 +5052,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Creature \u2014 Human Laborer",
-            "number": 199,
+            "number": 189,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "At the beginning of combat on your turn, put X +1/+1 counters on another target creature, where X is the number of creatures you control.",
@@ -4581,8 +5062,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4590,7 +5073,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Creature \u2014 Sphinx",
-            "number": 200,
+            "number": 190,
             "color_identity": "UB",
             "cost": "{3}{U}{B}",
             "rules_text": "Flying\nWhen this creature enters, if mana from five or more differently named sources was spent to cast it, draw three cards.",
@@ -4600,8 +5083,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4609,7 +5094,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Creature \u2014 Demon",
-            "number": 201,
+            "number": 191,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "When this creature enters, search your library for an Investiture card, reveal it, put it into your hand, then shuffle.",
@@ -4619,8 +5104,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4628,7 +5115,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Creature \u2014 Human Druid",
-            "number": 202,
+            "number": 192,
             "color_identity": "RG",
             "cost": "{R}{G}",
             "rules_text": "At the beginning of your end step, untap each invested permanent you control.",
@@ -4638,8 +5125,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4647,7 +5136,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Creature \u2014 Human Warrior",
-            "number": 203,
+            "number": 193,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Whenever a creature you control with toughness greater than its power becomes blocked, it deals 2 damage to the each creature that's blocking it.",
@@ -4657,8 +5146,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4666,7 +5157,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Creature \u2014 Human Bard",
-            "number": 204,
+            "number": 194,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
             "rules_text": "Refrain [i](Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don't control one, first create a 0/4 Choir enchantment creature token with \u201cThis creature can't block.\u201d)[/i]\n{T}: Exile target card from a graveyard.\nWhenever a Choir you control dies, if it had 0 toughness, you gain 3 life and each opponent loses 3 life.",
@@ -4676,8 +5167,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4685,7 +5178,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Creature \u2014 Human Wizard",
-            "number": 205,
+            "number": 195,
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "Prowess\nInstant and sorcery spells you cast cost {1} less to cast.",
@@ -4695,8 +5188,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4704,7 +5199,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Creature \u2014 Human Warrior",
-            "number": 207,
+            "number": 197,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "Refrain [i](Whenever this becomes tapped, put a -1/-1 counter on a Choir you control. If you don't control one, first create a 0/4 Choir enchantment creature token with \u201cThis creature can't block.\u201d)[/i]\nThis creature and Choirs you control get +1/+1 and have trample and lifelink.",
@@ -4714,8 +5209,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "247",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4723,7 +5220,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Creature \u2014 Avatar Laborer",
-            "number": 208,
+            "number": 198,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
             "rules_text": "Whenever a creature you control becomes tapped, add {C}. This mana lasts until end of turn.",
@@ -4733,8 +5230,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4745,15 +5244,17 @@
             "number": 166,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Protection from mana value 9 or greater. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with mana value 9 or greater)[/i]\nWhen this creature enters, exile target card from an elsewhere.",
+            "rules_text": "Protection from mana value 9 or greater. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with mana value 9 or greater.)[/i]\nWhen this creature enters, exile target card from an elsewhere.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4771,8 +5272,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "250",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4790,8 +5293,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "251",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4809,8 +5314,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "252",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4828,8 +5335,10 @@
             "shape": "token",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "Thomas Stoops",
+            "alias": "",
+            "position": "253",
+            "rotated": false,
             "notes": "!reminderslot"
         },
         {
@@ -4847,8 +5356,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "254",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4866,8 +5377,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "255",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4885,8 +5398,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "256",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4904,8 +5419,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "257",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4923,8 +5440,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "258",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4942,8 +5461,10 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "259",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4961,10 +5482,12 @@
             "shape": "normal",
             "set": "DEM",
             "loyalty": "",
-            "designer": "",
             "artist": "",
+            "alias": "",
+            "position": "260",
+            "rotated": false,
             "notes": ""
         }
     ],
-    "version": 9
+    "version": 10
 }

@@ -1,4 +1,573 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+UW02 Dreamwalker of Solidarity added.
+UU02 Dreamwalker of Aptitude added.
+UB02 Dreamwalker of Ambition added.
+UB02 Dreamwalker of Passion added.
+UG02 Dreamwalker of Abundance added.
+
+UW02 Pearl Dreamer of Whimsy removed.
+UW13 Crystalcore of Loyalty removed.
+UU02 Sapphire Dreamer of Whimsy removed.
+UU13 Crystalcore of Knowledge removed.
+UB02 Jet Dreamer of Whimsy removed.
+UB13 Crystalcore of Persistence removed.
+UR02 Ruby Dreamer of Whimsy removed.
+UR13 Crystalcore of Courage removed.
+UG02 Emerald Dreamer of Whimsy removed.
+UG13 Crystalcore of Strength removed.
+RZ01 Harbinger of Whimsy Bone removed.
+RZ02 Harbinger of Whimsy Thunder removed.
+RZ03 Harbinger of Whimsy Death removed.
+RZ04 Harbinger of Whimsy Light removed.
+RZ05 Harbinger of Whimsy Water removed.
+UA02 Opal Dreamer of Whimsy removed.
+
+CC02 Prophet's Downfall
+
+CC03 Wilderness Essence
+
+MC02 The Wanderer of Worlds
+
+RC01 Epitome of Wanderlust
+
+RC02 Minion of Lunacy
+
+UC01 Essence of Kinship
+
+UC02 Serum Wanderings
+
+CW02 Hospitable Triclops
+
+CW03 Silly Mockingbird
+
+CW04 Helpful Seeker
+
+CW06 Clay Cleric
+
+CW07 Elder Populace
+
+CW08 Meandering Minstrel
+
+CW09 Stone Ressurector
+
+CW10 Triclops Sentinel
+
+CW11 Shrouded Angel
+
+CW13 Three-Eyed Pacifism
+
+CW14 Honorable Exertion
+
+CW15 Enhancement of Seeking
+
+MW01 Sungleam
+
+MW02 Formidable Fluxuation
+
+RW01 Gatel the Frozen
+
+RW02 Bethela the Builder
+
+RW03 Purveyor of Change
+
+RW04 Banishing Ranger
+
+RW05 Whimsical Greater Angel
+
+RW06 Innefficient Exchange
+
+RW07 Ruinous Wrath
+
+UW01 Grounded Investigation
+
+UW03 Revolutionary Healer
+
+UW04 Triclops Storyteller
+
+UW05 Blighted Bard
+
+UW06 Mason-Doctor
+
+UW07 Wanderlust Golem
+
+UW08 Wandering Recruiter
+
+UW09 Fragmented Purge
+
+UW10 Formidable Hammer
+
+UW11 Foundational Virtue
+
+UW12 Loyal Wanderings
+
+CU02 Deranged Lunarkin
+
+CU03 Incomplete Scrapthopter
+
+CU05 Grim Looter
+
+CU06 Wanderlust Eater
+
+CU07 Riddleless Riddler
+
+CU08 Sturdy Platformite
+
+CU09 Delusions of Idiocy
+
+CU10 Flimsy Transformation
+
+CU11 Delirious Cancellation
+
+CU12 Moonlit Bauble
+
+CU13 Wisdom of Wanderlust
+
+CU14 Bloody Guardianship
+
+MU01 Ketaro, Traitor
+
+MU02 Omniscient Builder
+
+RU01 Braxtus the Breaker
+
+RU02 Vinki the Reflective
+
+RU04 Opting Ranger
+
+RU05 Riddle Stealer
+
+RU06 Wanderlust Musings
+
+RU07 Ruinous Wanderlust
+
+UU03 Hovering Platformite
+
+UU04 Pacifist Fireborn
+
+UU05 Scholar of Wanderlust
+
+UU06 Flowbringer Lunarkin
+
+UU07 Whimsywinder
+
+UU08 Wandering Magician
+
+UU09 Fragmented Counterspell
+
+UU10 Box of Lunacy
+
+UU11 Foundational Curiosity
+
+UU12 Knowledgeable Wanderings
+
+CB02 Roaming Bloodsucker
+
+CB03 Cutting Mockingbird
+
+CB04 Terrorizing Bladearm
+
+CB05 Hopeless Seeker
+
+CB07 Lunacy Construct
+
+CB08 Shrouded Demon
+
+CB09 Scion of the Dark
+
+CB10 Blood Helix
+
+CB11 Inundation of Insanity
+
+CB12 Reflected Rending
+
+CB13 Visions of Conspiracy
+
+CB14 Lunacy Totem
+
+MB01 Shifter of Secrets
+
+MB02 Relic of Obsession
+
+RB01 Venshi the Absorbative
+
+RB02 Klaror the Brainslayer
+
+RB03 Three-Lie Teller
+
+RB04 Thoughtseizing Ranger
+
+RB05 Grim Greater Demon
+
+RB06 Visions of Darkness
+
+RB07 Ruinous Slice
+
+UB01 Mindshattered Triclops
+
+UB03 Blighted Bully
+
+UB04 Wanderlust Channeler
+
+UB05 Lunarkin Assassin
+
+UB06 Blighted Abomination
+
+UB07 Blazing Blade Champion
+
+UB08 Wandering Summoner
+
+UB09 Fragmented Murder
+
+UB10 Vengeant Venture
+
+UB11 Arena of Insanity
+
+UB12 Persistent Wanderings
+
+CR02 Sunfire Trainee
+
+CR03 Bladearm Ritualist
+
+CR05 Nomadic Brute
+
+CR06 Blazebolt Crossbowman
+
+CR07 Playful Ravager
+
+CR08 Spinblade Demon
+
+CR09 Land-Raze Gargantuan
+
+CR10 Seek Inner Fire
+
+CR12 Ruinous Pyre
+
+CR13 Flames of Wanderlust
+
+CR14 Fall into Might
+
+CR15 Overwhelming Assault
+
+MR01 Vetari, Traitor
+
+RR01 Katori the Brawnslayer
+
+RR02 Raflegos the Passionate
+
+RR03 Raging Hero
+
+RR04 Bolting Ranger
+
+RR05 Moodhoarder Dragon
+
+RR06 Foolish Mockery
+
+RR07 Ruinous Lightning
+
+UR01 Running Stones
+
+UR03 Swift Seeker
+
+UR04 Solarflame Zealot
+
+UR05 Inspired Whimsyshaman
+
+UR06 Revolutionary Archivist
+
+UR07 Grim-Might Beast
+
+UR08 Wandering Firebreather
+
+UR09 Fragmented Flames
+
+UR10 Act of Courageous Treason
+
+UR11 Column of Swift Dreams
+
+UR12 Courageous Wanderings
+
+CG02 Well-Fed Triclops
+
+CG03 Sun-Basking Caretaker
+
+CG05 Sun-Flame Berserker
+
+CG06 Blighted Triclops
+
+CG07 Exploratory Herbalist
+
+CG08 Recruiter of the Range
+
+CG09 Colossal Dreadbeast
+
+CG10 Wild-Darkened Duelist
+
+CG12 Rotting Fangs
+
+CG13 Commune with Travelers
+
+CG14 Spontaneous Strength
+
+CG15 Earth and Sun
+
+MG01 Ambassador of Thorns
+
+MG02 Solatic
+
+RG01 Sufelia the Devout
+
+RG02 Telegia the Thawed
+
+RG03 Three-Eyed Teller
+
+RG04 Cultivating Ranger
+
+RG05 Moodbound Hydra
+
+RG06 What a Whimsical World
+
+RG07 Ruinous Growth
+
+UG01 Caretaking Figment
+
+UG03 Sniffing Wildebeast
+
+UG04 Wilderness Maniac
+
+UG05 Oathsworn Triclops
+
+UG06 Singer of Might
+
+UG07 Dreadmawform Solarkin
+
+UG08 Wandering Strongman
+
+UG09 Fragmented Naturalization
+
+UG10 Enhancement of Finding
+
+UG11 Surveyor's Stone
+
+UG12 Strengthful Wanderings
+
+CM06 Safe Construction
+
+CM07 Lunar Current-Rod
+
+CM08 Violent Revolution
+
+CM09 Expressive Conflagration
+
+CM10 Formidable Anthem
+
+CZ01 Walking Stones
+
+CZ02 Soaring Shadow
+
+CZ03 Sprinting Blade
+
+CZ04 Crushing Flame
+
+CZ05 Warding Eyes
+
+MM02 Varasti, Fluid Dancer
+
+RM01 Lord of the Foundation
+
+RM02 Lord of the Isle
+
+RM03 Lord of the Pass
+
+RM04 Lord of the Summit
+
+RM05 Lord of the Hall
+
+RM06 Mortared Revelation
+
+RM07 Flowing Renewal
+
+RM08 Army of Blades
+
+RM09 Solar Ritual
+
+RM10 Sight of Threes
+
+UM01 Brickfolk Kinmage
+
+UM02 Lunarkin Kinmage
+
+UM03 Blade Demon Kinmage
+
+UM04 Solarkin Kinmage
+
+UM05 Triclops Kinmage
+
+UM06 Brickfolk Charm
+
+UM07 Lunarkin Charm
+
+UM08 Blade Demon Charm
+
+UM09 Solarkin Charm
+
+UM10 Triclops Charm
+
+CA01 Wildforged Golem
+
+CA02 Mechanical Pilgrim
+
+CA03 Imposing Monolith
+
+RA01 Whimsy Monolith
+
+RA02 Lunatic Sphere
+
+UA01 Wildforged Automaton
+
+ML01 The Grand Foundation
+
+ML02 The Lunar Isle
+
+ML03 The Bladed Pass
+
+ML04 The Solar Summit
+
+ML05 The Hall of Sight
+
+ML07 The Wandering Refuge
+
+RL01 City of Building and Breaking
+
+RL02 City of Reflecting and Absorbing
+
+RL03 City of Brain and Brawn
+
+RL04 City of Passion and Devotion
+
+RL05 City of Thaw and Frost
+
+1/1 Peasant Token
+
+Building Token
+
+Clue Token
+
+MR02 Pyre of Dreams
+
+UU01 Arcane Investigator
+
+Elsewhere Reminder
+
+RU03 Visionary Kinship
+
+Moodbound Reminder
+
+CC01 Whimsical Farmer
+
+MC01 The Dreamer Wakes Up
+cost: {2} => 
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+Discard a card.
+Exile this saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I, II — Draw a card.
+III, IV — Discard a card.
+V — Exile this saga, then return it to the battlefield transformed under your control.
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I, II — Draw a card.
+III, IV — Discard a card.
+V — Exile this saga, then return it to the battlefield transformed under your control.
+
+CW01 White Dreamer of Whimsy
+
+CW05 Pranking Pumpkin
+
+CW12 Knightly Execution
+
+CU01 Blue Dreamer of Whimsy
+pt: 1/1 => 1/2
+
+CU04 Brickfolk Surveyor
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Whenever this creature attacks, surveil 1.[/b]] => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Foundation [i](When this enters, if you don't control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)[/i]
+[[b]Whenever this creature attacks, surveil 1.[/b]] [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+CU15 Deliberate Paws
+
+CB01 Black Dreamer of Whimsy
+pt: 1/1 => 
+
+CB06 Tricky Temporalist
+
+CB15 Enduring Metal
+
+CR01 Red Dreamer of Whimsy
+pt: 1/1 => 1/2
+
+CR04 Foolish Smuggler
+
+CR11 Return Again
+
+CG01 Green Dreamer of Whimsy
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Ward {1} => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+pt: 1/1 => 1/2
+
+CG04 Eight-Legged Bartender
+
+CG11 Whom to Pray
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+You gain 2 life. Surveil 2. => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+You gain 2 life. Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+CM01 Hero of Brick
+
+CM02 Hero of Moon
+rules_text: Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+When this creature enters, surveil 2.
+Moonflow 2 [i](You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)[/i] => Whimsybound [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less. This is bound in all zones.)[/i]
+When this creature enters, surveil 2.
+Moonflow 2
+
+CM03 Hero of Blade
+
+CM04 Hero of Sun
+
+CM05 Hero of Sight
+type: Creature — Giant Hero => Creature — Giant Villain
+
+MM01 Season of Whimsy
+
+ML06 The Dreamer's Home
+type: Legendary Land => Land
+
+UL01 Festival of Frost
+
+UL02 Festival of Darkness
+
+UL03 Festival of Blood
+
+UL04 Festival of Fire
+
+UL05 Festival of Life
+
+UL06 Festival of Bone
+
+UL07 Festival of Thunder
+
+UL08 Festival of Death
+
+UL09 Festival of Light
+
+UL10 Festival of Water
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

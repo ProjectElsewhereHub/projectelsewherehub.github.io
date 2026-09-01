@@ -1,4 +1,551 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+O'Lime, Reefkeeper
+
+Nerak, Herald of Processions
+
+Gern, the Quakemaker
+
+U'Kala, Revered Protector
+
+Semaj, Eternity-Seer
+
+Ruyel, Tribute Keeper
+
+Hekmaj, the Hatemaker
+
+Icknick, Life-Invoker
+
+Doomsnap, the Tide-Eater
+
+Marine, Kraken Breeder
+
+Radiant Mentor
+
+Caller of the Protectors
+
+Gather the Devoted
+
+Follower of Footsteps
+
+Courrier of Hope
+
+Seeker of Greatness
+
+Steadfast Protector
+
+Giant's Steppe Seekers
+
+Honored Protector
+
+Mighty Eagle
+
+Battledriver Giant
+
+Dawnwaker
+
+Readied Protection
+
+Render Insignificant
+
+Triumphant Efforts
+
+Guiding Light
+
+Triumph Against Ferocity
+
+Cast to Nothingness
+
+Relic of Xiphaes
+
+Exalted Griffin
+
+Octopod Manipulator
+
+Crafter of Relics
+
+Sanity Drowner
+
+Windward Seer
+
+Scavenger of Shipwrecks
+
+Spawn of the Depths
+
+Breach the Surface
+
+Plunge Sanity
+
+Rethink
+
+Grip of Tentacles
+
+Beneath the Tides
+
+Contingency Plan
+
+Sweep the Shores
+
+Protected by the Deep
+
+Drown Out
+
+Relic of Abussaee
+
+Carrion Scrounger
+
+Willing Vessel
+
+Ritualist of the Forbidden
+
+Ritual Keeper
+
+Scion of Oblivion
+
+Invoker of the Past
+
+Heartless Winnower
+
+Deathchaser Serpent
+
+Vengeant Reaver
+
+Gravecrawler Wurm
+
+Mark of Oblivion
+
+Induce Despair
+
+Infernal Edict
+
+Weight of Insignificance
+
+Commune With the Forbidden
+
+Rise Again
+
+Invoke the Harbinger
+
+Lace With Potency
+
+Relic of Exodais
+
+Scowling Ignus
+
+Ruthless Invoker
+
+Axehead Shark
+
+Reckless Battledriver
+
+Pyremaker
+
+Battlesweeper Giant
+
+Frenzied Follower
+
+Viscous Mangler
+
+Schooling Serpent
+
+Voltaic Titan
+
+Squash
+
+Pressence of the Mighty
+
+Assert Dominance
+
+Crushing Weight
+
+Frenzied Callings
+
+Dominate the Shallows
+
+Imbue with Fury
+
+Molten Concoction
+
+Relic of Eos
+
+Harbinger of the Great Ones
+
+Invoker of the Undergrowth
+
+Serene Animist
+
+Wildwood Waker
+
+Followed Protector
+
+Seaweaver Serpent
+
+Skyward Giant
+
+Manyminded Deathbloom
+
+Serpent of the Grove
+
+Greater Land Serpent
+
+Flourishing Giant
+
+Ruthless Contest
+
+Evoke the Elements
+
+Vital Infusion
+
+Grapple with the Past
+
+Ravage the Canopy
+
+Call for Biotace
+
+Relic of Biotace
+
+Idol of Inevitability
+
+Pinnacle of Worship
+
+Wayfarer's Bauble
+
+Tireless Worshiper
+
+Great Sentinel
+
+Staff of the Ancients
+
+Tireless Traveler
+
+Wingminded Warpriest
+
+Ambassador of the Protectors
+
+Restless Wanderer
+
+Eternal Prison
+
+Stalwart Solidarity
+
+Neverending Persistence
+
+Communual Offering
+
+Tome Implanter
+
+Evergrowing Kraken
+
+Keeper of the Sunken
+
+Glorious Reward
+
+See the Inevitable
+
+Glimpse the Deep-Keeper
+
+Summit of Revelation
+
+Tribute of Sanity
+
+Exemplary Follower
+
+Follower of the Inevitable
+
+False Caller
+
+Nightmare's Thirst
+
+Unseal the Vault
+
+Edge of the Beyond
+
+Embrace Oblivion
+
+Call to Life
+
+Pyrewise Master
+
+Electrified Predator
+
+Preparer of Rites
+
+Furybringer
+
+Melt to Material
+
+Cinder Spree
+
+Churn the Tides
+
+Brutal Conflict
+
+Druid of New Life
+
+Animist Tracker
+
+Undying Undergrowth
+
+Manyheaded Serpent
+
+Defender of the Vastlands
+
+Act of the Ancients
+
+Brilliant Communion
+
+Sylvan Scrying
+
+Animate Offering
+
+Worldcrawler Golem
+
+Living Landmass
+
+Voltaic Wurm
+
+Cityback Golem
+
+Cursed Relic
+
+Behemoth Maul
+
+Tome of the Ancients
+
+Springleaf Drum
+
+Endless Spoils
+
+Keeper of the Splendid
+
+Hushmaker
+
+The Masked Healer
+
+Edgecrosser
+
+Elistor, Exalted One
+
+Stalwart Instructor
+
+Prosperous Hope
+
+Arvis, the Tidewaker
+
+Lucid Seer
+
+Adalrad, Concoctopus
+
+Coralhide Wurm
+
+Limitless Insight
+
+Bident of Kiora
+
+Command the Deep
+
+Etchweaver
+
+Agony Caster
+
+Grim Revelation
+
+Patron of Blood
+
+Malrin, Slaughter-Regent
+
+Sanguine Devotion
+
+Uncover the Vault
+
+Ruinator Scourge
+
+Disciple of Eos
+
+Keeper of Great Flames
+
+Vargad, the Golden Titan
+
+Relentless Mako
+
+Embers of Creation
+
+Intimidation Tactics
+
+Gorod, the Walking City
+
+Master Reshaper
+
+Daunting Titan
+
+Director of Rebirth
+
+Archdruid
+
+Massive Scale
+
+Essence-Flooded Serpent
+
+Anger to Remorse
+
+Enigma Field
+
+Arisen Insanity
+
+Blind Bashing
+
+End the End
+
+Presence of Greatness
+
+Wisdom Quantifier
+
+Doom to Inferiority
+
+Aria of Ashes
+
+Sing to the Horizon
+
+Obelisk of Origin
+
+Thought Replicator
+
+Awakened Attendant
+
+Nuvan, the Deep-Favored
+
+Mt. Skyshred
+
+Throne of Amplalo
+
+Autochthon Wurm
+
+Loa, The All-Caller
+
+Pulai, Esteemed Honorer
+
+Normungan, Shelled Scourge
+
+Eon Swallower
+
+Essence Etcher
+
+Cycle's End
+
+Huro, the Ash-Reader
+
+Havoc Rush
+
+Worldtender
+
+Spellgorger Tyrano
+
+Beacon of Greatness
+
+Total Devotion
+
+E'Sol, Radiant One
+special_text:  => As long as it's your turn, E'Sol is a Giant creature with indestructible that's still a planeswalker. He has power and toughness are each equal to the highest mana value among permanents you control.
+Prevent all damage that would be dealt to E'Sol during your turn.
+[+2]: Exile the top card of your library. You may play that card until end of turn and it costs {2} less to cast.
+[-4]: E'Sol, Radiant One gains lifelink until end of turn. If he's a creature, he deals damage equal to his power to target creature you don't control.
+
+Gulcux, Acolyte of Ends
+special_text:  => [+1]: Mill two cards. You may put a permanent card from among the milled cards into your hand. You gain 2 life.
+[-X]: Return target creature or land card with mana value X from your graveyard to the battlefield.
+[-7]: Destroy all nonland permanents. You get an emblem with “At the beginning of your upkeep, you may return a creature or land card from your graveyard to the battlefield.”
+
+Pendant of Potency
+
+Crafty Octopod
+
+Murkwater Lurker
+
+Vitalizing Boon
+
+Kiora, Caller of the Deep
+special_text:  => Sea monster spells you cast cost {1} less to cast.
+[+1]: Untap target permanent you control. You may return that permanent to its owner's hand..
+[-1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[-10]: Search your library for any number of sea monster cards and any number of land cards, reveal them, put them into your hand, then shuffle. Add five {G} and five {U}.
+
+Signs of Protection
+
+Followed Path
+
+Monument to the Skybound
+
+Frozen Wastes
+
+Seafloor of Shipwrecks
+
+Churning Depths
+
+Pool of Blood
+
+Gargantuan Grave
+
+Hall of Temptations
+
+Volcanic Edge
+
+Ravaged Vista
+
+Gnarled Waves
+
+Head of the Woods
+
+Pool of Vitality
+
+Path of Thorns
+
+Great Den
+
+Cascading Fountain
+
+Murky Waters
+
+Carved Peak
+
+Flowering Grove
+
+Sacred Valley
+
+Everlasting Typhoon
+
+The Soul Cages
+
+Scourged Grounds
+
+Enduring Elevation
+
+Path of Ruin
+
+Predator's Den
+
+Bed of the Sun
+
+Gorged Trench
+
+Throne of Bones
+
+Cradle of Evergrowth
+
+Tomb of the Slain
+
+Maw of the Deep
+
+Vault of the End
+
+Nexus of the Beginning
+
+Heart of the World
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Scowling Ignus added.

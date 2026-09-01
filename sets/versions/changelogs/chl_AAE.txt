@@ -1,4 +1,257 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Whisper to the Winds
+
+Speak to Skies
+
+Wade the Shallows
+
+Dive the Depths
+
+Twilight Offering
+
+Moonlight Summoning
+
+Stoke the Pyres
+
+Fan the Flames
+
+Chum the Waters
+
+Attract the Upwelling
+
+Paradox Fragment
+
+Realmseeker Golem
+
+Sentinel Valley
+
+All-Paths Nomad
+
+Shout to the Heavens
+
+Minute Culling
+
+Act of Xiphaes
+
+Anticharm Warden
+
+Reach the Abyss
+
+Echo Sculptor
+
+Undular Revelation
+
+Act of Abussaee
+
+Gate to the Horizon
+
+Darkness Consuming
+
+Moonbound Chanter
+
+Align the Fates
+
+Act of Exodais
+
+Greatness in Unison
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+Greatness in Unison is all colors.
+I — {W} — Target player gains X life.
+II, III — {U} — Target player scries X, then draws a card.
+{B} — Up to one target creature gets -X/-X until end of turn.
+{R} — Greatness in Unison deals X damage to up to one target player or planeswalker.
+{G} — Put X +1/+1 counters on up to one target creature. => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+I — Greatness in Unison is all colors.
+II — {W} — Target player gains X life.
+III — {U} — Target player scries X, then draws a card.
+{B} — Up to one target creature gets -X/-X until end of turn.
+{R} — Greatness in Unison deals X damage to up to one target player or planeswalker.
+{G} — Put X +1/+1 counters on up to one target creature.
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+I — Greatness in Unison is all colors.
+II — {W} — Target player gains X life.
+III — {U} — Target player scries X, then draws a card.
+{B} — Up to one target creature gets -X/-X until end of turn.
+{R} — Greatness in Unison deals X damage to up to one target player or planeswalker.
+{G} — Put X +1/+1 counters on up to one target creature.
+
+Let the World Burn
+
+Revelyell
+
+Amplalo Anew
+
+Act of Eos
+
+Titan's Tomb
+
+Begin the Feeding
+
+Seek the Great Ones
+
+Unlikely Encounter
+
+Act of Biotace
+
+Wyldin, Leader of the Lost
+
+Blissful Unity
+
+Radiant Titan
+
+Protean Will
+
+Arvis, Who Dives the Eternities
+special_text:  => [+2]: Create X 1/1 blue Fish creature tokens, where X is one plus the number of Fish you control.
+[-4]: Return each other non-Fish, nonland permanent to its owner's hand.
+[-11]: Put a flood counter on any number of target lands. Each of those lands is an Island for as long as it has a flood counter on it. You get an emblem with “Whenever you tap an island for mana, add an additional {U}.”
+
+He Who Wondered
+rules_text: When this creature enters, if it's the first time a permanent you control named He Who Wondered has entered this game, permanently upgrade your draw step. [i](You get an emblem with “If you would draw your first card during each of your draw steps, instead choose two —[/i]
+[i]• Create a tapped Treasure token.
+• Scry 2.
+• Draw a card.”)[/i] => When this creature enters, if it's the first time a permanent you control named He Who Wondered has entered this game, permanently upgrade your draw step. [i](You get an emblem with “If you would draw your first card during each of your draw steps, instead choose two –[/i]
+[i]• Create a tapped Treasure token.
+• Scry 2.
+• Draw a card.”)[/i]
+
+Sanctum of the Renowned
+
+Night of Endless Souls
+
+Canto, Null Singer
+
+Embers of Origination
+
+Cu'Gahl, Wrath of the Seas
+
+Wake, Primal Empath
+
+Irgus, Sire of Genesis
+
+Mox Colossite
+
+A'Akula, the Heavens on Earth
+rules_text: Elsewhere 5 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Whisper to the Winds, Speak to the Skies, and Shout to the Heavens. [i](You may cast this card from your elsewhere as long as you've played Whisper to the Winds, Speak to the Skies, and Shout to the Heavens this game.)[/i] [2/2]
+When A'Akula enters, create two 1/1 white Cleric creature tokens, gain 5 life, return a nonland permanent card from your graveyard to your hand, draw a card, and put a +1/+1 counter on each creature you control.
+ => Elsewhere 5 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Whisper to the Winds, Speak to the Skies, and Shout to the Heavens. [i](You may cast this card from your elsewhere as long as you've played Whisper to the Winds, Speak to the Skies, and Shout to the Heavens this game.)[/i]
+When A'Akula enters, create two 1/1 white Cleric creature tokens, gain 5 life, return a nonland permanent card from your graveyard to your hand, draw a card, and put a +1/+1 counter on each creature you control.
+
+Dumat, the Fogs As One
+rules_text: Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Three monocolored white cards with different names. [i](You may cast this card from your elsewhere if you've played three monocolored white cards with different names this game.)[/i] [5/5]
+Vigilance
+When Dumat enters, prevent all damage that would be dealt to you and permanents you control until your next turn.
+ => Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Three monocolored white cards with different names. [i](You may cast this card from your elsewhere as long as you've played Three monocolored white cards with different names this game.)[/i]
+Vigilance
+When Dumat enters, prevent all damage that would be dealt to you and permanents you control until your next turn.
+
+Ikylix, the Infinite Abyss
+rules_text: Elsewhere 5 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Wade the Shallows, Dive the Depths, and Reach the Abyss. [i](You may cast this card from your elsewhere as long as you've played Wade the Shallows, Dive the Depths, and Reach the Abyss this game.)[/i] [5/7]
+Ward {2}
+Whenever Ikylix enters or attacks, you may exile a nonland card from a graveyard. Copy that card. You may cast the copy without paying its mana cost.
+ => Elsewhere 5 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Wade the Shallows, Dive the Depths, and Reach the Abyss. [i](You may cast this card from your elsewhere as long as you've played Wade the Shallows, Dive the Depths, and Reach the Abyss this game.)[/i]
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever Ikylix enters or attacks, you may exile a nonland card from a graveyard. Copy that card. You may cast the copy without paying its mana cost.
+
+Naranu, the Tides Alive
+rules_text: Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Three monocolored blue cards with different names. [i](You may cast this card from your elsewhere if you've played three monocolored blue cards with different names this game.)[/i] [4/4]
+When Naranu enters, scry X, where X is the number of sea monsters you control, then draw a card. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+ => Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Three blue cards with different names. [i](You may cast this card from your elsewhere as long as you've played Three blue cards with different names this game.)[/i]
+When Naranu enters, scry X, where X is the number of sea monsters you control, then draw a card.
+
+Naph'zed, the Voice of Death
+rules_text: Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Three monocolored black cards with different names. [i](You may cast this card from your elsewhere if you've played three monocolored black cards with different names this game.)[/i] [4/4]
+Flying
+When Naph'zed enters, you may return target creature card from your graveyard to the battlefield. If you do, you lose life equal to that card's mana value.
+ => Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Three black cards with different names. [i](You may cast this card from your elsewhere by exiling three black cards with different names from your graveyard in addition to its other costs.)[/i] [i](You may cast this card from your elsewhere as long as you've played Three black cards with different names this game.)[/i]
+Flying
+When Naph'zed enters, you may return target creature card from your graveyard to the battlefield. If you do, you lose life equal to that card's mana value.
+
+Tch'Za, the Jaws of Darkness
+rules_text: Elsewhere 5 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Twilight Offering, Moonlight Summoning, and Darkness Consuming. [i](You may cast this card from your elsewhere as long as you've played Twilight Offering, Moonlight Summoning, and Darkness Consuming this game.)[/i] [0/0]
+Menace, ward—Pay life equal to Tch'Za's power.
+Tch'Za gets +1/+1 for each artifact and/or creature card in your graveyard.
+ => Elsewhere 5 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Twilight Offering, Moonlight Summoning, and Darkness Consuming. [i](You may cast this card from your elsewhere as long as you've played Twilight Offering, Moonlight Summoning, and Darkness Consuming this game.)[/i]
+Menace, ward—Pay life equal to Tch'Za's power.
+Tch'Za gets +1/+1 for each artifact and/or creature card in your graveyard.
+
+Gruun, the World Aflame
+rules_text: Elsewhere 5 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Stoke the Pyres, Fan the Flames, and Let the World Burn. [i](You may cast this card from your elsewhere as long as you've played Stoke the Pyres, Fan the Flames, and Let the World Burn this game.)[/i] [5/5]
+When Gruun enters, create a tapped Treasure token.
+Artifacts you control have “{T}, Sacrifice this artifact: It deals 2 damage to any target.”
+ => Elsewhere 5 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Stoke the Pyres, Fan the Flames, and Let the World Burn. [i](You may cast this card from your elsewhere as long as you've played Stoke the Pyres, Fan the Flames, and Let the World Burn this game.)[/i]
+When Gruun enters, create a tapped Treasure token.
+Artifacts you control have “{T}, Sacrifice this artifact: It deals 2 damage to any target.”
+
+Tooth, the Blood in the Water
+rules_text: Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Three monocolored red cards with different names. [i](You may cast this card from your elsewhere if you've played three monocolored red cards with different names this game.)[/i] [4/4]
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.
+ => Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Three monocolored red cards with different names. [i](You may cast this card from your elsewhere as long as you've played Three monocolored red cards with different names this game.)[/i]
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.
+
+Fulgur, the Tireless Feast
+rules_text: Elsewhere 5 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Chum the Waters, Attract the Upwelling, and Begin the Feeding. [i](You may cast this card from your elsewhere as long as you've played Chum the Waters, Attract the Upwelling, and Begin the Feeding this game.)[/i] [6/4]
+When Fulgur enters, put a prey counter on up to one target creature, then Fulgur deals X damage divided as you choose among any number of creatures with prey counters on them, where X is its power.
+ => Elsewhere 5 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Chum the Waters, Attract the Upwelling, and Begin the Feeding. [i](You may cast this card from your elsewhere as long as you've played Chum the Waters, Attract the Upwelling, and Begin the Feeding this game.)[/i]
+When Fulgur enters, put a prey counter on up to one target creature, then Fulgur deals X damage divided as you choose among any number of creatures with prey counters on them, where X is its power.
+
+Terun, the Land Anew
+rules_text: Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Three monocolored green cards with different names. [i](You may cast this card from your elsewhere if you've played three monocolored green cards with different names this game.)[/i] [8/6]
+When this creature enters, you gain 1 life for each card in your graveyard, then choose one of those cards. Return that card to your hand and shuffle each other card in your graveyard into your library.
+ => Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Three monocolored green cards with different names. [i](You may cast this card from your elsewhere as long as you've played Three monocolored green cards with different names this game.)[/i]
+When this creature enters, you gain 1 life for each card in your graveyard, then choose one of those cards. Return that card to your hand and shuffle each other card in your graveyard into your library.
+
+Ur-Colossus
+rules_text: Elsewhere 6
+Ritual — Act of Xiphaes, Act of Abussaee, Act of Exodais, Act of Eos, and Act of Biotace. [10/10]
+This spell can't be countered. It costs {W}{U}{B}{R}{G} less to cast from your elsewhere.
+Indestructible, protection from creatures
+When Ur-Colossus enters, if it wasn't cast or no mana was spent to cast it, exile it. Otherwise, mill ten cards. You may cast any number of nonland cards from among the milled cards without paying their mana costs.
+ => Elsewhere 6 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Act of Xiphaes, Act of Abussaee, Act of Exodais, Act of Eos, and Act of Biotace. [i](You may cast this card from your elsewhere as long as you've played Act of Xiphaes, Act of Abussaee, Act of Exodais, Act of Eos, and Act of Biotace this game.)[/i]
+This spell can't be countered. It costs {W}{U}{B}{R}{G} less to cast from your elsewhere.
+Indestructible, protection from creatures
+When Ur-Colossus enters, if it wasn't cast or no mana was spent to cast it, exile it. Otherwise, mill ten cards. You may cast any number of nonland cards from among the milled cards without paying their mana costs.
+
+Realmpoint, Arisen Temple
+rules_text: Elsewhere 4
+Your starting elsewhere can only have one card named Realmpoint, Arisen Temple.
+Ritual — Three other cards with mana value 6 or greater. [i](You may cast this card from your elsewhere as long as you've played three other cards with mana value 6 or greater this game.)[/i] [6/6]
+Vigilance
+At the beginning of your first upkeep, if this card is in your elsewhere and your starting deck contains at least twenty cards more than the minimum deck size, you gain 10 life.
+ => Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Your starting elsewhere can only have one card named Realmpoint, Arisen Temple.
+Ritual — Three other cards with mana value 6 or greater. [i](You may cast this card from your elsewhere as long as you've played Three other cards with mana value 6 or greater this game.)[/i]
+Vigilance
+At the beginning of your first upkeep, if this card is in your elsewhere and your starting deck contains at least twenty cards more than the minimum deck size, you gain 10 life.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

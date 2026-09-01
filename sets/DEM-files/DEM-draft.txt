@@ -7,7 +7,7 @@
 			"type": "Creature — Hand",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/90_CB03 Marching Hands.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/0.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/33_CW12 Praise Be.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/1.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Beast",
-			"collector_number": "210",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/210_UM02 Duplicitous Faithbeast.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/2.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Wizard Cleric",
-			"collector_number": "215",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/215_UM07 Faithful Steam-Mage.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/3.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Human Hand",
-			"collector_number": "216",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/216_UM08 Purveyor of Appendages.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/4.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Artifact",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/232_RA01 Exertion Amplifier.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/5.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/138_RR05 Godseeker Torazin.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/6.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Artifact",
-			"collector_number": "220",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/220_UM12 Grinning Monolith.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/7.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Human Druid",
-			"collector_number": "218",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/218_UM10 Exertion Seeker.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/8.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "209",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/209_UM01 Eagle of Heraldry.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/9.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Monk",
-			"collector_number": "211",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/211_UM03 Solarstain Monk.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/10.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Human Druid Advisor",
-			"collector_number": "212",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/212_UM04 Weaveline Emmissary.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/11.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "214",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/214_UM06 Minister of the Choir.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/12.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "217",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/217_UM09 Choirsung Hero.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/13.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "219",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/219_UM11 Heralding Anthem.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/14.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Enchantment — Investiture",
-			"collector_number": "221",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/221_UM13 Solarstain Energization.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/15.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Enchantment — Investiture",
-			"collector_number": "222",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/222_UM14 Weaveline Entombation.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/16.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
-			"collector_number": "228",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/228_UM20 Flurry of Effort.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/17.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Token Enchantment — Prayer",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/3t_Prayer token.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/18.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Token Enchantment Creature — Choir",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/1t_Choir token.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/19.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Artifact",
-			"collector_number": "224",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/224_UM16 Grand Organ of the Choir.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/20.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "225",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/225_UM17 Magus' Mastery.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/21.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Kindred Sorcery — Hand",
-			"collector_number": "226",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/226_UM18 Appendageous Insight.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/22.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "227",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/227_UM19 Lonesome Hero's Lance.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/23.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/U}",
 			"type": "Legendary Enchantment Creature — God-Shard",
-			"collector_number": "188",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/188_CZ01 Godshard of Frost.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/24.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W/B}",
 			"type": "Legendary Enchantment Creature — God-Shard",
-			"collector_number": "193",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/193_CZ06 Godshard of Bone.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/25.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Bard",
-			"collector_number": "213",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/213_UM05 Charming Pianist.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/26.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Instant",
-			"collector_number": "223",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/223_UM15 Mighty Choirsong.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/27.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G/U}",
 			"type": "Legendary Enchantment Creature — God-Shard",
-			"collector_number": "197",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/197_CZ10 Godshard of Water.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/28.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G/W}",
 			"type": "Legendary Enchantment Creature — God-Shard",
-			"collector_number": "192",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/192_CZ05 Godshard of Life.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/29.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{R/W}",
 			"type": "Legendary Enchantment Creature — God-Shard",
-			"collector_number": "196",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/196_CZ09 Godshard of Light.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/30.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}",
 			"type": "Legendary Enchantment Creature — God-Shard",
-			"collector_number": "189",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/189_CZ02 Godshard of Darkness.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/31.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U/R}",
 			"type": "Legendary Enchantment Creature — God-Shard",
-			"collector_number": "194",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/194_CZ07 Godshard of Thunder.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/32.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/R}",
 			"type": "Legendary Enchantment Creature — God-Shard",
-			"collector_number": "190",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/190_CZ03 Godshard of Blood.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/33.png"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "common",
 			"mana_cost": "{B/G}",
 			"type": "Legendary Enchantment Creature — God-Shard",
-			"collector_number": "195",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/195_CZ08 Godshard of Death.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/34.png"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Legendary Enchantment Creature — God-Shard",
-			"collector_number": "191",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/191_CZ04 Godshard of Fire.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/35.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/24_CW03 Omenful Dove.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/36.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Instant",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/99_CB12 Faith in Extremis.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/37.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/23_CW02 Young Singer.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/38.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/22_CW01 Keeper of Loyalty.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/39.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Land — Plains",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/233_CL01 Foreign Plains.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/40.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Land — Island",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/234_CL02 Foreign Island.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/41.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Land — Swamp",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/235_CL03 Foreign Swamp.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/42.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Land — Mountain",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/236_CL04 Foreign Mountain.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/43.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Land — Forest",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/237_CL05 Foreign Forest.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/44.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Creature — Human Peasant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/11_CC11 Foreign Peasant.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/45.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Creature — Angel Horror",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/50_UW08 Luxblight Angel.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/46.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Creature — Sphinx Horror",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/81_UU06 Luxblight Sphinx.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/47.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Creature — Demon Horror",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/115_UB07 Luxblight Demon.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/48.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Dragon Horror",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/148_UR07 Luxblight Dragon.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/49.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Creature — Titan Horror",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/183_UG08 Luxblight Titan.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/50.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/25_CW04 Heralding Harbinger.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/51.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/55_CU01 Keeper of Knowledge.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/52.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/88_CB01 Keeper of Persistence.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/53.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/121_CR01 Keeper of Courage.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/54.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/154_CG01 Keeper of Strength.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/55.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/27_CW06 Choirsung Healer.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/56.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/26_CW05 Heretic Ressurector.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/57.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Instant",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/61_CU07 Flowing Dismissal.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/58.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Creature — Avatar",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/28_CW07 Avatar of the Choir.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/59.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Instant",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/30_CW09 Loyal Flames.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/60.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/21_RC01 Elsewhere Stalker.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/61.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/31_CW10 Shifting Soul-Scars.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/62.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Instant",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/32_CW11 Overwhelming Soulshatter.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/63.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Sorcery — Lightform",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/2_CC02 Lightform of the Head.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/64.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Instant — Lightform",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/1_CC01 Lightform of the Eye.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/65.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Sorcery — Lightform",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/3_CC03 Lightform of the Tongue.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/66.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Creature — Human Savior",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/29_CW08 Fervent Savior.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/67.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Instant — Lightform",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/4_CC04 Lightform of the Soul.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/68.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Sorcery — Lightform",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/5_CC05 Lightform of the Limb.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/69.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Instant — Lightform",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/6_CC06 Lightform of the Heart.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/70.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Instant — Lightform",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/7_CC07 Lightform of the Nose.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/71.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Instant — Lightform",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/8_CC08 Lightform of the Hand.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/72.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Sorcery — Lightform",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/9_CC09 Lightform of the Voice.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/73.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Sorcery — Lightform",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/10_CC10 Lightform of the Ear.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/74.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Land — Bedrock",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/238_RL01 Bedrock of Pearl.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/75.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Land — Bedrock",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/239_RL02 Bedrock of Sapphire.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/76.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Land — Bedrock",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/240_RL03 Bedrock of Jet.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/77.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Land — Bedrock",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/241_RL04 Bedrock of Ruby.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/78.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Land — Bedrock",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/242_RL05 Bedrock of Emerald.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/79.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Creature — Human Assassin",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/56_CU02 Devout Assassin.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/80.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/57_CU03 Forceful Looter.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/81.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/58_CU04 Chained Airwinder.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/82.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Creature — Human Savior",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/59_CU05 Haughty Savior.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/83.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Instant",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/60_CU06 Faithful Negation.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/84.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Sorcery",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/62_CU08 Callous Disbelief.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/85.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Sorcery",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/63_CU09 Indoctrinating Insight.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/86.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Sorcery",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/64_CU10 Intellectual Ritual.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/87.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Instant",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/65_CU11 Shields Up.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/88.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/66_CU12 Soul of Curiosity.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/89.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/89_CB02 Soul-Essence Vulture.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/90.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Creature — Human Bard Warlock",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/91_CB04 Choirsung Ritualist.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/91.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Creature — Hand",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/92_CB05 Appendage of War.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/92.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Creature — Human Savior",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/93_CB06 Commanding Savior.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/93.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Instant",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/94_CB07 Solace in Death.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/94.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Instant",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/95_CB08 Variety Slaughter.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/95.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/96_CB09 Sickening Soulrot.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/96.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Sorcery",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/98_CB11 Maddening Devotion.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/97.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Instant",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/97_CB10 Artificial Culling.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/98.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Creature — Human Mystic",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/122_CR02 Solarstain Mystic.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/99.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/123_CR03 Choirsung Combatant.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/100.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/124_CR04 Cyclefaith Serpent.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/101.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Creature — Beast Horror",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/125_CR05 Spellcraft Abomination.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/102.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Creature — Human Savior",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/126_CR06 Traitorous Savior.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/103.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Sorcery",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/127_CR07 Faith's Fire.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/104.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Sorcery",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/128_CR08 Flame of Luxblight.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/105.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Instant",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/129_CR09 Discordant Flamesong.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/106.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Artifact",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/131_CR11 Chaotic Bagpipes.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/107.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/132_CR12 Infused Brutality.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/108.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/130_CR10 Weaveline Pinnacle.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/109.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/13_CC13 Spiritual Monolith.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/110.png"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/229_CA01 Walking Piano.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/111.png"
 			}
 		},
 		{
@@ -1127,7 +1127,7 @@
 			"type": "Creature — Hand",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/157_CG04 Paired Appendage.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/112.png"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/156_CG03 Druid of Forgetten Soul.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/113.png"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/155_CG02 Greatsong Guardian.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/114.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Creature — Hand Giant",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/158_CG05 Titanic Appendage.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/115.png"
 			}
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"type": "Creature — Human Giant Warrior",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/159_CG06 Enlarged Shieldbearer.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/116.png"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Creature — Human Savior",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/160_CG07 Stubborn Savior.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/117.png"
 			}
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"type": "Instant",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/161_CG08 Faith-Guided Blades.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/118.png"
 			}
 		},
 		{
@@ -1197,7 +1197,7 @@
 			"type": "Instant",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/162_CG09 Shield Smash.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/119.png"
 			}
 		},
 		{
@@ -1207,7 +1207,7 @@
 			"type": "Land — Plains Island",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/244_UL01 Temple of Frost.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/120.png"
 			}
 		},
 		{
@@ -1217,7 +1217,7 @@
 			"type": "Land — Island Swamp",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/245_UL02 Temple of Darkness.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/121.png"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 			"type": "Land — Plains Swamp",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/249_UL06 Temple of Bone.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/122.png"
 			}
 		},
 		{
@@ -1237,7 +1237,7 @@
 			"type": "Land — Island Mountain",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/250_UL07 Temple of Thunder.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/123.png"
 			}
 		},
 		{
@@ -1247,7 +1247,7 @@
 			"type": "Land — Swamp Mountain",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/246_UL03 Temple of Blood.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/124.png"
 			}
 		},
 		{
@@ -1257,7 +1257,7 @@
 			"type": "Land — Swamp Forest",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/251_UL08 Temple of Death.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/125.png"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 			"type": "Land — Mountain Forest",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/247_UL04 Temple of Fire.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/126.png"
 			}
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"type": "Land — Mountain Plains",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/252_UL09 Temple of Light.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/127.png"
 			}
 		},
 		{
@@ -1287,7 +1287,7 @@
 			"type": "Land — Forest Plains",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/248_UL05 Temple of Life.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/128.png"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Land — Forest Island",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/253_UL10 Temple of Water.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/129.png"
 			}
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"type": "Sorcery",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/163_CG10 Seek Solutions.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/130.png"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/164_CG11 Weaveline Might.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/131.png"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Kindred Artifact — Hand",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/165_CG12 Severed Appendage.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/132.png"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"type": "Creature — Human Savior",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/12_CC12 Efficient Savior.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/133.png"
 			}
 		},
 		{
@@ -1347,7 +1347,7 @@
 			"type": "Creature — Cat",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/43_UW01 Keeper's Cat.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/134.png"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/76_UU01 Keeper's Crow.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/135.png"
 			}
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"type": "Creature — Rat",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/109_UB01 Keeper's Rat.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/136.png"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 			"type": "Creature — Lizard",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/142_UR01 Keeper's Lizard.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/137.png"
 			}
 		},
 		{
@@ -1387,7 +1387,7 @@
 			"type": "Creature — Dog",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/176_UG01 Keeper's Hound.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/138.png"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"type": "Creature — Bear",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/177_UG02 Keeper's Bear.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/139.png"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"type": "Creature — Jackal",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/143_UR02 Keeper's Jackal.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/140.png"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"type": "Creature — Turtle",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/77_UU02 Keeper's Turtle.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/141.png"
 			}
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"type": "Creature — Bat",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/110_UB02 Keeper's Bat.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/142.png"
 			}
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"type": "Creature — Camel",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/44_UW02 Keeper's Camel.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/143.png"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Instant",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/35_RW01 Keeper's Loyalty.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/144.png"
 			}
 		},
 		{
@@ -1457,7 +1457,7 @@
 			"type": "Instant",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/68_RU01 Keeper's Insight.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/145.png"
 			}
 		},
 		{
@@ -1467,7 +1467,7 @@
 			"type": "Instant",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/101_RB01 Keeper's Persistence.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/146.png"
 			}
 		},
 		{
@@ -1477,7 +1477,7 @@
 			"type": "Sorcery",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/134_RR01 Keeper's Courage.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/147.png"
 			}
 		},
 		{
@@ -1487,7 +1487,7 @@
 			"type": "Sorcery",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/168_RG01 Keeper's Strength.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/148.png"
 			}
 		},
 		{
@@ -1497,7 +1497,7 @@
 			"type": "Creature — Human Horror",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/15_MC02 Divine Duplicant.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/149.png"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Creature — Human Warrior Bard",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/46_UW04 Guarding Choirsinger.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/150.png"
 			}
 		},
 		{
@@ -1517,7 +1517,7 @@
 			"type": "Legendary Enchantment Creature — God-Shard",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/45_UW03 Godshard of Loyalty.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/151.png"
 			}
 		},
 		{
@@ -1527,7 +1527,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/48_UW06 Harbinger of Trinity.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/152.png"
 			}
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"type": "Artifact Creature — Golem Savior",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/49_UW07 Pearl Savior.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/153.png"
 			}
 		},
 		{
@@ -1547,7 +1547,7 @@
 			"type": "Artifact Creature — Golem Savior",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/80_UU05 Sapphire Savior.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/154.png"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"type": "Artifact Creature — Golem Savior",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/114_UB06 Jet Savior.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/155.png"
 			}
 		},
 		{
@@ -1567,7 +1567,7 @@
 			"type": "Artifact Creature — Golem Savior",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/147_UR06 Ruby Savior.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/156.png"
 			}
 		},
 		{
@@ -1577,7 +1577,7 @@
 			"type": "Artifact Creature — Golem Savior",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/182_UG07 Emerald Savior.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/157.png"
 			}
 		},
 		{
@@ -1587,7 +1587,7 @@
 			"type": "Land",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/243_RL06 Foreign Outpost.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/158.png"
 			}
 		},
 		{
@@ -1597,7 +1597,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/52_UW10 Banishing Soul-Scars.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/159.png"
 			}
 		},
 		{
@@ -1607,7 +1607,7 @@
 			"type": "Artifact",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/53_UW11 Inspiring Harp.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/160.png"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/47_UW05 Elder Disciple.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/161.png"
 			}
 		},
 		{
@@ -1627,7 +1627,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/51_UW09 Mighty Crusader.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/162.png"
 			}
 		},
 		{
@@ -1637,7 +1637,7 @@
 			"type": "Sorcery",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/54_UW12 Great Prayer of Protection.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/163.png"
 			}
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"type": "Sorcery",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/87_UU12 Great Prayer of Arcana.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/164.png"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"type": "Sorcery",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/120_UB12 Great Prayer of Dexterity.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/165.png"
 			}
 		},
 		{
@@ -1667,7 +1667,7 @@
 			"type": "Sorcery",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/153_UR12 Great Prayer of Soul.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/166.png"
 			}
 		},
 		{
@@ -1677,7 +1677,7 @@
 			"type": "Sorcery",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/187_UG12 Great Prayer of Effort.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/167.png"
 			}
 		},
 		{
@@ -1687,7 +1687,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/79_UU04 Trickgrin Mockingbird.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/168.png"
 			}
 		},
 		{
@@ -1697,7 +1697,7 @@
 			"type": "Creature — Sphinx",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/82_UU07 Greatwing Riddleherald.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/169.png"
 			}
 		},
 		{
@@ -1707,7 +1707,7 @@
 			"type": "Instant",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/86_UU11 Combative Spellcraft.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/170.png"
 			}
 		},
 		{
@@ -1717,7 +1717,7 @@
 			"type": "Instant",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/83_UU08 Negative Countermagic.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/171.png"
 			}
 		},
 		{
@@ -1727,7 +1727,7 @@
 			"type": "Instant",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/84_UU09 Study in Faith.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/172.png"
 			}
 		},
 		{
@@ -1737,7 +1737,7 @@
 			"type": "Instant",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/85_UU10 Strenuous Twiddling.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/173.png"
 			}
 		},
 		{
@@ -1747,7 +1747,7 @@
 			"type": "Creature — Hand Bard",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/111_UB03 Appendageous Anthemsinger.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/174.png"
 			}
 		},
 		{
@@ -1757,7 +1757,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/112_UB04 Insulting Choirsinger.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/175.png"
 			}
 		},
 		{
@@ -1767,7 +1767,7 @@
 			"type": "Creature — Demon Warrior",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/116_UB08 Grinning Renegade.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/176.png"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 			"type": "Sorcery",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/117_UB09 Faithful Rites.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/177.png"
 			}
 		},
 		{
@@ -1787,7 +1787,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/118_UB10 Soul-Scar Siphonability.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/178.png"
 			}
 		},
 		{
@@ -1797,7 +1797,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/119_UB11 Soulrot Amplification.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/179.png"
 			}
 		},
 		{
@@ -1807,7 +1807,7 @@
 			"type": "Creature — Human Sorcerer",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/145_UR04 Deepfaith Ritualist.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/180.png"
 			}
 		},
 		{
@@ -1817,7 +1817,7 @@
 			"type": "Creature — Human Druid Warrior",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/146_UR05 Soulmight Blademaster.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/181.png"
 			}
 		},
 		{
@@ -1827,7 +1827,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/144_UR03 Choirsung Flame-Druid.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/182.png"
 			}
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"type": "Instant",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/150_UR09 Faithful Inspiration.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/183.png"
 			}
 		},
 		{
@@ -1847,7 +1847,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/151_UR10 Weaveline Obsession.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/184.png"
 			}
 		},
 		{
@@ -1857,7 +1857,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/152_UR11 Overwhelming Soulmight.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/185.png"
 			}
 		},
 		{
@@ -1867,7 +1867,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/179_UG04 Druid of Exertion.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/186.png"
 			}
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"type": "Creature — Hand Shaman",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/178_UG03 Appendageous Ritualist.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/187.png"
 			}
 		},
 		{
@@ -1885,9 +1885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Hand",
-			"collector_number": "206",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/206_RM08 Hand-Powered Thrower.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/188.png"
 			}
 		},
 		{
@@ -1897,7 +1897,7 @@
 			"type": "Creature — Human Laborer",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/181_UG06 Hermetic Shieldcrafter.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/189.png"
 			}
 		},
 		{
@@ -1907,7 +1907,7 @@
 			"type": "Creature — Human Sorcerer",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/184_UG09 Weaveline Duplimancer.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/190.png"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"type": "Legendary Enchantment Creature — God-Shard",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/78_UU03 Godshard of Knowledge.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/191.png"
 			}
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"type": "Legendary Enchantment Creature — God-Shard",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/113_UB05 Godshard of Persistence.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/192.png"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Legendary Enchantment Creature — God-Shard",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/149_UR08 Godshard of Courage.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/193.png"
 			}
 		},
 		{
@@ -1947,7 +1947,7 @@
 			"type": "Legendary Enchantment Creature — God-Shard",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/180_UG05 Godshard of Strength.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/194.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Sorcery",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/185_UG10 Faith's Claim.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/195.png"
 			}
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"type": "Instant",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/186_UG11 Growth Through Faith.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/196.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/36_RW02 Generous Choirsinger.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/197.png"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/69_RU02 Raven of Superstition.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/198.png"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"type": "Creature — Hand",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/102_RB02 Appendage of Agony.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/199.png"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Legendary Enchantment Creature — God-Shard",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/67_MU01 Godshard of Enlightenment.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/200.png"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Legendary Enchantment Creature — God-Shard",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/133_MR01 Godshard of Ascendance.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/201.png"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Legendary Enchantment Creature — God-Shard",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/136_RR03 Godshard of Artifice.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/202.png"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Legendary Enchantment Creature — God-Shard",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/170_RG03 Godshard of Nature.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/203.png"
 			}
 		},
 		{
@@ -2047,7 +2047,7 @@
 			"type": "Legendary Enchantment Creature — God-Shard",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/103_RB03 Godshard of Populace.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/204.png"
 			}
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"type": "Legendary Enchantment Creature — God-Shard",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/70_RU03 Godshard of Arcana.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/205.png"
 			}
 		},
 		{
@@ -2067,7 +2067,7 @@
 			"type": "Legendary Enchantment Creature — God-Shard",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/37_RW03 Godshard of Spirituality.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/206.png"
 			}
 		},
 		{
@@ -2075,9 +2075,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Enchantment Creature",
-			"collector_number": "198",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/198_MM01 The Corpse of Regitholem.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/207.png"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/135_RR02 Greatersoul Champion.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/208.png"
 			}
 		},
 		{
@@ -2097,7 +2097,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/169_RG02 Exertion Animist.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/209.png"
 			}
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"type": "Sorcery — Lightform",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/18_MC05 Lightform of Deity.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/210.png"
 			}
 		},
 		{
@@ -2117,7 +2117,7 @@
 			"type": "Creature — Savior",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/16_MC03 Saviorality Perfected.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/211.png"
 			}
 		},
 		{
@@ -2127,7 +2127,7 @@
 			"type": "Creature — Angel Warrior",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/41_RW07 Angel of the Choir.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/212.png"
 			}
 		},
 		{
@@ -2137,7 +2137,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/39_RW05 Dualblade Guardian.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/213.png"
 			}
 		},
 		{
@@ -2147,7 +2147,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/40_RW06 Heralding Crusader.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/214.png"
 			}
 		},
 		{
@@ -2157,7 +2157,7 @@
 			"type": "Creature — Human Transmortal Wizard",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/14_MC01 Curator of Ages.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/215.png"
 			}
 		},
 		{
@@ -2167,7 +2167,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/230_MA01 Mox Eternity.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/216.png"
 			}
 		},
 		{
@@ -2177,7 +2177,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/231_MA02 Mox Ichor.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/217.png"
 			}
 		},
 		{
@@ -2187,7 +2187,7 @@
 			"type": "Instant — Lightform",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/38_RW04 Lightform of Unification.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/218.png"
 			}
 		},
 		{
@@ -2197,7 +2197,7 @@
 			"type": "Instant — Lightform",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/71_RU04 Lightform of Formalization.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/219.png"
 			}
 		},
 		{
@@ -2207,7 +2207,7 @@
 			"type": "Instant — Lightform",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/104_RB04 Lightform of Domination.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/220.png"
 			}
 		},
 		{
@@ -2217,7 +2217,7 @@
 			"type": "Instant — Lightform",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/137_RR04 Lightform of Alliances.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/221.png"
 			}
 		},
 		{
@@ -2227,7 +2227,7 @@
 			"type": "Instant — Lightform",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/171_RG04 Lightform of Subservience.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/222.png"
 			}
 		},
 		{
@@ -2237,7 +2237,7 @@
 			"type": "Sorcery",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/42_RW08 Penultimate Prayer.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/223.png"
 			}
 		},
 		{
@@ -2247,7 +2247,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/72_RU05 Wizened Mage.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/224.png"
 			}
 		},
 		{
@@ -2257,7 +2257,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/73_RU06 Surprising Magus.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/225.png"
 			}
 		},
 		{
@@ -2267,7 +2267,7 @@
 			"type": "Instant",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/74_RU07 Empty Ritual.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/226.png"
 			}
 		},
 		{
@@ -2277,7 +2277,7 @@
 			"type": "Instant",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/75_RU08 Chronotwiddle.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/227.png"
 			}
 		},
 		{
@@ -2287,7 +2287,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/106_RB06 Surprising Ritualist.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/228.png"
 			}
 		},
 		{
@@ -2297,7 +2297,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/108_RB08 Soul of Exultation.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/229.png"
 			}
 		},
 		{
@@ -2307,7 +2307,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/105_RB05 Bloodsong Choirsinger.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/230.png"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Legendary Creature — Avatar Hand",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/100_MB01 Hand of God.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/231.png"
 			}
 		},
 		{
@@ -2327,7 +2327,7 @@
 			"type": "Sorcery",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/107_RB07 Transmutation Tutor.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/232.png"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Artifact",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/139_RR06 Tablet of Songs.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/233.png"
 			}
 		},
 		{
@@ -2347,7 +2347,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/140_RR07 Pyretic Soul.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/234.png"
 			}
 		},
 		{
@@ -2357,7 +2357,7 @@
 			"type": "Instant",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/141_RR08 Boon of the Pyre.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/235.png"
 			}
 		},
 		{
@@ -2367,7 +2367,7 @@
 			"type": "Enchantment — Investiture",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/175_RG08 Soul of Decay.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/236.png"
 			}
 		},
 		{
@@ -2377,7 +2377,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/172_RG05 Exertion Battlemaster.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/237.png"
 			}
 		},
 		{
@@ -2387,7 +2387,7 @@
 			"type": "Creature — Hand",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/173_RG06 Handed Hands.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/238.png"
 			}
 		},
 		{
@@ -2397,7 +2397,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/174_RG07 Faithful Questgiver.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/239.png"
 			}
 		},
 		{
@@ -2405,9 +2405,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Human Laborer",
-			"collector_number": "199",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/199_RM01 Flag Seamstress.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/240.png"
 			}
 		},
 		{
@@ -2415,9 +2415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Creature — Sphinx",
-			"collector_number": "200",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/200_RM02 Grinning Sphinx.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/241.png"
 			}
 		},
 		{
@@ -2425,9 +2425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Demon",
-			"collector_number": "201",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/201_RM03 Demon of Soul's Force.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/242.png"
 			}
 		},
 		{
@@ -2435,9 +2435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "202",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/202_RM04 Druid of Soul.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/243.png"
 			}
 		},
 		{
@@ -2445,9 +2445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "203",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/203_RM05 Guardian of Thorns.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/244.png"
 			}
 		},
 		{
@@ -2455,9 +2455,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Bard",
-			"collector_number": "204",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/204_RM06 Greatest Choirsinger.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/245.png"
 			}
 		},
 		{
@@ -2465,9 +2465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "205",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/205_RM07 Arcane Electromancer.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/246.png"
 			}
 		},
 		{
@@ -2475,9 +2475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "207",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/207_RM09 Choirsung Champion.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/247.png"
 			}
 		},
 		{
@@ -2485,9 +2485,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Avatar Laborer",
-			"collector_number": "208",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/208_RM10 Avatar of Exertion.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/248.png"
 			}
 		},
 		{
@@ -2497,7 +2497,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/166_MG01 Godslayer Vagathia.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/249.png"
 			}
 		},
 		{
@@ -2507,7 +2507,7 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/34_MW01 Reirbor the Penitent.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/250.png"
 			}
 		},
 		{
@@ -2517,7 +2517,7 @@
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/19_MC06 Tagross, Void Ascendant.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/251.png"
 			}
 		},
 		{
@@ -2527,7 +2527,7 @@
 			"type": "Legendary Creature — Human Horror God",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/20_MC07 Tagross, Void Deified.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/252.png"
 			}
 		},
 		{
@@ -2537,7 +2537,7 @@
 			"type": "Reminder",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/2t_Elsewhere Reminder.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/253.png"
 			}
 		},
 		{
@@ -2547,7 +2547,7 @@
 			"type": "Instant",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/167_MG02 Vagathia's Command.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/254.png"
 			}
 		},
 		{
@@ -2557,7 +2557,7 @@
 			"type": "Creature — Savior",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/17_MC04 Saviorality Doomed.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/255.png"
 			}
 		},
 		{
@@ -2567,7 +2567,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/254_Plains.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/256.png"
 			}
 		},
 		{
@@ -2577,7 +2577,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/255_Island.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/257.png"
 			}
 		},
 		{
@@ -2587,7 +2587,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/256_Swamp.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/258.png"
 			}
 		},
 		{
@@ -2597,7 +2597,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/257_Mountain.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/259.png"
 			}
 		},
 		{
@@ -2607,7 +2607,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/258_Forest.jpg"
+				"en": "https://projectelsewherehub.github.io/sets/DEM-files/img/260.png"
 			}
 		}
 	]

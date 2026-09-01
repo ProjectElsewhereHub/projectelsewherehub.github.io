@@ -1,4 +1,594 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+CB03 Marching Hands
+
+CW12 Praise Be
+
+UM02 Duplicitous Faithbeast
+
+UM07 Faithful Steam-Mage
+
+UM08 Purveyor of Appendages
+
+RA01 Exertion Amplifier
+
+RR05 Godseeker Torazin
+
+UM12 Grinning Monolith
+
+UM10 Exertion Seeker
+rules_text: Whenever a creature you control becomes tapped, choose one —
+• Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+• You gain 1 life. => Whenever a creature you control becomes tapped, choose one —
+• Surveil 1. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+• You gain 1 life.
+
+UM01 Eagle of Heraldry
+
+UM03 Solarstain Monk
+
+UM04 Weaveline Emmissary
+
+UM06 Minister of the Choir
+
+UM09 Choirsung Hero
+
+UM11 Heralding Anthem
+
+UM13 Solarstain Energization
+
+UM14 Weaveline Entombation
+
+UM20 Flurry of Effort
+
+Prayer token
+
+Choir token
+
+UM16 Grand Organ of the Choir
+
+UM17 Magus' Mastery
+
+UM18 Appendageous Insight
+
+UM19 Lonesome Hero's Lance
+
+CZ01 Godshard of Frost
+
+CZ06 Godshard of Bone
+
+UM05 Charming Pianist
+
+UM15 Mighty Choirsong
+
+CZ10 Godshard of Water
+
+CZ05 Godshard of Life
+
+CZ09 Godshard of Light
+
+CZ02 Godshard of Darkness
+
+CZ07 Godshard of Thunder
+
+CZ03 Godshard of Blood
+
+CZ08 Godshard of Death
+
+CZ04 Godshard of Fire
+
+CW03 Omenful Dove
+
+CB12 Faith in Extremis
+
+CW02 Young Singer
+
+CW01 Keeper of Loyalty
+
+CL01 Foreign Plains
+
+CL02 Foreign Island
+
+CL03 Foreign Swamp
+
+CL04 Foreign Mountain
+
+CL05 Foreign Forest
+
+CC11 Foreign Peasant
+
+UW08 Luxblight Angel
+
+UU06 Luxblight Sphinx
+
+UB07 Luxblight Demon
+
+UR07 Luxblight Dragon
+
+UG08 Luxblight Titan
+
+CW04 Heralding Harbinger
+
+CU01 Keeper of Knowledge
+
+CB01 Keeper of Persistence
+
+CR01 Keeper of Courage
+
+CG01 Keeper of Strength
+
+CW06 Choirsung Healer
+
+CW05 Heretic Ressurector
+
+CU07 Flowing Dismissal
+
+CW07 Avatar of the Choir
+
+CW09 Loyal Flames
+
+RC01 Elsewhere Stalker
+
+CW10 Shifting Soul-Scars
+
+CW11 Overwhelming Soulshatter
+
+CC02 Lightform of the Head
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{W} — You gain X life.
+{U} — Scry X, then draw a card.
+{B} — Add {B}.
+
+CC01 Lightform of the Eye
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{G} — You may tap an untapped creature you control. Put X +1/+1 counters on it.
+{W} — Untap a creature you control.
+{U} — Draw a card for each tapped creature you control. You can't draw more than X cards this way.
+
+CC03 Lightform of the Tongue
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{B} — Add X mana in any combination of colors.
+{R} — This spell deals X damage to each opponent.
+
+CW08 Fervent Savior
+
+CC04 Lightform of the Soul
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{B} — You may sacrifice an enchantment. If you do, draw X cards.
+{R} — If you control an Investiture, discard X cards, then draw X cards.
+{G} — Untap each invested permanent you control.
+
+CC05 Lightform of the Limb
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{R} — Creatures you control get +1/+0 until end of turn.
+{G} — Put a +1/+1 counter on a creature you control.
+{W} — Creatures you control get +0/+X until end of turn.
+
+CC06 Lightform of the Heart
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{R} — Choirs you control get +4/+0 until end of turn.
+{W} — You gain X life.
+{B} — Each opponent loses X life.
+
+CC07 Lightform of the Nose
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{G} — Add one mana of any color.
+{U} — You may tap an untapped creature you control. If you do, surveil X, then draw a card.
+{R} — Create X Prayer tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+CC08 Lightform of the Hand
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{W} — Until end of turn, each creature assigns combat damage equal to its toughness rather than its power.
+{B} — Hands you control gain lifelink until end of turn.
+{G} — Put X +1/+1 counters on a Hand you control.
+
+CC09 Lightform of the Voice
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Draw a card.
+{R} — A creature you control gets +X/+0 until end of turn.
+{W} — A creature you control gains refrain until end of turn. [i](Whenever it becomes tapped, put a -1/-1 counter on a Choir you control. If you don't control one, first create a 0/4 Choir enchantment creature token with “This creature can't block.”)[/i]
+
+CC10 Lightform of the Ear
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{B} — The next time you cast a multicolored spell this turn, copy it. You may choose new targets for the copy.
+{G} — Put X +1/+1 counters on a tapped creature you control.
+{U} — Until end of turn, creatures you control have “{T}: Add {C}.”
+
+RL01 Bedrock of Pearl
+
+RL02 Bedrock of Sapphire
+
+RL03 Bedrock of Jet
+
+RL04 Bedrock of Ruby
+
+RL05 Bedrock of Emerald
+
+CU02 Devout Assassin
+
+CU03 Forceful Looter
+
+CU04 Chained Airwinder
+
+CU05 Haughty Savior
+
+CU06 Faithful Negation
+
+CU08 Callous Disbelief
+
+CU09 Indoctrinating Insight
+
+CU10 Intellectual Ritual
+
+CU11 Shields Up
+
+CU12 Soul of Curiosity
+
+CB02 Soul-Essence Vulture
+
+CB04 Choirsung Ritualist
+
+CB05 Appendage of War
+
+CB06 Commanding Savior
+
+CB07 Solace in Death
+
+CB08 Variety Slaughter
+
+CB09 Sickening Soulrot
+
+CB11 Maddening Devotion
+
+CB10 Artificial Culling
+
+CR02 Solarstain Mystic
+
+CR03 Choirsung Combatant
+
+CR04 Cyclefaith Serpent
+
+CR05 Spellcraft Abomination
+
+CR06 Traitorous Savior
+
+CR07 Faith's Fire
+
+CR08 Flame of Luxblight
+
+CR09 Discordant Flamesong
+
+CR11 Chaotic Bagpipes
+
+CR12 Infused Brutality
+
+CR10 Weaveline Pinnacle
+
+CC13 Spiritual Monolith
+
+CA01 Walking Piano
+
+CG04 Paired Appendage
+
+CG03 Druid of Forgetten Soul
+
+CG02 Greatsong Guardian
+
+CG05 Titanic Appendage
+
+CG06 Enlarged Shieldbearer
+
+CG07 Stubborn Savior
+
+CG08 Faith-Guided Blades
+
+CG09 Shield Smash
+
+UL01 Temple of Frost
+
+UL02 Temple of Darkness
+
+UL06 Temple of Bone
+
+UL07 Temple of Thunder
+
+UL03 Temple of Blood
+
+UL08 Temple of Death
+
+UL04 Temple of Fire
+
+UL09 Temple of Light
+
+UL05 Temple of Life
+
+UL10 Temple of Water
+
+CG10 Seek Solutions
+
+CG11 Weaveline Might
+
+CG12 Severed Appendage
+
+CC12 Efficient Savior
+
+UW01 Keeper's Cat
+
+UU01 Keeper's Crow
+
+UB01 Keeper's Rat
+
+UR01 Keeper's Lizard
+
+UG01 Keeper's Hound
+
+UG02 Keeper's Bear
+
+UR02 Keeper's Jackal
+
+UU02 Keeper's Turtle
+
+UB02 Keeper's Bat
+
+UW02 Keeper's Camel
+
+RW01 Keeper's Loyalty
+
+RU01 Keeper's Insight
+
+RB01 Keeper's Persistence
+
+RR01 Keeper's Courage
+
+RG01 Keeper's Strength
+
+MC02 Divine Duplicant
+
+UW04 Guarding Choirsinger
+
+UW03 Godshard of Loyalty
+
+UW06 Harbinger of Trinity
+
+UW07 Pearl Savior
+
+UU05 Sapphire Savior
+
+UB06 Jet Savior
+
+UR06 Ruby Savior
+
+UG07 Emerald Savior
+
+RL06 Foreign Outpost
+
+UW10 Banishing Soul-Scars
+
+UW11 Inspiring Harp
+
+UW05 Elder Disciple
+
+UW09 Mighty Crusader
+
+UW12 Great Prayer of Protection
+
+UU12 Great Prayer of Arcana
+
+UB12 Great Prayer of Dexterity
+
+UR12 Great Prayer of Soul
+
+UG12 Great Prayer of Effort
+
+UU04 Trickgrin Mockingbird
+
+UU07 Greatwing Riddleherald
+
+UU11 Combative Spellcraft
+
+UU08 Negative Countermagic
+
+UU09 Study in Faith
+
+UU10 Strenuous Twiddling
+
+UB03 Appendageous Anthemsinger
+
+UB04 Insulting Choirsinger
+
+UB08 Grinning Renegade
+
+UB09 Faithful Rites
+
+UB10 Soul-Scar Siphonability
+
+UB11 Soulrot Amplification
+
+UR04 Deepfaith Ritualist
+
+UR05 Soulmight Blademaster
+
+UR03 Choirsung Flame-Druid
+
+UR09 Faithful Inspiration
+
+UR10 Weaveline Obsession
+
+UR11 Overwhelming Soulmight
+
+UG04 Druid of Exertion
+
+UG03 Appendageous Ritualist
+
+RM08 Hand-Powered Thrower
+
+UG06 Hermetic Shieldcrafter
+
+UG09 Weaveline Duplimancer
+
+UU03 Godshard of Knowledge
+
+UB05 Godshard of Persistence
+
+UR08 Godshard of Courage
+
+UG05 Godshard of Strength
+
+UG10 Faith's Claim
+
+UG11 Growth Through Faith
+
+RW02 Generous Choirsinger
+
+RU02 Raven of Superstition
+
+RB02 Appendage of Agony
+
+MU01 Godshard of Enlightenment
+
+MR01 Godshard of Ascendance
+
+RR03 Godshard of Artifice
+
+RG03 Godshard of Nature
+
+RB03 Godshard of Populace
+
+RU03 Godshard of Arcana
+
+RW03 Godshard of Spirituality
+
+MM01 The Corpse of Regitholem
+
+RR02 Greatersoul Champion
+
+RG02 Exertion Animist
+
+MC05 Lightform of Deity
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Draw a card.
+{R} — Destroy a land.
+{W}{B}{G} — Exile all creatures.
+
+MC03 Saviorality Perfected
+
+RW07 Angel of the Choir
+
+RW05 Dualblade Guardian
+
+RW06 Heralding Crusader
+
+MC01 Curator of Ages
+
+MA01 Mox Eternity
+
+MA02 Mox Ichor
+
+RW04 Lightform of Unification
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{G} — You gain X life.
+{U} — Each player draws X cards.
+{B}{R} — Each opponent discards two cards.
+
+RU04 Lightform of Formalization
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{W} — Put a +1/+1 counter on X target creatures.
+{B} — Put a -1/-1 counter on X target creatures.
+{R}{G} — Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+RB04 Lightform of Domination
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Surveil X. [i](Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{R} — Each player discards their hand, then draws X cards.
+{G}{W} — Return a permanent card with mana value 5 or less from your graveyard to the battlefield.
+
+RR04 Lightform of Alliances
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{B} — Mill X cards.
+{G} — You may play up to X cards from your graveyard this turn.
+{W}{U} — The next time you cast a spell from your graveyard this turn, copy it.
+
+RG04 Lightform of Subservience
+special_text:  => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{R} — This spell deals X damage to each opponent.
+{W} — This spell deals X damage to each creature.
+{U}{B} — Draw a card.
+
+RW08 Penultimate Prayer
+
+RU05 Wizened Mage
+
+RU06 Surprising Magus
+
+RU07 Empty Ritual
+
+RU08 Chronotwiddle
+
+RB06 Surprising Ritualist
+
+RB08 Soul of Exultation
+
+RB05 Bloodsong Choirsinger
+
+MB01 Hand of God
+
+RB07 Transmutation Tutor
+
+RR06 Tablet of Songs
+
+RR07 Pyretic Soul
+
+RR08 Boon of the Pyre
+
+RG08 Soul of Decay
+
+RG05 Exertion Battlemaster
+
+RG06 Handed Hands
+
+RG07 Faithful Questgiver
+
+RM01 Flag Seamstress
+
+RM02 Grinning Sphinx
+
+RM03 Demon of Soul's Force
+
+RM04 Druid of Soul
+
+RM05 Guardian of Thorns
+
+RM06 Greatest Choirsinger
+
+RM07 Arcane Electromancer
+
+RM09 Choirsung Champion
+
+RM10 Avatar of Exertion
+
+MG01 Godslayer Vagathia
+rules_text: Protection from mana value 9 or greater. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with mana value 9 or greater)[/i]
+When this creature enters, exile target card from an elsewhere. => Protection from mana value 9 or greater. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with mana value 9 or greater.)[/i]
+When this creature enters, exile target card from an elsewhere.
+
+MW01 Reirbor the Penitent
+
+MC06 Tagross, Void Ascendant
+
+MC07 Tagross, Void Deified
+
+Elsewhere Reminder
+
+MG02 Vagathia's Command
+
+MC04 Saviorality Doomed
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Prayer token added.

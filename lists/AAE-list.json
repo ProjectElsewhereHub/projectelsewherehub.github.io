@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "38"
     },
     {
         "card_name": "Arvis, Who Dives the Eternities",
@@ -13,7 +13,7 @@
         "shape": "planeswalker",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "41"
     },
     {
         "card_name": "Canto, Null Singer",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "45"
     },
     {
         "card_name": "Cu'Gahl, Wrath of the Seas",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "47"
     },
     {
         "card_name": "Irgus, Sire of Genesis",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "49"
     },
     {
         "card_name": "Radiant Titan",
@@ -45,7 +45,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "39"
     },
     {
         "card_name": "He Who Wondered",
@@ -53,7 +53,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "42"
     },
     {
         "card_name": "Night of Endless Souls",
@@ -61,7 +61,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "44"
     },
     {
         "card_name": "Embers of Origination",
@@ -69,7 +69,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "46"
     },
     {
         "card_name": "Wake, Primal Empath",
@@ -77,15 +77,15 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "48"
     },
     {
         "card_name": "A'Akula, the Heavens on Earth",
         "number": 2,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "51"
     },
     {
         "card_name": "Act of Abussaee",
@@ -93,7 +93,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "21"
     },
     {
         "card_name": "Act of Exodais",
@@ -101,7 +101,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "26"
     },
     {
         "card_name": "Act of Eos",
@@ -109,7 +109,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "31"
     },
     {
         "card_name": "Act of Biotace",
@@ -117,7 +117,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "36"
     },
     {
         "card_name": "Act of Xiphaes",
@@ -125,7 +125,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "16"
     },
     {
         "card_name": "Echo Sculptor",
@@ -133,7 +133,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "19"
     },
     {
         "card_name": "Align the Fates",
@@ -141,7 +141,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "25"
     },
     {
         "card_name": "Amplalo Anew",
@@ -149,7 +149,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "30"
     },
     {
         "card_name": "Begin the Feeding",
@@ -157,7 +157,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "33"
     },
     {
         "card_name": "All-Paths Nomad",
@@ -165,15 +165,15 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "13"
     },
     {
         "card_name": "Ikylix, the Infinite Abyss",
         "number": 17,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "53"
     },
     {
         "card_name": "Darkness Consuming",
@@ -181,23 +181,23 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "23"
     },
     {
         "card_name": "Gruun, the World Aflame",
         "number": 37,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "57"
     },
     {
         "card_name": "Fulgur, the Tireless Feast",
         "number": 46,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "59"
     },
     {
         "card_name": "Minute Culling",
@@ -205,7 +205,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "15"
     },
     {
         "card_name": "Reach the Abyss",
@@ -213,7 +213,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "18"
     },
     {
         "card_name": "Moonbound Chanter",
@@ -221,7 +221,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "24"
     },
     {
         "card_name": "Let the World Burn",
@@ -229,7 +229,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "28"
     },
     {
         "card_name": "Seek the Great Ones",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "34"
     },
     {
         "card_name": "Shout to the Heavens",
@@ -245,7 +245,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "14"
     },
     {
         "card_name": "Undular Revelation",
@@ -253,15 +253,15 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "20"
     },
     {
         "card_name": "Tch'Za, the Jaws of Darkness",
         "number": 30,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "56"
     },
     {
         "card_name": "Revelyell",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "29"
     },
     {
         "card_name": "Unlikely Encounter",
@@ -277,15 +277,15 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "35"
     },
     {
         "card_name": "Dumat, the Fogs As One",
         "number": 6,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "52"
     },
     {
         "card_name": "Dive the Depths",
@@ -293,7 +293,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "3"
     },
     {
         "card_name": "Moonlight Summoning",
@@ -301,7 +301,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "5"
     },
     {
         "card_name": "Fan the Flames",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "7"
     },
     {
         "card_name": "Attract the Upwelling",
@@ -317,7 +317,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "9"
     },
     {
         "card_name": "Speak to Skies",
@@ -325,23 +325,23 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "1"
     },
     {
         "card_name": "Naranu, the Tides Alive",
         "number": 18,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "54"
     },
     {
         "card_name": "Naph'zed, the Voice of Death",
         "number": 28,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "55"
     },
     {
         "card_name": "Stoke the Pyres",
@@ -349,7 +349,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "6"
     },
     {
         "card_name": "Chum the Waters",
@@ -357,7 +357,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "8"
     },
     {
         "card_name": "Whisper to the Winds",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "0"
     },
     {
         "card_name": "Wade the Shallows",
@@ -373,7 +373,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "2"
     },
     {
         "card_name": "Twilight Offering",
@@ -381,23 +381,23 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "4"
     },
     {
         "card_name": "Tooth, the Blood in the Water",
         "number": 41,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "58"
     },
     {
         "card_name": "Terun, the Land Anew",
         "number": 49,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "60"
     },
     {
         "card_name": "er"
@@ -418,7 +418,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "22"
     },
     {
         "card_name": "e"
@@ -462,7 +462,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "37"
     },
     {
         "card_name": "e"
@@ -485,10 +485,10 @@
     {
         "card_name": "Ur-Colossus",
         "number": 54,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "61"
     },
     {
         "card_name": "e"
@@ -521,7 +521,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "40"
     },
     {
         "card_name": "Mox Colossite",
@@ -529,15 +529,15 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "50"
     },
     {
         "card_name": "Realmpoint, Arisen Temple",
         "number": 59,
-        "shape": "leveler",
+        "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "62"
     },
     {
         "card_name": "Greatness in Unison",
@@ -545,7 +545,7 @@
         "shape": "saga",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "27"
     },
     {
         "card_name": "Anticharm Warden",
@@ -553,7 +553,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "17"
     },
     {
         "card_name": "Titan's Tomb",
@@ -561,7 +561,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "32"
     },
     {
         "card_name": "Paradox Fragment",
@@ -569,7 +569,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "10"
     },
     {
         "card_name": "Realmseeker Golem",
@@ -577,7 +577,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "11"
     },
     {
         "card_name": "e"
@@ -606,7 +606,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "43"
     },
     {
         "card_name": "Sentinel Valley",
@@ -614,7 +614,7 @@
         "shape": "normal",
         "set": "AAE",
         "rotated": false,
-        "position": ""
+        "position": "12"
     },
     {
         "card_name": "e"
