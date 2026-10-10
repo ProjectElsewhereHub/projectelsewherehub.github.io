@@ -2,7 +2,7 @@
     "name": "A Dream of Darkness",
     "formats": "",
     "image_type": "png",
-    "draft_structure": "draft booster",
+    "draft_structure": "play booster",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -5117,7 +5117,7 @@
             "color2": "R",
             "type2": "Creature \u2014 Human Spirit",
             "cost2": "{1}{R}",
-            "rules_text2": "Prowess",
+            "rules_text2": "Grimbound [i](You're grim if the last non-bound spell you've cast was mana value 4 or greater. This is bound in all zones.)[/i]\nProwess",
             "flavor_text2": "[i]...to the end.[/i]",
             "pt2": "0/2",
             "special_text2": "",
@@ -6020,5 +6020,5 @@
             "notes": "\n"
         }
     ],
-    "version": 14
+    "version": 15
 }

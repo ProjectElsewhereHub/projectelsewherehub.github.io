@@ -2,7 +2,7 @@
     "name": "Deus Ex Memoriam",
     "formats": "",
     "image_type": "png",
-    "draft_structure": "draft booster",
+    "draft_structure": "play booster",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -435,7 +435,7 @@
             "number": 214,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
-            "rules_text": "{T}: Put a -1/-1 counter on target creature. That creature's controller gains 1 life and each other player loses 1 life.\nWhenever a Choir you control dies, if it had 0 toughness, untap each nonland permanent you control.",
+            "rules_text": "{T}: Put a -1/-1 counter on target creature. That creature's controller gains 1 life and each other player loses 1 life.\nWhenever a Choir you control dies, if it had 0 toughness, untap each nonland permanent you control. If you do, sacrifice this artifact.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3039,7 +3039,7 @@
             "number": 35,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nYou gain 3 life. Draw a card.",
+            "rules_text": "Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nYou gain 2 life. Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5489,5 +5489,5 @@
             "notes": ""
         }
     ],
-    "version": 11
+    "version": 12
 }

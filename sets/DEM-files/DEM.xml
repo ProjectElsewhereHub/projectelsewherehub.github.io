@@ -5,7 +5,7 @@
 			<name>DEM</name>
 			<longname>Deus Ex Memoriam</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-01</releasedate>
+			<releasedate>2026-10-10</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -416,7 +416,7 @@ Sacrifice X Prayers: Cast a Savior card with mana value X or less from your else
 		<card>
 			<name>UM16 Grand Organ of the Choir</name>
 			<text>{T}: Put a -1/-1 counter on target creature. That creature&apos;s controller gains 1 life and each other player loses 1 life.
-Whenever a Choir you control dies, if it had 0 toughness, untap each nonland permanent you control.</text>
+Whenever a Choir you control dies, if it had 0 toughness, untap each nonland permanent you control. If you do, sacrifice this artifact.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/20.png" num="214">DEM</set>
 			<prop>
 				<layout>normal</layout>
@@ -2575,7 +2575,7 @@ Vigilance</text>
 		<card>
 			<name>RW01 Keeper&apos;s Loyalty</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-You gain 3 life. Draw a card.</text>
+You gain 2 life. Draw a card.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/144.png" num="35">DEM</set>
 			<prop>
 				<layout>normal</layout>

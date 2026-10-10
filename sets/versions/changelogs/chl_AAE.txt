@@ -1,4 +1,18 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Naph'zed, the Voice of Death
+rules_text: Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Three black cards with different names. [i](You may cast this card from your elsewhere by exiling three black cards with different names from your graveyard in addition to its other costs.)[/i] [i](You may cast this card from your elsewhere as long as you've played Three black cards with different names this game.)[/i]
+Flying
+When Naph'zed enters, you may return target creature card from your graveyard to the battlefield. If you do, you lose life equal to that card's mana value. => Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Three black cards with different names. [i](You may cast this card from your elsewhere as long as you've played Three black cards with different names this game.)[/i]
+When Naph'zed enters, you may return target creature card from your graveyard to the battlefield. If you do, you lose life equal to that card's mana value.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 No changes.

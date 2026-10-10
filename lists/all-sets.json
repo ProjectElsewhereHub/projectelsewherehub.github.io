@@ -19,6 +19,11 @@
             "set_code": "DEM",
             "set_name": "Deus Ex Memoriam",
             "formats": ""
+        },
+        {
+            "set_code": "SVE",
+            "set_name": "Solvatim Envisioned",
+            "formats": ""
         }
     ]
 }

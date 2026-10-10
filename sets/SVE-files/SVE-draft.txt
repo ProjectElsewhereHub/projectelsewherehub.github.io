@@ -1,0 +1,4491 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CC01 Keen-Eyed Farmer",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/0.png"
+			}
+		},
+		{
+			"name": "CC02 Farmhand Recruit",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/1.png"
+			}
+		},
+		{
+			"name": "CC03 Envision Color",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/2.png"
+			}
+		},
+		{
+			"name": "CC04 Soular Pinnacle",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/3.png"
+			}
+		},
+		{
+			"name": "CC05 Immovable Essence",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/4.png"
+			}
+		},
+		{
+			"name": "Corpse conjuration",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Conjuration Creature — Corpse",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/5.png"
+			}
+		},
+		{
+			"name": "RC01 Mana to Flesh",
+			"rarity": "rare",
+			"mana_cost": "{X}{2}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/6.png"
+			}
+		},
+		{
+			"name": "RC02 Cloned Messenger",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Creature — Minion",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/7.png"
+			}
+		},
+		{
+			"name": "RC03 Leycore of Worldscapes",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/8.png"
+			}
+		},
+		{
+			"name": "CW01 Keen-Eyed Hawk",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/9.png"
+			}
+		},
+		{
+			"name": "CW02 Loyal Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/10.png"
+			}
+		},
+		{
+			"name": "CW03 Secretive Sage",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/11.png"
+			}
+		},
+		{
+			"name": "CW04 Terrain Flattener",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Giant Laborer",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/12.png"
+			}
+		},
+		{
+			"name": "CW05 Spreader of Loyalty",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/13.png"
+			}
+		},
+		{
+			"name": "CW06 Symmetry Aligned",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/14.png"
+			}
+		},
+		{
+			"name": "CW07 Young Wildcat",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/15.png"
+			}
+		},
+		{
+			"name": "CW08 Young Camel",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Camel",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/16.png"
+			}
+		},
+		{
+			"name": "CW09 Elder Wildcat",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/17.png"
+			}
+		},
+		{
+			"name": "CW10 Elder Camel",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Camel",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/18.png"
+			}
+		},
+		{
+			"name": "CW11 Sightful Smite",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/19.png"
+			}
+		},
+		{
+			"name": "CW12 Enlightening Pacifism",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/20.png"
+			}
+		},
+		{
+			"name": "CW13 Fleshify",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/21.png"
+			}
+		},
+		{
+			"name": "CW14 Blessed Thoughts",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/22.png"
+			}
+		},
+		{
+			"name": "CW15 Honored Burial",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/23.png"
+			}
+		},
+		{
+			"name": "CW16 Heal from Mourning",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/24.png"
+			}
+		},
+		{
+			"name": "CW17 Message of Condolences",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/25.png"
+			}
+		},
+		{
+			"name": "CW18 Message of Alliance",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/26.png"
+			}
+		},
+		{
+			"name": "CW19 Ensouled Taxation",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/27.png"
+			}
+		},
+		{
+			"name": "CW20 Sighted Vigil",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/28.png"
+			}
+		},
+		{
+			"name": "CW21 Relentless Infantry",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/29.png"
+			}
+		},
+		{
+			"name": "RW01 Sighted Lawmage",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/30.png"
+			}
+		},
+		{
+			"name": "RW08 Leycore of Minutia",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/31.png"
+			}
+		},
+		{
+			"name": "UW01 Mender of Agony",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/32.png"
+			}
+		},
+		{
+			"name": "UW02 Soul Suffuser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/33.png"
+			}
+		},
+		{
+			"name": "UW03 Murderous Balancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/34.png"
+			}
+		},
+		{
+			"name": "UW04 Monastic Visionary",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/35.png"
+			}
+		},
+		{
+			"name": "UW05 Anima of the Living",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/36.png"
+			}
+		},
+		{
+			"name": "UW06 Angelic Perspective",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Reflection Angel",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/37.png"
+			}
+		},
+		{
+			"name": "UW07 Young Hamster",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Hamster",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/38.png"
+			}
+		},
+		{
+			"name": "UW08 Young Fox",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/39.png"
+			}
+		},
+		{
+			"name": "UW09 Elder Hamster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Hamster",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/40.png"
+			}
+		},
+		{
+			"name": "UW10 Elder Fox",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/41.png"
+			}
+		},
+		{
+			"name": "UW14 Simple Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/42.png"
+			}
+		},
+		{
+			"name": "UW12 Decisive Rending",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/43.png"
+			}
+		},
+		{
+			"name": "UW15 Indebting Assistance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/44.png"
+			}
+		},
+		{
+			"name": "UW17 Message of Eternal Rest",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/45.png"
+			}
+		},
+		{
+			"name": "UW16 Transientize",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/46.png"
+			}
+		},
+		{
+			"name": "UW19 Spherical Shattering",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/47.png"
+			}
+		},
+		{
+			"name": "UW18 Message of Sworn War",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/48.png"
+			}
+		},
+		{
+			"name": "CU01 Keen-Eyed Guardian",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/49.png"
+			}
+		},
+		{
+			"name": "UW11 Death Tithe",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/50.png"
+			}
+		},
+		{
+			"name": "UW20 Shining Sabotage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/51.png"
+			}
+		},
+		{
+			"name": "CU03 Recursive Arcanist",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/52.png"
+			}
+		},
+		{
+			"name": "CU02 Knowing Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/53.png"
+			}
+		},
+		{
+			"name": "CU05 Spreader of Knowledge",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/54.png"
+			}
+		},
+		{
+			"name": "CU04 Mimesis Mockingbird",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/55.png"
+			}
+		},
+		{
+			"name": "CU07 Young Turtle",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/56.png"
+			}
+		},
+		{
+			"name": "CU06 Symmetry Perfected",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Avatar",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/57.png"
+			}
+		},
+		{
+			"name": "UW13 Banishing Decay",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/58.png"
+			}
+		},
+		{
+			"name": "CU08 Young Drake",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/59.png"
+			}
+		},
+		{
+			"name": "CU09 Elder Turtle",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/60.png"
+			}
+		},
+		{
+			"name": "CU10 Elder Drake",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/61.png"
+			}
+		},
+		{
+			"name": "CU11 Sightful Shove",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/62.png"
+			}
+		},
+		{
+			"name": "CU12 Enlightening Negation",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/63.png"
+			}
+		},
+		{
+			"name": "CU13 Frozen Soul",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/64.png"
+			}
+		},
+		{
+			"name": "CU14 Enlightened Thoughts",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/65.png"
+			}
+		},
+		{
+			"name": "CU15 Death Choice",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/66.png"
+			}
+		},
+		{
+			"name": "CU16 Discoverous Insight",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/67.png"
+			}
+		},
+		{
+			"name": "CU17 Message of Insight",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/68.png"
+			}
+		},
+		{
+			"name": "CU18 Message of Information",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/69.png"
+			}
+		},
+		{
+			"name": "CU19 Clearsight",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/70.png"
+			}
+		},
+		{
+			"name": "CU20 Sighted Twiddle",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/71.png"
+			}
+		},
+		{
+			"name": "CU21 Relentless Crabs",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Crab",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/72.png"
+			}
+		},
+		{
+			"name": "MU02 Void Infinitum",
+			"rarity": "mythic",
+			"mana_cost": "{6}{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/73.png"
+			}
+		},
+		{
+			"name": "RU01 Sighted Mindmage",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/74.png"
+			}
+		},
+		{
+			"name": "RU02 Timewinder Supreme",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/75.png"
+			}
+		},
+		{
+			"name": "RU08 Leycore of Brilliance",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/76.png"
+			}
+		},
+		{
+			"name": "UU01 Timewinder Motivator",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/77.png"
+			}
+		},
+		{
+			"name": "UU02 Fortune Suffuser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/78.png"
+			}
+		},
+		{
+			"name": "UU03 Seeping Steel",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/79.png"
+			}
+		},
+		{
+			"name": "UU04 Meditating Visionary",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/80.png"
+			}
+		},
+		{
+			"name": "UU05 Anima of the Insane",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Avatar",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/81.png"
+			}
+		},
+		{
+			"name": "UU06 Sphinxian Perspective",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Reflection Sphinx",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/82.png"
+			}
+		},
+		{
+			"name": "UU07 Young Trout",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Fish",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/83.png"
+			}
+		},
+		{
+			"name": "UU08 Young Squid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Squid",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/84.png"
+			}
+		},
+		{
+			"name": "UU09 Elder Trout",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/85.png"
+			}
+		},
+		{
+			"name": "UU10 Elder Squid",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Squid",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/86.png"
+			}
+		},
+		{
+			"name": "UU11 Restrictive Mindset",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/87.png"
+			}
+		},
+		{
+			"name": "UU12 Rotting Arcana",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/88.png"
+			}
+		},
+		{
+			"name": "UU13 Icy Logic Rite",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/89.png"
+			}
+		},
+		{
+			"name": "UU14 Helpful Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/90.png"
+			}
+		},
+		{
+			"name": "UU15 Unsolved Riddle",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/91.png"
+			}
+		},
+		{
+			"name": "UU16 Confusing Plans",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/92.png"
+			}
+		},
+		{
+			"name": "UU17 Message of Infinite Evidence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/93.png"
+			}
+		},
+		{
+			"name": "UU18 Message of Subtle Reversal",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/94.png"
+			}
+		},
+		{
+			"name": "UU19 Enchanting Insight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/95.png"
+			}
+		},
+		{
+			"name": "UU20 Cryetic Anticipation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/96.png"
+			}
+		},
+		{
+			"name": "CB01 Keen-Eyed Rat",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/97.png"
+			}
+		},
+		{
+			"name": "CB02 Persistent Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/98.png"
+			}
+		},
+		{
+			"name": "CB03 Skilled Torturer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/99.png"
+			}
+		},
+		{
+			"name": "CB04 Diffused Siphoner",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Nightmare Vampire",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/100.png"
+			}
+		},
+		{
+			"name": "CB05 Spreader of Persistence",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/101.png"
+			}
+		},
+		{
+			"name": "CB06 Symmetry Obssessed",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Avatar",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/102.png"
+			}
+		},
+		{
+			"name": "CB07 Young Crow",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/103.png"
+			}
+		},
+		{
+			"name": "CB08 Young Skunk",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skunk",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/104.png"
+			}
+		},
+		{
+			"name": "CB09 Elder Crow",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/105.png"
+			}
+		},
+		{
+			"name": "CB10 Elder Skunk",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Skunk",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/106.png"
+			}
+		},
+		{
+			"name": "CB11 Sightful Slaughter",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/107.png"
+			}
+		},
+		{
+			"name": "CB12 Enlightening Grief",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/108.png"
+			}
+		},
+		{
+			"name": "CB13 Reaping Murder",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/109.png"
+			}
+		},
+		{
+			"name": "CB14 Cursed Thoughts",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/110.png"
+			}
+		},
+		{
+			"name": "CB15 Lunatic Leeching",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/111.png"
+			}
+		},
+		{
+			"name": "CB16 Read the Corpse",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/112.png"
+			}
+		},
+		{
+			"name": "CB17 Message of Mockery",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/113.png"
+			}
+		},
+		{
+			"name": "CB18 Message of Manipulation",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/114.png"
+			}
+		},
+		{
+			"name": "CB19 One with One Thing",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/115.png"
+			}
+		},
+		{
+			"name": "CB20 Sighted Burial",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/116.png"
+			}
+		},
+		{
+			"name": "CB21 Relentless Ravens",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Bird",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/117.png"
+			}
+		},
+		{
+			"name": "RB01 Sighted Powermage",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/118.png"
+			}
+		},
+		{
+			"name": "RB08 Leycore of Remains",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/119.png"
+			}
+		},
+		{
+			"name": "UB01 Unsolved Pactling",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Horror",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/120.png"
+			}
+		},
+		{
+			"name": "UB02 Blood Suffuser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/121.png"
+			}
+		},
+		{
+			"name": "UB03 Cruel Explorer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/122.png"
+			}
+		},
+		{
+			"name": "UB04 Isolated Visionary",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/123.png"
+			}
+		},
+		{
+			"name": "UB05 Anima of the Dead",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Avatar",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/124.png"
+			}
+		},
+		{
+			"name": "UB06 Demonic Perspective",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Reflection Sphinx",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/125.png"
+			}
+		},
+		{
+			"name": "UB07 Young Rat",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/126.png"
+			}
+		},
+		{
+			"name": "UB08 Young Leech",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Leech",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/127.png"
+			}
+		},
+		{
+			"name": "UB09 Elder Rat",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Rat",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/128.png"
+			}
+		},
+		{
+			"name": "UB10 Elder Leech",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Leech",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/129.png"
+			}
+		},
+		{
+			"name": "UB11 Remove Selfhood",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/130.png"
+			}
+		},
+		{
+			"name": "UB12 Fleshseize",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/131.png"
+			}
+		},
+		{
+			"name": "UB13 Fleshblight Wind",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/132.png"
+			}
+		},
+		{
+			"name": "UB14 Cruel Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/133.png"
+			}
+		},
+		{
+			"name": "UB15 Death Dispute",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/134.png"
+			}
+		},
+		{
+			"name": "UB16 Antagonistic Bloodfire",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/135.png"
+			}
+		},
+		{
+			"name": "UB17 Message of Omnipotent Mastery",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/136.png"
+			}
+		},
+		{
+			"name": "UB18 Message of Spiteful Return",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/137.png"
+			}
+		},
+		{
+			"name": "UB19 Agonious Insight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/138.png"
+			}
+		},
+		{
+			"name": "UB20 Subtle Suffering",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/139.png"
+			}
+		},
+		{
+			"name": "CR01 Keen-Eyed Thief",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/140.png"
+			}
+		},
+		{
+			"name": "CR02 Courageous Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/141.png"
+			}
+		},
+		{
+			"name": "CR03 Futureflame Seer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/142.png"
+			}
+		},
+		{
+			"name": "CR04 Doomed Researcher",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/143.png"
+			}
+		},
+		{
+			"name": "CR05 Spreader of Courage",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/144.png"
+			}
+		},
+		{
+			"name": "CR06 Symmetry Ruined",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Avatar",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/145.png"
+			}
+		},
+		{
+			"name": "CR07 Young Jackal",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Jackal",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/146.png"
+			}
+		},
+		{
+			"name": "CR08 Young Lizard",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/147.png"
+			}
+		},
+		{
+			"name": "CR09 Elder Jackal",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Jackal",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/148.png"
+			}
+		},
+		{
+			"name": "CR10 Elder Lizard",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/149.png"
+			}
+		},
+		{
+			"name": "CR11 Sightful Slash",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/150.png"
+			}
+		},
+		{
+			"name": "CR12 Enlightening Ruin",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/151.png"
+			}
+		},
+		{
+			"name": "CR13 Burn the Looters",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/152.png"
+			}
+		},
+		{
+			"name": "CR14 Ascended Thoughts",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/153.png"
+			}
+		},
+		{
+			"name": "CR15 Reduced Catharsis",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/154.png"
+			}
+		},
+		{
+			"name": "CR16 Quickstart Graverobbing",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/155.png"
+			}
+		},
+		{
+			"name": "CR17 Message of Emotion",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/156.png"
+			}
+		},
+		{
+			"name": "CR18 Message of Encouragement",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/157.png"
+			}
+		},
+		{
+			"name": "CR19 Seek Meaning",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/158.png"
+			}
+		},
+		{
+			"name": "CR20 Sighted Pyre",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/159.png"
+			}
+		},
+		{
+			"name": "CR21 Relentless Fodder",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/160.png"
+			}
+		},
+		{
+			"name": "RR01 Sighted Madnessmage",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/161.png"
+			}
+		},
+		{
+			"name": "RR02 Life's Broken Facade",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Horror",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/162.png"
+			}
+		},
+		{
+			"name": "RR08 Leycore of Inspiration",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/163.png"
+			}
+		},
+		{
+			"name": "UR01 Possible Flesh",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Horror",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/164.png"
+			}
+		},
+		{
+			"name": "UR02 Crystal Suffuser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/165.png"
+			}
+		},
+		{
+			"name": "UR03 Flesh Feeder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Horror",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/166.png"
+			}
+		},
+		{
+			"name": "UR04 Exploring Visionary",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/167.png"
+			}
+		},
+		{
+			"name": "UR05 Anima of the Obssessive",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Avatar",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/168.png"
+			}
+		},
+		{
+			"name": "UR06 Draconic Perspective",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Reflection Dragon",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/169.png"
+			}
+		},
+		{
+			"name": "UR07 Young Porcupine",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Porcupine",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/170.png"
+			}
+		},
+		{
+			"name": "UR08 Young Goat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goat",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/171.png"
+			}
+		},
+		{
+			"name": "UR09 Elder Porcupine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Porcupine",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/172.png"
+			}
+		},
+		{
+			"name": "UR10 Elder Goat",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Goat",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/173.png"
+			}
+		},
+		{
+			"name": "UR11 Broken on Arrival",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/174.png"
+			}
+		},
+		{
+			"name": "UR12 Corpse Cannonade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/175.png"
+			}
+		},
+		{
+			"name": "UR13 Fiery Instict Rite",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/176.png"
+			}
+		},
+		{
+			"name": "UR14 Exploratory Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/177.png"
+			}
+		},
+		{
+			"name": "UR15 Serial Graverobbing",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/178.png"
+			}
+		},
+		{
+			"name": "UR16 Impulsive Looting",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/179.png"
+			}
+		},
+		{
+			"name": "UR17 Message of Perpetual Fire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/180.png"
+			}
+		},
+		{
+			"name": "UR18 Message of Brave Exploration",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/181.png"
+			}
+		},
+		{
+			"name": "UR19 Enchanting Power",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/182.png"
+			}
+		},
+		{
+			"name": "UR20 Pyretic Exploration",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/183.png"
+			}
+		},
+		{
+			"name": "CG01 Keen-Eyed Coven",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/184.png"
+			}
+		},
+		{
+			"name": "CG02 Strong Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/185.png"
+			}
+		},
+		{
+			"name": "CG03 Crop Rotator",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Laborer",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/186.png"
+			}
+		},
+		{
+			"name": "CG04 Goring Corpseater",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/187.png"
+			}
+		},
+		{
+			"name": "CG05 Spreader of Strength",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/188.png"
+			}
+		},
+		{
+			"name": "CG06 Symmetry Eternal",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Avatar",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/189.png"
+			}
+		},
+		{
+			"name": "CG07 Young Viper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/190.png"
+			}
+		},
+		{
+			"name": "CG08 Young Bear",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/191.png"
+			}
+		},
+		{
+			"name": "CG09 Elder Viper",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/192.png"
+			}
+		},
+		{
+			"name": "CG10 Elder Bear",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/193.png"
+			}
+		},
+		{
+			"name": "CG11 Sightful Snap",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/194.png"
+			}
+		},
+		{
+			"name": "CG12 Enlightening Duel",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/195.png"
+			}
+		},
+		{
+			"name": "CG13 Reclamation Scrying",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/196.png"
+			}
+		},
+		{
+			"name": "CG14 Calm Thoughts",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/197.png"
+			}
+		},
+		{
+			"name": "CG15 Wilden Brutality",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/198.png"
+			}
+		},
+		{
+			"name": "CG16 Rooted Disruption",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/199.png"
+			}
+		},
+		{
+			"name": "CG17 Message of Compassion",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/200.png"
+			}
+		},
+		{
+			"name": "CG18 Message of Growth",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/201.png"
+			}
+		},
+		{
+			"name": "CG19 Maddened Scrying",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/202.png"
+			}
+		},
+		{
+			"name": "CG20 Sighted Daybreak",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/203.png"
+			}
+		},
+		{
+			"name": "CG21 Relentless Brushwaggs",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Brushwagg",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/204.png"
+			}
+		},
+		{
+			"name": "RG01 Sighted Morrowmage",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/205.png"
+			}
+		},
+		{
+			"name": "RG02 Druidic Fleshshaper",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/206.png"
+			}
+		},
+		{
+			"name": "RG08 Leycore of Horizons",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/207.png"
+			}
+		},
+		{
+			"name": "UG01 Blood-Rite Druid",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/208.png"
+			}
+		},
+		{
+			"name": "UG02 Filth Suffuser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/209.png"
+			}
+		},
+		{
+			"name": "UG03 Tusked Wildebeast",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/210.png"
+			}
+		},
+		{
+			"name": "UG04 Hermetic Visionary",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/211.png"
+			}
+		},
+		{
+			"name": "UG05 Anima of the Balanced",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Avatar",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/212.png"
+			}
+		},
+		{
+			"name": "UG06 Titanic Perspective",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Reflection Titan",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/213.png"
+			}
+		},
+		{
+			"name": "UG07 Young Squirrel",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Squirrel",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/214.png"
+			}
+		},
+		{
+			"name": "UG08 Young Spider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/215.png"
+			}
+		},
+		{
+			"name": "UG09 Elder Squirrel",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Squirrel",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/216.png"
+			}
+		},
+		{
+			"name": "UG10 Elder Spider",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/217.png"
+			}
+		},
+		{
+			"name": "UG11 Axed Fumbling",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/218.png"
+			}
+		},
+		{
+			"name": "UG12 Innovative Reclamation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/219.png"
+			}
+		},
+		{
+			"name": "UG13 Duel to Death",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/220.png"
+			}
+		},
+		{
+			"name": "UG14 Mighty Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment — Investiture",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/221.png"
+			}
+		},
+		{
+			"name": "UG15 Graveyard Scouting",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/222.png"
+			}
+		},
+		{
+			"name": "UG16 Tertiary Synopsis",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/223.png"
+			}
+		},
+		{
+			"name": "UG17 Message of Boundless Earth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/224.png"
+			}
+		},
+		{
+			"name": "UG18 Message of Undead Might",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/225.png"
+			}
+		},
+		{
+			"name": "UG19 Clay Deadshaping",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/226.png"
+			}
+		},
+		{
+			"name": "UG20 Earthen Inversion",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/227.png"
+			}
+		},
+		{
+			"name": "RM01 No More Truth",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/228.png"
+			}
+		},
+		{
+			"name": "RM02 Rending Ricochet",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/229.png"
+			}
+		},
+		{
+			"name": "RM03 Withering Engine",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Artifact",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/230.png"
+			}
+		},
+		{
+			"name": "RM04 Pyrohelix",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/231.png"
+			}
+		},
+		{
+			"name": "RM05 Life-Rite Crystal",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Artifact",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/232.png"
+			}
+		},
+		{
+			"name": "RM06 Banishing Darkness",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/233.png"
+			}
+		},
+		{
+			"name": "RM07 Reflect Magic",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/234.png"
+			}
+		},
+		{
+			"name": "RM08 Crypt of Banishment",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Artifact",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/235.png"
+			}
+		},
+		{
+			"name": "RM09 Fiery Extraction",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/236.png"
+			}
+		},
+		{
+			"name": "RM10 Tectonic Boomerang",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/237.png"
+			}
+		},
+		{
+			"name": "RA01 Aeon's Bauble",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/238.png"
+			}
+		},
+		{
+			"name": "CL01 Watchtower of Frost",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/239.png"
+			}
+		},
+		{
+			"name": "CL02 Watchtower of Darkness",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/240.png"
+			}
+		},
+		{
+			"name": "CL03 Watchtower of Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/241.png"
+			}
+		},
+		{
+			"name": "CL04 Watchtower of Fire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/242.png"
+			}
+		},
+		{
+			"name": "CL05 Watchtower of Life",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/243.png"
+			}
+		},
+		{
+			"name": "CL06 Watchtower of Bone",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/244.png"
+			}
+		},
+		{
+			"name": "CL07 Watchtower of Thunder",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/245.png"
+			}
+		},
+		{
+			"name": "CL08 Watchtower of Death",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/246.png"
+			}
+		},
+		{
+			"name": "CL09 Watchtower of Light",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/247.png"
+			}
+		},
+		{
+			"name": "CL10 Watchtower of Water",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/248.png"
+			}
+		},
+		{
+			"name": "CL11 Authorized Gateway",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Portal",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/249.png"
+			}
+		},
+		{
+			"name": "CL12 Optimized Gateway",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Portal",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/250.png"
+			}
+		},
+		{
+			"name": "CL13 Dominated Gateway",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Portal",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/251.png"
+			}
+		},
+		{
+			"name": "CL14 Randomized Gateway",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Portal",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/252.png"
+			}
+		},
+		{
+			"name": "CL15 Challenging Gateway",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Portal",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/253.png"
+			}
+		},
+		{
+			"name": "CL16 Lonely Watchtower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/254.png"
+			}
+		},
+		{
+			"name": "RL01 Pit of Frost",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/255.png"
+			}
+		},
+		{
+			"name": "RL02 Pit of Darkness",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/256.png"
+			}
+		},
+		{
+			"name": "RL03 Pit of Blood",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/257.png"
+			}
+		},
+		{
+			"name": "RL04 Pit of Fire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/258.png"
+			}
+		},
+		{
+			"name": "RL05 Pit of Life",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/259.png"
+			}
+		},
+		{
+			"name": "RL06 Pit of Bone",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/260.png"
+			}
+		},
+		{
+			"name": "RL07 Pit of Thunder",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/261.png"
+			}
+		},
+		{
+			"name": "RL08 Pit of Death",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/262.png"
+			}
+		},
+		{
+			"name": "RL09 Pit of Light",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/263.png"
+			}
+		},
+		{
+			"name": "RL10 Pit of Water",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/264.png"
+			}
+		},
+		{
+			"name": "UL01 Observatory of Frost",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/265.png"
+			}
+		},
+		{
+			"name": "UL02 Observatory of Darkness",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/266.png"
+			}
+		},
+		{
+			"name": "UL03 Observatory of Blood",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/267.png"
+			}
+		},
+		{
+			"name": "UL03 Observatory of Fire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/268.png"
+			}
+		},
+		{
+			"name": "UL05 Observatory of Life",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/269.png"
+			}
+		},
+		{
+			"name": "UL06 Observatory of Bone",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/270.png"
+			}
+		},
+		{
+			"name": "UL07 Observatory of Thunder",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/271.png"
+			}
+		},
+		{
+			"name": "UL08 Observatory of Death",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/272.png"
+			}
+		},
+		{
+			"name": "UL09 Observatory of Light",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/273.png"
+			}
+		},
+		{
+			"name": "UL10 Observatory of Water",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/274.png"
+			}
+		},
+		{
+			"name": "UL11 Disastrous Cyclone",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/275.png"
+			}
+		},
+		{
+			"name": "UL12 Disastrous Tsunami",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/276.png"
+			}
+		},
+		{
+			"name": "UL13 Disastrous Eruption",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/277.png"
+			}
+		},
+		{
+			"name": "UL14 Disastrous Wildfire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/278.png"
+			}
+		},
+		{
+			"name": "UL15 Disastrous Earthquake",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/279.png"
+			}
+		},
+		{
+			"name": "UL16 Hall of the Dead",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/280.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/281.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/282.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/283.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/284.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/285.png"
+			}
+		},
+		{
+			"name": "Elsewhere Reminder",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Reminder",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/286.png"
+			}
+		},
+		{
+			"name": "Clue Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/287.png"
+			}
+		},
+		{
+			"name": "MC01 Aeon's Sixth Trial",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Enchantment — Saga",
+			"collector_number": "6",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/288_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/288_front.png"
+			}
+		},
+		{
+			"name": "MW01 Aeon's First Trial",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "31",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/290_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/290_front.png"
+			}
+		},
+		{
+			"name": "MU01 Aeon's Second Trial",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "82",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/291_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/291_front.png"
+			}
+		},
+		{
+			"name": "MB01 Aeon's Third Trial",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "133",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/292_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/292_front.png"
+			}
+		},
+		{
+			"name": "MR01 Aeon's Fourth Trial",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "183",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/293_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/293_front.png"
+			}
+		},
+		{
+			"name": "MG01 Aeon's Fifth Trial",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "233",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/294_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/294_front.png"
+			}
+		},
+		{
+			"name": "MM01 Aeon's Final Trial",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "263",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/295_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/295_front.png"
+			}
+		},
+		{
+			"name": "MW02 Edward, Beholder of Visions",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "32",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/302_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/302_front.png"
+			}
+		},
+		{
+			"name": "RB02 Mindsharer Magus",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/304.png"
+			}
+		},
+		{
+			"name": "RB03 Demonic Mindbinder",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Demon Shaman",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/305.png"
+			}
+		},
+		{
+			"name": "RG03 Titanic Mindbinder",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Titan Shaman",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/306.png"
+			}
+		},
+		{
+			"name": "RR03 Draconic Mindbinder",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dragon Shaman",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/307.png"
+			}
+		},
+		{
+			"name": "RU03 Sphinxian Mindbinder",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Sphinx Shaman",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/308.png"
+			}
+		},
+		{
+			"name": "RW03 Angelic Mindbinder",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel Shaman",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/309.png"
+			}
+		},
+		{
+			"name": "RW02 Timewinder Gatekeeper",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/310.png"
+			}
+		},
+		{
+			"name": "RW04 Young Banisher",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/311.png"
+			}
+		},
+		{
+			"name": "RW05 Elder Banisher",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/312.png"
+			}
+		},
+		{
+			"name": "RU04 Obsessive Savant",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/313.png"
+			}
+		},
+		{
+			"name": "RU05 Grand Obsession",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/314.png"
+			}
+		},
+		{
+			"name": "RR04 Visionary Firemage",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/315.png"
+			}
+		},
+		{
+			"name": "RR05 Revolutionary Firemage",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/316.png"
+			}
+		},
+		{
+			"name": "RG04 Young Fleshtiller",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/317.png"
+			}
+		},
+		{
+			"name": "RG05 Grizzled Fleshtiller",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/318.png"
+			}
+		},
+		{
+			"name": "RB04 Recursive Ager",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Horror",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/319.png"
+			}
+		},
+		{
+			"name": "RB05 Final Recursivity",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/320.png"
+			}
+		},
+		{
+			"name": "RU06 Academic Enlightenment",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/321.png"
+			}
+		},
+		{
+			"name": "RW06 Dissonance Stone",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/322.png"
+			}
+		},
+		{
+			"name": "RR06 Fleshifying Wildfire",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/323.png"
+			}
+		},
+		{
+			"name": "RB06 Essential Eyestone",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Kindred Artifact — Eye",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/324.png"
+			}
+		},
+		{
+			"name": "RG06 Hydraic Discovery",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/325.png"
+			}
+		},
+		{
+			"name": "RW07 Letter of Solidarity",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/326.png"
+			}
+		},
+		{
+			"name": "RU07 Letter of Cyclicality",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/327.png"
+			}
+		},
+		{
+			"name": "RB07 Letter of Hostility",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/328.png"
+			}
+		},
+		{
+			"name": "RR07 Letter of Modularity",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/329.png"
+			}
+		},
+		{
+			"name": "RG07 Letter of History",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/330.png"
+			}
+		},
+		{
+			"name": "RA02 Letter of Voidality",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/331.png"
+			}
+		},
+		{
+			"name": "RL11 Tesselation Point",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Artifact Enchantment Land",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/332.png"
+			}
+		},
+		{
+			"name": "RL12 Completed Asymptote",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Artifact Enchantment Land",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/333.png"
+			}
+		},
+		{
+			"name": "RL13 Sphere's Vertex",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Artifact Enchantment Land",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/334.png"
+			}
+		},
+		{
+			"name": "RL14 Hyperbolic Loop",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Artifact Enchantment Land",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/335.png"
+			}
+		},
+		{
+			"name": "RL15 Finite Fractal",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Artifact Enchantment Land",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/336.png"
+			}
+		},
+		{
+			"name": "RL16 Monolith of Paradoxes",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Artifact Enchantment Land",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/337.png"
+			}
+		},
+		{
+			"name": "MG02 Aeon, Exposed to Truth",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "234",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/338_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/338_front.png"
+			}
+		},
+		{
+			"name": "ML01 Alacrondais in Ruin",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/340.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 RC01 Mana to Flesh
+	2 RC02 Cloned Messenger
+	2 RC03 Leycore of Worldscapes
+	2 RW01 Sighted Lawmage
+	2 RW08 Leycore of Minutia
+	1 MU02 Void Infinitum
+	2 RU01 Sighted Mindmage
+	2 RU02 Timewinder Supreme
+	2 RU08 Leycore of Brilliance
+	2 RB01 Sighted Powermage
+	2 RB08 Leycore of Remains
+	2 RR01 Sighted Madnessmage
+	2 RR02 Life's Broken Facade
+	2 RR08 Leycore of Inspiration
+	2 RG01 Sighted Morrowmage
+	2 RG02 Druidic Fleshshaper
+	2 RG08 Leycore of Horizons
+	2 RM01 No More Truth
+	2 RM02 Rending Ricochet
+	2 RM03 Withering Engine
+	2 RM04 Pyrohelix
+	2 RM05 Life-Rite Crystal
+	2 RM06 Banishing Darkness
+	2 RM07 Reflect Magic
+	2 RM08 Crypt of Banishment
+	2 RM09 Fiery Extraction
+	2 RM10 Tectonic Boomerang
+	2 RA01 Aeon's Bauble
+	2 RL01 Pit of Frost
+	2 RL02 Pit of Darkness
+	2 RL03 Pit of Blood
+	2 RL04 Pit of Fire
+	2 RL05 Pit of Life
+	2 RL06 Pit of Bone
+	2 RL07 Pit of Thunder
+	2 RL08 Pit of Death
+	2 RL09 Pit of Light
+	2 RL10 Pit of Water
+	1 MC01 Aeon's Sixth Trial
+	1 MW01 Aeon's First Trial
+	1 MU01 Aeon's Second Trial
+	1 MB01 Aeon's Third Trial
+	1 MR01 Aeon's Fourth Trial
+	1 MG01 Aeon's Fifth Trial
+	1 MM01 Aeon's Final Trial
+	1 MW02 Edward, Beholder of Visions
+	2 RB02 Mindsharer Magus
+	2 RB03 Demonic Mindbinder
+	2 RG03 Titanic Mindbinder
+	2 RR03 Draconic Mindbinder
+	2 RU03 Sphinxian Mindbinder
+	2 RW03 Angelic Mindbinder
+	2 RW02 Timewinder Gatekeeper
+	2 RW04 Young Banisher
+	2 RW05 Elder Banisher
+	2 RU04 Obsessive Savant
+	2 RU05 Grand Obsession
+	2 RR04 Visionary Firemage
+	2 RR05 Revolutionary Firemage
+	2 RG04 Young Fleshtiller
+	2 RG05 Grizzled Fleshtiller
+	2 RB04 Recursive Ager
+	2 RB05 Final Recursivity
+	2 RU06 Academic Enlightenment
+	2 RW06 Dissonance Stone
+	2 RR06 Fleshifying Wildfire
+	2 RB06 Essential Eyestone
+	2 RG06 Hydraic Discovery
+	2 RW07 Letter of Solidarity
+	2 RU07 Letter of Cyclicality
+	2 RB07 Letter of Hostility
+	2 RR07 Letter of Modularity
+	2 RG07 Letter of History
+	2 RA02 Letter of Voidality
+	2 RL11 Tesselation Point
+	2 RL12 Completed Asymptote
+	2 RL13 Sphere's Vertex
+	2 RL14 Hyperbolic Loop
+	2 RL15 Finite Fractal
+	2 RL16 Monolith of Paradoxes
+	1 MG02 Aeon, Exposed to Truth
+	1 ML01 Alacrondais in Ruin
+[uncommon(3)]
+	4 UW01 Mender of Agony
+	4 UW02 Soul Suffuser
+	4 UW03 Murderous Balancer
+	4 UW04 Monastic Visionary
+	4 UW05 Anima of the Living
+	4 UW06 Angelic Perspective
+	4 UW07 Young Hamster
+	4 UW08 Young Fox
+	4 UW09 Elder Hamster
+	4 UW10 Elder Fox
+	4 UW14 Simple Soul
+	4 UW12 Decisive Rending
+	4 UW15 Indebting Assistance
+	4 UW17 Message of Eternal Rest
+	4 UW16 Transientize
+	4 UW19 Spherical Shattering
+	4 UW18 Message of Sworn War
+	4 UW11 Death Tithe
+	4 UW20 Shining Sabotage
+	4 UW13 Banishing Decay
+	4 UU01 Timewinder Motivator
+	4 UU02 Fortune Suffuser
+	4 UU03 Seeping Steel
+	4 UU04 Meditating Visionary
+	4 UU05 Anima of the Insane
+	4 UU06 Sphinxian Perspective
+	4 UU07 Young Trout
+	4 UU08 Young Squid
+	4 UU09 Elder Trout
+	4 UU10 Elder Squid
+	4 UU11 Restrictive Mindset
+	4 UU12 Rotting Arcana
+	4 UU13 Icy Logic Rite
+	4 UU14 Helpful Soul
+	4 UU15 Unsolved Riddle
+	4 UU16 Confusing Plans
+	4 UU17 Message of Infinite Evidence
+	4 UU18 Message of Subtle Reversal
+	4 UU19 Enchanting Insight
+	4 UU20 Cryetic Anticipation
+	4 UB01 Unsolved Pactling
+	4 UB02 Blood Suffuser
+	4 UB03 Cruel Explorer
+	4 UB04 Isolated Visionary
+	4 UB05 Anima of the Dead
+	4 UB06 Demonic Perspective
+	4 UB07 Young Rat
+	4 UB08 Young Leech
+	4 UB09 Elder Rat
+	4 UB10 Elder Leech
+	4 UB11 Remove Selfhood
+	4 UB12 Fleshseize
+	4 UB13 Fleshblight Wind
+	4 UB14 Cruel Soul
+	4 UB15 Death Dispute
+	4 UB16 Antagonistic Bloodfire
+	4 UB17 Message of Omnipotent Mastery
+	4 UB18 Message of Spiteful Return
+	4 UB19 Agonious Insight
+	4 UB20 Subtle Suffering
+	4 UR01 Possible Flesh
+	4 UR02 Crystal Suffuser
+	4 UR03 Flesh Feeder
+	4 UR04 Exploring Visionary
+	4 UR05 Anima of the Obssessive
+	4 UR06 Draconic Perspective
+	4 UR07 Young Porcupine
+	4 UR08 Young Goat
+	4 UR09 Elder Porcupine
+	4 UR10 Elder Goat
+	4 UR11 Broken on Arrival
+	4 UR12 Corpse Cannonade
+	4 UR13 Fiery Instict Rite
+	4 UR14 Exploratory Soul
+	4 UR15 Serial Graverobbing
+	4 UR16 Impulsive Looting
+	4 UR17 Message of Perpetual Fire
+	4 UR18 Message of Brave Exploration
+	4 UR19 Enchanting Power
+	4 UR20 Pyretic Exploration
+	4 UG01 Blood-Rite Druid
+	4 UG02 Filth Suffuser
+	4 UG03 Tusked Wildebeast
+	4 UG04 Hermetic Visionary
+	4 UG05 Anima of the Balanced
+	4 UG06 Titanic Perspective
+	4 UG07 Young Squirrel
+	4 UG08 Young Spider
+	4 UG09 Elder Squirrel
+	4 UG10 Elder Spider
+	4 UG11 Axed Fumbling
+	4 UG12 Innovative Reclamation
+	4 UG13 Duel to Death
+	4 UG14 Mighty Soul
+	4 UG15 Graveyard Scouting
+	4 UG16 Tertiary Synopsis
+	4 UG17 Message of Boundless Earth
+	4 UG18 Message of Undead Might
+	4 UG19 Clay Deadshaping
+	4 UG20 Earthen Inversion
+	4 UL01 Observatory of Frost
+	4 UL02 Observatory of Darkness
+	4 UL03 Observatory of Blood
+	4 UL03 Observatory of Fire
+	4 UL05 Observatory of Life
+	4 UL06 Observatory of Bone
+	4 UL07 Observatory of Thunder
+	4 UL08 Observatory of Death
+	4 UL09 Observatory of Light
+	4 UL10 Observatory of Water
+	4 UL11 Disastrous Cyclone
+	4 UL12 Disastrous Tsunami
+	4 UL13 Disastrous Eruption
+	4 UL14 Disastrous Wildfire
+	4 UL15 Disastrous Earthquake
+	4 UL16 Hall of the Dead
+[common(6)]
+	8 CC01 Keen-Eyed Farmer
+	8 CC02 Farmhand Recruit
+	8 CC03 Envision Color
+	8 CC04 Soular Pinnacle
+	8 CC05 Immovable Essence
+	8 CW01 Keen-Eyed Hawk
+	8 CW02 Loyal Explorer
+	8 CW03 Secretive Sage
+	8 CW04 Terrain Flattener
+	8 CW05 Spreader of Loyalty
+	8 CW06 Symmetry Aligned
+	8 CW07 Young Wildcat
+	8 CW08 Young Camel
+	8 CW09 Elder Wildcat
+	8 CW10 Elder Camel
+	8 CW11 Sightful Smite
+	8 CW12 Enlightening Pacifism
+	8 CW13 Fleshify
+	8 CW14 Blessed Thoughts
+	8 CW15 Honored Burial
+	8 CW16 Heal from Mourning
+	8 CW17 Message of Condolences
+	8 CW18 Message of Alliance
+	8 CW19 Ensouled Taxation
+	8 CW20 Sighted Vigil
+	8 CW21 Relentless Infantry
+	8 CU01 Keen-Eyed Guardian
+	8 CU03 Recursive Arcanist
+	8 CU02 Knowing Explorer
+	8 CU05 Spreader of Knowledge
+	8 CU04 Mimesis Mockingbird
+	8 CU07 Young Turtle
+	8 CU06 Symmetry Perfected
+	8 CU08 Young Drake
+	8 CU09 Elder Turtle
+	8 CU10 Elder Drake
+	8 CU11 Sightful Shove
+	8 CU12 Enlightening Negation
+	8 CU13 Frozen Soul
+	8 CU14 Enlightened Thoughts
+	8 CU15 Death Choice
+	8 CU16 Discoverous Insight
+	8 CU17 Message of Insight
+	8 CU18 Message of Information
+	8 CU19 Clearsight
+	8 CU20 Sighted Twiddle
+	8 CU21 Relentless Crabs
+	8 CB01 Keen-Eyed Rat
+	8 CB02 Persistent Explorer
+	8 CB03 Skilled Torturer
+	8 CB04 Diffused Siphoner
+	8 CB05 Spreader of Persistence
+	8 CB06 Symmetry Obssessed
+	8 CB07 Young Crow
+	8 CB08 Young Skunk
+	8 CB09 Elder Crow
+	8 CB10 Elder Skunk
+	8 CB11 Sightful Slaughter
+	8 CB12 Enlightening Grief
+	8 CB13 Reaping Murder
+	8 CB14 Cursed Thoughts
+	8 CB15 Lunatic Leeching
+	8 CB16 Read the Corpse
+	8 CB17 Message of Mockery
+	8 CB18 Message of Manipulation
+	8 CB19 One with One Thing
+	8 CB20 Sighted Burial
+	8 CB21 Relentless Ravens
+	8 CR01 Keen-Eyed Thief
+	8 CR02 Courageous Explorer
+	8 CR03 Futureflame Seer
+	8 CR04 Doomed Researcher
+	8 CR05 Spreader of Courage
+	8 CR06 Symmetry Ruined
+	8 CR07 Young Jackal
+	8 CR08 Young Lizard
+	8 CR09 Elder Jackal
+	8 CR10 Elder Lizard
+	8 CR11 Sightful Slash
+	8 CR12 Enlightening Ruin
+	8 CR13 Burn the Looters
+	8 CR14 Ascended Thoughts
+	8 CR15 Reduced Catharsis
+	8 CR16 Quickstart Graverobbing
+	8 CR17 Message of Emotion
+	8 CR18 Message of Encouragement
+	8 CR19 Seek Meaning
+	8 CR20 Sighted Pyre
+	8 CR21 Relentless Fodder
+	8 CG01 Keen-Eyed Coven
+	8 CG02 Strong Explorer
+	8 CG03 Crop Rotator
+	8 CG04 Goring Corpseater
+	8 CG05 Spreader of Strength
+	8 CG06 Symmetry Eternal
+	8 CG07 Young Viper
+	8 CG08 Young Bear
+	8 CG09 Elder Viper
+	8 CG10 Elder Bear
+	8 CG11 Sightful Snap
+	8 CG12 Enlightening Duel
+	8 CG13 Reclamation Scrying
+	8 CG14 Calm Thoughts
+	8 CG15 Wilden Brutality
+	8 CG16 Rooted Disruption
+	8 CG17 Message of Compassion
+	8 CG18 Message of Growth
+	8 CG19 Maddened Scrying
+	8 CG20 Sighted Daybreak
+	8 CG21 Relentless Brushwaggs
+	8 CL01 Watchtower of Frost
+	8 CL02 Watchtower of Darkness
+	8 CL03 Watchtower of Blood
+	8 CL04 Watchtower of Fire
+	8 CL05 Watchtower of Life
+	8 CL06 Watchtower of Bone
+	8 CL07 Watchtower of Thunder
+	8 CL08 Watchtower of Death
+	8 CL09 Watchtower of Light
+	8 CL10 Watchtower of Water
+	8 CL11 Authorized Gateway
+	8 CL12 Optimized Gateway
+	8 CL13 Dominated Gateway
+	8 CL14 Randomized Gateway
+	8 CL15 Challenging Gateway
+	8 CL16 Lonely Watchtower
+[common | masterpiece(1)]
+	8 CC01 Keen-Eyed Farmer
+	8 CC02 Farmhand Recruit
+	8 CC03 Envision Color
+	8 CC04 Soular Pinnacle
+	8 CC05 Immovable Essence
+	8 CW01 Keen-Eyed Hawk
+	8 CW02 Loyal Explorer
+	8 CW03 Secretive Sage
+	8 CW04 Terrain Flattener
+	8 CW05 Spreader of Loyalty
+	8 CW06 Symmetry Aligned
+	8 CW07 Young Wildcat
+	8 CW08 Young Camel
+	8 CW09 Elder Wildcat
+	8 CW10 Elder Camel
+	8 CW11 Sightful Smite
+	8 CW12 Enlightening Pacifism
+	8 CW13 Fleshify
+	8 CW14 Blessed Thoughts
+	8 CW15 Honored Burial
+	8 CW16 Heal from Mourning
+	8 CW17 Message of Condolences
+	8 CW18 Message of Alliance
+	8 CW19 Ensouled Taxation
+	8 CW20 Sighted Vigil
+	8 CW21 Relentless Infantry
+	8 CU01 Keen-Eyed Guardian
+	8 CU03 Recursive Arcanist
+	8 CU02 Knowing Explorer
+	8 CU05 Spreader of Knowledge
+	8 CU04 Mimesis Mockingbird
+	8 CU07 Young Turtle
+	8 CU06 Symmetry Perfected
+	8 CU08 Young Drake
+	8 CU09 Elder Turtle
+	8 CU10 Elder Drake
+	8 CU11 Sightful Shove
+	8 CU12 Enlightening Negation
+	8 CU13 Frozen Soul
+	8 CU14 Enlightened Thoughts
+	8 CU15 Death Choice
+	8 CU16 Discoverous Insight
+	8 CU17 Message of Insight
+	8 CU18 Message of Information
+	8 CU19 Clearsight
+	8 CU20 Sighted Twiddle
+	8 CU21 Relentless Crabs
+	8 CB01 Keen-Eyed Rat
+	8 CB02 Persistent Explorer
+	8 CB03 Skilled Torturer
+	8 CB04 Diffused Siphoner
+	8 CB05 Spreader of Persistence
+	8 CB06 Symmetry Obssessed
+	8 CB07 Young Crow
+	8 CB08 Young Skunk
+	8 CB09 Elder Crow
+	8 CB10 Elder Skunk
+	8 CB11 Sightful Slaughter
+	8 CB12 Enlightening Grief
+	8 CB13 Reaping Murder
+	8 CB14 Cursed Thoughts
+	8 CB15 Lunatic Leeching
+	8 CB16 Read the Corpse
+	8 CB17 Message of Mockery
+	8 CB18 Message of Manipulation
+	8 CB19 One with One Thing
+	8 CB20 Sighted Burial
+	8 CB21 Relentless Ravens
+	8 CR01 Keen-Eyed Thief
+	8 CR02 Courageous Explorer
+	8 CR03 Futureflame Seer
+	8 CR04 Doomed Researcher
+	8 CR05 Spreader of Courage
+	8 CR06 Symmetry Ruined
+	8 CR07 Young Jackal
+	8 CR08 Young Lizard
+	8 CR09 Elder Jackal
+	8 CR10 Elder Lizard
+	8 CR11 Sightful Slash
+	8 CR12 Enlightening Ruin
+	8 CR13 Burn the Looters
+	8 CR14 Ascended Thoughts
+	8 CR15 Reduced Catharsis
+	8 CR16 Quickstart Graverobbing
+	8 CR17 Message of Emotion
+	8 CR18 Message of Encouragement
+	8 CR19 Seek Meaning
+	8 CR20 Sighted Pyre
+	8 CR21 Relentless Fodder
+	8 CG01 Keen-Eyed Coven
+	8 CG02 Strong Explorer
+	8 CG03 Crop Rotator
+	8 CG04 Goring Corpseater
+	8 CG05 Spreader of Strength
+	8 CG06 Symmetry Eternal
+	8 CG07 Young Viper
+	8 CG08 Young Bear
+	8 CG09 Elder Viper
+	8 CG10 Elder Bear
+	8 CG11 Sightful Snap
+	8 CG12 Enlightening Duel
+	8 CG13 Reclamation Scrying
+	8 CG14 Calm Thoughts
+	8 CG15 Wilden Brutality
+	8 CG16 Rooted Disruption
+	8 CG17 Message of Compassion
+	8 CG18 Message of Growth
+	8 CG19 Maddened Scrying
+	8 CG20 Sighted Daybreak
+	8 CG21 Relentless Brushwaggs
+	8 CL01 Watchtower of Frost
+	8 CL02 Watchtower of Darkness
+	8 CL03 Watchtower of Blood
+	8 CL04 Watchtower of Fire
+	8 CL05 Watchtower of Life
+	8 CL06 Watchtower of Bone
+	8 CL07 Watchtower of Thunder
+	8 CL08 Watchtower of Death
+	8 CL09 Watchtower of Light
+	8 CL10 Watchtower of Water
+	8 CL11 Authorized Gateway
+	8 CL12 Optimized Gateway
+	8 CL13 Dominated Gateway
+	8 CL14 Randomized Gateway
+	8 CL15 Challenging Gateway
+	8 CL16 Lonely Watchtower
+[foil(1)]
+	12 CC01 Keen-Eyed Farmer
+	12 CC02 Farmhand Recruit
+	12 CC03 Envision Color
+	12 CC04 Soular Pinnacle
+	12 CC05 Immovable Essence
+	2 RC01 Mana to Flesh
+	2 RC02 Cloned Messenger
+	2 RC03 Leycore of Worldscapes
+	12 CW01 Keen-Eyed Hawk
+	12 CW02 Loyal Explorer
+	12 CW03 Secretive Sage
+	12 CW04 Terrain Flattener
+	12 CW05 Spreader of Loyalty
+	12 CW06 Symmetry Aligned
+	12 CW07 Young Wildcat
+	12 CW08 Young Camel
+	12 CW09 Elder Wildcat
+	12 CW10 Elder Camel
+	12 CW11 Sightful Smite
+	12 CW12 Enlightening Pacifism
+	12 CW13 Fleshify
+	12 CW14 Blessed Thoughts
+	12 CW15 Honored Burial
+	12 CW16 Heal from Mourning
+	12 CW17 Message of Condolences
+	12 CW18 Message of Alliance
+	12 CW19 Ensouled Taxation
+	12 CW20 Sighted Vigil
+	12 CW21 Relentless Infantry
+	2 RW01 Sighted Lawmage
+	2 RW08 Leycore of Minutia
+	6 UW01 Mender of Agony
+	6 UW02 Soul Suffuser
+	6 UW03 Murderous Balancer
+	6 UW04 Monastic Visionary
+	6 UW05 Anima of the Living
+	6 UW06 Angelic Perspective
+	6 UW07 Young Hamster
+	6 UW08 Young Fox
+	6 UW09 Elder Hamster
+	6 UW10 Elder Fox
+	6 UW14 Simple Soul
+	6 UW12 Decisive Rending
+	6 UW15 Indebting Assistance
+	6 UW17 Message of Eternal Rest
+	6 UW16 Transientize
+	6 UW19 Spherical Shattering
+	6 UW18 Message of Sworn War
+	12 CU01 Keen-Eyed Guardian
+	6 UW11 Death Tithe
+	6 UW20 Shining Sabotage
+	12 CU03 Recursive Arcanist
+	12 CU02 Knowing Explorer
+	12 CU05 Spreader of Knowledge
+	12 CU04 Mimesis Mockingbird
+	12 CU07 Young Turtle
+	12 CU06 Symmetry Perfected
+	6 UW13 Banishing Decay
+	12 CU08 Young Drake
+	12 CU09 Elder Turtle
+	12 CU10 Elder Drake
+	12 CU11 Sightful Shove
+	12 CU12 Enlightening Negation
+	12 CU13 Frozen Soul
+	12 CU14 Enlightened Thoughts
+	12 CU15 Death Choice
+	12 CU16 Discoverous Insight
+	12 CU17 Message of Insight
+	12 CU18 Message of Information
+	12 CU19 Clearsight
+	12 CU20 Sighted Twiddle
+	12 CU21 Relentless Crabs
+	1 MU02 Void Infinitum
+	2 RU01 Sighted Mindmage
+	2 RU02 Timewinder Supreme
+	2 RU08 Leycore of Brilliance
+	6 UU01 Timewinder Motivator
+	6 UU02 Fortune Suffuser
+	6 UU03 Seeping Steel
+	6 UU04 Meditating Visionary
+	6 UU05 Anima of the Insane
+	6 UU06 Sphinxian Perspective
+	6 UU07 Young Trout
+	6 UU08 Young Squid
+	6 UU09 Elder Trout
+	6 UU10 Elder Squid
+	6 UU11 Restrictive Mindset
+	6 UU12 Rotting Arcana
+	6 UU13 Icy Logic Rite
+	6 UU14 Helpful Soul
+	6 UU15 Unsolved Riddle
+	6 UU16 Confusing Plans
+	6 UU17 Message of Infinite Evidence
+	6 UU18 Message of Subtle Reversal
+	6 UU19 Enchanting Insight
+	6 UU20 Cryetic Anticipation
+	12 CB01 Keen-Eyed Rat
+	12 CB02 Persistent Explorer
+	12 CB03 Skilled Torturer
+	12 CB04 Diffused Siphoner
+	12 CB05 Spreader of Persistence
+	12 CB06 Symmetry Obssessed
+	12 CB07 Young Crow
+	12 CB08 Young Skunk
+	12 CB09 Elder Crow
+	12 CB10 Elder Skunk
+	12 CB11 Sightful Slaughter
+	12 CB12 Enlightening Grief
+	12 CB13 Reaping Murder
+	12 CB14 Cursed Thoughts
+	12 CB15 Lunatic Leeching
+	12 CB16 Read the Corpse
+	12 CB17 Message of Mockery
+	12 CB18 Message of Manipulation
+	12 CB19 One with One Thing
+	12 CB20 Sighted Burial
+	12 CB21 Relentless Ravens
+	2 RB01 Sighted Powermage
+	2 RB08 Leycore of Remains
+	6 UB01 Unsolved Pactling
+	6 UB02 Blood Suffuser
+	6 UB03 Cruel Explorer
+	6 UB04 Isolated Visionary
+	6 UB05 Anima of the Dead
+	6 UB06 Demonic Perspective
+	6 UB07 Young Rat
+	6 UB08 Young Leech
+	6 UB09 Elder Rat
+	6 UB10 Elder Leech
+	6 UB11 Remove Selfhood
+	6 UB12 Fleshseize
+	6 UB13 Fleshblight Wind
+	6 UB14 Cruel Soul
+	6 UB15 Death Dispute
+	6 UB16 Antagonistic Bloodfire
+	6 UB17 Message of Omnipotent Mastery
+	6 UB18 Message of Spiteful Return
+	6 UB19 Agonious Insight
+	6 UB20 Subtle Suffering
+	12 CR01 Keen-Eyed Thief
+	12 CR02 Courageous Explorer
+	12 CR03 Futureflame Seer
+	12 CR04 Doomed Researcher
+	12 CR05 Spreader of Courage
+	12 CR06 Symmetry Ruined
+	12 CR07 Young Jackal
+	12 CR08 Young Lizard
+	12 CR09 Elder Jackal
+	12 CR10 Elder Lizard
+	12 CR11 Sightful Slash
+	12 CR12 Enlightening Ruin
+	12 CR13 Burn the Looters
+	12 CR14 Ascended Thoughts
+	12 CR15 Reduced Catharsis
+	12 CR16 Quickstart Graverobbing
+	12 CR17 Message of Emotion
+	12 CR18 Message of Encouragement
+	12 CR19 Seek Meaning
+	12 CR20 Sighted Pyre
+	12 CR21 Relentless Fodder
+	2 RR01 Sighted Madnessmage
+	2 RR02 Life's Broken Facade
+	2 RR08 Leycore of Inspiration
+	6 UR01 Possible Flesh
+	6 UR02 Crystal Suffuser
+	6 UR03 Flesh Feeder
+	6 UR04 Exploring Visionary
+	6 UR05 Anima of the Obssessive
+	6 UR06 Draconic Perspective
+	6 UR07 Young Porcupine
+	6 UR08 Young Goat
+	6 UR09 Elder Porcupine
+	6 UR10 Elder Goat
+	6 UR11 Broken on Arrival
+	6 UR12 Corpse Cannonade
+	6 UR13 Fiery Instict Rite
+	6 UR14 Exploratory Soul
+	6 UR15 Serial Graverobbing
+	6 UR16 Impulsive Looting
+	6 UR17 Message of Perpetual Fire
+	6 UR18 Message of Brave Exploration
+	6 UR19 Enchanting Power
+	6 UR20 Pyretic Exploration
+	12 CG01 Keen-Eyed Coven
+	12 CG02 Strong Explorer
+	12 CG03 Crop Rotator
+	12 CG04 Goring Corpseater
+	12 CG05 Spreader of Strength
+	12 CG06 Symmetry Eternal
+	12 CG07 Young Viper
+	12 CG08 Young Bear
+	12 CG09 Elder Viper
+	12 CG10 Elder Bear
+	12 CG11 Sightful Snap
+	12 CG12 Enlightening Duel
+	12 CG13 Reclamation Scrying
+	12 CG14 Calm Thoughts
+	12 CG15 Wilden Brutality
+	12 CG16 Rooted Disruption
+	12 CG17 Message of Compassion
+	12 CG18 Message of Growth
+	12 CG19 Maddened Scrying
+	12 CG20 Sighted Daybreak
+	12 CG21 Relentless Brushwaggs
+	2 RG01 Sighted Morrowmage
+	2 RG02 Druidic Fleshshaper
+	2 RG08 Leycore of Horizons
+	6 UG01 Blood-Rite Druid
+	6 UG02 Filth Suffuser
+	6 UG03 Tusked Wildebeast
+	6 UG04 Hermetic Visionary
+	6 UG05 Anima of the Balanced
+	6 UG06 Titanic Perspective
+	6 UG07 Young Squirrel
+	6 UG08 Young Spider
+	6 UG09 Elder Squirrel
+	6 UG10 Elder Spider
+	6 UG11 Axed Fumbling
+	6 UG12 Innovative Reclamation
+	6 UG13 Duel to Death
+	6 UG14 Mighty Soul
+	6 UG15 Graveyard Scouting
+	6 UG16 Tertiary Synopsis
+	6 UG17 Message of Boundless Earth
+	6 UG18 Message of Undead Might
+	6 UG19 Clay Deadshaping
+	6 UG20 Earthen Inversion
+	2 RM01 No More Truth
+	2 RM02 Rending Ricochet
+	2 RM03 Withering Engine
+	2 RM04 Pyrohelix
+	2 RM05 Life-Rite Crystal
+	2 RM06 Banishing Darkness
+	2 RM07 Reflect Magic
+	2 RM08 Crypt of Banishment
+	2 RM09 Fiery Extraction
+	2 RM10 Tectonic Boomerang
+	2 RA01 Aeon's Bauble
+	12 CL01 Watchtower of Frost
+	12 CL02 Watchtower of Darkness
+	12 CL03 Watchtower of Blood
+	12 CL04 Watchtower of Fire
+	12 CL05 Watchtower of Life
+	12 CL06 Watchtower of Bone
+	12 CL07 Watchtower of Thunder
+	12 CL08 Watchtower of Death
+	12 CL09 Watchtower of Light
+	12 CL10 Watchtower of Water
+	12 CL11 Authorized Gateway
+	12 CL12 Optimized Gateway
+	12 CL13 Dominated Gateway
+	12 CL14 Randomized Gateway
+	12 CL15 Challenging Gateway
+	12 CL16 Lonely Watchtower
+	2 RL01 Pit of Frost
+	2 RL02 Pit of Darkness
+	2 RL03 Pit of Blood
+	2 RL04 Pit of Fire
+	2 RL05 Pit of Life
+	2 RL06 Pit of Bone
+	2 RL07 Pit of Thunder
+	2 RL08 Pit of Death
+	2 RL09 Pit of Light
+	2 RL10 Pit of Water
+	6 UL01 Observatory of Frost
+	6 UL02 Observatory of Darkness
+	6 UL03 Observatory of Blood
+	6 UL03 Observatory of Fire
+	6 UL05 Observatory of Life
+	6 UL06 Observatory of Bone
+	6 UL07 Observatory of Thunder
+	6 UL08 Observatory of Death
+	6 UL09 Observatory of Light
+	6 UL10 Observatory of Water
+	6 UL11 Disastrous Cyclone
+	6 UL12 Disastrous Tsunami
+	6 UL13 Disastrous Eruption
+	6 UL14 Disastrous Wildfire
+	6 UL15 Disastrous Earthquake
+	6 UL16 Hall of the Dead
+	1 MC01 Aeon's Sixth Trial
+	1 MW01 Aeon's First Trial
+	1 MU01 Aeon's Second Trial
+	1 MB01 Aeon's Third Trial
+	1 MR01 Aeon's Fourth Trial
+	1 MG01 Aeon's Fifth Trial
+	1 MM01 Aeon's Final Trial
+	1 MW02 Edward, Beholder of Visions
+	2 RB02 Mindsharer Magus
+	2 RB03 Demonic Mindbinder
+	2 RG03 Titanic Mindbinder
+	2 RR03 Draconic Mindbinder
+	2 RU03 Sphinxian Mindbinder
+	2 RW03 Angelic Mindbinder
+	2 RW02 Timewinder Gatekeeper
+	2 RW04 Young Banisher
+	2 RW05 Elder Banisher
+	2 RU04 Obsessive Savant
+	2 RU05 Grand Obsession
+	2 RR04 Visionary Firemage
+	2 RR05 Revolutionary Firemage
+	2 RG04 Young Fleshtiller
+	2 RG05 Grizzled Fleshtiller
+	2 RB04 Recursive Ager
+	2 RB05 Final Recursivity
+	2 RU06 Academic Enlightenment
+	2 RW06 Dissonance Stone
+	2 RR06 Fleshifying Wildfire
+	2 RB06 Essential Eyestone
+	2 RG06 Hydraic Discovery
+	2 RW07 Letter of Solidarity
+	2 RU07 Letter of Cyclicality
+	2 RB07 Letter of Hostility
+	2 RR07 Letter of Modularity
+	2 RG07 Letter of History
+	2 RA02 Letter of Voidality
+	2 RL11 Tesselation Point
+	2 RL12 Completed Asymptote
+	2 RL13 Sphere's Vertex
+	2 RL14 Hyperbolic Loop
+	2 RL15 Finite Fractal
+	2 RL16 Monolith of Paradoxes
+	1 MG02 Aeon, Exposed to Truth
+	1 ML01 Alacrondais in Ruin
+[wildcard(1)]
+	6 CC01 Keen-Eyed Farmer
+	6 CC02 Farmhand Recruit
+	6 CC03 Envision Color
+	6 CC04 Soular Pinnacle
+	6 CC05 Immovable Essence
+	7 RC01 Mana to Flesh
+	7 RC02 Cloned Messenger
+	7 RC03 Leycore of Worldscapes
+	6 CW01 Keen-Eyed Hawk
+	6 CW02 Loyal Explorer
+	6 CW03 Secretive Sage
+	6 CW04 Terrain Flattener
+	6 CW05 Spreader of Loyalty
+	6 CW06 Symmetry Aligned
+	6 CW07 Young Wildcat
+	6 CW08 Young Camel
+	6 CW09 Elder Wildcat
+	6 CW10 Elder Camel
+	6 CW11 Sightful Smite
+	6 CW12 Enlightening Pacifism
+	6 CW13 Fleshify
+	6 CW14 Blessed Thoughts
+	6 CW15 Honored Burial
+	6 CW16 Heal from Mourning
+	6 CW17 Message of Condolences
+	6 CW18 Message of Alliance
+	6 CW19 Ensouled Taxation
+	6 CW20 Sighted Vigil
+	6 CW21 Relentless Infantry
+	7 RW01 Sighted Lawmage
+	7 RW08 Leycore of Minutia
+	15 UW01 Mender of Agony
+	15 UW02 Soul Suffuser
+	15 UW03 Murderous Balancer
+	15 UW04 Monastic Visionary
+	15 UW05 Anima of the Living
+	15 UW06 Angelic Perspective
+	15 UW07 Young Hamster
+	15 UW08 Young Fox
+	15 UW09 Elder Hamster
+	15 UW10 Elder Fox
+	15 UW14 Simple Soul
+	15 UW12 Decisive Rending
+	15 UW15 Indebting Assistance
+	15 UW17 Message of Eternal Rest
+	15 UW16 Transientize
+	15 UW19 Spherical Shattering
+	15 UW18 Message of Sworn War
+	6 CU01 Keen-Eyed Guardian
+	15 UW11 Death Tithe
+	15 UW20 Shining Sabotage
+	6 CU03 Recursive Arcanist
+	6 CU02 Knowing Explorer
+	6 CU05 Spreader of Knowledge
+	6 CU04 Mimesis Mockingbird
+	6 CU07 Young Turtle
+	6 CU06 Symmetry Perfected
+	15 UW13 Banishing Decay
+	6 CU08 Young Drake
+	6 CU09 Elder Turtle
+	6 CU10 Elder Drake
+	6 CU11 Sightful Shove
+	6 CU12 Enlightening Negation
+	6 CU13 Frozen Soul
+	6 CU14 Enlightened Thoughts
+	6 CU15 Death Choice
+	6 CU16 Discoverous Insight
+	6 CU17 Message of Insight
+	6 CU18 Message of Information
+	6 CU19 Clearsight
+	6 CU20 Sighted Twiddle
+	6 CU21 Relentless Crabs
+	4 MU02 Void Infinitum
+	7 RU01 Sighted Mindmage
+	7 RU02 Timewinder Supreme
+	7 RU08 Leycore of Brilliance
+	15 UU01 Timewinder Motivator
+	15 UU02 Fortune Suffuser
+	15 UU03 Seeping Steel
+	15 UU04 Meditating Visionary
+	15 UU05 Anima of the Insane
+	15 UU06 Sphinxian Perspective
+	15 UU07 Young Trout
+	15 UU08 Young Squid
+	15 UU09 Elder Trout
+	15 UU10 Elder Squid
+	15 UU11 Restrictive Mindset
+	15 UU12 Rotting Arcana
+	15 UU13 Icy Logic Rite
+	15 UU14 Helpful Soul
+	15 UU15 Unsolved Riddle
+	15 UU16 Confusing Plans
+	15 UU17 Message of Infinite Evidence
+	15 UU18 Message of Subtle Reversal
+	15 UU19 Enchanting Insight
+	15 UU20 Cryetic Anticipation
+	6 CB01 Keen-Eyed Rat
+	6 CB02 Persistent Explorer
+	6 CB03 Skilled Torturer
+	6 CB04 Diffused Siphoner
+	6 CB05 Spreader of Persistence
+	6 CB06 Symmetry Obssessed
+	6 CB07 Young Crow
+	6 CB08 Young Skunk
+	6 CB09 Elder Crow
+	6 CB10 Elder Skunk
+	6 CB11 Sightful Slaughter
+	6 CB12 Enlightening Grief
+	6 CB13 Reaping Murder
+	6 CB14 Cursed Thoughts
+	6 CB15 Lunatic Leeching
+	6 CB16 Read the Corpse
+	6 CB17 Message of Mockery
+	6 CB18 Message of Manipulation
+	6 CB19 One with One Thing
+	6 CB20 Sighted Burial
+	6 CB21 Relentless Ravens
+	7 RB01 Sighted Powermage
+	7 RB08 Leycore of Remains
+	15 UB01 Unsolved Pactling
+	15 UB02 Blood Suffuser
+	15 UB03 Cruel Explorer
+	15 UB04 Isolated Visionary
+	15 UB05 Anima of the Dead
+	15 UB06 Demonic Perspective
+	15 UB07 Young Rat
+	15 UB08 Young Leech
+	15 UB09 Elder Rat
+	15 UB10 Elder Leech
+	15 UB11 Remove Selfhood
+	15 UB12 Fleshseize
+	15 UB13 Fleshblight Wind
+	15 UB14 Cruel Soul
+	15 UB15 Death Dispute
+	15 UB16 Antagonistic Bloodfire
+	15 UB17 Message of Omnipotent Mastery
+	15 UB18 Message of Spiteful Return
+	15 UB19 Agonious Insight
+	15 UB20 Subtle Suffering
+	6 CR01 Keen-Eyed Thief
+	6 CR02 Courageous Explorer
+	6 CR03 Futureflame Seer
+	6 CR04 Doomed Researcher
+	6 CR05 Spreader of Courage
+	6 CR06 Symmetry Ruined
+	6 CR07 Young Jackal
+	6 CR08 Young Lizard
+	6 CR09 Elder Jackal
+	6 CR10 Elder Lizard
+	6 CR11 Sightful Slash
+	6 CR12 Enlightening Ruin
+	6 CR13 Burn the Looters
+	6 CR14 Ascended Thoughts
+	6 CR15 Reduced Catharsis
+	6 CR16 Quickstart Graverobbing
+	6 CR17 Message of Emotion
+	6 CR18 Message of Encouragement
+	6 CR19 Seek Meaning
+	6 CR20 Sighted Pyre
+	6 CR21 Relentless Fodder
+	7 RR01 Sighted Madnessmage
+	7 RR02 Life's Broken Facade
+	7 RR08 Leycore of Inspiration
+	15 UR01 Possible Flesh
+	15 UR02 Crystal Suffuser
+	15 UR03 Flesh Feeder
+	15 UR04 Exploring Visionary
+	15 UR05 Anima of the Obssessive
+	15 UR06 Draconic Perspective
+	15 UR07 Young Porcupine
+	15 UR08 Young Goat
+	15 UR09 Elder Porcupine
+	15 UR10 Elder Goat
+	15 UR11 Broken on Arrival
+	15 UR12 Corpse Cannonade
+	15 UR13 Fiery Instict Rite
+	15 UR14 Exploratory Soul
+	15 UR15 Serial Graverobbing
+	15 UR16 Impulsive Looting
+	15 UR17 Message of Perpetual Fire
+	15 UR18 Message of Brave Exploration
+	15 UR19 Enchanting Power
+	15 UR20 Pyretic Exploration
+	6 CG01 Keen-Eyed Coven
+	6 CG02 Strong Explorer
+	6 CG03 Crop Rotator
+	6 CG04 Goring Corpseater
+	6 CG05 Spreader of Strength
+	6 CG06 Symmetry Eternal
+	6 CG07 Young Viper
+	6 CG08 Young Bear
+	6 CG09 Elder Viper
+	6 CG10 Elder Bear
+	6 CG11 Sightful Snap
+	6 CG12 Enlightening Duel
+	6 CG13 Reclamation Scrying
+	6 CG14 Calm Thoughts
+	6 CG15 Wilden Brutality
+	6 CG16 Rooted Disruption
+	6 CG17 Message of Compassion
+	6 CG18 Message of Growth
+	6 CG19 Maddened Scrying
+	6 CG20 Sighted Daybreak
+	6 CG21 Relentless Brushwaggs
+	7 RG01 Sighted Morrowmage
+	7 RG02 Druidic Fleshshaper
+	7 RG08 Leycore of Horizons
+	15 UG01 Blood-Rite Druid
+	15 UG02 Filth Suffuser
+	15 UG03 Tusked Wildebeast
+	15 UG04 Hermetic Visionary
+	15 UG05 Anima of the Balanced
+	15 UG06 Titanic Perspective
+	15 UG07 Young Squirrel
+	15 UG08 Young Spider
+	15 UG09 Elder Squirrel
+	15 UG10 Elder Spider
+	15 UG11 Axed Fumbling
+	15 UG12 Innovative Reclamation
+	15 UG13 Duel to Death
+	15 UG14 Mighty Soul
+	15 UG15 Graveyard Scouting
+	15 UG16 Tertiary Synopsis
+	15 UG17 Message of Boundless Earth
+	15 UG18 Message of Undead Might
+	15 UG19 Clay Deadshaping
+	15 UG20 Earthen Inversion
+	7 RM01 No More Truth
+	7 RM02 Rending Ricochet
+	7 RM03 Withering Engine
+	7 RM04 Pyrohelix
+	7 RM05 Life-Rite Crystal
+	7 RM06 Banishing Darkness
+	7 RM07 Reflect Magic
+	7 RM08 Crypt of Banishment
+	7 RM09 Fiery Extraction
+	7 RM10 Tectonic Boomerang
+	7 RA01 Aeon's Bauble
+	6 CL01 Watchtower of Frost
+	6 CL02 Watchtower of Darkness
+	6 CL03 Watchtower of Blood
+	6 CL04 Watchtower of Fire
+	6 CL05 Watchtower of Life
+	6 CL06 Watchtower of Bone
+	6 CL07 Watchtower of Thunder
+	6 CL08 Watchtower of Death
+	6 CL09 Watchtower of Light
+	6 CL10 Watchtower of Water
+	6 CL11 Authorized Gateway
+	6 CL12 Optimized Gateway
+	6 CL13 Dominated Gateway
+	6 CL14 Randomized Gateway
+	6 CL15 Challenging Gateway
+	6 CL16 Lonely Watchtower
+	7 RL01 Pit of Frost
+	7 RL02 Pit of Darkness
+	7 RL03 Pit of Blood
+	7 RL04 Pit of Fire
+	7 RL05 Pit of Life
+	7 RL06 Pit of Bone
+	7 RL07 Pit of Thunder
+	7 RL08 Pit of Death
+	7 RL09 Pit of Light
+	7 RL10 Pit of Water
+	15 UL01 Observatory of Frost
+	15 UL02 Observatory of Darkness
+	15 UL03 Observatory of Blood
+	15 UL03 Observatory of Fire
+	15 UL05 Observatory of Life
+	15 UL06 Observatory of Bone
+	15 UL07 Observatory of Thunder
+	15 UL08 Observatory of Death
+	15 UL09 Observatory of Light
+	15 UL10 Observatory of Water
+	15 UL11 Disastrous Cyclone
+	15 UL12 Disastrous Tsunami
+	15 UL13 Disastrous Eruption
+	15 UL14 Disastrous Wildfire
+	15 UL15 Disastrous Earthquake
+	15 UL16 Hall of the Dead
+	4 MC01 Aeon's Sixth Trial
+	4 MW01 Aeon's First Trial
+	4 MU01 Aeon's Second Trial
+	4 MB01 Aeon's Third Trial
+	4 MR01 Aeon's Fourth Trial
+	4 MG01 Aeon's Fifth Trial
+	4 MM01 Aeon's Final Trial
+	4 MW02 Edward, Beholder of Visions
+	7 RB02 Mindsharer Magus
+	7 RB03 Demonic Mindbinder
+	7 RG03 Titanic Mindbinder
+	7 RR03 Draconic Mindbinder
+	7 RU03 Sphinxian Mindbinder
+	7 RW03 Angelic Mindbinder
+	7 RW02 Timewinder Gatekeeper
+	7 RW04 Young Banisher
+	7 RW05 Elder Banisher
+	7 RU04 Obsessive Savant
+	7 RU05 Grand Obsession
+	7 RR04 Visionary Firemage
+	7 RR05 Revolutionary Firemage
+	7 RG04 Young Fleshtiller
+	7 RG05 Grizzled Fleshtiller
+	7 RB04 Recursive Ager
+	7 RB05 Final Recursivity
+	7 RU06 Academic Enlightenment
+	7 RW06 Dissonance Stone
+	7 RR06 Fleshifying Wildfire
+	7 RB06 Essential Eyestone
+	7 RG06 Hydraic Discovery
+	7 RW07 Letter of Solidarity
+	7 RU07 Letter of Cyclicality
+	7 RB07 Letter of Hostility
+	7 RR07 Letter of Modularity
+	7 RG07 Letter of History
+	7 RA02 Letter of Voidality
+	7 RL11 Tesselation Point
+	7 RL12 Completed Asymptote
+	7 RL13 Sphere's Vertex
+	7 RL14 Hyperbolic Loop
+	7 RL15 Finite Fractal
+	7 RL16 Monolith of Paradoxes
+	4 MG02 Aeon, Exposed to Truth
+	4 ML01 Alacrondais in Ruin

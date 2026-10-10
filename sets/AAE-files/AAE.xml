@@ -5,7 +5,7 @@
 			<name>AAE</name>
 			<longname>Amplalo at Epoch</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-01</releasedate>
+			<releasedate>2026-10-10</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -969,8 +969,7 @@ When Naranu enters, scry X, where X is the number of sea monsters you control, t
 		<card>
 			<name>Naph&apos;zed, the Voice of Death</name>
 			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
-Ritual — Three black cards with different names. (You may cast this card from your elsewhere by exiling three black cards with different names from your graveyard in addition to its other costs.) (You may cast this card from your elsewhere as long as you&apos;ve played Three black cards with different names this game.)
-Flying
+Ritual — Three black cards with different names. (You may cast this card from your elsewhere as long as you&apos;ve played Three black cards with different names this game.)
 When Naph&apos;zed enters, you may return target creature card from your graveyard to the battlefield. If you do, you lose life equal to that card&apos;s mana value.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/55.png" num="28">AAE</set>
 			<prop>

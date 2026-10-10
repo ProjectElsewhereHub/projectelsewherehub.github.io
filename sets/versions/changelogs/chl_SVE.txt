@@ -1,0 +1,28 @@
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Corpse conjuration
+
+
+VERSION 2 CHANGELOG
+====================
+
+RC01 Mana to Flesh added.
+RC02 Cloned Messenger added.
+RC03 Leycore of Worldscapes added.
+
+RC#7 Mana to Flesh removed.
+RC#8 Cloned Messenger removed.
+RC#9 Leycore of Worldscapes removed.
+
+Corpse conjuration
+
+Clue Token
+
+
+VERSION 1 CHANGELOG
+====================
+
+First version published.

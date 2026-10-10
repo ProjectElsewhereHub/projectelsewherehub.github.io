@@ -1,4 +1,20 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+UM16 Grand Organ of the Choir
+rules_text: {T}: Put a -1/-1 counter on target creature. That creature's controller gains 1 life and each other player loses 1 life.
+Whenever a Choir you control dies, if it had 0 toughness, untap each nonland permanent you control. => {T}: Put a -1/-1 counter on target creature. That creature's controller gains 1 life and each other player loses 1 life.
+Whenever a Choir you control dies, if it had 0 toughness, untap each nonland permanent you control. If you do, sacrifice this artifact.
+
+RW01 Keeper's Loyalty
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+You gain 3 life. Draw a card. => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+You gain 2 life. Draw a card.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 No changes.
