@@ -2886,18 +2886,15 @@
 			"mana_cost": "{6}",
 			"type": "Enchantment — Saga",
 			"collector_number": "6",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/288_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/288.png"
-			}
-		},
-		{
-			"name": "Solvatim-06, The Void Consuming",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Artifact",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/289.png"
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/288_front.png"
 			}
 		},
 		{
@@ -2906,8 +2903,15 @@
 			"mana_cost": "{W}",
 			"type": "Enchantment — Saga",
 			"collector_number": "31",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/290_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/290.png"
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/290_front.png"
 			}
 		},
 		{
@@ -2916,8 +2920,15 @@
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "82",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/291_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/291.png"
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/291_front.png"
 			}
 		},
 		{
@@ -2926,8 +2937,15 @@
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "133",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/292_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/292.png"
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/292_front.png"
 			}
 		},
 		{
@@ -2936,8 +2954,15 @@
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Saga",
 			"collector_number": "183",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/293_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/293.png"
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/293_front.png"
 			}
 		},
 		{
@@ -2946,8 +2971,15 @@
 			"mana_cost": "{4}{G}",
 			"type": "Enchantment — Saga",
 			"collector_number": "233",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/294_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/294.png"
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/294_front.png"
 			}
 		},
 		{
@@ -2956,68 +2988,15 @@
 			"mana_cost": "{2}{W}{U}{B}{R}{G}",
 			"type": "Enchantment — Saga",
 			"collector_number": "263",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/295_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/295.png"
-			}
-		},
-		{
-			"name": "Solvatim-07, The Truth",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Enchantment",
-			"collector_number": "263",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/296.png"
-			}
-		},
-		{
-			"name": "Solvatim-01, The Living Prison",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Land Creature — Construct",
-			"collector_number": "31",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/297.png"
-			}
-		},
-		{
-			"name": "Solvatim-02, The Endless Library",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Artifact Land — Book",
-			"collector_number": "82",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/298.png"
-			}
-		},
-		{
-			"name": "Solvatim-03, The Purging Graveyard",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Enchantment Land",
-			"collector_number": "133",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/299.png"
-			}
-		},
-		{
-			"name": "Solvatim-04, The Great Work",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Battle Land",
-			"collector_number": "183",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/300.png"
-			}
-		},
-		{
-			"name": "Solvatim-05, The Purest Haven",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "233",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/301.png"
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/295_front.png"
 			}
 		},
 		{
@@ -3026,18 +3005,15 @@
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "32",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/302_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/302.png"
-			}
-		},
-		{
-			"name": "Aeon, the Envisioner",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Creature — Human Noble",
-			"collector_number": "32",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/303.png"
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/302_front.png"
 			}
 		},
 		{
@@ -3386,18 +3362,15 @@
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "234",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/338_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/338.png"
-			}
-		},
-		{
-			"name": "Aeon, Planeswalker",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Planeswalker — Aeon",
-			"collector_number": "234",
-			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/339.png"
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/338_front.png"
 			}
 		},
 		{
@@ -3452,21 +3425,13 @@
 	2 RL09 Pit of Light
 	2 RL10 Pit of Water
 	1 MC01 Aeon's Sixth Trial
-	1 Solvatim-06, The Void Consuming
 	1 MW01 Aeon's First Trial
 	1 MU01 Aeon's Second Trial
 	1 MB01 Aeon's Third Trial
 	1 MR01 Aeon's Fourth Trial
 	1 MG01 Aeon's Fifth Trial
 	1 MM01 Aeon's Final Trial
-	1 Solvatim-07, The Truth
-	1 Solvatim-01, The Living Prison
-	1 Solvatim-02, The Endless Library
-	1 Solvatim-03, The Purging Graveyard
-	1 Solvatim-04, The Great Work
-	1 Solvatim-05, The Purest Haven
 	1 MW02 Edward, Beholder of Visions
-	1 Aeon, the Envisioner
 	2 RB02 Mindsharer Magus
 	2 RB03 Demonic Mindbinder
 	2 RG03 Titanic Mindbinder
@@ -3502,7 +3467,6 @@
 	2 RL15 Finite Fractal
 	2 RL16 Monolith of Paradoxes
 	1 MG02 Aeon, Exposed to Truth
-	1 Aeon, Planeswalker
 	1 ML01 Alacrondais in Ruin
 [uncommon(3)]
 	4 UW01 Mender of Agony
@@ -4157,21 +4121,13 @@
 	6 UL15 Disastrous Earthquake
 	6 UL16 Hall of the Dead
 	1 MC01 Aeon's Sixth Trial
-	1 Solvatim-06, The Void Consuming
 	1 MW01 Aeon's First Trial
 	1 MU01 Aeon's Second Trial
 	1 MB01 Aeon's Third Trial
 	1 MR01 Aeon's Fourth Trial
 	1 MG01 Aeon's Fifth Trial
 	1 MM01 Aeon's Final Trial
-	1 Solvatim-07, The Truth
-	1 Solvatim-01, The Living Prison
-	1 Solvatim-02, The Endless Library
-	1 Solvatim-03, The Purging Graveyard
-	1 Solvatim-04, The Great Work
-	1 Solvatim-05, The Purest Haven
 	1 MW02 Edward, Beholder of Visions
-	1 Aeon, the Envisioner
 	2 RB02 Mindsharer Magus
 	2 RB03 Demonic Mindbinder
 	2 RG03 Titanic Mindbinder
@@ -4207,7 +4163,6 @@
 	2 RL15 Finite Fractal
 	2 RL16 Monolith of Paradoxes
 	1 MG02 Aeon, Exposed to Truth
-	1 Aeon, Planeswalker
 	1 ML01 Alacrondais in Ruin
 [wildcard(1)]
 	6 CC01 Keen-Eyed Farmer
@@ -4491,21 +4446,13 @@
 	15 UL15 Disastrous Earthquake
 	15 UL16 Hall of the Dead
 	4 MC01 Aeon's Sixth Trial
-	4 Solvatim-06, The Void Consuming
 	4 MW01 Aeon's First Trial
 	4 MU01 Aeon's Second Trial
 	4 MB01 Aeon's Third Trial
 	4 MR01 Aeon's Fourth Trial
 	4 MG01 Aeon's Fifth Trial
 	4 MM01 Aeon's Final Trial
-	4 Solvatim-07, The Truth
-	4 Solvatim-01, The Living Prison
-	4 Solvatim-02, The Endless Library
-	4 Solvatim-03, The Purging Graveyard
-	4 Solvatim-04, The Great Work
-	4 Solvatim-05, The Purest Haven
 	4 MW02 Edward, Beholder of Visions
-	4 Aeon, the Envisioner
 	7 RB02 Mindsharer Magus
 	7 RB03 Demonic Mindbinder
 	7 RG03 Titanic Mindbinder
@@ -4541,5 +4488,4 @@
 	7 RL15 Finite Fractal
 	7 RL16 Monolith of Paradoxes
 	4 MG02 Aeon, Exposed to Truth
-	4 Aeon, Planeswalker
 	4 ML01 Alacrondais in Ruin

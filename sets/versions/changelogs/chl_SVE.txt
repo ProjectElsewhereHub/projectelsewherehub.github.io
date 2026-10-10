@@ -1,4 +1,37 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+Solvatim-06, The Void Consuming removed.
+Solvatim-07, The Truth removed.
+Solvatim-01, The Living Prison removed.
+Solvatim-02, The Endless Library removed.
+Solvatim-03, The Purging Graveyard removed.
+Solvatim-04, The Great Work removed.
+Solvatim-05, The Purest Haven removed.
+Aeon, the Envisioner removed.
+Aeon, Planeswalker removed.
+
+MC01 Aeon's Sixth Trial
+
+MW01 Aeon's First Trial
+
+MU01 Aeon's Second Trial
+
+MB01 Aeon's Third Trial
+
+MR01 Aeon's Fourth Trial
+
+MG01 Aeon's Fifth Trial
+
+MM01 Aeon's Final Trial
+
+MW02 Edward, Beholder of Visions
+
+MG02 Aeon, Exposed to Truth
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Solvatim-06, The Void Consuming added.

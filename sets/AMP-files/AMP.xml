@@ -3967,10 +3967,12 @@ Enchanted creature gets +2/+2 and has trample.</text>
 			<name>Signs of Protection</name>
 			<text>{2}{W}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {W}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/229.png" num="259">AMP</set>
+{T}: Add {W}.
+---
+(Back): Accomplished Protector</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/229_front.png" num="259a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -3979,15 +3981,18 @@ This land enters tapped.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Accomplished Protector</related>
 		</card>
 		<card>
 			<name>Accomplished Protector</name>
 			<text>First strike
-Apex — This creature has vigilance as long as you control another creature with mana value 6 or greater.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/230.png" num="259">AMP</set>
+Apex — This creature has vigilance as long as you control another creature with mana value 6 or greater.
+---
+(Front): Signs of Protection</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/229_back.png" num="259b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Giant</type>
 				<maintype>Creature</maintype>
 				<manacost>4WW</manacost>
@@ -3997,15 +4002,18 @@ Apex — This creature has vigilance as long as you control another creature wit
 				<pt>6/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Signs of Protection</related>
 		</card>
 		<card>
 			<name>Followed Path</name>
 			<text>{2}{W}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {W}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/231.png" num="237">AMP</set>
+{T}: Add {W}.
+---
+(Back): Pathmaker</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/231_front.png" num="237a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4014,14 +4022,17 @@ This land enters tapped.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Pathmaker</related>
 		</card>
 		<card>
 			<name>Pathmaker</name>
-			<text>Other Giant creatures you control get +1/+1 for each creature you control with mana value 6 or greater.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/232.png" num="237">AMP</set>
+			<text>Other Giant creatures you control get +1/+1 for each creature you control with mana value 6 or greater.
+---
+(Front): Followed Path</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/231_back.png" num="237b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Giant</type>
 				<maintype>Creature</maintype>
 				<manacost>4WW</manacost>
@@ -4031,15 +4042,18 @@ This land enters tapped.
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Followed Path</related>
 		</card>
 		<card>
 			<name>Monument to the Skybound</name>
 			<text>{2}{W}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {W}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/233.png" num="247">AMP</set>
+{T}: Add {W}.
+---
+(Back): Skybound Familiar</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/233_front.png" num="247a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4048,15 +4062,18 @@ This land enters tapped.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Skybound Familiar</related>
 		</card>
 		<card>
 			<name>Skybound Familiar</name>
 			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
-Flying</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/234.png" num="247">AMP</set>
+Flying
+---
+(Front): Monument to the Skybound</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/233_back.png" num="247b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Bird</type>
 				<maintype>Creature</maintype>
 				<manacost>7W</manacost>
@@ -4066,15 +4083,18 @@ Flying</text>
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Monument to the Skybound</related>
 		</card>
 		<card>
 			<name>Frozen Wastes</name>
 			<text>{2}{U}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {U}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/235.png" num="238">AMP</set>
+{T}: Add {U}.
+---
+(Back): Frozen Titan</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/235_front.png" num="238a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4083,14 +4103,17 @@ This land enters tapped.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Frozen Titan</related>
 		</card>
 		<card>
 			<name>Frozen Titan</name>
-			<text>When this creature enters, tap target creature an opponent controls. That creature doesn&apos;t untap during its controller&apos;s untap step for as long as you control this creature.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/236.png" num="238">AMP</set>
+			<text>When this creature enters, tap target creature an opponent controls. That creature doesn&apos;t untap during its controller&apos;s untap step for as long as you control this creature.
+---
+(Front): Frozen Wastes</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/235_back.png" num="238b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Elemental Giant</type>
 				<maintype>Creature</maintype>
 				<manacost>5U</manacost>
@@ -4100,15 +4123,18 @@ This land enters tapped.
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Frozen Wastes</related>
 		</card>
 		<card>
 			<name>Seafloor of Shipwrecks</name>
 			<text>{2}{U}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {U}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/237.png" num="258">AMP</set>
+{T}: Add {U}.
+---
+(Back): Shipwrecker Serpent</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/237_front.png" num="258a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4117,14 +4143,17 @@ This land enters tapped.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Shipwrecker Serpent</related>
 		</card>
 		<card>
 			<name>Shipwrecker Serpent</name>
-			<text>When this creature enters, put target artifact or creature on top of its owner&apos;s library.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/238.png" num="258">AMP</set>
+			<text>When this creature enters, put target artifact or creature on top of its owner&apos;s library.
+---
+(Front): Seafloor of Shipwrecks</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/237_back.png" num="258b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Serpent</type>
 				<maintype>Creature</maintype>
 				<manacost>5UU</manacost>
@@ -4134,15 +4163,18 @@ This land enters tapped.
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Seafloor of Shipwrecks</related>
 		</card>
 		<card>
 			<name>Churning Depths</name>
 			<text>{2}{U}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {U}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/239.png" num="232">AMP</set>
+{T}: Add {U}.
+---
+(Back): Sanity Churner</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/239_front.png" num="232a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4151,15 +4183,18 @@ This land enters tapped.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Sanity Churner</related>
 		</card>
 		<card>
 			<name>Sanity Churner</name>
 			<text>When this creature enters, any number of target players each mill six cards.
-When this creature dies, exile target instant or sorcery card from your graveyard. For as long as that card remains exiled, you may cast it. If that spell would be put into your graveyard, exile it instead.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/240.png" num="232">AMP</set>
+When this creature dies, exile target instant or sorcery card from your graveyard. For as long as that card remains exiled, you may cast it. If that spell would be put into your graveyard, exile it instead.
+---
+(Front): Churning Depths</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/239_back.png" num="232b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Leviathan Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>4UU</manacost>
@@ -4169,15 +4204,18 @@ When this creature dies, exile target instant or sorcery card from your graveyar
 				<pt>3/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Churning Depths</related>
 		</card>
 		<card>
 			<name>Pool of Blood</name>
 			<text>{2}{B}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {B}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/241.png" num="252">AMP</set>
+{T}: Add {B}.
+---
+(Back): Bloodletter Demon</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/241_front.png" num="252a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4186,15 +4224,18 @@ This land enters tapped.
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Bloodletter Demon</related>
 		</card>
 		<card>
 			<name>Bloodletter Demon</name>
 			<text>Flying, lifelink
-Whenever you gain life, target opponent loses that much life.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/242.png" num="252">AMP</set>
+Whenever you gain life, target opponent loses that much life.
+---
+(Front): Pool of Blood</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/241_back.png" num="252b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Demon</type>
 				<maintype>Creature</maintype>
 				<manacost>5BB</manacost>
@@ -4204,15 +4245,18 @@ Whenever you gain life, target opponent loses that much life.</text>
 				<pt>3/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Pool of Blood</related>
 		</card>
 		<card>
 			<name>Gargantuan Grave</name>
 			<text>{2}{B}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {B}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/243.png" num="239">AMP</set>
+{T}: Add {B}.
+---
+(Back): Undying Titan</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/243_front.png" num="239a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4221,14 +4265,17 @@ This land enters tapped.
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Undying Titan</related>
 		</card>
 		<card>
 			<name>Undying Titan</name>
-			<text>{1}{B}, Sacrifice another artifact or creature: This creature gains indestructible until end of turn. Tap it.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/244.png" num="239">AMP</set>
+			<text>{1}{B}, Sacrifice another artifact or creature: This creature gains indestructible until end of turn. Tap it.
+---
+(Front): Gargantuan Grave</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/243_back.png" num="239b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Skeleton Giant</type>
 				<maintype>Creature</maintype>
 				<manacost>5B</manacost>
@@ -4238,15 +4285,18 @@ This land enters tapped.
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Gargantuan Grave</related>
 		</card>
 		<card>
 			<name>Hall of Temptations</name>
 			<text>{2}{B}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {B}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/245.png" num="243">AMP</set>
+{T}: Add {B}.
+---
+(Back): Master of Temptations</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/245_front.png" num="243a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4255,14 +4305,17 @@ This land enters tapped.
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Master of Temptations</related>
 		</card>
 		<card>
 			<name>Master of Temptations</name>
-			<text>As this creature enters, pay any amount of life. This creature enters with a +1/+1 counter on it for each 1 life paid this way.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/246.png" num="243">AMP</set>
+			<text>As this creature enters, pay any amount of life. This creature enters with a +1/+1 counter on it for each 1 life paid this way.
+---
+(Front): Hall of Temptations</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/245_back.png" num="243b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Demon</type>
 				<maintype>Creature</maintype>
 				<manacost>4BB</manacost>
@@ -4272,15 +4325,18 @@ This land enters tapped.
 				<pt>0/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Hall of Temptations</related>
 		</card>
 		<card>
 			<name>Volcanic Edge</name>
 			<text>{2}{R}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {R}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/247.png" num="265">AMP</set>
+{T}: Add {R}.
+---
+(Back): Erupting Phoenix</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/247_front.png" num="265a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4289,16 +4345,19 @@ This land enters tapped.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Erupting Phoenix</related>
 		</card>
 		<card>
 			<name>Erupting Phoenix</name>
 			<text>When this creature enters, you may sacrifice another permanent. If you do, this creature deals 4 damage to target creature or planeswalker.
 Flying
-When this creature dies, you may put it on the bottom of your library.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/248.png" num="265">AMP</set>
+When this creature dies, you may put it on the bottom of your library.
+---
+(Front): Volcanic Edge</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/247_back.png" num="265b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Elemental Phoenix</type>
 				<maintype>Creature</maintype>
 				<manacost>5RR</manacost>
@@ -4308,15 +4367,18 @@ When this creature dies, you may put it on the bottom of your library.</text>
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Volcanic Edge</related>
 		</card>
 		<card>
 			<name>Ravaged Vista</name>
 			<text>{2}{R}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {R}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/249.png" num="255">AMP</set>
+{T}: Add {R}.
+---
+(Back): Slag Titan</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/249_front.png" num="255a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4325,14 +4387,17 @@ This land enters tapped.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Slag Titan</related>
 		</card>
 		<card>
 			<name>Slag Titan</name>
-			<text>Whenever another artifact you control is put into a graveyard from the battlefield, this creature deals 1 damage to each opponent and each planeswalker they control.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/250.png" num="255">AMP</set>
+			<text>Whenever another artifact you control is put into a graveyard from the battlefield, this creature deals 1 damage to each opponent and each planeswalker they control.
+---
+(Front): Ravaged Vista</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/249_back.png" num="255b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Artifact Creature — Golem</type>
 				<maintype>Creature</maintype>
 				<manacost>4RR</manacost>
@@ -4342,15 +4407,18 @@ This land enters tapped.
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Ravaged Vista</related>
 		</card>
 		<card>
 			<name>Gnarled Waves</name>
 			<text>{2}{R}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {R}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/251.png" num="240">AMP</set>
+{T}: Add {R}.
+---
+(Back): Gnarled Octopod</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/251_front.png" num="240a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4359,15 +4427,18 @@ This land enters tapped.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Gnarled Octopod</related>
 		</card>
 		<card>
 			<name>Gnarled Octopod</name>
 			<text>If another creature you control would fight a creature you don&apos;t control, you may instead have the creature you control deal damage equal to its power to the creature you don&apos;t control.
-{6}{R}{R}, {T}: Target creature you control fights target creature you don&apos;t control.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/252.png" num="240">AMP</set>
+{6}{R}{R}, {T}: Target creature you control fights target creature you don&apos;t control.
+---
+(Front): Gnarled Waves</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/251_back.png" num="240b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Octopus</type>
 				<maintype>Creature</maintype>
 				<manacost>5RR</manacost>
@@ -4377,15 +4448,18 @@ This land enters tapped.
 				<pt>8/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Gnarled Waves</related>
 		</card>
 		<card>
 			<name>Head of the Woods</name>
 			<text>{2}{G}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {G}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/253.png" num="244">AMP</set>
+{T}: Add {G}.
+---
+(Back): Walking Woods</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/253_front.png" num="244a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4394,16 +4468,19 @@ This land enters tapped.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Walking Woods</related>
 		</card>
 		<card>
 			<name>Walking Woods</name>
 			<text>Vigilance
 {T}: Add {G}.
-Other creatures you control have &quot;{T}: Add {G}.&quot;</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/254.png" num="244">AMP</set>
+Other creatures you control have &quot;{T}: Add {G}.&quot;
+---
+(Front): Head of the Woods</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/253_back.png" num="244b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Elemental</type>
 				<maintype>Creature</maintype>
 				<manacost>4GG</manacost>
@@ -4413,15 +4490,18 @@ Other creatures you control have &quot;{T}: Add {G}.&quot;</text>
 				<pt>4/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Head of the Woods</related>
 		</card>
 		<card>
 			<name>Pool of Vitality</name>
 			<text>{2}{G}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {G}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/255.png" num="253">AMP</set>
+{T}: Add {G}.
+---
+(Back): Vitalized Kraken</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/255_front.png" num="253a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4430,14 +4510,17 @@ This land enters tapped.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Vitalized Kraken</related>
 		</card>
 		<card>
 			<name>Vitalized Kraken</name>
-			<text>Whenever a creature you don&apos;t control dies, you gain life equal to that creature&apos;s mana value if it was dealt damage this turn by a creature you control.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/256.png" num="253">AMP</set>
+			<text>Whenever a creature you don&apos;t control dies, you gain life equal to that creature&apos;s mana value if it was dealt damage this turn by a creature you control.
+---
+(Front): Pool of Vitality</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/255_back.png" num="253b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Kraken</type>
 				<maintype>Creature</maintype>
 				<manacost>4GG</manacost>
@@ -4447,15 +4530,18 @@ This land enters tapped.
 				<pt>6/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Pool of Vitality</related>
 		</card>
 		<card>
 			<name>Path of Thorns</name>
 			<text>{2}{G}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {G}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/257.png" num="251">AMP</set>
+{T}: Add {G}.
+---
+(Back): Thorn Titan</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/257_front.png" num="251a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4464,15 +4550,18 @@ This land enters tapped.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Thorn Titan</related>
 		</card>
 		<card>
 			<name>Thorn Titan</name>
 			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
-You may have this creature assign its combat damage as though it weren&apos;t blocked.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/258.png" num="251">AMP</set>
+You may have this creature assign its combat damage as though it weren&apos;t blocked.
+---
+(Front): Path of Thorns</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/257_back.png" num="251b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Elemental Giant</type>
 				<maintype>Creature</maintype>
 				<manacost>8GG</manacost>
@@ -4482,15 +4571,18 @@ You may have this creature assign its combat damage as though it weren&apos;t bl
 				<pt>7/7</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Path of Thorns</related>
 		</card>
 		<card>
 			<name>Great Den</name>
 			<text>{2}{W}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {W}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/259.png" num="242">AMP</set>
+{T}: Add {W}.
+---
+(Back): Keeper of Many Dens</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/259_front.png" num="242a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4499,14 +4591,17 @@ This land enters tapped.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Keeper of Many Dens</related>
 		</card>
 		<card>
 			<name>Keeper of Many Dens</name>
-			<text>Whenever another creature you control enters, put a +1/+1 counter on that creature and a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/260.png" num="242">AMP</set>
+			<text>Whenever another creature you control enters, put a +1/+1 counter on that creature and a +1/+1 counter on this creature.
+---
+(Front): Great Den</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/259_back.png" num="242b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Cat</type>
 				<maintype>Creature</maintype>
 				<manacost>4WW</manacost>
@@ -4516,15 +4611,18 @@ This land enters tapped.
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Great Den</related>
 		</card>
 		<card>
 			<name>Cascading Fountain</name>
 			<text>{2}{U}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {U}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/261.png" num="231">AMP</set>
+{T}: Add {U}.
+---
+(Back): Cascading Elemental</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/261_front.png" num="231a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4533,14 +4631,17 @@ This land enters tapped.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Cascading Elemental</related>
 		</card>
 		<card>
 			<name>Cascading Elemental</name>
-			<text>When this creature enters, exile cards from the top of your library until you exile a nonland card with mana value 5 or less. You may cast that card without paying its mana cost. If you don&apos;t, put it into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/262.png" num="231">AMP</set>
+			<text>When this creature enters, exile cards from the top of your library until you exile a nonland card with mana value 5 or less. You may cast that card without paying its mana cost. If you don&apos;t, put it into your hand. Put the rest on the bottom of your library in a random order.
+---
+(Front): Cascading Fountain</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/261_back.png" num="231b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Elemental</type>
 				<maintype>Creature</maintype>
 				<manacost>4UU</manacost>
@@ -4550,15 +4651,18 @@ This land enters tapped.
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Cascading Fountain</related>
 		</card>
 		<card>
 			<name>Murky Waters</name>
 			<text>{2}{B}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {B}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/263.png" num="248">AMP</set>
+{T}: Add {B}.
+---
+(Back): It Beneath the Murk</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/263_front.png" num="248a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4567,14 +4671,17 @@ This land enters tapped.
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">It Beneath the Murk</related>
 		</card>
 		<card>
 			<name>It Beneath the Murk</name>
-			<text>As an additional cost to cast this spell, you may exile any number of cards from your graveyard. This spell costs {1} less to cast for each card exiled this way.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/264.png" num="248">AMP</set>
+			<text>As an additional cost to cast this spell, you may exile any number of cards from your graveyard. This spell costs {1} less to cast for each card exiled this way.
+---
+(Front): Murky Waters</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/263_back.png" num="248b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Leviathan Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>6BB</manacost>
@@ -4584,15 +4691,18 @@ This land enters tapped.
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Murky Waters</related>
 		</card>
 		<card>
 			<name>Carved Peak</name>
 			<text>{2}{R}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {R}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/265.png" num="230">AMP</set>
+{T}: Add {R}.
+---
+(Back): Mountaincarver</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/265_front.png" num="230a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4601,14 +4711,17 @@ This land enters tapped.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Mountaincarver</related>
 		</card>
 		<card>
 			<name>Mountaincarver</name>
-			<text>When this creature enters, you may sacrifice a land. If you do, search your library for an land card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/266.png" num="230">AMP</set>
+			<text>When this creature enters, you may sacrifice a land. If you do, search your library for an land card, reveal it, put it into your hand, then shuffle.
+---
+(Front): Carved Peak</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/265_back.png" num="230b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Giant</type>
 				<maintype>Creature</maintype>
 				<manacost>5R</manacost>
@@ -4618,15 +4731,18 @@ This land enters tapped.
 				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Carved Peak</related>
 		</card>
 		<card>
 			<name>Flowering Grove</name>
 			<text>{2}{G}: Put this card from your hand onto the battlefield. (It enters as this land.)
 This land enters tapped.
-{T}: Add {G}.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/267.png" num="236">AMP</set>
+{T}: Add {G}.
+---
+(Back): Flowering Stag</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/267_front.png" num="236a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4635,14 +4751,17 @@ This land enters tapped.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Flowering Stag</related>
 		</card>
 		<card>
 			<name>Flowering Stag</name>
-			<text>When this creature enters, create four 0/1 green Plant creature tokens.</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/268.png" num="236">AMP</set>
+			<text>When this creature enters, create four 0/1 green Plant creature tokens.
+---
+(Front): Flowering Grove</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/267_back.png" num="236b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Creature — Elemental Elk</type>
 				<maintype>Creature</maintype>
 				<manacost>5G</manacost>
@@ -4652,15 +4771,18 @@ This land enters tapped.
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Flowering Grove</related>
 		</card>
 		<card>
 			<name>Sacred Valley</name>
 			<text>{2}{W}: Put Sacred Valley from your hand onto the battlefield. (It enters as this land.)
 Sacred Valley enters tapped.
-{T}: Add {W}.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/269.png" num="256">AMP</set>
+{T}: Add {W}.
+---
+(Back): M&apos;Kuya, Sacred One</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/269_front.png" num="256a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -4669,15 +4791,18 @@ Sacred Valley enters tapped.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">M&apos;Kuya, Sacred One</related>
 		</card>
 		<card>
 			<name>M&apos;Kuya, Sacred One</name>
 			<text>Whenever another nontoken Giant creature enters the battlefield under your control, create a 5/5 white Giant Warrior creature token.
-{5}{W}{W}, {T}: Giant creatures you control gain indestructible until end of turn.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/270.png" num="256">AMP</set>
+{5}{W}{W}, {T}: Giant creatures you control gain indestructible until end of turn.
+---
+(Front): Sacred Valley</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/269_back.png" num="256b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Giant Avatar</type>
 				<maintype>Creature</maintype>
 				<manacost>5WW</manacost>
@@ -4687,15 +4812,18 @@ Sacred Valley enters tapped.
 				<pt>7/7</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Sacred Valley</related>
 		</card>
 		<card>
 			<name>Everlasting Typhoon</name>
 			<text>{2}{U}: Put Everlasting Typhoon from your hand onto the battlefield. (It enters as this land.)
 Everlasting Typhoon enters tapped.
-{T}: Add {U}.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/271.png" num="235">AMP</set>
+{T}: Add {U}.
+---
+(Back): Sturmstrik, Typhoon-Bringer</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/271_front.png" num="235a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -4704,14 +4832,17 @@ Everlasting Typhoon enters tapped.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Sturmstrik, Typhoon-Bringer</related>
 		</card>
 		<card>
 			<name>Sturmstrik, Typhoon-Bringer</name>
-			<text>Whenever Sturmstrik or another sea monster you control enters, tap up to one target creature. That creature doesn&apos;t untap during its controller&apos;s untap step for as long as you control Sturmstrik. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/272.png" num="235">AMP</set>
+			<text>Whenever Sturmstrik or another sea monster you control enters, tap up to one target creature. That creature doesn&apos;t untap during its controller&apos;s untap step for as long as you control Sturmstrik. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
+---
+(Front): Everlasting Typhoon</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/271_back.png" num="235b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Kraken Avatar</type>
 				<maintype>Creature</maintype>
 				<manacost>6UU</manacost>
@@ -4721,15 +4852,18 @@ Everlasting Typhoon enters tapped.
 				<pt>8/8</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Everlasting Typhoon</related>
 		</card>
 		<card>
 			<name>The Soul Cages</name>
 			<text>{2}{B}: Put The Soul Cages from your hand onto the battlefield. (It enters as this land.)
 The Soul Cages enters tapped.
-{T}: Add {B}.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/273.png" num="260">AMP</set>
+{T}: Add {B}.
+---
+(Back): Henzen, the Soulkeeper</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/273_front.png" num="260a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -4738,16 +4872,19 @@ The Soul Cages enters tapped.
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Henzen, the Soulkeeper</related>
 		</card>
 		<card>
 			<name>Henzen, the Soulkeeper</name>
 			<text>Flying
 When Henzen enters, you can&apos;t cast spells this turn.
-You may cast spells from your hand by paying life equal to their mana value rather than paying their mana costs.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/274.png" num="260">AMP</set>
+You may cast spells from your hand by paying life equal to their mana value rather than paying their mana costs.
+---
+(Front): The Soul Cages</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/273_back.png" num="260b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Demon Avatar</type>
 				<maintype>Creature</maintype>
 				<manacost>4BBB</manacost>
@@ -4757,15 +4894,18 @@ You may cast spells from your hand by paying life equal to their mana value rath
 				<pt>7/7</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">The Soul Cages</related>
 		</card>
 		<card>
 			<name>Scourged Grounds</name>
 			<text>{2}{R}: Put Scourged Grounds from your hand onto the battlefield. (It enters as this land.)
 Scourged Grounds enters tapped.
-{T}: Add {R}.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/275.png" num="257">AMP</set>
+{T}: Add {R}.
+---
+(Back): Almax, the Scourge-Tyrant</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/275_front.png" num="257a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -4774,15 +4914,18 @@ Scourged Grounds enters tapped.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Almax, the Scourge-Tyrant</related>
 		</card>
 		<card>
 			<name>Almax, the Scourge-Tyrant</name>
 			<text>Flying
-Sacrifice three permanents: Create a 4/4 red Dragon creature token with flying. Activate only once each turn and only as a sorcery.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/276.png" num="257">AMP</set>
+Sacrifice three permanents: Create a 4/4 red Dragon creature token with flying. Activate only once each turn and only as a sorcery.
+---
+(Front): Scourged Grounds</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/275_back.png" num="257b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Dragon Avatar</type>
 				<maintype>Creature</maintype>
 				<manacost>6RR</manacost>
@@ -4792,15 +4935,18 @@ Sacrifice three permanents: Create a 4/4 red Dragon creature token with flying. 
 				<pt>8/8</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Scourged Grounds</related>
 		</card>
 		<card>
 			<name>Enduring Elevation</name>
 			<text>{2}{G}: Put Enduring Elevation from your hand onto the battlefield. (It enters as this land.)
 Enduring Elevation enters tapped.
-{T}: Add {G}.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/277.png" num="234">AMP</set>
+{T}: Add {G}.
+---
+(Back): Stord, Endurance Incarnate</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/277_front.png" num="234a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -4809,16 +4955,19 @@ Enduring Elevation enters tapped.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Stord, Endurance Incarnate</related>
 		</card>
 		<card>
 			<name>Stord, Endurance Incarnate</name>
 			<text>Vigilance
 Each other creature you control gets +0/+X, where X is that creature&apos;s base toughness.
-At the beginning of each end step, you gain 2 life for each damaged creature you control.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/278.png" num="234">AMP</set>
+At the beginning of each end step, you gain 2 life for each damaged creature you control.
+---
+(Front): Enduring Elevation</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/277_back.png" num="234b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Turtle Avatar</type>
 				<maintype>Creature</maintype>
 				<manacost>6GG</manacost>
@@ -4828,15 +4977,18 @@ At the beginning of each end step, you gain 2 life for each damaged creature you
 				<pt>2/20</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Enduring Elevation</related>
 		</card>
 		<card>
 			<name>Path of Ruin</name>
 			<text>{3}: Put Path of Ruin from your hand onto the battlefield. (It enters as this land.)
 Path of Ruin enters tapped.
-{T}: Add {C}.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/279.png" num="250">AMP</set>
+{T}: Add {C}.
+---
+(Back): Drund, the Ruinator-Titan</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/279_front.png" num="250a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -4844,15 +4996,18 @@ Path of Ruin enters tapped.
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Drund, the Ruinator-Titan</related>
 		</card>
 		<card>
 			<name>Drund, the Ruinator-Titan</name>
 			<text>Protection from multicolored (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything multicolored.)
-When Drund enters or leaves the battlefield, choose a land of each basic land type, then destroy those lands.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/280.png" num="250">AMP</set>
+When Drund enters or leaves the battlefield, choose a land of each basic land type, then destroy those lands.
+---
+(Front): Path of Ruin</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/279_back.png" num="250b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Artifact Creature — Golem Avatar</type>
 				<maintype>Creature</maintype>
 				<manacost>12</manacost>
@@ -4860,15 +5015,18 @@ When Drund enters or leaves the battlefield, choose a land of each basic land ty
 				<pt>12/12</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Path of Ruin</related>
 		</card>
 		<card>
 			<name>Predator&apos;s Den</name>
 			<text>{2}{R}: Put Predator&apos;s Den from your hand onto the battlefield. (It enters as this land.)
 Predator&apos;s Den enters tapped.
-{T}: Add {R}.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/281.png" num="254">AMP</set>
+{T}: Add {R}.
+---
+(Back): Ripsnap, Apex Predator</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/281_front.png" num="254a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -4877,15 +5035,18 @@ Predator&apos;s Den enters tapped.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Ripsnap, Apex Predator</related>
 		</card>
 		<card>
 			<name>Ripsnap, Apex Predator</name>
 			<text>Whenever Ripsnap or another creature you control enters, you may have it fight target creature you don&apos;t control.
-Whenever a creature an opponent controls dies, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/282.png" num="254">AMP</set>
+Whenever a creature an opponent controls dies, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+---
+(Front): Predator&apos;s Den</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/281_back.png" num="254b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Beast Avatar</type>
 				<maintype>Creature</maintype>
 				<manacost>6RR</manacost>
@@ -4895,15 +5056,18 @@ Whenever a creature an opponent controls dies, create a tapped Treasure token. (
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Predator&apos;s Den</related>
 		</card>
 		<card>
 			<name>Bed of the Sun</name>
 			<text>{2}{W}: Put Bed of the Sun from your hand onto the battlefield. (It enters this land.)
 Bed of the Sun enters tapped.
-{T}: Add {W}.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/283.png" num="229">AMP</set>
+{T}: Add {W}.
+---
+(Back): Solborn</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/283_front.png" num="229a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -4912,15 +5076,18 @@ Bed of the Sun enters tapped.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Solborn</related>
 		</card>
 		<card>
 			<name>Solborn</name>
 			<text>When Solborn enter, you may have your life total become equal to the greatest mana value among permanents you control.
-Solborn&apos;s power and toughness are each equal to your life total.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/284.png" num="229">AMP</set>
+Solborn&apos;s power and toughness are each equal to your life total.
+---
+(Front): Bed of the Sun</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/283_back.png" num="229b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Giant Avatar</type>
 				<maintype>Creature</maintype>
 				<manacost>6WW</manacost>
@@ -4930,15 +5097,18 @@ Solborn&apos;s power and toughness are each equal to your life total.</text>
 				<pt>*/*</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Bed of the Sun</related>
 		</card>
 		<card>
 			<name>Gorged Trench</name>
 			<text>{2}{U}: Put Gorged Trench from your hand onto the battlefield. (It enters the battlefield as this land.)
 Gorged Trench enters tapped.
-{T}: Add {U}.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/285.png" num="241">AMP</set>
+{T}: Add {U}.
+---
+(Back): Gulch, the Deep-Gorger</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/285_front.png" num="241a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -4947,15 +5117,18 @@ Gorged Trench enters tapped.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Gulch, the Deep-Gorger</related>
 		</card>
 		<card>
 			<name>Gulch, the Deep-Gorger</name>
 			<text>As Gulch enters, you may search your library for any number of land cards, exile them, then shuffle. If you do, Gulch enters the battlefield with a +1/+1 counter on it for each land card exiled this way. Otherwise, Gulch enters the battlefield with six +1/+1 counters on it.
-Ward {3}</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/286.png" num="241">AMP</set>
+Ward {3}
+---
+(Front): Gorged Trench</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/285_back.png" num="241b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Leviathan Avatar</type>
 				<maintype>Creature</maintype>
 				<manacost>6UU</manacost>
@@ -4965,15 +5138,18 @@ Ward {3}</text>
 				<pt>0/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Gorged Trench</related>
 		</card>
 		<card>
 			<name>Throne of Bones</name>
 			<text>{2}{B}: Put Throne of Bones from your hand onto the battlefield. (It enters as this land.)
 Throne of Bones enters tapped.
-{T}: Add {B}.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/287.png" num="262">AMP</set>
+{T}: Add {B}.
+---
+(Back): Skixlot, the Bone-King</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/287_front.png" num="262a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -4982,16 +5158,19 @@ Throne of Bones enters tapped.
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Skixlot, the Bone-King</related>
 		</card>
 		<card>
 			<name>Skixlot, the Bone-King</name>
 			<text>Skixlot enters with five +1/+1 counters on it.
 {B}, Sacrifice an artifact or creature: Put a +1/+1 counter on Skixlot.
-{B}, Remove a +1/+1 counter from Skixlot: Create a 1/1 black Skeleton creature token.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/288.png" num="262">AMP</set>
+{B}, Remove a +1/+1 counter from Skixlot: Create a 1/1 black Skeleton creature token.
+---
+(Front): Throne of Bones</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/287_back.png" num="262b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Skeleton Avatar</type>
 				<maintype>Creature</maintype>
 				<manacost>4BB</manacost>
@@ -5001,15 +5180,18 @@ Throne of Bones enters tapped.
 				<pt>0/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Throne of Bones</related>
 		</card>
 		<card>
 			<name>Cradle of Evergrowth</name>
 			<text>{2}{G}: Put Cradle of Evergrowth from your hand onto the battlefield. (It enters as this land.)
 Cradle of Evergrowth enters tapped.
-{T}: Add {G}.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/289.png" num="233">AMP</set>
+{T}: Add {G}.
+---
+(Back): Zorgaz the Unsurpassable</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/289_front.png" num="233a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -5018,16 +5200,19 @@ Cradle of Evergrowth enters tapped.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Zorgaz the Unsurpassable</related>
 		</card>
 		<card>
 			<name>Zorgaz the Unsurpassable</name>
 			<text>Zorgaz enters with X +1/+1 counters on it.
 As long as Zorgaz is on the battlefield, its mana value is equal to 6 plus the number of +1/+1 counters on it.
-At the beginning of your end step, if Zorgaz has the greatest mana value among creatures on the battlefield, draw a card.</text>
-			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/290.png" num="233">AMP</set>
+At the beginning of your end step, if Zorgaz has the greatest mana value among creatures on the battlefield, draw a card.
+---
+(Front): Cradle of Evergrowth</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/289_back.png" num="233b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Hydra Avatar</type>
 				<maintype>Creature</maintype>
 				<manacost>X4GG</manacost>
@@ -5037,16 +5222,19 @@ At the beginning of your end step, if Zorgaz has the greatest mana value among c
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Cradle of Evergrowth</related>
 		</card>
 		<card>
 			<name>Tomb of the Slain</name>
 			<text>{2}{W}: Put Tomb of the Slain from your hand onto the battlefield. (It enters as this land.)
 Tomb of the Slain enters tapped.
 {T}: Add {W}.
-{T}: Return Tomb of the Slain to its owner&apos;s hand.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/291.png" num="263">AMP</set>
+{T}: Return Tomb of the Slain to its owner&apos;s hand.
+---
+(Back): Xiphaes, Eternal Slayer</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/291_front.png" num="263a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -5055,16 +5243,19 @@ Tomb of the Slain enters tapped.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Xiphaes, Eternal Slayer</related>
 		</card>
 		<card>
 			<name>Xiphaes, Eternal Slayer</name>
 			<text>This spell can&apos;t be countered.
 Vigilance, indestructible
-When Xiphaes enters, exile any number of target nonland permanents with total mana value 15 or less.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/292.png" num="263">AMP</set>
+When Xiphaes enters, exile any number of target nonland permanents with total mana value 15 or less.
+---
+(Front): Tomb of the Slain</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/291_back.png" num="263b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Colossus</type>
 				<maintype>Creature</maintype>
 				<manacost>13WW</manacost>
@@ -5074,16 +5265,19 @@ When Xiphaes enters, exile any number of target nonland permanents with total ma
 				<pt>15/15</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Tomb of the Slain</related>
 		</card>
 		<card>
 			<name>Maw of the Deep</name>
 			<text>{2}{U}: Put Maw of the Deep from your hand onto the battlefield. (It enters as this land.)
 Maw of the Deep enters tapped.
 {T}: Add {U}.
-{T}: Return Maw of the Deep to its owner&apos;s hand.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/293.png" num="246">AMP</set>
+{T}: Return Maw of the Deep to its owner&apos;s hand.
+---
+(Back): Abussaee, Deep Unleahed</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/293_front.png" num="246a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -5092,17 +5286,20 @@ Maw of the Deep enters tapped.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Abussaee, Deep Unleahed</related>
 		</card>
 		<card>
 			<name>Abussaee, Deep Unleahed</name>
 			<text>Abussaee is a sea monster.
 This spell can&apos;t be countered.
 Hexproof, indestructible
-When Abussaee enters, draw seven cards. Until end of turn, you may pay {0} rather than pay the mana cost for non-Colossus sea monster spells you cast. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/294.png" num="246">AMP</set>
+When Abussaee enters, draw seven cards. Until end of turn, you may pay {0} rather than pay the mana cost for non-Colossus sea monster spells you cast. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
+---
+(Front): Maw of the Deep</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/293_back.png" num="246b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Colossus</type>
 				<maintype>Creature</maintype>
 				<manacost>13UU</manacost>
@@ -5112,16 +5309,19 @@ When Abussaee enters, draw seven cards. Until end of turn, you may pay {0} rathe
 				<pt>12/12</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Maw of the Deep</related>
 		</card>
 		<card>
 			<name>Vault of the End</name>
 			<text>{2}{B}: Put Vault of the End from your hand onto the battlefield. (It enters as this land.)
 Vault of the End enters tapped.
 {T}: Add {B}.
-{T}: Return Vault of the End to its owner&apos;s hand.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/295.png" num="264">AMP</set>
+{T}: Return Vault of the End to its owner&apos;s hand.
+---
+(Back): Exodais, Harbinger of Ends</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/295_front.png" num="264a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -5130,16 +5330,19 @@ Vault of the End enters tapped.
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Exodais, Harbinger of Ends</related>
 		</card>
 		<card>
 			<name>Exodais, Harbinger of Ends</name>
 			<text>This spell can&apos;t be countered.
 Flying, indestructible
-When Exodais enters, destroy all creatures. Draw a card for each creature destroyed this way.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/296.png" num="264">AMP</set>
+When Exodais enters, destroy all creatures. Draw a card for each creature destroyed this way.
+---
+(Front): Vault of the End</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/295_back.png" num="264b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Colossus</type>
 				<maintype>Creature</maintype>
 				<manacost>13BB</manacost>
@@ -5149,16 +5352,19 @@ When Exodais enters, destroy all creatures. Draw a card for each creature destro
 				<pt>13/13</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Vault of the End</related>
 		</card>
 		<card>
 			<name>Nexus of the Beginning</name>
 			<text>{2}{R}: Put Nexus of the Beginning from your hand onto the battlefield. (It enters as this land.)
 Nexus of the Beginning enters tapped.
 {T}: Add {R}.
-{T}: Return Nexus of the Beginning to its owner&apos;s hand.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/297.png" num="249">AMP</set>
+{T}: Return Nexus of the Beginning to its owner&apos;s hand.
+---
+(Back): Eos, Forger of Beginnings</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/297_front.png" num="249a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -5167,6 +5373,7 @@ Nexus of the Beginning enters tapped.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Eos, Forger of Beginnings</related>
 		</card>
 		<card>
 			<name>Eos, Forger of Beginnings</name>
@@ -5174,11 +5381,13 @@ Nexus of the Beginning enters tapped.
 Haste, indestructible
 When Eos enters, exile half your library, rounded down.
 You may play cards exiled with Eos.
-When Eos leaves the battlefield, shuffle any number of face-up exiled cards you own into your library.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/298.png" num="249">AMP</set>
+When Eos leaves the battlefield, shuffle any number of face-up exiled cards you own into your library.
+---
+(Front): Nexus of the Beginning</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/297_back.png" num="249b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Colossus</type>
 				<maintype>Creature</maintype>
 				<manacost>13RR</manacost>
@@ -5188,16 +5397,19 @@ When Eos leaves the battlefield, shuffle any number of face-up exiled cards you 
 				<pt>12/12</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Nexus of the Beginning</related>
 		</card>
 		<card>
 			<name>Heart of the World</name>
 			<text>{2}{G}: Put Heart of the World from your hand onto the battlefield. (It enter as this land.)
 Heart of the World enters tapped.
 {T}: Add {G}.
-{T}: Return Heart of the World to its owner&apos;s hand.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/299.png" num="245">AMP</set>
+{T}: Return Heart of the World to its owner&apos;s hand.
+---
+(Back): Biotace, World Awoken</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/299_front.png" num="245a">AMP</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Land</type>
 				<maintype>Land</maintype>
@@ -5206,17 +5418,20 @@ Heart of the World enters tapped.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<related attach="transform">Biotace, World Awoken</related>
 		</card>
 		<card>
 			<name>Biotace, World Awoken</name>
 			<text>This spell can&apos;t be countered.
 Trample, indestructible
 When Biotace enters, search your library for any number of land cards not named Heart of the World, put them onto the battlefield tapped, then shuffle.
-Biotace&apos;s power and toughness are each equal to the number of lands you control.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/300.png" num="245">AMP</set>
+Biotace&apos;s power and toughness are each equal to the number of lands you control.
+---
+(Front): Heart of the World</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/299_back.png" num="245b">AMP</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Colossus</type>
 				<maintype>Creature</maintype>
 				<manacost>13GG</manacost>
@@ -5226,6 +5441,7 @@ Biotace&apos;s power and toughness are each equal to the number of lands you con
 				<pt>*/*</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Heart of the World</related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

@@ -4981,10 +4981,12 @@ You can move cards in and out of your elsewhere in sideboarding, provided all ca
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Sacrifice two nonland permanents.
 II — Destroy target nonland permanent.
-III — Exile this Saga, then return it to the battlefield tapped and transformed.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/288.png" num="6">SVE</set>
+III — Exile this Saga, then return it to the battlefield tapped and transformed.
+---
+(Back): Solvatim-06, The Void Consuming</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/288_front.png" num="6a">SVE</set>
 			<prop>
-				<layout>saga</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
@@ -4992,31 +4994,37 @@ III — Exile this Saga, then return it to the battlefield tapped and transforme
 				<cmc>6</cmc>
 			</prop>
 			<tablerow>1</tablerow>
+			<related attach="transform">Solvatim-06, The Void Consuming</related>
 		</card>
 		<card>
 			<name>Solvatim-06, The Void Consuming</name>
 			<text>{T}: Add {C}{C}.
-{T}, Sacrifice a permanent: Destroy target nonland permanent.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/289.png" num="6">SVE</set>
+{T}, Sacrifice a permanent: Destroy target nonland permanent.
+---
+(Front): MC01 Aeon&apos;s Sixth Trial</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/288_back.png" num="6b">SVE</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Artifact</type>
 				<maintype>Artifact</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>1</tablerow>
+			<related attach="transform">MC01 Aeon&apos;s Sixth Trial</related>
 		</card>
 		<card>
 			<name>MW01 Aeon&apos;s First Trial</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Creatures you control get -1/-1 and lose flying until end of turn.
 II — Put a flying counter on target creature you control.
-III — Exile this Saga, then return it to the battlefield tapped and transformed.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/290.png" num="31">SVE</set>
+III — Exile this Saga, then return it to the battlefield tapped and transformed.
+---
+(Back): Solvatim-01, The Living Prison</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/290_front.png" num="31a">SVE</set>
 			<prop>
-				<layout>saga</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
@@ -5026,16 +5034,40 @@ III — Exile this Saga, then return it to the battlefield tapped and transforme
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related attach="transform">Solvatim-01, The Living Prison</related>
+		</card>
+		<card>
+			<name>Solvatim-01, The Living Prison</name>
+			<text>Indestructible
+Flying
+{T}: Add {W}.
+---
+(Front): MW01 Aeon&apos;s First Trial</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/290_back.png" num="31b">SVE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Land Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">MW01 Aeon&apos;s First Trial</related>
 		</card>
 		<card>
 			<name>MU01 Aeon&apos;s Second Trial</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Discard a card.
 II — Draw two cards.
-III — Exile this Saga, then return it to the battlefield tapped and transformed.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/291.png" num="82">SVE</set>
+III — Exile this Saga, then return it to the battlefield tapped and transformed.
+---
+(Back): Solvatim-02, The Endless Library</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/291_front.png" num="82a">SVE</set>
 			<prop>
-				<layout>saga</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
@@ -5045,16 +5077,39 @@ III — Exile this Saga, then return it to the battlefield tapped and transforme
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related attach="transform">Solvatim-02, The Endless Library</related>
+		</card>
+		<card>
+			<name>Solvatim-02, The Endless Library</name>
+			<text>Indestructible
+{T}: Add {U}.
+{T}: Draw a card.
+---
+(Front): MU01 Aeon&apos;s Second Trial</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/291_back.png" num="82b">SVE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact Land — Book</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">MU01 Aeon&apos;s Second Trial</related>
 		</card>
 		<card>
 			<name>MB01 Aeon&apos;s Third Trial</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Sacrifice a permanent.
 II — Conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)
-III — Exile this Saga, then return it to the battlefield tapped and transformed.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/292.png" num="133">SVE</set>
+III — Exile this Saga, then return it to the battlefield tapped and transformed.
+---
+(Back): Solvatim-03, The Purging Graveyard</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/292_front.png" num="133a">SVE</set>
 			<prop>
-				<layout>saga</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
@@ -5064,16 +5119,39 @@ III — Exile this Saga, then return it to the battlefield tapped and transforme
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related attach="transform">Solvatim-03, The Purging Graveyard</related>
+		</card>
+		<card>
+			<name>Solvatim-03, The Purging Graveyard</name>
+			<text>Indestructible
+{T}: Add {B}.
+{T}: Conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)
+---
+(Front): MB01 Aeon&apos;s Third Trial</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/292_back.png" num="133b">SVE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Enchantment Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">MB01 Aeon&apos;s Third Trial</related>
 		</card>
 		<card>
 			<name>MR01 Aeon&apos;s Fourth Trial</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Sacrifice two lands.
 II — Add {R}{R}{R}{R}.
-III — Exile this Saga, then return it to the battlefield tapped and transformed.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/293.png" num="183">SVE</set>
+III — Exile this Saga, then return it to the battlefield tapped and transformed.
+---
+(Back): Solvatim-04, The Great Work</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/293_front.png" num="183a">SVE</set>
 			<prop>
-				<layout>saga</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
@@ -5083,16 +5161,39 @@ III — Exile this Saga, then return it to the battlefield tapped and transforme
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related attach="transform">Solvatim-04, The Great Work</related>
+		</card>
+		<card>
+			<name>Solvatim-04, The Great Work</name>
+			<text>Indestructible
+{T}: Add {R}{R}{R}{R}.
+---
+(Front): MR01 Aeon&apos;s Fourth Trial</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/293_back.png" num="183b">SVE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Battle Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">MR01 Aeon&apos;s Fourth Trial</related>
 		</card>
 		<card>
 			<name>MG01 Aeon&apos;s Fifth Trial</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Spells you don&apos;t control cost {1} less to cast until the start of your next turn.
 II — You and permanents you control gain hexproof until the start of your next turn.
-III — Exile this Saga, then return it to the battlefield tapped and transformed.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/294.png" num="233">SVE</set>
+III — Exile this Saga, then return it to the battlefield tapped and transformed.
+---
+(Back): Solvatim-05, The Purest Haven</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/294_front.png" num="233a">SVE</set>
 			<prop>
-				<layout>saga</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
@@ -5102,16 +5203,39 @@ III — Exile this Saga, then return it to the battlefield tapped and transforme
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related attach="transform">Solvatim-05, The Purest Haven</related>
+		</card>
+		<card>
+			<name>Solvatim-05, The Purest Haven</name>
+			<text>Indestructible
+{T}: Add {G}.
+{T}: Counter target spell that targets you or a permanent you control.
+---
+(Front): MG01 Aeon&apos;s Fifth Trial</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/294_back.png" num="233b">SVE</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">MG01 Aeon&apos;s Fifth Trial</related>
 		</card>
 		<card>
 			<name>MM01 Aeon&apos;s Final Trial</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — You lose 7 life.
 II — Each opponent loses 7 life.
-III — Exile this Saga, then return it to the battlefield tapped and</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/295.png" num="263">SVE</set>
+III — Exile this Saga, then return it to the battlefield tapped and
+---
+(Back): Solvatim-07, The Truth</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/295_front.png" num="263a">SVE</set>
 			<prop>
-				<layout>saga</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
@@ -5121,14 +5245,17 @@ III — Exile this Saga, then return it to the battlefield tapped and</text>
 				<coloridentity>WUBRG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related attach="transform">Solvatim-07, The Truth</related>
 		</card>
 		<card>
 			<name>Solvatim-07, The Truth</name>
-			<text>You can&apos;t lose the game and your opponents can&apos;t win the game.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/296.png" num="263">SVE</set>
+			<text>You can&apos;t lose the game and your opponents can&apos;t win the game.
+---
+(Front): MM01 Aeon&apos;s Final Trial</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/295_back.png" num="263b">SVE</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Enchantment</type>
 				<maintype>Enchantment</maintype>
 				<manacost></manacost>
@@ -5137,100 +5264,17 @@ III — Exile this Saga, then return it to the battlefield tapped and</text>
 				<coloridentity>WUBRG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Solvatim-01, The Living Prison</name>
-			<text>Indestructible
-Flying
-{T}: Add {W}.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/297.png" num="31">SVE</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Land Creature — Construct</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>W</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Solvatim-02, The Endless Library</name>
-			<text>Indestructible
-{T}: Add {U}.
-{T}: Draw a card.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/298.png" num="82">SVE</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Artifact Land — Book</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Solvatim-03, The Purging Graveyard</name>
-			<text>Indestructible
-{T}: Add {B}.
-{T}: Conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/299.png" num="133">SVE</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Enchantment Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Solvatim-04, The Great Work</name>
-			<text>Indestructible
-{T}: Add {R}{R}{R}{R}.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/300.png" num="183">SVE</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Battle Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>R</coloridentity>
-				<loyalty>4</loyalty>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Solvatim-05, The Purest Haven</name>
-			<text>Indestructible
-{T}: Add {G}.
-{T}: Counter target spell that targets you or a permanent you control.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/301.png" num="233">SVE</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
+			<related attach="transform">MM01 Aeon&apos;s Final Trial</related>
 		</card>
 		<card>
 			<name>MW02 Edward, Beholder of Visions</name>
 			<text>Vigilance
-{V}{V}{V}{V}{V}{V}{V}, {T}: Transform this creature.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/302.png" num="32">SVE</set>
+{V}{V}{V}{V}{V}{V}{V}, {T}: Transform this creature.
+---
+(Back): Aeon, the Envisioner</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/302_front.png" num="32a">SVE</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Noble</type>
 				<maintype>Creature</maintype>
@@ -5241,16 +5285,19 @@ Flying
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Aeon, the Envisioner</related>
 		</card>
 		<card>
 			<name>Aeon, the Envisioner</name>
 			<text>Vigilance
 {T}: Search your library for a Saga card, put it onto the battlefield tapped, then shuffle.
-Whenever an ability of a permanent you control triggers, if that permanent is tapped, counter that ability and you get {V}{V}. This ability triggers only once each turn.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/303.png" num="32">SVE</set>
+Whenever an ability of a permanent you control triggers, if that permanent is tapped, counter that ability and you get {V}{V}. This ability triggers only once each turn.
+---
+(Front): MW02 Edward, Beholder of Visions</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/302_back.png" num="32b">SVE</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Creature — Human Noble</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
@@ -5260,6 +5307,7 @@ Whenever an ability of a permanent you control triggers, if that permanent is ta
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">MW02 Edward, Beholder of Visions</related>
 		</card>
 		<card>
 			<name>RB02 Mindsharer Magus</name>
@@ -5854,10 +5902,12 @@ You may look at the top card of your library at any time.
 		<card>
 			<name>MG02 Aeon, Exposed to Truth</name>
 			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
-At the beginning of your end step, put a loyalty counter on this creature. Then if two or more noncreature permanents you control left the battlefield this turn, transform this creature.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/338.png" num="234">SVE</set>
+At the beginning of your end step, put a loyalty counter on this creature. Then if two or more noncreature permanents you control left the battlefield this turn, transform this creature.
+---
+(Back): Aeon, Planeswalker</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/338_front.png" num="234a">SVE</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Noble</type>
 				<maintype>Creature</maintype>
@@ -5868,16 +5918,19 @@ At the beginning of your end step, put a loyalty counter on this creature. Then 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related attach="transform">Aeon, Planeswalker</related>
 		</card>
 		<card>
 			<name>Aeon, Planeswalker</name>
 			<text>[0]: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 [-3]: Return target card from your graveyard to your hand.
-[-7]: You may put a permanent card from your hand onto the battlefield.</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/339.png" num="234">SVE</set>
+[-7]: You may put a permanent card from your hand onto the battlefield.
+---
+(Front): MG02 Aeon, Exposed to Truth</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/338_back.png" num="234b">SVE</set>
 			<prop>
-				<layout>normal</layout>
-				<side>front</side>
+				<layout>transform</layout>
+				<side>back</side>
 				<type>Legendary Planeswalker — Aeon</type>
 				<maintype>Planeswalker</maintype>
 				<manacost></manacost>
@@ -5886,6 +5939,7 @@ At the beginning of your end step, put a loyalty counter on this creature. Then 
 				<loyalty>0</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
+			<related attach="transform">MG02 Aeon, Exposed to Truth</related>
 		</card>
 		<card>
 			<name>ML01 Alacrondais in Ruin</name>

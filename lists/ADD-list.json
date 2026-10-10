@@ -386,7 +386,7 @@
     {
         "card_name": "UB02 Dreamwalker of Passion",
         "number": 142,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "299"
@@ -402,7 +402,7 @@
     {
         "card_name": "UW02 Dreamwalker of Solidarity",
         "number": 35,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "293"
@@ -410,7 +410,7 @@
     {
         "card_name": "UU02 Dreamwalker of Aptitude",
         "number": 71,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "295"
@@ -418,7 +418,7 @@
     {
         "card_name": "UB02 Dreamwalker of Ambition",
         "number": 107,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "297"
@@ -434,7 +434,7 @@
     {
         "card_name": "UG02 Dreamwalker of Abundance",
         "number": 179,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "301"
@@ -842,55 +842,15 @@
     {
         "card_name": "CW01 White Dreamer of Whimsy",
         "number": 10,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "229"
     },
     {
-        "card_name": "Blue Dreamer of Darkness",
-        "number": 46,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "235"
-    },
-    {
-        "card_name": "Black Dreamer of Darkness",
-        "number": 82,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "241"
-    },
-    {
-        "card_name": "CR01 Red Dreamer of Whimsy",
-        "number": 118,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "247"
-    },
-    {
-        "card_name": "CG01 Green Dreamer of Whimsy",
-        "number": 154,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "253"
-    },
-    {
-        "card_name": "White Dreamer of Darkness",
-        "number": 10,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "230"
-    },
-    {
         "card_name": "CU01 Blue Dreamer of Whimsy",
         "number": 46,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "236"
@@ -898,26 +858,26 @@
     {
         "card_name": "CB01 Black Dreamer of Whimsy",
         "number": 82,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "242"
     },
     {
-        "card_name": "Red Dreamer of Darkness",
+        "card_name": "CR01 Red Dreamer of Whimsy",
         "number": 118,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
-        "position": "248"
+        "position": "247"
     },
     {
-        "card_name": "Green Dreamer of Darkness",
+        "card_name": "CG01 Green Dreamer of Whimsy",
         "number": 154,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
-        "position": "254"
+        "position": "253"
     },
     {
         "card_name": "CW02 Hospitable Triclops",
@@ -1008,12 +968,12 @@
         "position": "9"
     },
     {
-        "card_name": "Brickfolk Delusionist",
+        "card_name": "CU04 Brickfolk Surveyor",
         "number": 49,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
-        "position": "237"
+        "position": "238"
     },
     {
         "card_name": "CB04 Terrorizing Bladearm",
@@ -1024,17 +984,17 @@
         "position": "71"
     },
     {
-        "card_name": "Beastly Stowaway",
+        "card_name": "CR04 Foolish Smuggler",
         "number": 121,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
-        "position": "249"
+        "position": "250"
     },
     {
         "card_name": "CG04 Eight-Legged Bartender",
         "number": 157,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "255"
@@ -1042,50 +1002,10 @@
     {
         "card_name": "CW05 Pranking Pumpkin",
         "number": 14,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "231"
-    },
-    {
-        "card_name": "CU04 Brickfolk Surveyor",
-        "number": 49,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "238"
-    },
-    {
-        "card_name": "CB05 Hopeless Seeker",
-        "number": 86,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "72"
-    },
-    {
-        "card_name": "CR04 Foolish Smuggler",
-        "number": 121,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "250"
-    },
-    {
-        "card_name": "Eight-Legged Terror",
-        "number": 157,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "256"
-    },
-    {
-        "card_name": "Freed-Beak Crow",
-        "number": 14,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "232"
     },
     {
         "card_name": "CU05 Grim Looter",
@@ -1096,12 +1016,12 @@
         "position": "41"
     },
     {
-        "card_name": "Bloodstained Chronowurm",
-        "number": 87,
+        "card_name": "CB05 Hopeless Seeker",
+        "number": 86,
         "shape": "normal",
         "set": "ADD",
         "rotated": false,
-        "position": "243"
+        "position": "72"
     },
     {
         "card_name": "CR05 Nomadic Brute",
@@ -1138,7 +1058,7 @@
     {
         "card_name": "CB06 Tricky Temporalist",
         "number": 87,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "244"
@@ -1346,7 +1266,7 @@
     {
         "card_name": "CR11 Return Again",
         "number": 128,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "251"
@@ -1354,7 +1274,7 @@
     {
         "card_name": "CG11 Whom to Pray",
         "number": 164,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "257"
@@ -1362,7 +1282,7 @@
     {
         "card_name": "CW12 Knightly Execution",
         "number": 21,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "233"
@@ -1382,46 +1302,6 @@
         "set": "ADD",
         "rotated": false,
         "position": "78"
-    },
-    {
-        "card_name": "We Burn Again",
-        "number": 128,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "252"
-    },
-    {
-        "card_name": "Whom to Prey",
-        "number": 164,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "258"
-    },
-    {
-        "card_name": "Nightly Execution",
-        "number": 21,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "234"
-    },
-    {
-        "card_name": "CU13 Wisdom of Wanderlust",
-        "number": 58,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "49"
-    },
-    {
-        "card_name": "CB13 Visions of Conspiracy",
-        "number": 94,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "79"
     },
     {
         "card_name": "CR12 Ruinous Pyre",
@@ -1448,20 +1328,20 @@
         "position": "16"
     },
     {
-        "card_name": "CU14 Bloody Guardianship",
-        "number": 59,
+        "card_name": "CU13 Wisdom of Wanderlust",
+        "number": 58,
         "shape": "normal",
         "set": "ADD",
         "rotated": false,
-        "position": "50"
+        "position": "49"
     },
     {
-        "card_name": "CB14 Lunacy Totem",
-        "number": 95,
+        "card_name": "CB13 Visions of Conspiracy",
+        "number": 94,
         "shape": "normal",
         "set": "ADD",
         "rotated": false,
-        "position": "80"
+        "position": "79"
     },
     {
         "card_name": "CR13 Flames of Wanderlust",
@@ -1488,20 +1368,20 @@
         "position": "17"
     },
     {
-        "card_name": "CU15 Deliberate Paws",
-        "number": 60,
+        "card_name": "CU14 Bloody Guardianship",
+        "number": 59,
         "shape": "normal",
         "set": "ADD",
         "rotated": false,
-        "position": "239"
+        "position": "50"
     },
     {
-        "card_name": "CB15 Enduring Metal",
-        "number": 96,
+        "card_name": "CB14 Lunacy Totem",
+        "number": 95,
         "shape": "normal",
         "set": "ADD",
         "rotated": false,
-        "position": "245"
+        "position": "80"
     },
     {
         "card_name": "CR14 Fall into Might",
@@ -1528,20 +1408,20 @@
         "position": "18"
     },
     {
-        "card_name": "Deliberate Pause",
+        "card_name": "CU15 Deliberate Paws",
         "number": 60,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
-        "position": "240"
+        "position": "239"
     },
     {
-        "card_name": "Enduring Mettle",
+        "card_name": "CB15 Enduring Metal",
         "number": 96,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
-        "position": "246"
+        "position": "245"
     },
     {
         "card_name": "CR15 Overwhelming Assault",
@@ -1558,46 +1438,6 @@
         "set": "ADD",
         "rotated": false,
         "position": "143"
-    },
-    {
-        "card_name": "Dreamstalker of Solidarity",
-        "number": 35,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "294"
-    },
-    {
-        "card_name": "Dreamstalker of Aptitude",
-        "number": 71,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "296"
-    },
-    {
-        "card_name": "Dreamstalker of Ambition",
-        "number": 107,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "298"
-    },
-    {
-        "card_name": "Dreamstalker of Passion",
-        "number": 142,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "300"
-    },
-    {
-        "card_name": "Dreamstalker of Abundance",
-        "number": 179,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "302"
     },
     {
         "card_name": "er"
@@ -1775,7 +1615,7 @@
     {
         "card_name": "CM01 Hero of Brick",
         "number": 190,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "259"
@@ -1783,7 +1623,7 @@
     {
         "card_name": "CM02 Hero of Moon",
         "number": 191,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "261"
@@ -1791,7 +1631,7 @@
     {
         "card_name": "CM03 Hero of Blade",
         "number": 192,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "263"
@@ -1799,7 +1639,7 @@
     {
         "card_name": "CM04 Hero of Sun",
         "number": 193,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "265"
@@ -1807,50 +1647,10 @@
     {
         "card_name": "CM05 Hero of Sight",
         "number": 194,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "267"
-    },
-    {
-        "card_name": "Villain of Brick",
-        "number": 190,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "260"
-    },
-    {
-        "card_name": "Villain of Moon",
-        "number": 191,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "262"
-    },
-    {
-        "card_name": "Villain of Blade",
-        "number": 192,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "264"
-    },
-    {
-        "card_name": "Villain of Sun",
-        "number": 193,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "266"
-    },
-    {
-        "card_name": "Villain of Sight",
-        "number": 194,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "268"
     },
     {
         "card_name": "CM06 Safe Construction",
@@ -1933,46 +1733,6 @@
         "position": "173"
     },
     {
-        "card_name": "Favor of Frost",
-        "number": 245,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "273"
-    },
-    {
-        "card_name": "Favor of Darkness",
-        "number": 246,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "275"
-    },
-    {
-        "card_name": "Favor of Blood",
-        "number": 247,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "277"
-    },
-    {
-        "card_name": "Favor of Fire",
-        "number": 248,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "279"
-    },
-    {
-        "card_name": "Favor of Life",
-        "number": 249,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "281"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -1988,78 +1748,18 @@
         "card_name": "er"
     },
     {
-        "card_name": "Favor of Bone",
-        "number": 250,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "283"
+        "card_name": "e"
     },
     {
-        "card_name": "Favor of Thunder",
-        "number": 251,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "285"
+        "card_name": "e"
     },
     {
         "card_name": "MM01 Season of Whimsy",
         "number": 200,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "269"
-    },
-    {
-        "card_name": "Favor of Light",
-        "number": 253,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "289"
-    },
-    {
-        "card_name": "Favor of Water",
-        "number": 254,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "291"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Season of Grim",
-        "number": 200,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "270"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Favor of Death",
-        "number": 252,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "287"
     },
     {
         "card_name": "e"
@@ -2118,7 +1818,7 @@
     {
         "card_name": "MC01 The Dreamer Wakes Up",
         "number": 4,
-        "shape": "saga",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "227"
@@ -2190,18 +1890,10 @@
     {
         "card_name": "CC01 Whimsical Farmer",
         "number": 1,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "225"
-    },
-    {
-        "card_name": "Grim Farmer",
-        "number": 1,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "226"
     },
     {
         "card_name": "CC02 Prophet's Downfall",
@@ -2218,14 +1910,6 @@
         "set": "ADD",
         "rotated": false,
         "position": "1"
-    },
-    {
-        "card_name": "Remains of the Dreamer",
-        "number": 4,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "228"
     },
     {
         "card_name": "CA01 Wildforged Golem",
@@ -2250,15 +1934,6 @@
         "set": "ADD",
         "rotated": false,
         "position": "197"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2358,7 +2033,7 @@
     {
         "card_name": "UL01 Festival of Frost",
         "number": 245,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "274"
@@ -2366,7 +2041,7 @@
     {
         "card_name": "UL02 Festival of Darkness",
         "number": 246,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "276"
@@ -2374,7 +2049,7 @@
     {
         "card_name": "UL03 Festival of Blood",
         "number": 247,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "278"
@@ -2382,7 +2057,7 @@
     {
         "card_name": "UL04 Festival of Fire",
         "number": 248,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "280"
@@ -2390,7 +2065,7 @@
     {
         "card_name": "UL05 Festival of Life",
         "number": 249,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "282"
@@ -2413,7 +2088,7 @@
     {
         "card_name": "UL06 Festival of Bone",
         "number": 250,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "284"
@@ -2421,7 +2096,7 @@
     {
         "card_name": "UL07 Festival of Thunder",
         "number": 251,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "286"
@@ -2429,7 +2104,7 @@
     {
         "card_name": "UL08 Festival of Death",
         "number": 252,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "288"
@@ -2437,7 +2112,7 @@
     {
         "card_name": "UL09 Festival of Light",
         "number": 253,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "290"
@@ -2445,7 +2120,7 @@
     {
         "card_name": "UL10 Festival of Water",
         "number": 254,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "292"
@@ -2468,7 +2143,7 @@
     {
         "card_name": "ML06 The Dreamer's Home",
         "number": 238,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ADD",
         "rotated": false,
         "position": "271"
@@ -2482,12 +2157,7 @@
         "position": "206"
     },
     {
-        "card_name": "The Dreamer's World",
-        "number": 238,
-        "shape": "normal",
-        "set": "ADD",
-        "rotated": false,
-        "position": "272"
+        "card_name": "e"
     },
     {
         "card_name": "e"

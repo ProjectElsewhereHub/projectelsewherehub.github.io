@@ -2,7 +2,7 @@
     {
         "card_name": "MW01 Aeon's First Trial",
         "number": 31,
-        "shape": "saga",
+        "shape": "transform double faced",
         "set": "SVE",
         "rotated": false,
         "position": "290"
@@ -10,7 +10,7 @@
     {
         "card_name": "MU01 Aeon's Second Trial",
         "number": 82,
-        "shape": "saga",
+        "shape": "transform double faced",
         "set": "SVE",
         "rotated": false,
         "position": "291"
@@ -18,7 +18,7 @@
     {
         "card_name": "MB01 Aeon's Third Trial",
         "number": 133,
-        "shape": "saga",
+        "shape": "transform double faced",
         "set": "SVE",
         "rotated": false,
         "position": "292"
@@ -26,7 +26,7 @@
     {
         "card_name": "MR01 Aeon's Fourth Trial",
         "number": 183,
-        "shape": "saga",
+        "shape": "transform double faced",
         "set": "SVE",
         "rotated": false,
         "position": "293"
@@ -34,18 +34,18 @@
     {
         "card_name": "MG01 Aeon's Fifth Trial",
         "number": 233,
-        "shape": "saga",
+        "shape": "transform double faced",
         "set": "SVE",
         "rotated": false,
         "position": "294"
     },
     {
-        "card_name": "Aeon, the Envisioner",
+        "card_name": "MW02 Edward, Beholder of Visions",
         "number": 32,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "SVE",
         "rotated": false,
-        "position": "303"
+        "position": "302"
     },
     {
         "card_name": "MU02 Void Infinitum",
@@ -74,18 +74,18 @@
     {
         "card_name": "MG02 Aeon, Exposed to Truth",
         "number": 234,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "SVE",
         "rotated": false,
         "position": "338"
     },
     {
-        "card_name": "MW02 Edward, Beholder of Visions",
-        "number": 32,
+        "card_name": "RW01 Sighted Lawmage",
+        "number": 33,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "302"
+        "position": "30"
     },
     {
         "card_name": "RU01 Sighted Mindmage",
@@ -120,12 +120,12 @@
         "position": "205"
     },
     {
-        "card_name": "RW01 Sighted Lawmage",
-        "number": 33,
+        "card_name": "RW02 Timewinder Gatekeeper",
+        "number": 34,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "30"
+        "position": "310"
     },
     {
         "card_name": "RU02 Timewinder Supreme",
@@ -160,12 +160,12 @@
         "position": "206"
     },
     {
-        "card_name": "RW02 Timewinder Gatekeeper",
-        "number": 34,
+        "card_name": "RW03 Angelic Mindbinder",
+        "number": 35,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "310"
+        "position": "309"
     },
     {
         "card_name": "RU03 Sphinxian Mindbinder",
@@ -200,12 +200,12 @@
         "position": "306"
     },
     {
-        "card_name": "RW03 Angelic Mindbinder",
-        "number": 35,
+        "card_name": "RW04 Young Banisher",
+        "number": 36,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "309"
+        "position": "311"
     },
     {
         "card_name": "RU04 Obsessive Savant",
@@ -240,12 +240,12 @@
         "position": "317"
     },
     {
-        "card_name": "RW04 Young Banisher",
-        "number": 36,
+        "card_name": "RW05 Elder Banisher",
+        "number": 37,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "311"
+        "position": "312"
     },
     {
         "card_name": "RU05 Grand Obsession",
@@ -280,12 +280,12 @@
         "position": "318"
     },
     {
-        "card_name": "RW05 Elder Banisher",
-        "number": 37,
+        "card_name": "RW06 Dissonance Stone",
+        "number": 38,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "312"
+        "position": "322"
     },
     {
         "card_name": "RU06 Academic Enlightenment",
@@ -320,12 +320,12 @@
         "position": "325"
     },
     {
-        "card_name": "RW06 Dissonance Stone",
-        "number": 38,
+        "card_name": "RW07 Letter of Solidarity",
+        "number": 39,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "322"
+        "position": "326"
     },
     {
         "card_name": "RU07 Letter of Cyclicality",
@@ -360,12 +360,12 @@
         "position": "330"
     },
     {
-        "card_name": "RW07 Letter of Solidarity",
-        "number": 39,
+        "card_name": "RW08 Leycore of Minutia",
+        "number": 40,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "326"
+        "position": "31"
     },
     {
         "card_name": "RU08 Leycore of Brilliance",
@@ -400,12 +400,12 @@
         "position": "207"
     },
     {
-        "card_name": "RW08 Leycore of Minutia",
-        "number": 40,
+        "card_name": "UW01 Mender of Agony",
+        "number": 41,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "31"
+        "position": "32"
     },
     {
         "card_name": "UU01 Timewinder Motivator",
@@ -440,12 +440,12 @@
         "position": "208"
     },
     {
-        "card_name": "UW01 Mender of Agony",
-        "number": 41,
+        "card_name": "UW02 Soul Suffuser",
+        "number": 42,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "32"
+        "position": "33"
     },
     {
         "card_name": "UU02 Fortune Suffuser",
@@ -480,12 +480,12 @@
         "position": "209"
     },
     {
-        "card_name": "UW02 Soul Suffuser",
-        "number": 42,
+        "card_name": "UW03 Murderous Balancer",
+        "number": 43,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "33"
+        "position": "34"
     },
     {
         "card_name": "UU03 Seeping Steel",
@@ -520,12 +520,12 @@
         "position": "210"
     },
     {
-        "card_name": "UW03 Murderous Balancer",
-        "number": 43,
+        "card_name": "UW04 Monastic Visionary",
+        "number": 44,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "34"
+        "position": "35"
     },
     {
         "card_name": "UU04 Meditating Visionary",
@@ -560,12 +560,12 @@
         "position": "211"
     },
     {
-        "card_name": "UW04 Monastic Visionary",
-        "number": 44,
+        "card_name": "UW05 Anima of the Living",
+        "number": 45,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "35"
+        "position": "36"
     },
     {
         "card_name": "UU05 Anima of the Insane",
@@ -600,12 +600,12 @@
         "position": "212"
     },
     {
-        "card_name": "UW05 Anima of the Living",
-        "number": 45,
+        "card_name": "UW06 Angelic Perspective",
+        "number": 46,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "36"
+        "position": "37"
     },
     {
         "card_name": "UU06 Sphinxian Perspective",
@@ -640,12 +640,12 @@
         "position": "213"
     },
     {
-        "card_name": "UW06 Angelic Perspective",
-        "number": 46,
+        "card_name": "UW07 Young Hamster",
+        "number": 47,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "37"
+        "position": "38"
     },
     {
         "card_name": "UU07 Young Trout",
@@ -680,12 +680,12 @@
         "position": "214"
     },
     {
-        "card_name": "UW07 Young Hamster",
-        "number": 47,
+        "card_name": "UW08 Young Fox",
+        "number": 48,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "38"
+        "position": "39"
     },
     {
         "card_name": "UU08 Young Squid",
@@ -720,12 +720,12 @@
         "position": "215"
     },
     {
-        "card_name": "UW08 Young Fox",
-        "number": 48,
+        "card_name": "UW09 Elder Hamster",
+        "number": 49,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "39"
+        "position": "40"
     },
     {
         "card_name": "UU09 Elder Trout",
@@ -760,12 +760,12 @@
         "position": "216"
     },
     {
-        "card_name": "UW09 Elder Hamster",
-        "number": 49,
+        "card_name": "UW10 Elder Fox",
+        "number": 50,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "40"
+        "position": "41"
     },
     {
         "card_name": "UU10 Elder Squid",
@@ -800,12 +800,12 @@
         "position": "217"
     },
     {
-        "card_name": "UW10 Elder Fox",
-        "number": 50,
+        "card_name": "UW11 Death Tithe",
+        "number": 51,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "41"
+        "position": "50"
     },
     {
         "card_name": "UU11 Restrictive Mindset",
@@ -840,12 +840,12 @@
         "position": "218"
     },
     {
-        "card_name": "UW11 Death Tithe",
-        "number": 51,
+        "card_name": "UW12 Decisive Rending",
+        "number": 52,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "50"
+        "position": "43"
     },
     {
         "card_name": "UU12 Rotting Arcana",
@@ -880,12 +880,12 @@
         "position": "219"
     },
     {
-        "card_name": "UW12 Decisive Rending",
-        "number": 52,
+        "card_name": "UW13 Banishing Decay",
+        "number": 53,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "43"
+        "position": "58"
     },
     {
         "card_name": "UU13 Icy Logic Rite",
@@ -920,12 +920,12 @@
         "position": "220"
     },
     {
-        "card_name": "UW13 Banishing Decay",
-        "number": 53,
+        "card_name": "UW14 Simple Soul",
+        "number": 54,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "58"
+        "position": "42"
     },
     {
         "card_name": "UU14 Helpful Soul",
@@ -960,12 +960,12 @@
         "position": "221"
     },
     {
-        "card_name": "UW14 Simple Soul",
-        "number": 54,
+        "card_name": "UW15 Indebting Assistance",
+        "number": 55,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "42"
+        "position": "44"
     },
     {
         "card_name": "UU15 Unsolved Riddle",
@@ -1000,12 +1000,12 @@
         "position": "222"
     },
     {
-        "card_name": "UW15 Indebting Assistance",
-        "number": 55,
+        "card_name": "UW16 Transientize",
+        "number": 56,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "44"
+        "position": "46"
     },
     {
         "card_name": "UU16 Confusing Plans",
@@ -1040,12 +1040,12 @@
         "position": "223"
     },
     {
-        "card_name": "UW16 Transientize",
-        "number": 56,
+        "card_name": "UW17 Message of Eternal Rest",
+        "number": 57,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "46"
+        "position": "45"
     },
     {
         "card_name": "UU17 Message of Infinite Evidence",
@@ -1080,12 +1080,12 @@
         "position": "224"
     },
     {
-        "card_name": "UW17 Message of Eternal Rest",
-        "number": 57,
+        "card_name": "UW18 Message of Sworn War",
+        "number": 58,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "45"
+        "position": "48"
     },
     {
         "card_name": "UU18 Message of Subtle Reversal",
@@ -1120,12 +1120,12 @@
         "position": "225"
     },
     {
-        "card_name": "UW18 Message of Sworn War",
-        "number": 58,
+        "card_name": "UW19 Spherical Shattering",
+        "number": 59,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "48"
+        "position": "47"
     },
     {
         "card_name": "UU19 Enchanting Insight",
@@ -1160,12 +1160,12 @@
         "position": "226"
     },
     {
-        "card_name": "UW19 Spherical Shattering",
-        "number": 59,
+        "card_name": "UW20 Shining Sabotage",
+        "number": 60,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "47"
+        "position": "51"
     },
     {
         "card_name": "UU20 Cryetic Anticipation",
@@ -1200,12 +1200,12 @@
         "position": "227"
     },
     {
-        "card_name": "UW20 Shining Sabotage",
-        "number": 60,
+        "card_name": "CW01 Keen-Eyed Hawk",
+        "number": 10,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "51"
+        "position": "9"
     },
     {
         "card_name": "CU01 Keen-Eyed Guardian",
@@ -1240,12 +1240,12 @@
         "position": "184"
     },
     {
-        "card_name": "CW01 Keen-Eyed Hawk",
-        "number": 10,
+        "card_name": "CW02 Loyal Explorer",
+        "number": 11,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "9"
+        "position": "10"
     },
     {
         "card_name": "CU02 Knowing Explorer",
@@ -1280,12 +1280,12 @@
         "position": "185"
     },
     {
-        "card_name": "CW02 Loyal Explorer",
-        "number": 11,
+        "card_name": "CW03 Secretive Sage",
+        "number": 12,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "10"
+        "position": "11"
     },
     {
         "card_name": "CU03 Recursive Arcanist",
@@ -1320,12 +1320,12 @@
         "position": "186"
     },
     {
-        "card_name": "CW03 Secretive Sage",
-        "number": 12,
+        "card_name": "CW04 Terrain Flattener",
+        "number": 13,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "11"
+        "position": "12"
     },
     {
         "card_name": "CU04 Mimesis Mockingbird",
@@ -1360,12 +1360,12 @@
         "position": "187"
     },
     {
-        "card_name": "CW04 Terrain Flattener",
-        "number": 13,
+        "card_name": "CW05 Spreader of Loyalty",
+        "number": 14,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "12"
+        "position": "13"
     },
     {
         "card_name": "CU05 Spreader of Knowledge",
@@ -1400,12 +1400,12 @@
         "position": "188"
     },
     {
-        "card_name": "CW05 Spreader of Loyalty",
-        "number": 14,
+        "card_name": "CW06 Symmetry Aligned",
+        "number": 15,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "13"
+        "position": "14"
     },
     {
         "card_name": "CU06 Symmetry Perfected",
@@ -1440,12 +1440,12 @@
         "position": "189"
     },
     {
-        "card_name": "CW06 Symmetry Aligned",
-        "number": 15,
+        "card_name": "CW07 Young Wildcat",
+        "number": 16,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "14"
+        "position": "15"
     },
     {
         "card_name": "CU07 Young Turtle",
@@ -1480,12 +1480,12 @@
         "position": "190"
     },
     {
-        "card_name": "CW07 Young Wildcat",
-        "number": 16,
+        "card_name": "CW08 Young Camel",
+        "number": 17,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "15"
+        "position": "16"
     },
     {
         "card_name": "CU08 Young Drake",
@@ -1520,12 +1520,12 @@
         "position": "191"
     },
     {
-        "card_name": "CW08 Young Camel",
-        "number": 17,
+        "card_name": "CW09 Elder Wildcat",
+        "number": 18,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "16"
+        "position": "17"
     },
     {
         "card_name": "CU09 Elder Turtle",
@@ -1560,12 +1560,12 @@
         "position": "192"
     },
     {
-        "card_name": "CW09 Elder Wildcat",
-        "number": 18,
+        "card_name": "CW10 Elder Camel",
+        "number": 19,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "17"
+        "position": "18"
     },
     {
         "card_name": "CU10 Elder Drake",
@@ -1600,12 +1600,12 @@
         "position": "193"
     },
     {
-        "card_name": "CW10 Elder Camel",
-        "number": 19,
+        "card_name": "CW11 Sightful Smite",
+        "number": 20,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "18"
+        "position": "19"
     },
     {
         "card_name": "CU11 Sightful Shove",
@@ -1640,12 +1640,12 @@
         "position": "194"
     },
     {
-        "card_name": "CW11 Sightful Smite",
-        "number": 20,
+        "card_name": "CW12 Enlightening Pacifism",
+        "number": 21,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "19"
+        "position": "20"
     },
     {
         "card_name": "CU12 Enlightening Negation",
@@ -1680,12 +1680,12 @@
         "position": "195"
     },
     {
-        "card_name": "CW12 Enlightening Pacifism",
-        "number": 21,
+        "card_name": "CW13 Fleshify",
+        "number": 22,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "20"
+        "position": "21"
     },
     {
         "card_name": "CU13 Frozen Soul",
@@ -1720,12 +1720,12 @@
         "position": "196"
     },
     {
-        "card_name": "CW13 Fleshify",
-        "number": 22,
+        "card_name": "CW14 Blessed Thoughts",
+        "number": 23,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "21"
+        "position": "22"
     },
     {
         "card_name": "CU14 Enlightened Thoughts",
@@ -1760,12 +1760,12 @@
         "position": "197"
     },
     {
-        "card_name": "CW14 Blessed Thoughts",
-        "number": 23,
+        "card_name": "CW15 Honored Burial",
+        "number": 24,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "22"
+        "position": "23"
     },
     {
         "card_name": "CU15 Death Choice",
@@ -1800,12 +1800,12 @@
         "position": "198"
     },
     {
-        "card_name": "CW15 Honored Burial",
-        "number": 24,
+        "card_name": "CW16 Heal from Mourning",
+        "number": 25,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "23"
+        "position": "24"
     },
     {
         "card_name": "CU16 Discoverous Insight",
@@ -1840,12 +1840,12 @@
         "position": "199"
     },
     {
-        "card_name": "CW16 Heal from Mourning",
-        "number": 25,
+        "card_name": "CW17 Message of Condolences",
+        "number": 26,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "24"
+        "position": "25"
     },
     {
         "card_name": "CU17 Message of Insight",
@@ -1880,12 +1880,12 @@
         "position": "200"
     },
     {
-        "card_name": "CW17 Message of Condolences",
-        "number": 26,
+        "card_name": "CW18 Message of Alliance",
+        "number": 27,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "25"
+        "position": "26"
     },
     {
         "card_name": "CU18 Message of Information",
@@ -1920,12 +1920,12 @@
         "position": "201"
     },
     {
-        "card_name": "CW18 Message of Alliance",
-        "number": 27,
+        "card_name": "CW19 Ensouled Taxation",
+        "number": 28,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "26"
+        "position": "27"
     },
     {
         "card_name": "CU19 Clearsight",
@@ -1960,12 +1960,12 @@
         "position": "202"
     },
     {
-        "card_name": "CW19 Ensouled Taxation",
-        "number": 28,
+        "card_name": "CW20 Sighted Vigil",
+        "number": 29,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "27"
+        "position": "28"
     },
     {
         "card_name": "CU20 Sighted Twiddle",
@@ -2000,12 +2000,12 @@
         "position": "203"
     },
     {
-        "card_name": "CW20 Sighted Vigil",
-        "number": 29,
+        "card_name": "CW21 Relentless Infantry",
+        "number": 30,
         "shape": "normal",
         "set": "SVE",
         "rotated": false,
-        "position": "28"
+        "position": "29"
     },
     {
         "card_name": "CU21 Relentless Crabs",
@@ -2028,26 +2028,6 @@
         "set": "SVE",
         "rotated": false,
         "position": "204"
-    },
-    {
-        "card_name": "CW21 Relentless Infantry",
-        "number": 30,
-        "shape": "normal",
-        "set": "SVE",
-        "rotated": false,
-        "position": "29"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2175,18 +2155,13 @@
     {
         "card_name": "MM01 Aeon's Final Trial",
         "number": 263,
-        "shape": "saga",
+        "shape": "transform double faced",
         "set": "SVE",
         "rotated": false,
         "position": "295"
     },
     {
-        "card_name": "Solvatim-07, The Truth",
-        "number": 263,
-        "shape": "normal",
-        "set": "SVE",
-        "rotated": false,
-        "position": "296"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2213,26 +2188,10 @@
     {
         "card_name": "MC01 Aeon's Sixth Trial",
         "number": 6,
-        "shape": "saga",
+        "shape": "transform double faced",
         "set": "SVE",
         "rotated": false,
         "position": "288"
-    },
-    {
-        "card_name": "Solvatim-06, The Void Consuming",
-        "number": 6,
-        "shape": "normal",
-        "set": "SVE",
-        "rotated": false,
-        "position": "289"
-    },
-    {
-        "card_name": "Aeon, Planeswalker",
-        "number": 234,
-        "shape": "planeswalker",
-        "set": "SVE",
-        "rotated": false,
-        "position": "339"
     },
     {
         "card_name": "RC01 Mana to Flesh",
@@ -2321,6 +2280,12 @@
         "card_name": "e"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "er"
     },
     {
@@ -2333,46 +2298,6 @@
         "card_name": "er"
     },
     "a->land",
-    {
-        "card_name": "Solvatim-01, The Living Prison",
-        "number": 31,
-        "shape": "normal",
-        "set": "SVE",
-        "rotated": false,
-        "position": "297"
-    },
-    {
-        "card_name": "Solvatim-02, The Endless Library",
-        "number": 82,
-        "shape": "normal",
-        "set": "SVE",
-        "rotated": false,
-        "position": "298"
-    },
-    {
-        "card_name": "Solvatim-03, The Purging Graveyard",
-        "number": 133,
-        "shape": "normal",
-        "set": "SVE",
-        "rotated": false,
-        "position": "299"
-    },
-    {
-        "card_name": "Solvatim-04, The Great Work",
-        "number": 183,
-        "shape": "normal split",
-        "set": "SVE",
-        "rotated": true,
-        "position": "300"
-    },
-    {
-        "card_name": "Solvatim-05, The Purest Haven",
-        "number": 233,
-        "shape": "normal",
-        "set": "SVE",
-        "rotated": false,
-        "position": "301"
-    },
     {
         "card_name": "RL11 Tesselation Point",
         "number": 303,

@@ -80,46 +80,6 @@
         "position": "218"
     },
     {
-        "card_name": "Xiphaes, Eternal Slayer",
-        "number": 263,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "292"
-    },
-    {
-        "card_name": "Abussaee, Deep Unleahed",
-        "number": 246,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "294"
-    },
-    {
-        "card_name": "Exodais, Harbinger of Ends",
-        "number": 264,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "296"
-    },
-    {
-        "card_name": "Eos, Forger of Beginnings",
-        "number": 249,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "298"
-    },
-    {
-        "card_name": "Biotace, World Awoken",
-        "number": 245,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "300"
-    },
-    {
         "card_name": "Anger to Remorse",
         "number": 3,
         "shape": "normal",
@@ -480,86 +440,6 @@
         "position": "3"
     },
     {
-        "card_name": "Solborn",
-        "number": 229,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "284"
-    },
-    {
-        "card_name": "Wisdom Quantifier",
-        "number": 78,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "199"
-    },
-    {
-        "card_name": "Henzen, the Soulkeeper",
-        "number": 260,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "274"
-    },
-    {
-        "card_name": "Ripsnap, Apex Predator",
-        "number": 254,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "282"
-    },
-    {
-        "card_name": "Zorgaz the Unsurpassable",
-        "number": 233,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "290"
-    },
-    {
-        "card_name": "M'Kuya, Sacred One",
-        "number": 256,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "270"
-    },
-    {
-        "card_name": "Sturmstrik, Typhoon-Bringer",
-        "number": 235,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "272"
-    },
-    {
-        "card_name": "Skixlot, the Bone-King",
-        "number": 262,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "288"
-    },
-    {
-        "card_name": "Almax, the Scourge-Tyrant",
-        "number": 257,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "276"
-    },
-    {
-        "card_name": "Stord, Endurance Incarnate",
-        "number": 234,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "278"
-    },
-    {
         "card_name": "Ambassador of the Protectors",
         "number": 2,
         "shape": "normal",
@@ -568,12 +448,12 @@
         "position": "110"
     },
     {
-        "card_name": "Gulch, the Deep-Gorger",
-        "number": 241,
+        "card_name": "Wisdom Quantifier",
+        "number": 78,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
-        "position": "286"
+        "position": "199"
     },
     {
         "card_name": "Call to Life",
@@ -880,166 +760,6 @@
         "position": "142"
     },
     {
-        "card_name": "Pathmaker",
-        "number": 237,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "232"
-    },
-    {
-        "card_name": "Tribute of Sanity",
-        "number": 76,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "123"
-    },
-    {
-        "card_name": "Undying Titan",
-        "number": 239,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "244"
-    },
-    {
-        "card_name": "Mountaincarver",
-        "number": 230,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "266"
-    },
-    {
-        "card_name": "Flowering Stag",
-        "number": 236,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "268"
-    },
-    {
-        "card_name": "Keeper of Many Dens",
-        "number": 242,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "260"
-    },
-    {
-        "card_name": "Cascading Elemental",
-        "number": 231,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "262"
-    },
-    {
-        "card_name": "Master of Temptations",
-        "number": 243,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "246"
-    },
-    {
-        "card_name": "Gnarled Octopod",
-        "number": 240,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "252"
-    },
-    {
-        "card_name": "Walking Woods",
-        "number": 244,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "254"
-    },
-    {
-        "card_name": "Skybound Familiar",
-        "number": 247,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "234"
-    },
-    {
-        "card_name": "Sanity Churner",
-        "number": 232,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "240"
-    },
-    {
-        "card_name": "It Beneath the Murk",
-        "number": 248,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "264"
-    },
-    {
-        "card_name": "Slag Titan",
-        "number": 255,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "250"
-    },
-    {
-        "card_name": "Thorn Titan",
-        "number": 251,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "258"
-    },
-    {
-        "card_name": "Accomplished Protector",
-        "number": 259,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "230"
-    },
-    {
-        "card_name": "Frozen Titan",
-        "number": 238,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "236"
-    },
-    {
-        "card_name": "Bloodletter Demon",
-        "number": 252,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "242"
-    },
-    {
-        "card_name": "Erupting Phoenix",
-        "number": 265,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "248"
-    },
-    {
-        "card_name": "Vitalized Kraken",
-        "number": 253,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "256"
-    },
-    {
         "card_name": "Battledriver Giant",
         "number": 4,
         "shape": "normal",
@@ -1048,12 +768,12 @@
         "position": "20"
     },
     {
-        "card_name": "Shipwrecker Serpent",
-        "number": 258,
+        "card_name": "Tribute of Sanity",
+        "number": 76,
         "shape": "normal",
         "set": "AMP",
         "rotated": false,
-        "position": "238"
+        "position": "123"
     },
     {
         "card_name": "Carrion Scrounger",
@@ -2044,14 +1764,6 @@
         "position": "204"
     },
     {
-        "card_name": "Drund, the Ruinator-Titan",
-        "number": 250,
-        "shape": "normal",
-        "set": "AMP",
-        "rotated": false,
-        "position": "280"
-    },
-    {
         "card_name": "Animate Offering",
         "number": 208,
         "shape": "normal",
@@ -2186,6 +1898,9 @@
         "card_name": "e"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "er"
     },
     {
@@ -2201,7 +1916,7 @@
     {
         "card_name": "Tomb of the Slain",
         "number": 263,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "291"
@@ -2209,7 +1924,7 @@
     {
         "card_name": "Maw of the Deep",
         "number": 246,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "293"
@@ -2217,7 +1932,7 @@
     {
         "card_name": "Vault of the End",
         "number": 264,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "295"
@@ -2225,7 +1940,7 @@
     {
         "card_name": "Nexus of the Beginning",
         "number": 249,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "297"
@@ -2233,7 +1948,7 @@
     {
         "card_name": "Heart of the World",
         "number": 245,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "299"
@@ -2241,7 +1956,7 @@
     {
         "card_name": "Bed of the Sun",
         "number": 229,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "283"
@@ -2249,7 +1964,7 @@
     {
         "card_name": "Everlasting Typhoon",
         "number": 235,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "271"
@@ -2257,7 +1972,7 @@
     {
         "card_name": "The Soul Cages",
         "number": 260,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "273"
@@ -2265,7 +1980,7 @@
     {
         "card_name": "Predator's Den",
         "number": 254,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "281"
@@ -2273,7 +1988,7 @@
     {
         "card_name": "Cradle of Evergrowth",
         "number": 233,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "289"
@@ -2281,7 +1996,7 @@
     {
         "card_name": "Sacred Valley",
         "number": 256,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "269"
@@ -2289,7 +2004,7 @@
     {
         "card_name": "Gorged Trench",
         "number": 241,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "285"
@@ -2297,7 +2012,7 @@
     {
         "card_name": "Throne of Bones",
         "number": 262,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "287"
@@ -2305,7 +2020,7 @@
     {
         "card_name": "Scourged Grounds",
         "number": 257,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "275"
@@ -2313,7 +2028,7 @@
     {
         "card_name": "Enduring Elevation",
         "number": 234,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "277"
@@ -2321,7 +2036,7 @@
     {
         "card_name": "Followed Path",
         "number": 237,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "231"
@@ -2329,7 +2044,7 @@
     {
         "card_name": "Cascading Fountain",
         "number": 231,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "261"
@@ -2337,7 +2052,7 @@
     {
         "card_name": "Gargantuan Grave",
         "number": 239,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "243"
@@ -2345,7 +2060,7 @@
     {
         "card_name": "Carved Peak",
         "number": 230,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "265"
@@ -2353,7 +2068,7 @@
     {
         "card_name": "Flowering Grove",
         "number": 236,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "267"
@@ -2361,7 +2076,7 @@
     {
         "card_name": "Great Den",
         "number": 242,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "259"
@@ -2369,7 +2084,7 @@
     {
         "card_name": "Churning Depths",
         "number": 232,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "239"
@@ -2377,7 +2092,7 @@
     {
         "card_name": "Hall of Temptations",
         "number": 243,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "245"
@@ -2385,7 +2100,7 @@
     {
         "card_name": "Gnarled Waves",
         "number": 240,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "251"
@@ -2393,7 +2108,7 @@
     {
         "card_name": "Head of the Woods",
         "number": 244,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "253"
@@ -2401,7 +2116,7 @@
     {
         "card_name": "Monument to the Skybound",
         "number": 247,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "233"
@@ -2409,7 +2124,7 @@
     {
         "card_name": "Frozen Wastes",
         "number": 238,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "235"
@@ -2417,7 +2132,7 @@
     {
         "card_name": "Murky Waters",
         "number": 248,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "263"
@@ -2425,7 +2140,7 @@
     {
         "card_name": "Ravaged Vista",
         "number": 255,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "249"
@@ -2433,7 +2148,7 @@
     {
         "card_name": "Path of Thorns",
         "number": 251,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "257"
@@ -2441,7 +2156,7 @@
     {
         "card_name": "Signs of Protection",
         "number": 259,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "229"
@@ -2449,7 +2164,7 @@
     {
         "card_name": "Seafloor of Shipwrecks",
         "number": 258,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "237"
@@ -2457,7 +2172,7 @@
     {
         "card_name": "Pool of Blood",
         "number": 252,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "241"
@@ -2465,7 +2180,7 @@
     {
         "card_name": "Volcanic Edge",
         "number": 265,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "247"
@@ -2473,7 +2188,7 @@
     {
         "card_name": "Pool of Vitality",
         "number": 253,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "255"
@@ -2496,7 +2211,7 @@
     {
         "card_name": "Path of Ruin",
         "number": 250,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "279"

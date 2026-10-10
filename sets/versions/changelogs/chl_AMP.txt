@@ -1,4 +1,118 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+Accomplished Protector removed.
+Pathmaker removed.
+Skybound Familiar removed.
+Frozen Titan removed.
+Shipwrecker Serpent removed.
+Sanity Churner removed.
+Bloodletter Demon removed.
+Undying Titan removed.
+Master of Temptations removed.
+Erupting Phoenix removed.
+Slag Titan removed.
+Gnarled Octopod removed.
+Walking Woods removed.
+Vitalized Kraken removed.
+Thorn Titan removed.
+Keeper of Many Dens removed.
+Cascading Elemental removed.
+It Beneath the Murk removed.
+Mountaincarver removed.
+Flowering Stag removed.
+M'Kuya, Sacred One removed.
+Sturmstrik, Typhoon-Bringer removed.
+Henzen, the Soulkeeper removed.
+Almax, the Scourge-Tyrant removed.
+Stord, Endurance Incarnate removed.
+Drund, the Ruinator-Titan removed.
+Ripsnap, Apex Predator removed.
+Solborn removed.
+Gulch, the Deep-Gorger removed.
+Skixlot, the Bone-King removed.
+Zorgaz the Unsurpassable removed.
+Xiphaes, Eternal Slayer removed.
+Abussaee, Deep Unleahed removed.
+Exodais, Harbinger of Ends removed.
+Eos, Forger of Beginnings removed.
+Biotace, World Awoken removed.
+
+Signs of Protection
+
+Followed Path
+
+Monument to the Skybound
+
+Frozen Wastes
+
+Seafloor of Shipwrecks
+
+Churning Depths
+
+Pool of Blood
+
+Gargantuan Grave
+
+Hall of Temptations
+
+Volcanic Edge
+
+Ravaged Vista
+
+Gnarled Waves
+
+Head of the Woods
+
+Pool of Vitality
+
+Path of Thorns
+
+Great Den
+
+Cascading Fountain
+
+Murky Waters
+
+Carved Peak
+
+Flowering Grove
+
+Sacred Valley
+
+Everlasting Typhoon
+
+The Soul Cages
+
+Scourged Grounds
+
+Enduring Elevation
+
+Path of Ruin
+
+Predator's Den
+
+Bed of the Sun
+
+Gorged Trench
+
+Throne of Bones
+
+Cradle of Evergrowth
+
+Tomb of the Slain
+
+Maw of the Deep
+
+Vault of the End
+
+Nexus of the Beginning
+
+Heart of the World
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Accomplished Protector added.

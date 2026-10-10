@@ -1,4 +1,127 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+Grim Farmer removed.
+Remains of the Dreamer removed.
+White Dreamer of Darkness removed.
+Freed-Beak Crow removed.
+Nightly Execution removed.
+Blue Dreamer of Darkness removed.
+Brickfolk Delusionist removed.
+Deliberate Pause removed.
+Black Dreamer of Darkness removed.
+Bloodstained Chronowurm removed.
+Enduring Mettle removed.
+Red Dreamer of Darkness removed.
+Beastly Stowaway removed.
+We Burn Again removed.
+Green Dreamer of Darkness removed.
+Eight-Legged Terror removed.
+Whom to Prey removed.
+Villain of Brick removed.
+Villain of Moon removed.
+Villain of Blade removed.
+Villain of Sun removed.
+Villain of Sight removed.
+Season of Grim removed.
+The Dreamer's World removed.
+Favor of Frost removed.
+Favor of Darkness removed.
+Favor of Blood removed.
+Favor of Fire removed.
+Favor of Life removed.
+Favor of Bone removed.
+Favor of Thunder removed.
+Favor of Death removed.
+Favor of Light removed.
+Favor of Water removed.
+Dreamstalker of Solidarity removed.
+Dreamstalker of Aptitude removed.
+Dreamstalker of Ambition removed.
+Dreamstalker of Passion removed.
+Dreamstalker of Abundance removed.
+
+CC01 Whimsical Farmer
+
+MC01 The Dreamer Wakes Up
+
+CW01 White Dreamer of Whimsy
+
+CW05 Pranking Pumpkin
+
+CW12 Knightly Execution
+
+CU01 Blue Dreamer of Whimsy
+
+CU04 Brickfolk Surveyor
+
+CU15 Deliberate Paws
+
+CB01 Black Dreamer of Whimsy
+
+CB06 Tricky Temporalist
+
+CB15 Enduring Metal
+
+CR01 Red Dreamer of Whimsy
+
+CR04 Foolish Smuggler
+
+CR11 Return Again
+
+CG01 Green Dreamer of Whimsy
+
+CG04 Eight-Legged Bartender
+
+CG11 Whom to Pray
+
+CM01 Hero of Brick
+
+CM02 Hero of Moon
+
+CM03 Hero of Blade
+
+CM04 Hero of Sun
+
+CM05 Hero of Sight
+
+MM01 Season of Whimsy
+
+ML06 The Dreamer's Home
+
+UL01 Festival of Frost
+
+UL02 Festival of Darkness
+
+UL03 Festival of Blood
+
+UL04 Festival of Fire
+
+UL05 Festival of Life
+
+UL06 Festival of Bone
+
+UL07 Festival of Thunder
+
+UL08 Festival of Death
+
+UL09 Festival of Light
+
+UL10 Festival of Water
+
+UW02 Dreamwalker of Solidarity
+
+UU02 Dreamwalker of Aptitude
+
+UB02 Dreamwalker of Ambition
+
+UB02 Dreamwalker of Passion
+
+UG02 Dreamwalker of Abundance
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Grim Farmer added.
