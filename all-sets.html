@@ -142,14 +142,14 @@
 				<img src="sets/ADD-files/icon.png">
 				<div class="set-title">A Dream of Darkness</div>
 				<div>ADD</div>
-				<div>254</div>
+				<div>293</div>
 			</a>
 			
 			<a href="sets/AMP" class="set-row"> 
 				<img src="sets/AMP-files/icon.png">
 				<div class="set-title">Amplalo, Realm of the Colossi</div>
 				<div>AMP</div>
-				<div>265</div>
+				<div>301</div>
 			</a>
 			
 			<a href="sets/DEM" class="set-row"> 
@@ -163,7 +163,7 @@
 				<img src="sets/SVE-files/icon.png">
 				<div class="set-title">Solvatim Envisioned</div>
 				<div>SVE</div>
-				<div>324</div>
+				<div>333</div>
 			</a>
 			</div>
 		
@@ -189,6 +189,12 @@
 
 				let all_tags = new Set();
 				card_list_arrayified.forEach(card => {
+					if (card.card_name) {
+						card.card_name = card.card_name.replace(/[\r\n]+/g, '').trim();
+					}
+					if (card.card_name2) {
+						card.card_name2 = card.card_name2.replace(/[\r\n]+/g, '').trim();
+					}
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {

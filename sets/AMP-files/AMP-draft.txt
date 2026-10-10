@@ -2296,15 +2296,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "259",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/229_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/229_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/229.png"
+			}
+		},
+		{
+			"name": "Accomplished Protector",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/230.png"
 			}
 		},
 		{
@@ -2313,15 +2316,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "237",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/231_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/231_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/231.png"
+			}
+		},
+		{
+			"name": "Pathmaker",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/232.png"
 			}
 		},
 		{
@@ -2330,15 +2336,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "247",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/233_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/233_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/233.png"
+			}
+		},
+		{
+			"name": "Skybound Familiar",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/234.png"
 			}
 		},
 		{
@@ -2347,15 +2356,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "238",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/235_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/235_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/235.png"
+			}
+		},
+		{
+			"name": "Frozen Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/236.png"
 			}
 		},
 		{
@@ -2364,15 +2376,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "258",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/237_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/237_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/237.png"
+			}
+		},
+		{
+			"name": "Shipwrecker Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/238.png"
 			}
 		},
 		{
@@ -2381,15 +2396,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "232",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/239_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/239_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/239.png"
+			}
+		},
+		{
+			"name": "Sanity Churner",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Leviathan Horror",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/240.png"
 			}
 		},
 		{
@@ -2398,15 +2416,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "252",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/241_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/241_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/241.png"
+			}
+		},
+		{
+			"name": "Bloodletter Demon",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/242.png"
 			}
 		},
 		{
@@ -2415,15 +2436,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "239",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/243_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/243_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/243.png"
+			}
+		},
+		{
+			"name": "Undying Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Skeleton Giant",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/244.png"
 			}
 		},
 		{
@@ -2432,15 +2456,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "243",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/245_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/245_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/245.png"
+			}
+		},
+		{
+			"name": "Master of Temptations",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/246.png"
 			}
 		},
 		{
@@ -2449,15 +2476,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "265",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/247_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/247_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/247.png"
+			}
+		},
+		{
+			"name": "Erupting Phoenix",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Elemental Phoenix",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/248.png"
 			}
 		},
 		{
@@ -2466,15 +2496,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "255",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/249_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/249_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/249.png"
+			}
+		},
+		{
+			"name": "Slag Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/250.png"
 			}
 		},
 		{
@@ -2483,15 +2516,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "240",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/251_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/251_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/251.png"
+			}
+		},
+		{
+			"name": "Gnarled Octopod",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Octopus",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/252.png"
 			}
 		},
 		{
@@ -2500,15 +2536,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "244",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/253_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/253_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/253.png"
+			}
+		},
+		{
+			"name": "Walking Woods",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/254.png"
 			}
 		},
 		{
@@ -2517,15 +2556,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "253",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/255_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/255_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/255.png"
+			}
+		},
+		{
+			"name": "Vitalized Kraken",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Kraken",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/256.png"
 			}
 		},
 		{
@@ -2534,15 +2576,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "251",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/257_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/257_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/257.png"
+			}
+		},
+		{
+			"name": "Thorn Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{8}{G}{G}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/258.png"
 			}
 		},
 		{
@@ -2551,15 +2596,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "242",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/259_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/259_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/259.png"
+			}
+		},
+		{
+			"name": "Keeper of Many Dens",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/260.png"
 			}
 		},
 		{
@@ -2568,15 +2616,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "231",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/261_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/261_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/261.png"
+			}
+		},
+		{
+			"name": "Cascading Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/262.png"
 			}
 		},
 		{
@@ -2585,15 +2636,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "248",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/263_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/263_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/263.png"
+			}
+		},
+		{
+			"name": "It Beneath the Murk",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Creature — Leviathan Horror",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/264.png"
 			}
 		},
 		{
@@ -2602,15 +2656,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "230",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/265_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/265_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/265.png"
+			}
+		},
+		{
+			"name": "Mountaincarver",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/266.png"
 			}
 		},
 		{
@@ -2619,15 +2676,18 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "236",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/267_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/267_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/267.png"
+			}
+		},
+		{
+			"name": "Flowering Stag",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Elemental Elk",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/268.png"
 			}
 		},
 		{
@@ -2636,15 +2696,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "256",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/269_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/269_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/269.png"
+			}
+		},
+		{
+			"name": "M'Kuya, Sacred One",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Legendary Creature — Giant Avatar",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/270.png"
 			}
 		},
 		{
@@ -2653,15 +2716,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "235",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/271_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/271_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/271.png"
+			}
+		},
+		{
+			"name": "Sturmstrik, Typhoon-Bringer",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Legendary Creature — Kraken Avatar",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/272.png"
 			}
 		},
 		{
@@ -2670,15 +2736,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "260",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/273_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/273_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/273.png"
+			}
+		},
+		{
+			"name": "Henzen, the Soulkeeper",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Creature — Demon Avatar",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/274.png"
 			}
 		},
 		{
@@ -2687,15 +2756,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "257",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/275_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/275_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/275.png"
+			}
+		},
+		{
+			"name": "Almax, the Scourge-Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Legendary Creature — Dragon Avatar",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/276.png"
 			}
 		},
 		{
@@ -2704,15 +2776,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "234",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/277_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/277_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/277.png"
+			}
+		},
+		{
+			"name": "Stord, Endurance Incarnate",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Legendary Creature — Turtle Avatar",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/278.png"
 			}
 		},
 		{
@@ -2721,15 +2796,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "250",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/279_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/279_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/279.png"
+			}
+		},
+		{
+			"name": "Drund, the Ruinator-Titan",
+			"rarity": "rare",
+			"mana_cost": "{12}",
+			"type": "Legendary Artifact Creature — Golem Avatar",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/280.png"
 			}
 		},
 		{
@@ -2738,15 +2816,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "254",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/281_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/281_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/281.png"
+			}
+		},
+		{
+			"name": "Ripsnap, Apex Predator",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Legendary Creature — Beast Avatar",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/282.png"
 			}
 		},
 		{
@@ -2755,15 +2836,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "229",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/283_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/283_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/283.png"
+			}
+		},
+		{
+			"name": "Solborn",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}{W}",
+			"type": "Legendary Creature — Giant Avatar",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/284.png"
 			}
 		},
 		{
@@ -2772,15 +2856,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "241",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/285_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/285_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/285.png"
+			}
+		},
+		{
+			"name": "Gulch, the Deep-Gorger",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Legendary Creature — Leviathan Avatar",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/286.png"
 			}
 		},
 		{
@@ -2789,15 +2876,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "262",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/287_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/287_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/287.png"
+			}
+		},
+		{
+			"name": "Skixlot, the Bone-King",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Skeleton Avatar",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/288.png"
 			}
 		},
 		{
@@ -2806,15 +2896,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "233",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/289_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/289_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/289.png"
+			}
+		},
+		{
+			"name": "Zorgaz the Unsurpassable",
+			"rarity": "rare",
+			"mana_cost": "{X}{4}{G}{G}",
+			"type": "Legendary Creature — Hydra Avatar",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/290.png"
 			}
 		},
 		{
@@ -2823,15 +2916,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "263",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/291_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/291_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/291.png"
+			}
+		},
+		{
+			"name": "Xiphaes, Eternal Slayer",
+			"rarity": "mythic",
+			"mana_cost": "{13}{W}{W}",
+			"type": "Legendary Creature — Colossus",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/292.png"
 			}
 		},
 		{
@@ -2840,15 +2936,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "246",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/293_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/293_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/293.png"
+			}
+		},
+		{
+			"name": "Abussaee, Deep Unleahed",
+			"rarity": "mythic",
+			"mana_cost": "{13}{U}{U}",
+			"type": "Legendary Creature — Colossus",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/294.png"
 			}
 		},
 		{
@@ -2857,15 +2956,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "264",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/295_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/295_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/295.png"
+			}
+		},
+		{
+			"name": "Exodais, Harbinger of Ends",
+			"rarity": "mythic",
+			"mana_cost": "{13}{B}{B}",
+			"type": "Legendary Creature — Colossus",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/296.png"
 			}
 		},
 		{
@@ -2874,15 +2976,18 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "249",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/297_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/297_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/297.png"
+			}
+		},
+		{
+			"name": "Eos, Forger of Beginnings",
+			"rarity": "mythic",
+			"mana_cost": "{13}{R}{R}",
+			"type": "Legendary Creature — Colossus",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/298.png"
 			}
 		},
 		{
@@ -2891,17 +2996,20 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "245",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/299_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/299_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/299.png"
 			}
 		},
+		{
+			"name": "Biotace, World Awoken",
+			"rarity": "mythic",
+			"mana_cost": "{13}{G}{G}",
+			"type": "Legendary Creature — Colossus",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://projectelsewherehub.github.io/sets/AMP-files/img/300.png"
+			}
+		}
 	]
 
 [rare(1)]
@@ -2974,21 +3082,37 @@
 	2 Pendant of Potency
 	1 Kiora, Caller of the Deep
 	2 Sacred Valley
+	2 M'Kuya, Sacred One
 	2 Everlasting Typhoon
+	2 Sturmstrik, Typhoon-Bringer
 	2 The Soul Cages
+	2 Henzen, the Soulkeeper
 	2 Scourged Grounds
+	2 Almax, the Scourge-Tyrant
 	2 Enduring Elevation
+	2 Stord, Endurance Incarnate
 	2 Path of Ruin
+	2 Drund, the Ruinator-Titan
 	2 Predator's Den
+	2 Ripsnap, Apex Predator
 	2 Bed of the Sun
+	2 Solborn
 	2 Gorged Trench
+	2 Gulch, the Deep-Gorger
 	2 Throne of Bones
+	2 Skixlot, the Bone-King
 	2 Cradle of Evergrowth
+	2 Zorgaz the Unsurpassable
 	1 Tomb of the Slain
+	1 Xiphaes, Eternal Slayer
 	1 Maw of the Deep
+	1 Abussaee, Deep Unleahed
 	1 Vault of the End
+	1 Exodais, Harbinger of Ends
 	1 Nexus of the Beginning
+	1 Eos, Forger of Beginnings
 	1 Heart of the World
+	1 Biotace, World Awoken
 [uncommon(3)]
 	4 O'Lime, Reefkeeper
 	4 Nerak, Herald of Processions
@@ -3051,25 +3175,45 @@
 	4 Gorod, the Walking City
 	4 Havoc Rush
 	4 Signs of Protection
+	4 Accomplished Protector
 	4 Followed Path
+	4 Pathmaker
 	4 Monument to the Skybound
+	4 Skybound Familiar
 	4 Frozen Wastes
+	4 Frozen Titan
 	4 Seafloor of Shipwrecks
+	4 Shipwrecker Serpent
 	4 Churning Depths
+	4 Sanity Churner
 	4 Pool of Blood
+	4 Bloodletter Demon
 	4 Gargantuan Grave
+	4 Undying Titan
 	4 Hall of Temptations
+	4 Master of Temptations
 	4 Volcanic Edge
+	4 Erupting Phoenix
 	4 Ravaged Vista
+	4 Slag Titan
 	4 Gnarled Waves
+	4 Gnarled Octopod
 	4 Head of the Woods
+	4 Walking Woods
 	4 Pool of Vitality
+	4 Vitalized Kraken
 	4 Path of Thorns
+	4 Thorn Titan
 	4 Great Den
+	4 Keeper of Many Dens
 	4 Cascading Fountain
+	4 Cascading Elemental
 	4 Murky Waters
+	4 It Beneath the Murk
 	4 Carved Peak
+	4 Mountaincarver
 	4 Flowering Grove
+	4 Flowering Stag
 [common(6)]
 	8 Radiant Mentor
 	8 Caller of the Protectors
@@ -3505,41 +3649,77 @@
 	12 Vitalizing Boon
 	1 Kiora, Caller of the Deep
 	6 Signs of Protection
+	6 Accomplished Protector
 	6 Followed Path
+	6 Pathmaker
 	6 Monument to the Skybound
+	6 Skybound Familiar
 	6 Frozen Wastes
+	6 Frozen Titan
 	6 Seafloor of Shipwrecks
+	6 Shipwrecker Serpent
 	6 Churning Depths
+	6 Sanity Churner
 	6 Pool of Blood
+	6 Bloodletter Demon
 	6 Gargantuan Grave
+	6 Undying Titan
 	6 Hall of Temptations
+	6 Master of Temptations
 	6 Volcanic Edge
+	6 Erupting Phoenix
 	6 Ravaged Vista
+	6 Slag Titan
 	6 Gnarled Waves
+	6 Gnarled Octopod
 	6 Head of the Woods
+	6 Walking Woods
 	6 Pool of Vitality
+	6 Vitalized Kraken
 	6 Path of Thorns
+	6 Thorn Titan
 	6 Great Den
+	6 Keeper of Many Dens
 	6 Cascading Fountain
+	6 Cascading Elemental
 	6 Murky Waters
+	6 It Beneath the Murk
 	6 Carved Peak
+	6 Mountaincarver
 	6 Flowering Grove
+	6 Flowering Stag
 	2 Sacred Valley
+	2 M'Kuya, Sacred One
 	2 Everlasting Typhoon
+	2 Sturmstrik, Typhoon-Bringer
 	2 The Soul Cages
+	2 Henzen, the Soulkeeper
 	2 Scourged Grounds
+	2 Almax, the Scourge-Tyrant
 	2 Enduring Elevation
+	2 Stord, Endurance Incarnate
 	2 Path of Ruin
+	2 Drund, the Ruinator-Titan
 	2 Predator's Den
+	2 Ripsnap, Apex Predator
 	2 Bed of the Sun
+	2 Solborn
 	2 Gorged Trench
+	2 Gulch, the Deep-Gorger
 	2 Throne of Bones
+	2 Skixlot, the Bone-King
 	2 Cradle of Evergrowth
+	2 Zorgaz the Unsurpassable
 	1 Tomb of the Slain
+	1 Xiphaes, Eternal Slayer
 	1 Maw of the Deep
+	1 Abussaee, Deep Unleahed
 	1 Vault of the End
+	1 Exodais, Harbinger of Ends
 	1 Nexus of the Beginning
+	1 Eos, Forger of Beginnings
 	1 Heart of the World
+	1 Biotace, World Awoken
 [wildcard(1)]
 	15 O'Lime, Reefkeeper
 	15 Nerak, Herald of Processions
@@ -3771,38 +3951,74 @@
 	6 Vitalizing Boon
 	4 Kiora, Caller of the Deep
 	15 Signs of Protection
+	15 Accomplished Protector
 	15 Followed Path
+	15 Pathmaker
 	15 Monument to the Skybound
+	15 Skybound Familiar
 	15 Frozen Wastes
+	15 Frozen Titan
 	15 Seafloor of Shipwrecks
+	15 Shipwrecker Serpent
 	15 Churning Depths
+	15 Sanity Churner
 	15 Pool of Blood
+	15 Bloodletter Demon
 	15 Gargantuan Grave
+	15 Undying Titan
 	15 Hall of Temptations
+	15 Master of Temptations
 	15 Volcanic Edge
+	15 Erupting Phoenix
 	15 Ravaged Vista
+	15 Slag Titan
 	15 Gnarled Waves
+	15 Gnarled Octopod
 	15 Head of the Woods
+	15 Walking Woods
 	15 Pool of Vitality
+	15 Vitalized Kraken
 	15 Path of Thorns
+	15 Thorn Titan
 	15 Great Den
+	15 Keeper of Many Dens
 	15 Cascading Fountain
+	15 Cascading Elemental
 	15 Murky Waters
+	15 It Beneath the Murk
 	15 Carved Peak
+	15 Mountaincarver
 	15 Flowering Grove
+	15 Flowering Stag
 	7 Sacred Valley
+	7 M'Kuya, Sacred One
 	7 Everlasting Typhoon
+	7 Sturmstrik, Typhoon-Bringer
 	7 The Soul Cages
+	7 Henzen, the Soulkeeper
 	7 Scourged Grounds
+	7 Almax, the Scourge-Tyrant
 	7 Enduring Elevation
+	7 Stord, Endurance Incarnate
 	7 Path of Ruin
+	7 Drund, the Ruinator-Titan
 	7 Predator's Den
+	7 Ripsnap, Apex Predator
 	7 Bed of the Sun
+	7 Solborn
 	7 Gorged Trench
+	7 Gulch, the Deep-Gorger
 	7 Throne of Bones
+	7 Skixlot, the Bone-King
 	7 Cradle of Evergrowth
+	7 Zorgaz the Unsurpassable
 	4 Tomb of the Slain
+	4 Xiphaes, Eternal Slayer
 	4 Maw of the Deep
+	4 Abussaee, Deep Unleahed
 	4 Vault of the End
+	4 Exodais, Harbinger of Ends
 	4 Nexus of the Beginning
+	4 Eos, Forger of Beginnings
 	4 Heart of the World
+	4 Biotace, World Awoken

@@ -1,4 +1,127 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Grim Farmer added.
+Remains of the Dreamer added.
+White Dreamer of Darkness added.
+Freed-Beak Crow added.
+Nightly Execution added.
+Blue Dreamer of Darkness added.
+Brickfolk Delusionist added.
+Deliberate Pause added.
+Black Dreamer of Darkness added.
+Bloodstained Chronowurm added.
+Enduring Mettle added.
+Red Dreamer of Darkness added.
+Beastly Stowaway added.
+We Burn Again added.
+Green Dreamer of Darkness added.
+Eight-Legged Terror added.
+Whom to Prey added.
+Villain of Brick added.
+Villain of Moon added.
+Villain of Blade added.
+Villain of Sun added.
+Villain of Sight added.
+Season of Grim added.
+The Dreamer's World added.
+Favor of Frost added.
+Favor of Darkness added.
+Favor of Blood added.
+Favor of Fire added.
+Favor of Life added.
+Favor of Bone added.
+Favor of Thunder added.
+Favor of Death added.
+Favor of Light added.
+Favor of Water added.
+Dreamstalker of Solidarity added.
+Dreamstalker of Aptitude added.
+Dreamstalker of Ambition added.
+Dreamstalker of Passion added.
+Dreamstalker of Abundance added.
+
+
+CC01 Whimsical Farmer
+
+MC01 The Dreamer Wakes Up
+
+CW01 White Dreamer of Whimsy
+
+CW05 Pranking Pumpkin
+
+CW12 Knightly Execution
+
+CU01 Blue Dreamer of Whimsy
+
+CU04 Brickfolk Surveyor
+
+CU15 Deliberate Paws
+
+CB01 Black Dreamer of Whimsy
+
+CB06 Tricky Temporalist
+
+CB15 Enduring Metal
+
+CR01 Red Dreamer of Whimsy
+
+CR04 Foolish Smuggler
+
+CR11 Return Again
+
+CG01 Green Dreamer of Whimsy
+
+CG04 Eight-Legged Bartender
+
+CG11 Whom to Pray
+
+CM01 Hero of Brick
+
+CM02 Hero of Moon
+
+CM03 Hero of Blade
+
+CM04 Hero of Sun
+
+CM05 Hero of Sight
+
+MM01 Season of Whimsy
+
+ML06 The Dreamer's Home
+
+UL01 Festival of Frost
+
+UL02 Festival of Darkness
+
+UL03 Festival of Blood
+
+UL04 Festival of Fire
+
+UL05 Festival of Life
+
+UL06 Festival of Bone
+
+UL07 Festival of Thunder
+
+UL08 Festival of Death
+
+UL09 Festival of Light
+
+UL10 Festival of Water
+
+UW02 Dreamwalker of Solidarity
+
+UU02 Dreamwalker of Aptitude
+
+UB02 Dreamwalker of Ambition
+
+UB02 Dreamwalker of Passion
+
+UG02 Dreamwalker of Abundance
+
+
+VERSION 16 CHANGELOG
 ====================
 
 No changes.

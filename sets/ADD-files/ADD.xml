@@ -3920,12 +3920,10 @@ You&apos;re grim if the last non-moodbound spell you&apos;ve cast had mana value
 		</card>
 		<card>
 			<name>CC01 Whimsical Farmer</name>
-			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
----
-(Back): Grim Farmer</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/225_front.png" num="1a">ADD</set>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/225.png" num="1">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Peasant</type>
 				<maintype>Creature</maintype>
@@ -3934,17 +3932,14 @@ You&apos;re grim if the last non-moodbound spell you&apos;ve cast had mana value
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Grim Farmer</related>
 		</card>
 		<card>
 			<name>Grim Farmer</name>
-			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
----
-(Front): CC01 Whimsical Farmer</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/225_back.png" num="1b">ADD</set>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/226.png" num="1">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Human Peasant</type>
 				<maintype>Creature</maintype>
 				<manacost>4</manacost>
@@ -3952,19 +3947,16 @@ You&apos;re grim if the last non-moodbound spell you&apos;ve cast had mana value
 				<pt>4/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CC01 Whimsical Farmer</related>
 		</card>
 		<card>
 			<name>MC01 The Dreamer Wakes Up</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)
 I, II — Draw a card.
 III, IV — Discard a card.
-V — Exile this saga, then return it to the battlefield transformed under your control.
----
-(Back): Remains of the Dreamer</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/227_front.png" num="4a">ADD</set>
+V — Exile this saga, then return it to the battlefield transformed under your control.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/227.png" num="4">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>saga</layout>
 				<side>front</side>
 				<type>Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
@@ -3972,35 +3964,29 @@ V — Exile this saga, then return it to the battlefield transformed under your 
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">Remains of the Dreamer</related>
 		</card>
 		<card>
 			<name>Remains of the Dreamer</name>
 			<text>{T}: Add {C}{C}{C}.
-{1}: You become your choice of whimsy or grim.
----
-(Front): MC01 The Dreamer Wakes Up</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/227_back.png" num="4b">ADD</set>
+{1}: You become your choice of whimsy or grim.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/228.png" num="4">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Legendary Artifact</type>
 				<maintype>Artifact</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">MC01 The Dreamer Wakes Up</related>
 		</card>
 		<card>
 			<name>CW01 White Dreamer of Whimsy</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-Lifelink
----
-(Back): White Dreamer of Darkness</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/229_front.png" num="10a">ADD</set>
+Lifelink</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/229.png" num="10">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
@@ -4011,17 +3997,14 @@ Lifelink
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">White Dreamer of Darkness</related>
 		</card>
 		<card>
 			<name>White Dreamer of Darkness</name>
-			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
----
-(Front): CW01 White Dreamer of Whimsy</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/229_back.png" num="10b">ADD</set>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/230.png" num="10">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>1W</manacost>
@@ -4031,17 +4014,14 @@ Lifelink
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CW01 White Dreamer of Whimsy</related>
 		</card>
 		<card>
 			<name>CW05 Pranking Pumpkin</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-{W}, {T}: Tap target artifact or creature. Activate only as a sorcery.
----
-(Back): Freed-Beak Crow</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/231_front.png" num="14a">ADD</set>
+{W}, {T}: Tap target artifact or creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/231.png" num="14">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact Creature — Scarecrow</type>
 				<maintype>Creature</maintype>
@@ -4052,18 +4032,15 @@ Lifelink
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Freed-Beak Crow</related>
 		</card>
 		<card>
 			<name>Freed-Beak Crow</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Flying
----
-(Front): CW05 Pranking Pumpkin</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/231_back.png" num="14b">ADD</set>
+Flying</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/232.png" num="14">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Bird Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>3W</manacost>
@@ -4073,17 +4050,14 @@ Flying
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CW05 Pranking Pumpkin</related>
 		</card>
 		<card>
 			<name>CW12 Knightly Execution</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-This spell deals 2 damage to target attacking or blocking creature.
----
-(Back): Nightly Execution</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/233_front.png" num="21a">ADD</set>
+This spell deals 2 damage to target attacking or blocking creature.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/233.png" num="21">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
@@ -4093,18 +4067,15 @@ This spell deals 2 damage to target attacking or blocking creature.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">Nightly Execution</related>
 		</card>
 		<card>
 			<name>Nightly Execution</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Exile two target creatures with total power 8 or greater.
----
-(Front): CW12 Knightly Execution</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/233_back.png" num="21b">ADD</set>
+Exile two target creatures with total power 8 or greater.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/234.png" num="21">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
 				<manacost>4W</manacost>
@@ -4113,17 +4084,32 @@ Exile two target creatures with total power 8 or greater.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">CW12 Knightly Execution</related>
+		</card>
+		<card>
+			<name>Blue Dreamer of Darkness</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Flying</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/235.png" num="46">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CU01 Blue Dreamer of Whimsy</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-Vigilance
----
-(Back): Blue Dreamer of Darkness</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/236_front.png" num="46a">ADD</set>
+Vigilance</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/236.png" num="46">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
@@ -4134,39 +4120,34 @@ Vigilance
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Blue Dreamer of Darkness</related>
 		</card>
 		<card>
-			<name>Blue Dreamer of Darkness</name>
+			<name>Brickfolk Delusionist</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Flying
----
-(Front): CU01 Blue Dreamer of Whimsy</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/236_back.png" num="46b">ADD</set>
+Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[[b]Whenever this creature attacks, mill two cards.[/b]]</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/237.png" num="49">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature — Human Spirit</type>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wall Warlock</type>
 				<maintype>Creature</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/2</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CU01 Blue Dreamer of Whimsy</related>
 		</card>
 		<card>
 			<name>CU04 Brickfolk Surveyor</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
-[[b]Whenever this creature attacks, surveil 1.[/b]] (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
----
-(Back): Brickfolk Delusionist</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/238_front.png" num="49a">ADD</set>
+[[b]Whenever this creature attacks, surveil 1.[/b]] (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/238.png" num="49">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Wall Scout</type>
 				<maintype>Creature</maintype>
@@ -4177,39 +4158,14 @@ Foundation (When this enters, if you don&apos;t control a Building, create a 0/0
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Brickfolk Delusionist</related>
-		</card>
-		<card>
-			<name>Brickfolk Delusionist</name>
-			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
-[[b]Whenever this creature attacks, mill two cards.[/b]]
----
-(Front): CU04 Brickfolk Surveyor</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/238_back.png" num="49b">ADD</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature — Wall Warlock</type>
-				<maintype>Creature</maintype>
-				<manacost>4U</manacost>
-				<cmc>5</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">CU04 Brickfolk Surveyor</related>
 		</card>
 		<card>
 			<name>CU15 Deliberate Paws</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-Untap target creature you control.
----
-(Back): Deliberate Pause</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/239_front.png" num="60a">ADD</set>
+Untap target creature you control.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/239.png" num="60">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
@@ -4219,18 +4175,15 @@ Untap target creature you control.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">Deliberate Pause</related>
 		</card>
 		<card>
 			<name>Deliberate Pause</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Prevent all damage dealt by creatures this turn.
----
-(Front): CU15 Deliberate Paws</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/239_back.png" num="60b">ADD</set>
+Prevent all damage dealt by creatures this turn.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/240.png" num="60">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
 				<manacost>3U</manacost>
@@ -4239,38 +4192,15 @@ Prevent all damage dealt by creatures this turn.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">CU15 Deliberate Paws</related>
-		</card>
-		<card>
-			<name>CB01 Black Dreamer of Whimsy</name>
-			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-Menace
----
-(Back): Black Dreamer of Darkness</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/242_front.png" num="82a">ADD</set>
-			<prop>
-				<layout>transform</layout>
-				<side>front</side>
-				<type>Creature — Human Spirit</type>
-				<maintype>Creature</maintype>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Black Dreamer of Darkness</related>
 		</card>
 		<card>
 			<name>Black Dreamer of Darkness</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Deathtouch
----
-(Front): CB01 Black Dreamer of Whimsy</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/242_back.png" num="82b">ADD</set>
+Deathtouch</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/241.png" num="82">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>1B</manacost>
@@ -4280,19 +4210,51 @@ Deathtouch
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CB01 Black Dreamer of Whimsy</related>
+		</card>
+		<card>
+			<name>CB01 Black Dreamer of Whimsy</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+Menace</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/242.png" num="82">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodstained Chronowurm</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Whenever this creature deals combat damage to player, end the turn. (Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/243.png" num="87">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CB06 Tricky Temporalist</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Menace
 Whenever this creature deals combat damage to a player, you may pay 1 life. If you do, untap it.
-{T}, Pay 1 life, Sacrifice a permanent: Draw a card.
----
-(Back): Bloodstained Chronowurm</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/244_front.png" num="87a">ADD</set>
+{T}, Pay 1 life, Sacrifice a permanent: Draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/244.png" num="87">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Warlock</type>
 				<maintype>Creature</maintype>
@@ -4303,38 +4265,14 @@ Whenever this creature deals combat damage to a player, you may pay 1 life. If y
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Bloodstained Chronowurm</related>
-		</card>
-		<card>
-			<name>Bloodstained Chronowurm</name>
-			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Whenever this creature deals combat damage to player, end the turn. (Exile all spells and abilities. The player whose turn it is discards down to their maximum hand size. Damage heals and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)
----
-(Front): CB06 Tricky Temporalist</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/244_back.png" num="87b">ADD</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature — Wurm</type>
-				<maintype>Creature</maintype>
-				<manacost>4B</manacost>
-				<cmc>5</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>6/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">CB06 Tricky Temporalist</related>
 		</card>
 		<card>
 			<name>CB15 Enduring Metal</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-You may sacrifice an artifact. If you do, draw two cards.
----
-(Back): Enduring Mettle</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/245_front.png" num="96a">ADD</set>
+You may sacrifice an artifact. If you do, draw two cards.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/245.png" num="96">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
@@ -4344,18 +4282,15 @@ You may sacrifice an artifact. If you do, draw two cards.
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">Enduring Mettle</related>
 		</card>
 		<card>
 			<name>Enduring Mettle</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Until end of turn, creatures you control gain &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;
----
-(Front): CB15 Enduring Metal</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/245_back.png" num="96b">ADD</set>
+Until end of turn, creatures you control gain &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/246.png" num="96">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
 				<manacost>3B</manacost>
@@ -4364,17 +4299,14 @@ Until end of turn, creatures you control gain &quot;When this creature dies, ret
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">CB15 Enduring Metal</related>
 		</card>
 		<card>
 			<name>CR01 Red Dreamer of Whimsy</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-Haste
----
-(Back): Red Dreamer of Darkness</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/247_front.png" num="118a">ADD</set>
+Haste</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/247.png" num="118">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
@@ -4385,18 +4317,15 @@ Haste
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Red Dreamer of Darkness</related>
 		</card>
 		<card>
 			<name>Red Dreamer of Darkness</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Prowess
----
-(Front): CR01 Red Dreamer of Whimsy</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/247_back.png" num="118b">ADD</set>
+Prowess</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/248.png" num="118">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>1R</manacost>
@@ -4406,17 +4335,32 @@ Prowess
 				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CR01 Red Dreamer of Whimsy</related>
+		</card>
+		<card>
+			<name>Beastly Stowaway</name>
+			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
+Whenever this creature attacks, mill a card. You may play that card until the end of your next turn.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/249.png" num="121">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CR04 Foolish Smuggler</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-When this creature enters, mill a card. You may play that card until the end of your next turn.
----
-(Back): Beastly Stowaway</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/250_front.png" num="121a">ADD</set>
+When this creature enters, mill a card. You may play that card until the end of your next turn.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/250.png" num="121">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Werewolf</type>
 				<maintype>Creature</maintype>
@@ -4427,38 +4371,14 @@ When this creature enters, mill a card. You may play that card until the end of 
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Beastly Stowaway</related>
-		</card>
-		<card>
-			<name>Beastly Stowaway</name>
-			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Whenever this creature attacks, mill a card. You may play that card until the end of your next turn.
----
-(Front): CR04 Foolish Smuggler</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/250_back.png" num="121b">ADD</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature — Wolf Werewolf</type>
-				<maintype>Creature</maintype>
-				<manacost>3R</manacost>
-				<cmc>4</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>3/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">CR04 Foolish Smuggler</related>
 		</card>
 		<card>
 			<name>CR11 Return Again</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-Mill two cards. You may play one of them this turn.
----
-(Back): We Burn Again</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/251_front.png" num="128a">ADD</set>
+Mill two cards. You may play one of them this turn.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/251.png" num="128">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
@@ -4468,18 +4388,15 @@ Mill two cards. You may play one of them this turn.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">We Burn Again</related>
 		</card>
 		<card>
 			<name>We Burn Again</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-This spell deals 4 damage to any target.
----
-(Front): CR11 Return Again</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/251_back.png" num="128b">ADD</set>
+This spell deals 4 damage to any target.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/252.png" num="128">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
 				<manacost>2R</manacost>
@@ -4488,17 +4405,14 @@ This spell deals 4 damage to any target.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">CR11 Return Again</related>
 		</card>
 		<card>
 			<name>CG01 Green Dreamer of Whimsy</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
----
-(Back): Green Dreamer of Darkness</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/253_front.png" num="154a">ADD</set>
+Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/253.png" num="154">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
@@ -4509,18 +4423,15 @@ Ward {1} (Whenever this creature becomes the target of a spell or ability an opp
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Green Dreamer of Darkness</related>
 		</card>
 		<card>
 			<name>Green Dreamer of Darkness</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Defender, reach
----
-(Front): CG01 Green Dreamer of Whimsy</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/253_back.png" num="154b">ADD</set>
+Defender, reach</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/254.png" num="154">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>1G</manacost>
@@ -4530,18 +4441,15 @@ Defender, reach
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CG01 Green Dreamer of Whimsy</related>
 		</card>
 		<card>
 			<name>CG04 Eight-Legged Bartender</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Reach, deathtouch
-When this creature dies, draw a card.
----
-(Back): Eight-Legged Terror</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/255_front.png" num="157a">ADD</set>
+When this creature dies, draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/255.png" num="157">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Spider</type>
 				<maintype>Creature</maintype>
@@ -4552,19 +4460,16 @@ When this creature dies, draw a card.
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Eight-Legged Terror</related>
 		</card>
 		<card>
 			<name>Eight-Legged Terror</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Reach, deathtouch
-When this creature dies, mill three cards.
----
-(Front): CG04 Eight-Legged Bartender</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/255_back.png" num="157b">ADD</set>
+When this creature dies, mill three cards.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/256.png" num="157">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Spider</type>
 				<maintype>Creature</maintype>
 				<manacost>3G</manacost>
@@ -4574,17 +4479,14 @@ When this creature dies, mill three cards.
 				<pt>4/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CG04 Eight-Legged Bartender</related>
 		</card>
 		<card>
 			<name>CG11 Whom to Pray</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-You gain 2 life. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
----
-(Back): Whom to Prey</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/257_front.png" num="164a">ADD</set>
+You gain 2 life. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/257.png" num="164">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
@@ -4594,18 +4496,15 @@ You gain 2 life. Surveil 2. (Look at the top two cards of your library, then put
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">Whom to Prey</related>
 		</card>
 		<card>
 			<name>Whom to Prey</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Target creature you control fights target creature you don&apos;t control.
----
-(Front): CG11 Whom to Pray</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/257_back.png" num="164b">ADD</set>
+Target creature you control fights target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/258.png" num="164">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
 				<manacost>1G</manacost>
@@ -4614,18 +4513,15 @@ Target creature you control fights target creature you don&apos;t control.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">CG11 Whom to Pray</related>
 		</card>
 		<card>
 			<name>CM01 Hero of Brick</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
-[[b]Whenever this creature deals combat damage to a player, you gain 3 life and scry 1.[/b]]
----
-(Back): Villain of Brick</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/259_front.png" num="190a">ADD</set>
+[[b]Whenever this creature deals combat damage to a player, you gain 3 life and scry 1.[/b]]</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/259.png" num="190">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Wall Hero</type>
 				<maintype>Creature</maintype>
@@ -4636,19 +4532,16 @@ Foundation (When this enters, if you don&apos;t control a Building, create a 0/0
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Villain of Brick</related>
 		</card>
 		<card>
 			<name>Villain of Brick</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
-[[b]Whenever this creature deals combat damage to a player, you gain 1 life and draw a card.[/b]]
----
-(Front): CM01 Hero of Brick</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/259_back.png" num="190b">ADD</set>
+[[b]Whenever this creature deals combat damage to a player, you gain 1 life and draw a card.[/b]]</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/260.png" num="190">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Wall Villain</type>
 				<maintype>Creature</maintype>
 				<manacost>1WU</manacost>
@@ -4658,18 +4551,15 @@ Foundation (When this enters, if you don&apos;t control a Building, create a 0/0
 				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CM01 Hero of Brick</related>
 		</card>
 		<card>
 			<name>CM02 Hero of Moon</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 When this creature enters, surveil 2.
-Moonflow 2
----
-(Back): Villain of Moon</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/261_front.png" num="191a">ADD</set>
+Moonflow 2</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/261.png" num="191">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Reflection Hero</type>
 				<maintype>Creature</maintype>
@@ -4680,19 +4570,16 @@ Moonflow 2
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Villain of Moon</related>
 		</card>
 		<card>
 			<name>Villain of Moon</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 When this creature enters, surveil 1.
-Moonflow 2
----
-(Front): CM02 Hero of Moon</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/261_back.png" num="191b">ADD</set>
+Moonflow 2</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/262.png" num="191">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Reflection Villain</type>
 				<maintype>Creature</maintype>
 				<manacost>1UB</manacost>
@@ -4702,18 +4589,15 @@ Moonflow 2
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CM02 Hero of Moon</related>
 		</card>
 		<card>
 			<name>CM03 Hero of Blade</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 Haste
-Revolt — When this creature enters, if a permanent left the battlefield under your control this turn, you gain 1 life and each opponent loses 1 life.
----
-(Back): Villain of Blade</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/263_front.png" num="192a">ADD</set>
+Revolt — When this creature enters, if a permanent left the battlefield under your control this turn, you gain 1 life and each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/263.png" num="192">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Demon Hero</type>
 				<maintype>Creature</maintype>
@@ -4724,18 +4608,15 @@ Revolt — When this creature enters, if a permanent left the battlefield under 
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Villain of Blade</related>
 		</card>
 		<card>
 			<name>Villain of Blade</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Revolt — At the beginning of your end step, if a permanent left the battlefield under your control this turn, you gain 1 life and each opponent loses 1 life.
----
-(Front): CM03 Hero of Blade</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/263_back.png" num="192b">ADD</set>
+Revolt — At the beginning of your end step, if a permanent left the battlefield under your control this turn, you gain 1 life and each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/264.png" num="192">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Demon Villain</type>
 				<maintype>Creature</maintype>
 				<manacost>1BR</manacost>
@@ -4745,17 +4626,14 @@ Revolt — At the beginning of your end step, if a permanent left the battlefiel
 				<pt>4/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CM03 Hero of Blade</related>
 		</card>
 		<card>
 			<name>CM04 Hero of Sun</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-Sunfire — This creature gets +1/+0 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
----
-(Back): Villain of Sun</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/265_front.png" num="193a">ADD</set>
+Sunfire — This creature gets +1/+0 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/265.png" num="193">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Elemental Hero</type>
 				<maintype>Creature</maintype>
@@ -4766,18 +4644,15 @@ Sunfire — This creature gets +1/+0 until end of turn. (Exile a creature card f
 				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Villain of Sun</related>
 		</card>
 		<card>
 			<name>Villain of Sun</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Sunfire — This creature gets +1/+0 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
----
-(Front): CM04 Hero of Sun</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/265_back.png" num="193b">ADD</set>
+Sunfire — This creature gets +1/+0 until end of turn. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/266.png" num="193">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Elemental Villain</type>
 				<maintype>Creature</maintype>
 				<manacost>1RG</manacost>
@@ -4787,17 +4662,14 @@ Sunfire — This creature gets +1/+0 until end of turn. (Exile a creature card f
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CM04 Hero of Sun</related>
 		</card>
 		<card>
 			<name>CM05 Hero of Sight</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-Formidable — When this creature enters, if creatures you control have total power 8 or greater, draw a card.
----
-(Back): Villain of Sight</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/267_front.png" num="194a">ADD</set>
+Formidable — When this creature enters, if creatures you control have total power 8 or greater, draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/267.png" num="194">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Giant Villain</type>
 				<maintype>Creature</maintype>
@@ -4808,18 +4680,15 @@ Formidable — When this creature enters, if creatures you control have total po
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Villain of Sight</related>
 		</card>
 		<card>
 			<name>Villain of Sight</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater, this creature gets +0/+2 until end of turn.
----
-(Front): CM05 Hero of Sight</text>
-			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/267_back.png" num="194b">ADD</set>
+Formidable — Whenever this creature attacks, if creatures you control have total power 8 or greater, this creature gets +0/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/268.png" num="194">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Giant Villain</type>
 				<maintype>Creature</maintype>
 				<manacost>1GW</manacost>
@@ -4829,7 +4698,6 @@ Formidable — Whenever this creature attacks, if creatures you control have tot
 				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">CM05 Hero of Sight</related>
 		</card>
 		<card>
 			<name>MM01 Season of Whimsy</name>
@@ -4838,12 +4706,10 @@ Mill five cards. Pay any amount of life.
 Choose up to X {J} worth of modes, where X is the amount of life paid. You may choose the same mode more than once.
 {J} — Add a card from your graveyard to the milled cards.
 {J}{J} — Put a land card from among the milled cards into your hand.
-{J}{J}{J} — Put a creature card from among the milled cards into your hand.
----
-(Back): Season of Grim</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/269_front.png" num="200a">ADD</set>
+{J}{J}{J} — Put a creature card from among the milled cards into your hand.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/269.png" num="200">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
@@ -4853,7 +4719,6 @@ Choose up to X {J} worth of modes, where X is the amount of life paid. You may c
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">Season of Grim</related>
 		</card>
 		<card>
 			<name>Season of Grim</name>
@@ -4862,13 +4727,11 @@ Pay any amount of life.
 Choose up to X {J} worth of modes, where X is the amount of life paid. You may choose the same mode more than once.
 {J} — Mill a card.
 {J}{J}{J} — Add {B} or {G}.
-X {J} — Return a creature card with mana value X from your graveyard to the battlefield.
----
-(Front): MM01 Season of Whimsy</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/269_back.png" num="200b">ADD</set>
+X {J} — Return a creature card with mana value X from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/270.png" num="200">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
 				<manacost>12/GB</manacost>
@@ -4877,18 +4740,15 @@ X {J} — Return a creature card with mana value X from your graveyard to the ba
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">MM01 Season of Whimsy</related>
 		</card>
 		<card>
 			<name>ML06 The Dreamer&apos;s Home</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 When this land enters, you gain 2 life.
-{T}: Add {C}.
----
-(Back): The Dreamer&apos;s World</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/271_front.png" num="238a">ADD</set>
+{T}: Add {C}.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/271.png" num="238">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
@@ -4896,57 +4756,31 @@ When this land enters, you gain 2 life.
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
-			<related attach="transform">The Dreamer&apos;s World</related>
 		</card>
 		<card>
 			<name>The Dreamer&apos;s World</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-{T}, Pay 2 life: Add {C}{C}.
----
-(Front): ML06 The Dreamer&apos;s Home</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/271_back.png" num="238b">ADD</set>
+{T}, Pay 2 life: Add {C}{C}.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/272.png" num="238">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-			<related attach="transform">ML06 The Dreamer&apos;s Home</related>
-		</card>
-		<card>
-			<name>UL01 Festival of Frost</name>
-			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-This land enters tapped.
-{T}: Add {W} or {U}.
----
-(Back): Favor of Frost</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/274_front.png" num="245a">ADD</set>
-			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<coloridentity>WU</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related attach="transform">Favor of Frost</related>
 		</card>
 		<card>
 			<name>Favor of Frost</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {C}.
-When this enchantment enters, draw a card.
----
-(Front): UL01 Festival of Frost</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/274_back.png" num="245b">ADD</set>
+When this enchantment enters, draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/273.png" num="245">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
 				<manacost>1WU</manacost>
@@ -4955,39 +4789,33 @@ When this enchantment enters, draw a card.
 				<coloridentity>WU</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">UL01 Festival of Frost</related>
 		</card>
 		<card>
-			<name>UL02 Festival of Darkness</name>
+			<name>UL01 Festival of Frost</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
-{T}: Add {U} or {B}.
----
-(Back): Favor of Darkness</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/276_front.png" num="246a">ADD</set>
+{T}: Add {W} or {U}.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/274.png" num="245">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<coloridentity>UB</coloridentity>
+				<coloridentity>WU</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related attach="transform">Favor of Darkness</related>
 		</card>
 		<card>
 			<name>Favor of Darkness</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {C}.
-When this enchantment enters, draw a card.
----
-(Front): UL02 Festival of Darkness</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/276_back.png" num="246b">ADD</set>
+When this enchantment enters, draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/275.png" num="246">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
 				<manacost>1UB</manacost>
@@ -4996,39 +4824,33 @@ When this enchantment enters, draw a card.
 				<coloridentity>UB</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">UL02 Festival of Darkness</related>
 		</card>
 		<card>
-			<name>UL03 Festival of Blood</name>
+			<name>UL02 Festival of Darkness</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
-{T}: Add {B} or {R}.
----
-(Back): Favor of Blood</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/278_front.png" num="247a">ADD</set>
+{T}: Add {U} or {B}.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/276.png" num="246">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<coloridentity>BR</coloridentity>
+				<coloridentity>UB</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related attach="transform">Favor of Blood</related>
 		</card>
 		<card>
 			<name>Favor of Blood</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {C}.
-When this enchantment enters, draw a card.
----
-(Front): UL03 Festival of Blood</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/278_back.png" num="247b">ADD</set>
+When this enchantment enters, draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/277.png" num="247">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
 				<manacost>1BR</manacost>
@@ -5037,39 +4859,33 @@ When this enchantment enters, draw a card.
 				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">UL03 Festival of Blood</related>
 		</card>
 		<card>
-			<name>UL04 Festival of Fire</name>
+			<name>UL03 Festival of Blood</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
-{T}: Add {R} or {G}.
----
-(Back): Favor of Fire</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/280_front.png" num="248a">ADD</set>
+{T}: Add {B} or {R}.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/278.png" num="247">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<coloridentity>RG</coloridentity>
+				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related attach="transform">Favor of Fire</related>
 		</card>
 		<card>
 			<name>Favor of Fire</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {C}.
-When this enchantment enters, draw a card.
----
-(Front): UL04 Festival of Fire</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/280_back.png" num="248b">ADD</set>
+When this enchantment enters, draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/279.png" num="248">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
 				<manacost>1RG</manacost>
@@ -5078,39 +4894,33 @@ When this enchantment enters, draw a card.
 				<coloridentity>RG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">UL04 Festival of Fire</related>
 		</card>
 		<card>
-			<name>UL05 Festival of Life</name>
+			<name>UL04 Festival of Fire</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
-{T}: Add {G} or {W}.
----
-(Back): Favor of Life</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/282_front.png" num="249a">ADD</set>
+{T}: Add {R} or {G}.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/280.png" num="248">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<coloridentity>WG</coloridentity>
+				<coloridentity>RG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related attach="transform">Favor of Life</related>
 		</card>
 		<card>
 			<name>Favor of Life</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {C}.
-When this enchantment enters, draw a card.
----
-(Front): UL05 Festival of Life</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/282_back.png" num="249b">ADD</set>
+When this enchantment enters, draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/281.png" num="249">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
 				<manacost>1GW</manacost>
@@ -5119,39 +4929,33 @@ When this enchantment enters, draw a card.
 				<coloridentity>WG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">UL05 Festival of Life</related>
 		</card>
 		<card>
-			<name>UL06 Festival of Bone</name>
+			<name>UL05 Festival of Life</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
-{T}: Add {W} or {B}.
----
-(Back): Favor of Bone</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/284_front.png" num="250a">ADD</set>
+{T}: Add {G} or {W}.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/282.png" num="249">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<coloridentity>WB</coloridentity>
+				<coloridentity>WG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related attach="transform">Favor of Bone</related>
 		</card>
 		<card>
 			<name>Favor of Bone</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {C}.
-When this enchantment enters, draw a card.
----
-(Front): UL06 Festival of Bone</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/284_back.png" num="250b">ADD</set>
+When this enchantment enters, draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/283.png" num="250">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
 				<manacost>1WB</manacost>
@@ -5160,39 +4964,33 @@ When this enchantment enters, draw a card.
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">UL06 Festival of Bone</related>
 		</card>
 		<card>
-			<name>UL07 Festival of Thunder</name>
+			<name>UL06 Festival of Bone</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
-{T}: Add {U} or {R}.
----
-(Back): Favor of Thunder</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/286_front.png" num="251a">ADD</set>
+{T}: Add {W} or {B}.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/284.png" num="250">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<coloridentity>UR</coloridentity>
+				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related attach="transform">Favor of Thunder</related>
 		</card>
 		<card>
 			<name>Favor of Thunder</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {C}.
-When this enchantment enters, draw a card.
----
-(Front): UL07 Festival of Thunder</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/286_back.png" num="251b">ADD</set>
+When this enchantment enters, draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/285.png" num="251">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
 				<manacost>UR</manacost>
@@ -5201,39 +4999,33 @@ When this enchantment enters, draw a card.
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">UL07 Festival of Thunder</related>
 		</card>
 		<card>
-			<name>UL08 Festival of Death</name>
+			<name>UL07 Festival of Thunder</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
-{T}: Add {B} or {G}.
----
-(Back): Favor of Death</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/288_front.png" num="252a">ADD</set>
+{T}: Add {U} or {R}.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/286.png" num="251">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<coloridentity>BG</coloridentity>
+				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related attach="transform">Favor of Death</related>
 		</card>
 		<card>
 			<name>Favor of Death</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {C}.
-When this enchantment enters, draw a card.
----
-(Front): UL08 Festival of Death</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/288_back.png" num="252b">ADD</set>
+When this enchantment enters, draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/287.png" num="252">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
 				<manacost>1BG</manacost>
@@ -5242,39 +5034,33 @@ When this enchantment enters, draw a card.
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">UL08 Festival of Death</related>
 		</card>
 		<card>
-			<name>UL09 Festival of Light</name>
+			<name>UL08 Festival of Death</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
-{T}: Add {R} or {W}.
----
-(Back): Favor of Light</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/290_front.png" num="253a">ADD</set>
+{T}: Add {B} or {G}.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/288.png" num="252">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<coloridentity>WR</coloridentity>
+				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related attach="transform">Favor of Light</related>
 		</card>
 		<card>
 			<name>Favor of Light</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {C}.
-When this enchantment enters, draw a card.
----
-(Front): UL09 Festival of Light</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/290_back.png" num="253b">ADD</set>
+When this enchantment enters, draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/289.png" num="253">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
 				<manacost>1RW</manacost>
@@ -5283,39 +5069,33 @@ When this enchantment enters, draw a card.
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">UL09 Festival of Light</related>
 		</card>
 		<card>
-			<name>UL10 Festival of Water</name>
+			<name>UL09 Festival of Light</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
 This land enters tapped.
-{T}: Add {G} or {U}.
----
-(Back): Favor of Water</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/292_front.png" num="254a">ADD</set>
+{T}: Add {R} or {W}.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/290.png" num="253">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<coloridentity>UG</coloridentity>
+				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related attach="transform">Favor of Water</related>
 		</card>
 		<card>
 			<name>Favor of Water</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
 {T}: Add {C}.
-When this enchantment enters, draw a card.
----
-(Front): UL10 Festival of Water</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/292_back.png" num="254b">ADD</set>
+When this enchantment enters, draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/291.png" num="254">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
 				<manacost>1GU</manacost>
@@ -5324,17 +5104,31 @@ When this enchantment enters, draw a card.
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">UL10 Festival of Water</related>
+		</card>
+		<card>
+			<name>UL10 Festival of Water</name>
+			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
+This land enters tapped.
+{T}: Add {G} or {U}.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/292.png" num="254">ADD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 		<card>
 			<name>UW02 Dreamwalker of Solidarity</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-When this creature enters, you gain 2 life.
----
-(Back): Dreamstalker of Solidarity</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/293_front.png" num="35a">ADD</set>
+When this creature enters, you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/293.png" num="35">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
@@ -5345,18 +5139,15 @@ When this creature enters, you gain 2 life.
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Dreamstalker of Solidarity</related>
 		</card>
 		<card>
 			<name>Dreamstalker of Solidarity</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Whenever this creature attacks, you gain 1 life.
----
-(Front): UW02 Dreamwalker of Solidarity</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/293_back.png" num="35b">ADD</set>
+Whenever this creature attacks, you gain 1 life.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/294.png" num="35">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>1WW</manacost>
@@ -5366,17 +5157,14 @@ Whenever this creature attacks, you gain 1 life.
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">UW02 Dreamwalker of Solidarity</related>
 		</card>
 		<card>
 			<name>UU02 Dreamwalker of Aptitude</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-When this creature enters, scry 2.
----
-(Back): Dreamstalker of Aptitude</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/295_front.png" num="71a">ADD</set>
+When this creature enters, scry 2.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/295.png" num="71">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
@@ -5387,18 +5175,15 @@ When this creature enters, scry 2.
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Dreamstalker of Aptitude</related>
 		</card>
 		<card>
 			<name>Dreamstalker of Aptitude</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Whenever this creature attacks, scry 1.
----
-(Front): UU02 Dreamwalker of Aptitude</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/295_back.png" num="71b">ADD</set>
+Whenever this creature attacks, scry 1.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/296.png" num="71">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>1UU</manacost>
@@ -5408,17 +5193,14 @@ Whenever this creature attacks, scry 1.
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">UU02 Dreamwalker of Aptitude</related>
 		</card>
 		<card>
 			<name>UB02 Dreamwalker of Ambition</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-When this creature enters, mill two cards.
----
-(Back): Dreamstalker of Ambition</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/297_front.png" num="107a">ADD</set>
+When this creature enters, mill two cards.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/297.png" num="107">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
@@ -5429,18 +5211,15 @@ When this creature enters, mill two cards.
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Dreamstalker of Ambition</related>
 		</card>
 		<card>
 			<name>Dreamstalker of Ambition</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Whenever this creature attacks, mill a card.
----
-(Front): UB02 Dreamwalker of Ambition</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/297_back.png" num="107b">ADD</set>
+Whenever this creature attacks, mill a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/298.png" num="107">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>1BB</manacost>
@@ -5450,17 +5229,14 @@ Whenever this creature attacks, mill a card.
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">UB02 Dreamwalker of Ambition</related>
 		</card>
 		<card>
 			<name>UB02 Dreamwalker of Passion</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-When this creature enters, it deals 2 damage to each opponent.
----
-(Back): Dreamstalker of Passion</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/299_front.png" num="142a">ADD</set>
+When this creature enters, it deals 2 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/299.png" num="142">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
@@ -5471,18 +5247,15 @@ When this creature enters, it deals 2 damage to each opponent.
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Dreamstalker of Passion</related>
 		</card>
 		<card>
 			<name>Dreamstalker of Passion</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Whenever this creature attacks, it deals 1 damage to each opponent.
----
-(Front): UB02 Dreamwalker of Passion</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/299_back.png" num="142b">ADD</set>
+Whenever this creature attacks, it deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/300.png" num="142">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>1RR</manacost>
@@ -5492,17 +5265,14 @@ Whenever this creature attacks, it deals 1 damage to each opponent.
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">UB02 Dreamwalker of Passion</related>
 		</card>
 		<card>
 			<name>UG02 Dreamwalker of Abundance</name>
 			<text>Whimsybound (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less. This is bound in all zones.)
-When this creature enters, add {C}{C}. Until end of turn, you don&apos;t lose this mana as steps and phases end.
----
-(Back): Dreamstalker of Abundance</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/301_front.png" num="179a">ADD</set>
+When this creature enters, add {C}{C}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/301.png" num="179">ADD</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
@@ -5513,18 +5283,15 @@ When this creature enters, add {C}{C}. Until end of turn, you don&apos;t lose th
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Dreamstalker of Abundance</related>
 		</card>
 		<card>
 			<name>Dreamstalker of Abundance</name>
 			<text>Grimbound (You&apos;re grim if the last non-bound spell you&apos;ve cast was mana value 4 or greater. This is bound in all zones.)
-Whenever this creature attacks, add {C}. Until end of turn, you don&apos;t lose this mana as steps and phases end.
----
-(Front): UG02 Dreamwalker of Abundance</text>
-			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/301_back.png" num="179b">ADD</set>
+Whenever this creature attacks, add {C}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/302.png" num="179">ADD</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Creature — Human Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>1GG</manacost>
@@ -5534,7 +5301,6 @@ Whenever this creature attacks, add {C}. Until end of turn, you don&apos;t lose 
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">UG02 Dreamwalker of Abundance</related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

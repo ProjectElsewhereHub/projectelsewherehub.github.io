@@ -1,4 +1,118 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Accomplished Protector added.
+Pathmaker added.
+Skybound Familiar added.
+Frozen Titan added.
+Shipwrecker Serpent added.
+Sanity Churner added.
+Bloodletter Demon added.
+Undying Titan added.
+Master of Temptations added.
+Erupting Phoenix added.
+Slag Titan added.
+Gnarled Octopod added.
+Walking Woods added.
+Vitalized Kraken added.
+Thorn Titan added.
+Keeper of Many Dens added.
+Cascading Elemental added.
+It Beneath the Murk added.
+Mountaincarver added.
+Flowering Stag added.
+M'Kuya, Sacred One added.
+Sturmstrik, Typhoon-Bringer added.
+Henzen, the Soulkeeper added.
+Almax, the Scourge-Tyrant added.
+Stord, Endurance Incarnate added.
+Drund, the Ruinator-Titan added.
+Ripsnap, Apex Predator added.
+Solborn added.
+Gulch, the Deep-Gorger added.
+Skixlot, the Bone-King added.
+Zorgaz the Unsurpassable added.
+Xiphaes, Eternal Slayer added.
+Abussaee, Deep Unleahed added.
+Exodais, Harbinger of Ends added.
+Eos, Forger of Beginnings added.
+Biotace, World Awoken added.
+
+
+Signs of Protection
+
+Followed Path
+
+Monument to the Skybound
+
+Frozen Wastes
+
+Seafloor of Shipwrecks
+
+Churning Depths
+
+Pool of Blood
+
+Gargantuan Grave
+
+Hall of Temptations
+
+Volcanic Edge
+
+Ravaged Vista
+
+Gnarled Waves
+
+Head of the Woods
+
+Pool of Vitality
+
+Path of Thorns
+
+Great Den
+
+Cascading Fountain
+
+Murky Waters
+
+Carved Peak
+
+Flowering Grove
+
+Sacred Valley
+
+Everlasting Typhoon
+
+The Soul Cages
+
+Scourged Grounds
+
+Enduring Elevation
+
+Path of Ruin
+
+Predator's Den
+
+Bed of the Sun
+
+Gorged Trench
+
+Throne of Bones
+
+Cradle of Evergrowth
+
+Tomb of the Slain
+
+Maw of the Deep
+
+Vault of the End
+
+Nexus of the Beginning
+
+Heart of the World
+
+
+VERSION 14 CHANGELOG
 ====================
 
 No changes.
