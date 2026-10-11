@@ -1,14 +1,14 @@
 ﻿[
-	{ "name": "smallcreatureslot", "count": 1, "balanced": true, "custom": true, "filtered": true },
-	{ "name": "mediumcreatureslot", "count": 1, "balanced": true, "custom": true, "filtered": true },
-	{ "name": "largecreatureslot", "count": 1, "balanced": true, "custom": true, "filtered": true },
-	{ "name": "fledglingslot", "count": 1, "balanced": true, "custom": true, "filtered": true },
-	{ "name": "elderslot", "count": 1, "balanced": true, "custom": true, "filtered": true },
-	{ "name": "interactionslot", "count": 2, "balanced": true, "custom": true, "filtered": true },
-	{ "name": "valueslot", "count": 2, "balanced": true, "custom": true, "filtered": true },
-	{ "name": "messageslot", "count": 1, "balanced": true, "custom": true, "filtered": true },
-	{ "name": "oddityslot", "count": 1, "balanced": true, "custom": true, "filtered": true },
-	{ "name": "relentlessslot", "count": 1, "balanced": true, "custom": true, "filtered": true },
-	{ "name": "duallandslot", "count": 1, "balanced": true, "custom": true, "filtered": true },
-	{ "name": "utilitylandslot", "count": 1, "balanced": true, "custom": true, "filtered": true }
+	{ "name": "smallcreatureslot", "count": 1, "balanced": "f", "custom": true, "filtered": true },
+	{ "name": "mediumcreatureslot", "count": 1, "balanced": "f", "custom": true, "filtered": true },
+	{ "name": "largecreatureslot", "count": 1, "balanced": "f", "custom": true, "filtered": true },
+	{ "name": "fledglingslot", "count": 1, "balanced": "f", "custom": true, "filtered": true },
+	{ "name": "elderslot", "count": 1, "balanced": "f", "custom": true, "filtered": true },
+	{ "name": "interactionslot", "count": 2, "balanced": "f", "custom": true, "filtered": true },
+	{ "name": "valueslot", "count": 2, "balanced": "f", "custom": true, "filtered": true },
+	{ "name": "messageslot", "count": 1, "balanced": "f", "custom": true, "filtered": true },
+	{ "name": "oddityslot", "count": 1, "balanced": "f", "custom": true, "filtered": true },
+	{ "name": "relentlessslot", "count": 1, "balanced": "f", "custom": true, "filtered": true },
+	{ "name": "duallandslot", "count": 1, "balanced": "f", "custom": true, "filtered": true },
+	{ "name": "utilitylandslot", "count": 1, "balanced": "f", "custom": true, "filtered": true }
 ]
