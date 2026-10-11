@@ -152,7 +152,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": ""
+            "notes": "!valueslot"
         },
         {
             "card_name": "RC02 Cloned Messenger",
@@ -3438,7 +3438,7 @@
             "number": 191,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Elsewhere 3 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nYour starting elsewhere can only have one card named Leycore of Inspiration.\nAs long as this card is in your elsewhere and each nonpermanent card in your starting deck had {R} in its cost, you may treat the bracketed text as if this card was on the battlefield.\n[[b]Whenever you cast a spell, add {R}.[/b]]",
+            "rules_text": "Elsewhere 3 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nYour starting elsewhere can only have one card named Leycore of Inspiration.\nAs long as this card is in your elsewhere and each nonpermanent card in your starting deck had {R} in its cost, you may treat the bracketed text as if this card was on the battlefield.\n[[b]Whenever you cast a spell, you get {V}.[/b]]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4299,7 +4299,7 @@
             "number": 232,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Trample\nThis creature gets +1/+0 for each creature you control named Relentless Brushwaggs.\nA deck may have any number of cards named Relentless Brushwaggs.",
+            "rules_text": "Trample\nThis creature gets +1/+0 for each other creature you control named Relentless Brushwaggs.\nA deck may have any number of cards named Relentless Brushwaggs.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -6086,7 +6086,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "\n"
+            "notes": "!oddityslot\n"
         },
         {
             "card_name": "MW01 Aeon's First Trial",
@@ -6119,7 +6119,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "\n"
+            "notes": "!oddityslot\n"
         },
         {
             "card_name": "MU01 Aeon's Second Trial",
@@ -6152,7 +6152,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "\n"
+            "notes": "!oddityslot\n"
         },
         {
             "card_name": "MB01 Aeon's Third Trial",
@@ -6185,7 +6185,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "\n"
+            "notes": "!oddityslot\n"
         },
         {
             "card_name": "MR01 Aeon's Fourth Trial",
@@ -6218,7 +6218,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "\n"
+            "notes": "!oddityslot\n"
         },
         {
             "card_name": "MG01 Aeon's Fifth Trial",
@@ -6251,7 +6251,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "\n"
+            "notes": "!oddityslot\n"
         },
         {
             "card_name": "MM01 Aeon's Final Trial",
@@ -6284,7 +6284,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "\n"
+            "notes": "!oddityslot\n"
         },
         {
             "card_name": "MW02 Edward, Beholder of Visions",
@@ -6295,7 +6295,7 @@
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Vigilance\n{V}{V}{V}{V}{V}{V}{V}, {T}: Transform this creature.",
-            "flavor_text": "[i]FT[/i]",
+            "flavor_text": "[i]The second son of an insignificant noble house, Edward was thrust into power after beginning to receive strange visions of something only called \u201cSolvatim\u201d.[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "transform double faced",
@@ -6317,7 +6317,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "\n"
+            "notes": "!oddityslot\n"
         },
         {
             "card_name": "RB02 Mindsharer Magus",
@@ -6411,7 +6411,7 @@
             "number": 86,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Menace\nWhenever a player draws one or more cards, that player may wander. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i]",
+            "rules_text": "Vigilance\nWhenever a player draws one or more cards, that player may wander. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -7064,7 +7064,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "\n"
+            "notes": "!oddityslot\n"
         },
         {
             "card_name": "ML01 Alacrondais in Ruin",

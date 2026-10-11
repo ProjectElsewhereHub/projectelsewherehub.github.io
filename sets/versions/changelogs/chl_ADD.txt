@@ -1,4 +1,13 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+MC01 The Dreamer Wakes Up
+cost:  => {5}
+
+
+VERSION 18 CHANGELOG
 ====================
 
 

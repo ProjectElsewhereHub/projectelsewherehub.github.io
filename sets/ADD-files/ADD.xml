@@ -5,7 +5,7 @@
 			<name>ADD</name>
 			<longname>A Dream of Darkness</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-10</releasedate>
+			<releasedate>2026-10-11</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3968,8 +3968,8 @@ V — Exile this saga, then return it to the battlefield transformed under your 
 				<side>front</side>
 				<type>Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
 			</prop>
 			<tablerow>1</tablerow>
 			<related attach="transform">Remains of the Dreamer</related>

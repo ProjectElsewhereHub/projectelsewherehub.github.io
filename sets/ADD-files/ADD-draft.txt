@@ -2270,7 +2270,7 @@
 		{
 			"name": "MC01 The Dreamer Wakes Up",
 			"rarity": "mythic",
-			"mana_cost": "",
+			"mana_cost": "{5}",
 			"type": "Enchantment — Saga",
 			"collector_number": "4",
 			"back": {

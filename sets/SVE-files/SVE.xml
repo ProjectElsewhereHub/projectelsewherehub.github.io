@@ -5,7 +5,7 @@
 			<name>SVE</name>
 			<longname>Solvatim Envisioned</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-10</releasedate>
+			<releasedate>2026-10-11</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2872,7 +2872,7 @@ Whenever another card that shares a card type with this permanent leaves your gr
 			<text>Elsewhere 3 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Your starting elsewhere can only have one card named Leycore of Inspiration.
 As long as this card is in your elsewhere and each nonpermanent card in your starting deck had {R} in its cost, you may treat the bracketed text as if this card was on the battlefield.
-[[b]Whenever you cast a spell, add {R}.[/b]]</text>
+[[b]Whenever you cast a spell, you get {V}.[/b]]</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/163.png" num="191">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3583,7 +3583,7 @@ Search your library for a land card, reveal it, put it into your hand, then shuf
 		<card>
 			<name>CG21 Relentless Brushwaggs</name>
 			<text>Trample
-This creature gets +1/+0 for each creature you control named Relentless Brushwaggs.
+This creature gets +1/+0 for each other creature you control named Relentless Brushwaggs.
 A deck may have any number of cards named Relentless Brushwaggs.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/204.png" num="232">SVE</set>
 			<prop>
@@ -5384,7 +5384,7 @@ Whenever a player draws one or more cards, that player may discover 2. (Exile ca
 		</card>
 		<card>
 			<name>RU03 Sphinxian Mindbinder</name>
-			<text>Menace
+			<text>Vigilance
 Whenever a player draws one or more cards, that player may wander. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/308.png" num="86">SVE</set>
 			<prop>

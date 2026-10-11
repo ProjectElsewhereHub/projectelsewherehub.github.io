@@ -3385,1107 +3385,339 @@
 		}
 	]
 
-[rare(1)]
-	2 RC01 Mana to Flesh
-	2 RC02 Cloned Messenger
-	2 RC03 Leycore of Worldscapes
-	2 RW01 Sighted Lawmage
-	2 RW08 Leycore of Minutia
-	1 MU02 Void Infinitum
-	2 RU01 Sighted Mindmage
-	2 RU02 Timewinder Supreme
-	2 RU08 Leycore of Brilliance
-	2 RB01 Sighted Powermage
-	2 RB08 Leycore of Remains
-	2 RR01 Sighted Madnessmage
-	2 RR02 Life's Broken Facade
-	2 RR08 Leycore of Inspiration
-	2 RG01 Sighted Morrowmage
-	2 RG02 Druidic Fleshshaper
-	2 RG08 Leycore of Horizons
-	2 RM01 No More Truth
-	2 RM02 Rending Ricochet
-	2 RM03 Withering Engine
-	2 RM04 Pyrohelix
-	2 RM05 Life-Rite Crystal
-	2 RM06 Banishing Darkness
-	2 RM07 Reflect Magic
-	2 RM08 Crypt of Banishment
-	2 RM09 Fiery Extraction
-	2 RM10 Tectonic Boomerang
-	2 RA01 Aeon's Bauble
-	2 RL01 Pit of Frost
-	2 RL02 Pit of Darkness
-	2 RL03 Pit of Blood
-	2 RL04 Pit of Fire
-	2 RL05 Pit of Life
-	2 RL06 Pit of Bone
-	2 RL07 Pit of Thunder
-	2 RL08 Pit of Death
-	2 RL09 Pit of Light
-	2 RL10 Pit of Water
-	1 MC01 Aeon's Sixth Trial
-	1 MW01 Aeon's First Trial
-	1 MU01 Aeon's Second Trial
-	1 MB01 Aeon's Third Trial
-	1 MR01 Aeon's Fourth Trial
-	1 MG01 Aeon's Fifth Trial
-	1 MM01 Aeon's Final Trial
-	1 MW02 Edward, Beholder of Visions
-	2 RB02 Mindsharer Magus
-	2 RB03 Demonic Mindbinder
-	2 RG03 Titanic Mindbinder
-	2 RR03 Draconic Mindbinder
-	2 RU03 Sphinxian Mindbinder
-	2 RW03 Angelic Mindbinder
-	2 RW02 Timewinder Gatekeeper
-	2 RW04 Young Banisher
-	2 RW05 Elder Banisher
-	2 RU04 Obsessive Savant
-	2 RU05 Grand Obsession
-	2 RR04 Visionary Firemage
-	2 RR05 Revolutionary Firemage
-	2 RG04 Young Fleshtiller
-	2 RG05 Grizzled Fleshtiller
-	2 RB04 Recursive Ager
-	2 RB05 Final Recursivity
-	2 RU06 Academic Enlightenment
-	2 RW06 Dissonance Stone
-	2 RR06 Fleshifying Wildfire
-	2 RB06 Essential Eyestone
-	2 RG06 Hydraic Discovery
-	2 RW07 Letter of Solidarity
-	2 RU07 Letter of Cyclicality
-	2 RB07 Letter of Hostility
-	2 RR07 Letter of Modularity
-	2 RG07 Letter of History
-	2 RA02 Letter of Voidality
-	2 RL11 Tesselation Point
-	2 RL12 Completed Asymptote
-	2 RL13 Sphere's Vertex
-	2 RL14 Hyperbolic Loop
-	2 RL15 Finite Fractal
-	2 RL16 Monolith of Paradoxes
-	1 MG02 Aeon, Exposed to Truth
-	1 ML01 Alacrondais in Ruin
-[uncommon(3)]
-	4 UW01 Mender of Agony
-	4 UW02 Soul Suffuser
-	4 UW03 Murderous Balancer
-	4 UW04 Monastic Visionary
-	4 UW05 Anima of the Living
-	4 UW06 Angelic Perspective
-	4 UW07 Young Hamster
-	4 UW08 Young Fox
-	4 UW09 Elder Hamster
-	4 UW10 Elder Fox
-	4 UW14 Simple Soul
-	4 UW12 Decisive Rending
-	4 UW15 Indebting Assistance
-	4 UW17 Message of Eternal Rest
-	4 UW16 Transientize
-	4 UW19 Spherical Shattering
-	4 UW18 Message of Sworn War
-	4 UW11 Death Tithe
-	4 UW20 Shining Sabotage
-	4 UW13 Banishing Decay
-	4 UU01 Timewinder Motivator
-	4 UU02 Fortune Suffuser
-	4 UU03 Seeping Steel
-	4 UU04 Meditating Visionary
-	4 UU05 Anima of the Insane
-	4 UU06 Sphinxian Perspective
-	4 UU07 Young Trout
-	4 UU08 Young Squid
-	4 UU09 Elder Trout
-	4 UU10 Elder Squid
-	4 UU11 Restrictive Mindset
-	4 UU12 Rotting Arcana
-	4 UU13 Icy Logic Rite
-	4 UU14 Helpful Soul
-	4 UU15 Unsolved Riddle
-	4 UU16 Confusing Plans
-	4 UU17 Message of Infinite Evidence
-	4 UU18 Message of Subtle Reversal
-	4 UU19 Enchanting Insight
-	4 UU20 Cryetic Anticipation
-	4 UB01 Unsolved Pactling
-	4 UB02 Blood Suffuser
-	4 UB03 Cruel Explorer
-	4 UB04 Isolated Visionary
-	4 UB05 Anima of the Dead
-	4 UB06 Demonic Perspective
-	4 UB07 Young Rat
-	4 UB08 Young Leech
-	4 UB09 Elder Rat
-	4 UB10 Elder Leech
-	4 UB11 Remove Selfhood
-	4 UB12 Fleshseize
-	4 UB13 Fleshblight Wind
-	4 UB14 Cruel Soul
-	4 UB15 Death Dispute
-	4 UB16 Antagonistic Bloodfire
-	4 UB17 Message of Omnipotent Mastery
-	4 UB18 Message of Spiteful Return
-	4 UB19 Agonious Insight
-	4 UB20 Subtle Suffering
-	4 UR01 Possible Flesh
-	4 UR02 Crystal Suffuser
-	4 UR03 Flesh Feeder
-	4 UR04 Exploring Visionary
-	4 UR05 Anima of the Obssessive
-	4 UR06 Draconic Perspective
-	4 UR07 Young Porcupine
-	4 UR08 Young Goat
-	4 UR09 Elder Porcupine
-	4 UR10 Elder Goat
-	4 UR11 Broken on Arrival
-	4 UR12 Corpse Cannonade
-	4 UR13 Fiery Instict Rite
-	4 UR14 Exploratory Soul
-	4 UR15 Serial Graverobbing
-	4 UR16 Impulsive Looting
-	4 UR17 Message of Perpetual Fire
-	4 UR18 Message of Brave Exploration
-	4 UR19 Enchanting Power
-	4 UR20 Pyretic Exploration
-	4 UG01 Blood-Rite Druid
-	4 UG02 Filth Suffuser
-	4 UG03 Tusked Wildebeast
-	4 UG04 Hermetic Visionary
-	4 UG05 Anima of the Balanced
-	4 UG06 Titanic Perspective
-	4 UG07 Young Squirrel
-	4 UG08 Young Spider
-	4 UG09 Elder Squirrel
-	4 UG10 Elder Spider
-	4 UG11 Axed Fumbling
-	4 UG12 Innovative Reclamation
-	4 UG13 Duel to Death
-	4 UG14 Mighty Soul
-	4 UG15 Graveyard Scouting
-	4 UG16 Tertiary Synopsis
-	4 UG17 Message of Boundless Earth
-	4 UG18 Message of Undead Might
-	4 UG19 Clay Deadshaping
-	4 UG20 Earthen Inversion
-	4 UL01 Observatory of Frost
-	4 UL02 Observatory of Darkness
-	4 UL03 Observatory of Blood
-	4 UL03 Observatory of Fire
-	4 UL05 Observatory of Life
-	4 UL06 Observatory of Bone
-	4 UL07 Observatory of Thunder
-	4 UL08 Observatory of Death
-	4 UL09 Observatory of Light
-	4 UL10 Observatory of Water
-	4 UL11 Disastrous Cyclone
-	4 UL12 Disastrous Tsunami
-	4 UL13 Disastrous Eruption
-	4 UL14 Disastrous Wildfire
-	4 UL15 Disastrous Earthquake
-	4 UL16 Hall of the Dead
-[common(6)]
-	8 CC01 Keen-Eyed Farmer
-	8 CC02 Farmhand Recruit
-	8 CC03 Envision Color
-	8 CC04 Soular Pinnacle
-	8 CC05 Immovable Essence
-	8 CW01 Keen-Eyed Hawk
-	8 CW02 Loyal Explorer
-	8 CW03 Secretive Sage
-	8 CW04 Terrain Flattener
-	8 CW05 Spreader of Loyalty
-	8 CW06 Symmetry Aligned
-	8 CW07 Young Wildcat
-	8 CW08 Young Camel
-	8 CW09 Elder Wildcat
-	8 CW10 Elder Camel
-	8 CW11 Sightful Smite
-	8 CW12 Enlightening Pacifism
-	8 CW13 Fleshify
-	8 CW14 Blessed Thoughts
-	8 CW15 Honored Burial
-	8 CW16 Heal from Mourning
-	8 CW17 Message of Condolences
-	8 CW18 Message of Alliance
-	8 CW19 Ensouled Taxation
-	8 CW20 Sighted Vigil
-	8 CW21 Relentless Infantry
-	8 CU01 Keen-Eyed Guardian
-	8 CU03 Recursive Arcanist
-	8 CU02 Knowing Explorer
-	8 CU05 Spreader of Knowledge
-	8 CU04 Mimesis Mockingbird
-	8 CU07 Young Turtle
-	8 CU06 Symmetry Perfected
-	8 CU08 Young Drake
-	8 CU09 Elder Turtle
-	8 CU10 Elder Drake
-	8 CU11 Sightful Shove
-	8 CU12 Enlightening Negation
-	8 CU13 Frozen Soul
-	8 CU14 Enlightened Thoughts
-	8 CU15 Death Choice
-	8 CU16 Discoverous Insight
-	8 CU17 Message of Insight
-	8 CU18 Message of Information
-	8 CU19 Clearsight
-	8 CU20 Sighted Twiddle
-	8 CU21 Relentless Crabs
-	8 CB01 Keen-Eyed Rat
-	8 CB02 Persistent Explorer
-	8 CB03 Skilled Torturer
-	8 CB04 Diffused Siphoner
-	8 CB05 Spreader of Persistence
-	8 CB06 Symmetry Obssessed
-	8 CB07 Young Crow
-	8 CB08 Young Skunk
-	8 CB09 Elder Crow
-	8 CB10 Elder Skunk
-	8 CB11 Sightful Slaughter
-	8 CB12 Enlightening Grief
-	8 CB13 Reaping Murder
-	8 CB14 Cursed Thoughts
-	8 CB15 Lunatic Leeching
-	8 CB16 Read the Corpse
-	8 CB17 Message of Mockery
-	8 CB18 Message of Manipulation
-	8 CB19 One with One Thing
-	8 CB20 Sighted Burial
-	8 CB21 Relentless Ravens
-	8 CR01 Keen-Eyed Thief
-	8 CR02 Courageous Explorer
-	8 CR03 Futureflame Seer
-	8 CR04 Doomed Researcher
-	8 CR05 Spreader of Courage
-	8 CR06 Symmetry Ruined
-	8 CR07 Young Jackal
-	8 CR08 Young Lizard
-	8 CR09 Elder Jackal
-	8 CR10 Elder Lizard
-	8 CR11 Sightful Slash
-	8 CR12 Enlightening Ruin
-	8 CR13 Burn the Looters
-	8 CR14 Ascended Thoughts
-	8 CR15 Reduced Catharsis
-	8 CR16 Quickstart Graverobbing
-	8 CR17 Message of Emotion
-	8 CR18 Message of Encouragement
-	8 CR19 Seek Meaning
-	8 CR20 Sighted Pyre
-	8 CR21 Relentless Fodder
-	8 CG01 Keen-Eyed Coven
-	8 CG02 Strong Explorer
-	8 CG03 Crop Rotator
-	8 CG04 Goring Corpseater
-	8 CG05 Spreader of Strength
-	8 CG06 Symmetry Eternal
-	8 CG07 Young Viper
-	8 CG08 Young Bear
-	8 CG09 Elder Viper
-	8 CG10 Elder Bear
-	8 CG11 Sightful Snap
-	8 CG12 Enlightening Duel
-	8 CG13 Reclamation Scrying
-	8 CG14 Calm Thoughts
-	8 CG15 Wilden Brutality
-	8 CG16 Rooted Disruption
-	8 CG17 Message of Compassion
-	8 CG18 Message of Growth
-	8 CG19 Maddened Scrying
-	8 CG20 Sighted Daybreak
-	8 CG21 Relentless Brushwaggs
-	8 CL01 Watchtower of Frost
-	8 CL02 Watchtower of Darkness
-	8 CL03 Watchtower of Blood
-	8 CL04 Watchtower of Fire
-	8 CL05 Watchtower of Life
-	8 CL06 Watchtower of Bone
-	8 CL07 Watchtower of Thunder
-	8 CL08 Watchtower of Death
-	8 CL09 Watchtower of Light
-	8 CL10 Watchtower of Water
-	8 CL11 Authorized Gateway
-	8 CL12 Optimized Gateway
-	8 CL13 Dominated Gateway
-	8 CL14 Randomized Gateway
-	8 CL15 Challenging Gateway
-	8 CL16 Lonely Watchtower
-[common | masterpiece(1)]
-	8 CC01 Keen-Eyed Farmer
-	8 CC02 Farmhand Recruit
-	8 CC03 Envision Color
-	8 CC04 Soular Pinnacle
-	8 CC05 Immovable Essence
-	8 CW01 Keen-Eyed Hawk
-	8 CW02 Loyal Explorer
-	8 CW03 Secretive Sage
-	8 CW04 Terrain Flattener
-	8 CW05 Spreader of Loyalty
-	8 CW06 Symmetry Aligned
-	8 CW07 Young Wildcat
-	8 CW08 Young Camel
-	8 CW09 Elder Wildcat
-	8 CW10 Elder Camel
-	8 CW11 Sightful Smite
-	8 CW12 Enlightening Pacifism
-	8 CW13 Fleshify
-	8 CW14 Blessed Thoughts
-	8 CW15 Honored Burial
-	8 CW16 Heal from Mourning
-	8 CW17 Message of Condolences
-	8 CW18 Message of Alliance
-	8 CW19 Ensouled Taxation
-	8 CW20 Sighted Vigil
-	8 CW21 Relentless Infantry
-	8 CU01 Keen-Eyed Guardian
-	8 CU03 Recursive Arcanist
-	8 CU02 Knowing Explorer
-	8 CU05 Spreader of Knowledge
-	8 CU04 Mimesis Mockingbird
-	8 CU07 Young Turtle
-	8 CU06 Symmetry Perfected
-	8 CU08 Young Drake
-	8 CU09 Elder Turtle
-	8 CU10 Elder Drake
-	8 CU11 Sightful Shove
-	8 CU12 Enlightening Negation
-	8 CU13 Frozen Soul
-	8 CU14 Enlightened Thoughts
-	8 CU15 Death Choice
-	8 CU16 Discoverous Insight
-	8 CU17 Message of Insight
-	8 CU18 Message of Information
-	8 CU19 Clearsight
-	8 CU20 Sighted Twiddle
-	8 CU21 Relentless Crabs
-	8 CB01 Keen-Eyed Rat
-	8 CB02 Persistent Explorer
-	8 CB03 Skilled Torturer
-	8 CB04 Diffused Siphoner
-	8 CB05 Spreader of Persistence
-	8 CB06 Symmetry Obssessed
-	8 CB07 Young Crow
-	8 CB08 Young Skunk
-	8 CB09 Elder Crow
-	8 CB10 Elder Skunk
-	8 CB11 Sightful Slaughter
-	8 CB12 Enlightening Grief
-	8 CB13 Reaping Murder
-	8 CB14 Cursed Thoughts
-	8 CB15 Lunatic Leeching
-	8 CB16 Read the Corpse
-	8 CB17 Message of Mockery
-	8 CB18 Message of Manipulation
-	8 CB19 One with One Thing
-	8 CB20 Sighted Burial
-	8 CB21 Relentless Ravens
-	8 CR01 Keen-Eyed Thief
-	8 CR02 Courageous Explorer
-	8 CR03 Futureflame Seer
-	8 CR04 Doomed Researcher
-	8 CR05 Spreader of Courage
-	8 CR06 Symmetry Ruined
-	8 CR07 Young Jackal
-	8 CR08 Young Lizard
-	8 CR09 Elder Jackal
-	8 CR10 Elder Lizard
-	8 CR11 Sightful Slash
-	8 CR12 Enlightening Ruin
-	8 CR13 Burn the Looters
-	8 CR14 Ascended Thoughts
-	8 CR15 Reduced Catharsis
-	8 CR16 Quickstart Graverobbing
-	8 CR17 Message of Emotion
-	8 CR18 Message of Encouragement
-	8 CR19 Seek Meaning
-	8 CR20 Sighted Pyre
-	8 CR21 Relentless Fodder
-	8 CG01 Keen-Eyed Coven
-	8 CG02 Strong Explorer
-	8 CG03 Crop Rotator
-	8 CG04 Goring Corpseater
-	8 CG05 Spreader of Strength
-	8 CG06 Symmetry Eternal
-	8 CG07 Young Viper
-	8 CG08 Young Bear
-	8 CG09 Elder Viper
-	8 CG10 Elder Bear
-	8 CG11 Sightful Snap
-	8 CG12 Enlightening Duel
-	8 CG13 Reclamation Scrying
-	8 CG14 Calm Thoughts
-	8 CG15 Wilden Brutality
-	8 CG16 Rooted Disruption
-	8 CG17 Message of Compassion
-	8 CG18 Message of Growth
-	8 CG19 Maddened Scrying
-	8 CG20 Sighted Daybreak
-	8 CG21 Relentless Brushwaggs
-	8 CL01 Watchtower of Frost
-	8 CL02 Watchtower of Darkness
-	8 CL03 Watchtower of Blood
-	8 CL04 Watchtower of Fire
-	8 CL05 Watchtower of Life
-	8 CL06 Watchtower of Bone
-	8 CL07 Watchtower of Thunder
-	8 CL08 Watchtower of Death
-	8 CL09 Watchtower of Light
-	8 CL10 Watchtower of Water
-	8 CL11 Authorized Gateway
-	8 CL12 Optimized Gateway
-	8 CL13 Dominated Gateway
-	8 CL14 Randomized Gateway
-	8 CL15 Challenging Gateway
-	8 CL16 Lonely Watchtower
-[foil(1)]
-	12 CC01 Keen-Eyed Farmer
-	12 CC02 Farmhand Recruit
-	12 CC03 Envision Color
-	12 CC04 Soular Pinnacle
-	12 CC05 Immovable Essence
-	2 RC01 Mana to Flesh
-	2 RC02 Cloned Messenger
-	2 RC03 Leycore of Worldscapes
-	12 CW01 Keen-Eyed Hawk
-	12 CW02 Loyal Explorer
-	12 CW03 Secretive Sage
-	12 CW04 Terrain Flattener
-	12 CW05 Spreader of Loyalty
-	12 CW06 Symmetry Aligned
-	12 CW07 Young Wildcat
-	12 CW08 Young Camel
-	12 CW09 Elder Wildcat
-	12 CW10 Elder Camel
-	12 CW11 Sightful Smite
-	12 CW12 Enlightening Pacifism
-	12 CW13 Fleshify
-	12 CW14 Blessed Thoughts
-	12 CW15 Honored Burial
-	12 CW16 Heal from Mourning
-	12 CW17 Message of Condolences
-	12 CW18 Message of Alliance
-	12 CW19 Ensouled Taxation
-	12 CW20 Sighted Vigil
-	12 CW21 Relentless Infantry
-	2 RW01 Sighted Lawmage
-	2 RW08 Leycore of Minutia
-	6 UW01 Mender of Agony
-	6 UW02 Soul Suffuser
-	6 UW03 Murderous Balancer
-	6 UW04 Monastic Visionary
-	6 UW05 Anima of the Living
-	6 UW06 Angelic Perspective
-	6 UW07 Young Hamster
-	6 UW08 Young Fox
-	6 UW09 Elder Hamster
-	6 UW10 Elder Fox
-	6 UW14 Simple Soul
-	6 UW12 Decisive Rending
-	6 UW15 Indebting Assistance
-	6 UW17 Message of Eternal Rest
-	6 UW16 Transientize
-	6 UW19 Spherical Shattering
-	6 UW18 Message of Sworn War
-	12 CU01 Keen-Eyed Guardian
-	6 UW11 Death Tithe
-	6 UW20 Shining Sabotage
-	12 CU03 Recursive Arcanist
-	12 CU02 Knowing Explorer
-	12 CU05 Spreader of Knowledge
-	12 CU04 Mimesis Mockingbird
-	12 CU07 Young Turtle
-	12 CU06 Symmetry Perfected
-	6 UW13 Banishing Decay
-	12 CU08 Young Drake
-	12 CU09 Elder Turtle
-	12 CU10 Elder Drake
-	12 CU11 Sightful Shove
-	12 CU12 Enlightening Negation
-	12 CU13 Frozen Soul
-	12 CU14 Enlightened Thoughts
-	12 CU15 Death Choice
-	12 CU16 Discoverous Insight
-	12 CU17 Message of Insight
-	12 CU18 Message of Information
-	12 CU19 Clearsight
-	12 CU20 Sighted Twiddle
-	12 CU21 Relentless Crabs
-	1 MU02 Void Infinitum
-	2 RU01 Sighted Mindmage
-	2 RU02 Timewinder Supreme
-	2 RU08 Leycore of Brilliance
-	6 UU01 Timewinder Motivator
-	6 UU02 Fortune Suffuser
-	6 UU03 Seeping Steel
-	6 UU04 Meditating Visionary
-	6 UU05 Anima of the Insane
-	6 UU06 Sphinxian Perspective
-	6 UU07 Young Trout
-	6 UU08 Young Squid
-	6 UU09 Elder Trout
-	6 UU10 Elder Squid
-	6 UU11 Restrictive Mindset
-	6 UU12 Rotting Arcana
-	6 UU13 Icy Logic Rite
-	6 UU14 Helpful Soul
-	6 UU15 Unsolved Riddle
-	6 UU16 Confusing Plans
-	6 UU17 Message of Infinite Evidence
-	6 UU18 Message of Subtle Reversal
-	6 UU19 Enchanting Insight
-	6 UU20 Cryetic Anticipation
-	12 CB01 Keen-Eyed Rat
-	12 CB02 Persistent Explorer
-	12 CB03 Skilled Torturer
-	12 CB04 Diffused Siphoner
-	12 CB05 Spreader of Persistence
-	12 CB06 Symmetry Obssessed
-	12 CB07 Young Crow
-	12 CB08 Young Skunk
-	12 CB09 Elder Crow
-	12 CB10 Elder Skunk
-	12 CB11 Sightful Slaughter
-	12 CB12 Enlightening Grief
-	12 CB13 Reaping Murder
-	12 CB14 Cursed Thoughts
-	12 CB15 Lunatic Leeching
-	12 CB16 Read the Corpse
-	12 CB17 Message of Mockery
-	12 CB18 Message of Manipulation
-	12 CB19 One with One Thing
-	12 CB20 Sighted Burial
-	12 CB21 Relentless Ravens
-	2 RB01 Sighted Powermage
-	2 RB08 Leycore of Remains
-	6 UB01 Unsolved Pactling
-	6 UB02 Blood Suffuser
-	6 UB03 Cruel Explorer
-	6 UB04 Isolated Visionary
-	6 UB05 Anima of the Dead
-	6 UB06 Demonic Perspective
-	6 UB07 Young Rat
-	6 UB08 Young Leech
-	6 UB09 Elder Rat
-	6 UB10 Elder Leech
-	6 UB11 Remove Selfhood
-	6 UB12 Fleshseize
-	6 UB13 Fleshblight Wind
-	6 UB14 Cruel Soul
-	6 UB15 Death Dispute
-	6 UB16 Antagonistic Bloodfire
-	6 UB17 Message of Omnipotent Mastery
-	6 UB18 Message of Spiteful Return
-	6 UB19 Agonious Insight
-	6 UB20 Subtle Suffering
-	12 CR01 Keen-Eyed Thief
-	12 CR02 Courageous Explorer
-	12 CR03 Futureflame Seer
-	12 CR04 Doomed Researcher
-	12 CR05 Spreader of Courage
-	12 CR06 Symmetry Ruined
-	12 CR07 Young Jackal
-	12 CR08 Young Lizard
-	12 CR09 Elder Jackal
-	12 CR10 Elder Lizard
-	12 CR11 Sightful Slash
-	12 CR12 Enlightening Ruin
-	12 CR13 Burn the Looters
-	12 CR14 Ascended Thoughts
-	12 CR15 Reduced Catharsis
-	12 CR16 Quickstart Graverobbing
-	12 CR17 Message of Emotion
-	12 CR18 Message of Encouragement
-	12 CR19 Seek Meaning
-	12 CR20 Sighted Pyre
-	12 CR21 Relentless Fodder
-	2 RR01 Sighted Madnessmage
-	2 RR02 Life's Broken Facade
-	2 RR08 Leycore of Inspiration
-	6 UR01 Possible Flesh
-	6 UR02 Crystal Suffuser
-	6 UR03 Flesh Feeder
-	6 UR04 Exploring Visionary
-	6 UR05 Anima of the Obssessive
-	6 UR06 Draconic Perspective
-	6 UR07 Young Porcupine
-	6 UR08 Young Goat
-	6 UR09 Elder Porcupine
-	6 UR10 Elder Goat
-	6 UR11 Broken on Arrival
-	6 UR12 Corpse Cannonade
-	6 UR13 Fiery Instict Rite
-	6 UR14 Exploratory Soul
-	6 UR15 Serial Graverobbing
-	6 UR16 Impulsive Looting
-	6 UR17 Message of Perpetual Fire
-	6 UR18 Message of Brave Exploration
-	6 UR19 Enchanting Power
-	6 UR20 Pyretic Exploration
-	12 CG01 Keen-Eyed Coven
-	12 CG02 Strong Explorer
-	12 CG03 Crop Rotator
-	12 CG04 Goring Corpseater
-	12 CG05 Spreader of Strength
-	12 CG06 Symmetry Eternal
-	12 CG07 Young Viper
-	12 CG08 Young Bear
-	12 CG09 Elder Viper
-	12 CG10 Elder Bear
-	12 CG11 Sightful Snap
-	12 CG12 Enlightening Duel
-	12 CG13 Reclamation Scrying
-	12 CG14 Calm Thoughts
-	12 CG15 Wilden Brutality
-	12 CG16 Rooted Disruption
-	12 CG17 Message of Compassion
-	12 CG18 Message of Growth
-	12 CG19 Maddened Scrying
-	12 CG20 Sighted Daybreak
-	12 CG21 Relentless Brushwaggs
-	2 RG01 Sighted Morrowmage
-	2 RG02 Druidic Fleshshaper
-	2 RG08 Leycore of Horizons
-	6 UG01 Blood-Rite Druid
-	6 UG02 Filth Suffuser
-	6 UG03 Tusked Wildebeast
-	6 UG04 Hermetic Visionary
-	6 UG05 Anima of the Balanced
-	6 UG06 Titanic Perspective
-	6 UG07 Young Squirrel
-	6 UG08 Young Spider
-	6 UG09 Elder Squirrel
-	6 UG10 Elder Spider
-	6 UG11 Axed Fumbling
-	6 UG12 Innovative Reclamation
-	6 UG13 Duel to Death
-	6 UG14 Mighty Soul
-	6 UG15 Graveyard Scouting
-	6 UG16 Tertiary Synopsis
-	6 UG17 Message of Boundless Earth
-	6 UG18 Message of Undead Might
-	6 UG19 Clay Deadshaping
-	6 UG20 Earthen Inversion
-	2 RM01 No More Truth
-	2 RM02 Rending Ricochet
-	2 RM03 Withering Engine
-	2 RM04 Pyrohelix
-	2 RM05 Life-Rite Crystal
-	2 RM06 Banishing Darkness
-	2 RM07 Reflect Magic
-	2 RM08 Crypt of Banishment
-	2 RM09 Fiery Extraction
-	2 RM10 Tectonic Boomerang
-	2 RA01 Aeon's Bauble
-	12 CL01 Watchtower of Frost
-	12 CL02 Watchtower of Darkness
-	12 CL03 Watchtower of Blood
-	12 CL04 Watchtower of Fire
-	12 CL05 Watchtower of Life
-	12 CL06 Watchtower of Bone
-	12 CL07 Watchtower of Thunder
-	12 CL08 Watchtower of Death
-	12 CL09 Watchtower of Light
-	12 CL10 Watchtower of Water
-	12 CL11 Authorized Gateway
-	12 CL12 Optimized Gateway
-	12 CL13 Dominated Gateway
-	12 CL14 Randomized Gateway
-	12 CL15 Challenging Gateway
-	12 CL16 Lonely Watchtower
-	2 RL01 Pit of Frost
-	2 RL02 Pit of Darkness
-	2 RL03 Pit of Blood
-	2 RL04 Pit of Fire
-	2 RL05 Pit of Life
-	2 RL06 Pit of Bone
-	2 RL07 Pit of Thunder
-	2 RL08 Pit of Death
-	2 RL09 Pit of Light
-	2 RL10 Pit of Water
-	6 UL01 Observatory of Frost
-	6 UL02 Observatory of Darkness
-	6 UL03 Observatory of Blood
-	6 UL03 Observatory of Fire
-	6 UL05 Observatory of Life
-	6 UL06 Observatory of Bone
-	6 UL07 Observatory of Thunder
-	6 UL08 Observatory of Death
-	6 UL09 Observatory of Light
-	6 UL10 Observatory of Water
-	6 UL11 Disastrous Cyclone
-	6 UL12 Disastrous Tsunami
-	6 UL13 Disastrous Eruption
-	6 UL14 Disastrous Wildfire
-	6 UL15 Disastrous Earthquake
-	6 UL16 Hall of the Dead
-	1 MC01 Aeon's Sixth Trial
-	1 MW01 Aeon's First Trial
-	1 MU01 Aeon's Second Trial
-	1 MB01 Aeon's Third Trial
-	1 MR01 Aeon's Fourth Trial
-	1 MG01 Aeon's Fifth Trial
-	1 MM01 Aeon's Final Trial
-	1 MW02 Edward, Beholder of Visions
-	2 RB02 Mindsharer Magus
-	2 RB03 Demonic Mindbinder
-	2 RG03 Titanic Mindbinder
-	2 RR03 Draconic Mindbinder
-	2 RU03 Sphinxian Mindbinder
-	2 RW03 Angelic Mindbinder
-	2 RW02 Timewinder Gatekeeper
-	2 RW04 Young Banisher
-	2 RW05 Elder Banisher
-	2 RU04 Obsessive Savant
-	2 RU05 Grand Obsession
-	2 RR04 Visionary Firemage
-	2 RR05 Revolutionary Firemage
-	2 RG04 Young Fleshtiller
-	2 RG05 Grizzled Fleshtiller
-	2 RB04 Recursive Ager
-	2 RB05 Final Recursivity
-	2 RU06 Academic Enlightenment
-	2 RW06 Dissonance Stone
-	2 RR06 Fleshifying Wildfire
-	2 RB06 Essential Eyestone
-	2 RG06 Hydraic Discovery
-	2 RW07 Letter of Solidarity
-	2 RU07 Letter of Cyclicality
-	2 RB07 Letter of Hostility
-	2 RR07 Letter of Modularity
-	2 RG07 Letter of History
-	2 RA02 Letter of Voidality
-	2 RL11 Tesselation Point
-	2 RL12 Completed Asymptote
-	2 RL13 Sphere's Vertex
-	2 RL14 Hyperbolic Loop
-	2 RL15 Finite Fractal
-	2 RL16 Monolith of Paradoxes
-	1 MG02 Aeon, Exposed to Truth
-	1 ML01 Alacrondais in Ruin
-[wildcard(1)]
-	6 CC01 Keen-Eyed Farmer
-	6 CC02 Farmhand Recruit
-	6 CC03 Envision Color
-	6 CC04 Soular Pinnacle
-	6 CC05 Immovable Essence
-	7 RC01 Mana to Flesh
-	7 RC02 Cloned Messenger
-	7 RC03 Leycore of Worldscapes
-	6 CW01 Keen-Eyed Hawk
-	6 CW02 Loyal Explorer
-	6 CW03 Secretive Sage
-	6 CW04 Terrain Flattener
-	6 CW05 Spreader of Loyalty
-	6 CW06 Symmetry Aligned
-	6 CW07 Young Wildcat
-	6 CW08 Young Camel
-	6 CW09 Elder Wildcat
-	6 CW10 Elder Camel
-	6 CW11 Sightful Smite
-	6 CW12 Enlightening Pacifism
-	6 CW13 Fleshify
-	6 CW14 Blessed Thoughts
-	6 CW15 Honored Burial
-	6 CW16 Heal from Mourning
-	6 CW17 Message of Condolences
-	6 CW18 Message of Alliance
-	6 CW19 Ensouled Taxation
-	6 CW20 Sighted Vigil
-	6 CW21 Relentless Infantry
-	7 RW01 Sighted Lawmage
-	7 RW08 Leycore of Minutia
-	15 UW01 Mender of Agony
-	15 UW02 Soul Suffuser
-	15 UW03 Murderous Balancer
-	15 UW04 Monastic Visionary
-	15 UW05 Anima of the Living
-	15 UW06 Angelic Perspective
-	15 UW07 Young Hamster
-	15 UW08 Young Fox
-	15 UW09 Elder Hamster
-	15 UW10 Elder Fox
-	15 UW14 Simple Soul
-	15 UW12 Decisive Rending
-	15 UW15 Indebting Assistance
-	15 UW17 Message of Eternal Rest
-	15 UW16 Transientize
-	15 UW19 Spherical Shattering
-	15 UW18 Message of Sworn War
-	6 CU01 Keen-Eyed Guardian
-	15 UW11 Death Tithe
-	15 UW20 Shining Sabotage
-	6 CU03 Recursive Arcanist
-	6 CU02 Knowing Explorer
-	6 CU05 Spreader of Knowledge
-	6 CU04 Mimesis Mockingbird
-	6 CU07 Young Turtle
-	6 CU06 Symmetry Perfected
-	15 UW13 Banishing Decay
-	6 CU08 Young Drake
-	6 CU09 Elder Turtle
-	6 CU10 Elder Drake
-	6 CU11 Sightful Shove
-	6 CU12 Enlightening Negation
-	6 CU13 Frozen Soul
-	6 CU14 Enlightened Thoughts
-	6 CU15 Death Choice
-	6 CU16 Discoverous Insight
-	6 CU17 Message of Insight
-	6 CU18 Message of Information
-	6 CU19 Clearsight
-	6 CU20 Sighted Twiddle
-	6 CU21 Relentless Crabs
-	4 MU02 Void Infinitum
-	7 RU01 Sighted Mindmage
-	7 RU02 Timewinder Supreme
-	7 RU08 Leycore of Brilliance
-	15 UU01 Timewinder Motivator
-	15 UU02 Fortune Suffuser
-	15 UU03 Seeping Steel
-	15 UU04 Meditating Visionary
-	15 UU05 Anima of the Insane
-	15 UU06 Sphinxian Perspective
-	15 UU07 Young Trout
-	15 UU08 Young Squid
-	15 UU09 Elder Trout
-	15 UU10 Elder Squid
-	15 UU11 Restrictive Mindset
-	15 UU12 Rotting Arcana
-	15 UU13 Icy Logic Rite
-	15 UU14 Helpful Soul
-	15 UU15 Unsolved Riddle
-	15 UU16 Confusing Plans
-	15 UU17 Message of Infinite Evidence
-	15 UU18 Message of Subtle Reversal
-	15 UU19 Enchanting Insight
-	15 UU20 Cryetic Anticipation
-	6 CB01 Keen-Eyed Rat
-	6 CB02 Persistent Explorer
-	6 CB03 Skilled Torturer
-	6 CB04 Diffused Siphoner
-	6 CB05 Spreader of Persistence
-	6 CB06 Symmetry Obssessed
-	6 CB07 Young Crow
-	6 CB08 Young Skunk
-	6 CB09 Elder Crow
-	6 CB10 Elder Skunk
-	6 CB11 Sightful Slaughter
-	6 CB12 Enlightening Grief
-	6 CB13 Reaping Murder
-	6 CB14 Cursed Thoughts
-	6 CB15 Lunatic Leeching
-	6 CB16 Read the Corpse
-	6 CB17 Message of Mockery
-	6 CB18 Message of Manipulation
-	6 CB19 One with One Thing
-	6 CB20 Sighted Burial
-	6 CB21 Relentless Ravens
-	7 RB01 Sighted Powermage
-	7 RB08 Leycore of Remains
-	15 UB01 Unsolved Pactling
-	15 UB02 Blood Suffuser
-	15 UB03 Cruel Explorer
-	15 UB04 Isolated Visionary
-	15 UB05 Anima of the Dead
-	15 UB06 Demonic Perspective
-	15 UB07 Young Rat
-	15 UB08 Young Leech
-	15 UB09 Elder Rat
-	15 UB10 Elder Leech
-	15 UB11 Remove Selfhood
-	15 UB12 Fleshseize
-	15 UB13 Fleshblight Wind
-	15 UB14 Cruel Soul
-	15 UB15 Death Dispute
-	15 UB16 Antagonistic Bloodfire
-	15 UB17 Message of Omnipotent Mastery
-	15 UB18 Message of Spiteful Return
-	15 UB19 Agonious Insight
-	15 UB20 Subtle Suffering
-	6 CR01 Keen-Eyed Thief
-	6 CR02 Courageous Explorer
-	6 CR03 Futureflame Seer
-	6 CR04 Doomed Researcher
-	6 CR05 Spreader of Courage
-	6 CR06 Symmetry Ruined
-	6 CR07 Young Jackal
-	6 CR08 Young Lizard
-	6 CR09 Elder Jackal
-	6 CR10 Elder Lizard
-	6 CR11 Sightful Slash
-	6 CR12 Enlightening Ruin
-	6 CR13 Burn the Looters
-	6 CR14 Ascended Thoughts
-	6 CR15 Reduced Catharsis
-	6 CR16 Quickstart Graverobbing
-	6 CR17 Message of Emotion
-	6 CR18 Message of Encouragement
-	6 CR19 Seek Meaning
-	6 CR20 Sighted Pyre
-	6 CR21 Relentless Fodder
-	7 RR01 Sighted Madnessmage
-	7 RR02 Life's Broken Facade
-	7 RR08 Leycore of Inspiration
-	15 UR01 Possible Flesh
-	15 UR02 Crystal Suffuser
-	15 UR03 Flesh Feeder
-	15 UR04 Exploring Visionary
-	15 UR05 Anima of the Obssessive
-	15 UR06 Draconic Perspective
-	15 UR07 Young Porcupine
-	15 UR08 Young Goat
-	15 UR09 Elder Porcupine
-	15 UR10 Elder Goat
-	15 UR11 Broken on Arrival
-	15 UR12 Corpse Cannonade
-	15 UR13 Fiery Instict Rite
-	15 UR14 Exploratory Soul
-	15 UR15 Serial Graverobbing
-	15 UR16 Impulsive Looting
-	15 UR17 Message of Perpetual Fire
-	15 UR18 Message of Brave Exploration
-	15 UR19 Enchanting Power
-	15 UR20 Pyretic Exploration
-	6 CG01 Keen-Eyed Coven
-	6 CG02 Strong Explorer
-	6 CG03 Crop Rotator
-	6 CG04 Goring Corpseater
-	6 CG05 Spreader of Strength
-	6 CG06 Symmetry Eternal
-	6 CG07 Young Viper
-	6 CG08 Young Bear
-	6 CG09 Elder Viper
-	6 CG10 Elder Bear
-	6 CG11 Sightful Snap
-	6 CG12 Enlightening Duel
-	6 CG13 Reclamation Scrying
-	6 CG14 Calm Thoughts
-	6 CG15 Wilden Brutality
-	6 CG16 Rooted Disruption
-	6 CG17 Message of Compassion
-	6 CG18 Message of Growth
-	6 CG19 Maddened Scrying
-	6 CG20 Sighted Daybreak
-	6 CG21 Relentless Brushwaggs
-	7 RG01 Sighted Morrowmage
-	7 RG02 Druidic Fleshshaper
-	7 RG08 Leycore of Horizons
-	15 UG01 Blood-Rite Druid
-	15 UG02 Filth Suffuser
-	15 UG03 Tusked Wildebeast
-	15 UG04 Hermetic Visionary
-	15 UG05 Anima of the Balanced
-	15 UG06 Titanic Perspective
-	15 UG07 Young Squirrel
-	15 UG08 Young Spider
-	15 UG09 Elder Squirrel
-	15 UG10 Elder Spider
-	15 UG11 Axed Fumbling
-	15 UG12 Innovative Reclamation
-	15 UG13 Duel to Death
-	15 UG14 Mighty Soul
-	15 UG15 Graveyard Scouting
-	15 UG16 Tertiary Synopsis
-	15 UG17 Message of Boundless Earth
-	15 UG18 Message of Undead Might
-	15 UG19 Clay Deadshaping
-	15 UG20 Earthen Inversion
-	7 RM01 No More Truth
-	7 RM02 Rending Ricochet
-	7 RM03 Withering Engine
-	7 RM04 Pyrohelix
-	7 RM05 Life-Rite Crystal
-	7 RM06 Banishing Darkness
-	7 RM07 Reflect Magic
-	7 RM08 Crypt of Banishment
-	7 RM09 Fiery Extraction
-	7 RM10 Tectonic Boomerang
-	7 RA01 Aeon's Bauble
-	6 CL01 Watchtower of Frost
-	6 CL02 Watchtower of Darkness
-	6 CL03 Watchtower of Blood
-	6 CL04 Watchtower of Fire
-	6 CL05 Watchtower of Life
-	6 CL06 Watchtower of Bone
-	6 CL07 Watchtower of Thunder
-	6 CL08 Watchtower of Death
-	6 CL09 Watchtower of Light
-	6 CL10 Watchtower of Water
-	6 CL11 Authorized Gateway
-	6 CL12 Optimized Gateway
-	6 CL13 Dominated Gateway
-	6 CL14 Randomized Gateway
-	6 CL15 Challenging Gateway
-	6 CL16 Lonely Watchtower
-	7 RL01 Pit of Frost
-	7 RL02 Pit of Darkness
-	7 RL03 Pit of Blood
-	7 RL04 Pit of Fire
-	7 RL05 Pit of Life
-	7 RL06 Pit of Bone
-	7 RL07 Pit of Thunder
-	7 RL08 Pit of Death
-	7 RL09 Pit of Light
-	7 RL10 Pit of Water
-	15 UL01 Observatory of Frost
-	15 UL02 Observatory of Darkness
-	15 UL03 Observatory of Blood
-	15 UL03 Observatory of Fire
-	15 UL05 Observatory of Life
-	15 UL06 Observatory of Bone
-	15 UL07 Observatory of Thunder
-	15 UL08 Observatory of Death
-	15 UL09 Observatory of Light
-	15 UL10 Observatory of Water
-	15 UL11 Disastrous Cyclone
-	15 UL12 Disastrous Tsunami
-	15 UL13 Disastrous Eruption
-	15 UL14 Disastrous Wildfire
-	15 UL15 Disastrous Earthquake
-	15 UL16 Hall of the Dead
-	4 MC01 Aeon's Sixth Trial
-	4 MW01 Aeon's First Trial
-	4 MU01 Aeon's Second Trial
-	4 MB01 Aeon's Third Trial
-	4 MR01 Aeon's Fourth Trial
-	4 MG01 Aeon's Fifth Trial
-	4 MM01 Aeon's Final Trial
-	4 MW02 Edward, Beholder of Visions
-	7 RB02 Mindsharer Magus
-	7 RB03 Demonic Mindbinder
-	7 RG03 Titanic Mindbinder
-	7 RR03 Draconic Mindbinder
-	7 RU03 Sphinxian Mindbinder
-	7 RW03 Angelic Mindbinder
-	7 RW02 Timewinder Gatekeeper
-	7 RW04 Young Banisher
-	7 RW05 Elder Banisher
-	7 RU04 Obsessive Savant
-	7 RU05 Grand Obsession
-	7 RR04 Visionary Firemage
-	7 RR05 Revolutionary Firemage
-	7 RG04 Young Fleshtiller
-	7 RG05 Grizzled Fleshtiller
-	7 RB04 Recursive Ager
-	7 RB05 Final Recursivity
-	7 RU06 Academic Enlightenment
-	7 RW06 Dissonance Stone
-	7 RR06 Fleshifying Wildfire
-	7 RB06 Essential Eyestone
-	7 RG06 Hydraic Discovery
-	7 RW07 Letter of Solidarity
-	7 RU07 Letter of Cyclicality
-	7 RB07 Letter of Hostility
-	7 RR07 Letter of Modularity
-	7 RG07 Letter of History
-	7 RA02 Letter of Voidality
-	7 RL11 Tesselation Point
-	7 RL12 Completed Asymptote
-	7 RL13 Sphere's Vertex
-	7 RL14 Hyperbolic Loop
-	7 RL15 Finite Fractal
-	7 RL16 Monolith of Paradoxes
-	4 MG02 Aeon, Exposed to Truth
-	4 ML01 Alacrondais in Ruin
+[smallcreatureslot(1)]
+	5 CC01 Keen-Eyed Farmer
+	5 CW01 Keen-Eyed Hawk
+	5 CW02 Loyal Explorer
+	5 RW01 Sighted Lawmage
+	5 UW01 Mender of Agony
+	5 UW02 Soul Suffuser
+	5 CU01 Keen-Eyed Guardian
+	5 CU02 Knowing Explorer
+	5 RU01 Sighted Mindmage
+	5 UU01 Timewinder Motivator
+	5 UU02 Fortune Suffuser
+	5 CB01 Keen-Eyed Rat
+	5 CB02 Persistent Explorer
+	5 RB01 Sighted Powermage
+	5 UB01 Unsolved Pactling
+	5 UB02 Blood Suffuser
+	5 CR01 Keen-Eyed Thief
+	5 CR02 Courageous Explorer
+	5 RR01 Sighted Madnessmage
+	5 UR01 Possible Flesh
+	5 UR02 Crystal Suffuser
+	5 CG01 Keen-Eyed Coven
+	5 CG02 Strong Explorer
+	5 RG01 Sighted Morrowmage
+	5 UG01 Blood-Rite Druid
+	5 UG02 Filth Suffuser
+[mediumcreatureslot(1)]
+	5 CC02 Farmhand Recruit
+	5 CW03 Secretive Sage
+	5 CW04 Terrain Flattener
+	5 UW03 Murderous Balancer
+	5 UW04 Monastic Visionary
+	5 CU03 Recursive Arcanist
+	5 CU04 Mimesis Mockingbird
+	5 RU02 Timewinder Supreme
+	5 UU03 Seeping Steel
+	5 UU04 Meditating Visionary
+	5 CB03 Skilled Torturer
+	5 CB04 Diffused Siphoner
+	5 UB03 Cruel Explorer
+	5 UB04 Isolated Visionary
+	5 CR03 Futureflame Seer
+	5 CR04 Doomed Researcher
+	5 RR02 Life's Broken Facade
+	5 UR03 Flesh Feeder
+	5 UR04 Exploring Visionary
+	5 CG03 Crop Rotator
+	5 CG04 Goring Corpseater
+	5 RG02 Druidic Fleshshaper
+	5 UG03 Tusked Wildebeast
+	5 UG04 Hermetic Visionary
+	5 RB02 Mindsharer Magus
+	5 RW02 Timewinder Gatekeeper
+[largecreatureslot(1)]
+	5 CW05 Spreader of Loyalty
+	5 CW06 Symmetry Aligned
+	5 UW05 Anima of the Living
+	5 UW06 Angelic Perspective
+	5 CU05 Spreader of Knowledge
+	5 CU06 Symmetry Perfected
+	5 UU05 Anima of the Insane
+	5 UU06 Sphinxian Perspective
+	5 CB05 Spreader of Persistence
+	5 CB06 Symmetry Obssessed
+	5 UB05 Anima of the Dead
+	5 UB06 Demonic Perspective
+	5 CR05 Spreader of Courage
+	5 CR06 Symmetry Ruined
+	5 UR05 Anima of the Obssessive
+	5 UR06 Draconic Perspective
+	5 CG05 Spreader of Strength
+	5 CG06 Symmetry Eternal
+	5 UG05 Anima of the Balanced
+	5 UG06 Titanic Perspective
+	5 RB03 Demonic Mindbinder
+	5 RG03 Titanic Mindbinder
+	5 RR03 Draconic Mindbinder
+	5 RU03 Sphinxian Mindbinder
+	5 RW03 Angelic Mindbinder
+[fledglingslot(1)]
+	5 CW07 Young Wildcat
+	5 CW08 Young Camel
+	5 UW07 Young Hamster
+	5 UW08 Young Fox
+	5 CU07 Young Turtle
+	5 CU08 Young Drake
+	5 UU07 Young Trout
+	5 UU08 Young Squid
+	5 CB07 Young Crow
+	5 CB08 Young Skunk
+	5 UB07 Young Rat
+	5 UB08 Young Leech
+	5 CR07 Young Jackal
+	5 CR08 Young Lizard
+	5 UR07 Young Porcupine
+	5 UR08 Young Goat
+	5 CG07 Young Viper
+	5 CG08 Young Bear
+	5 UG07 Young Squirrel
+	5 UG08 Young Spider
+	5 RW04 Young Banisher
+	5 RU04 Obsessive Savant
+	5 RR04 Visionary Firemage
+	5 RG04 Young Fleshtiller
+	5 RB04 Recursive Ager
+[elderslot(1)]
+	5 CW09 Elder Wildcat
+	5 CW10 Elder Camel
+	5 UW09 Elder Hamster
+	5 UW10 Elder Fox
+	5 CU09 Elder Turtle
+	5 CU10 Elder Drake
+	5 UU09 Elder Trout
+	5 UU10 Elder Squid
+	5 CB09 Elder Crow
+	5 CB10 Elder Skunk
+	5 UB09 Elder Rat
+	5 UB10 Elder Leech
+	5 CR09 Elder Jackal
+	5 CR10 Elder Lizard
+	5 UR09 Elder Porcupine
+	5 UR10 Elder Goat
+	5 CG09 Elder Viper
+	5 CG10 Elder Bear
+	5 UG09 Elder Squirrel
+	5 UG10 Elder Spider
+	5 RW05 Elder Banisher
+	5 RU05 Grand Obsession
+	5 RR05 Revolutionary Firemage
+	5 RG05 Grizzled Fleshtiller
+	5 RB05 Final Recursivity
+[interactionslot(2)]
+	5 CW11 Sightful Smite
+	5 CW12 Enlightening Pacifism
+	5 CW13 Fleshify
+	5 UW12 Decisive Rending
+	5 UW11 Death Tithe
+	5 UW13 Banishing Decay
+	5 CU11 Sightful Shove
+	5 CU12 Enlightening Negation
+	5 CU13 Frozen Soul
+	5 UU11 Restrictive Mindset
+	5 UU12 Rotting Arcana
+	5 UU13 Icy Logic Rite
+	5 CB11 Sightful Slaughter
+	5 CB12 Enlightening Grief
+	5 CB13 Reaping Murder
+	5 UB11 Remove Selfhood
+	5 UB12 Fleshseize
+	5 UB13 Fleshblight Wind
+	5 CR11 Sightful Slash
+	5 CR12 Enlightening Ruin
+	5 CR13 Burn the Looters
+	5 UR11 Broken on Arrival
+	5 UR12 Corpse Cannonade
+	5 UR13 Fiery Instict Rite
+	5 CG11 Sightful Snap
+	5 CG12 Enlightening Duel
+	5 CG13 Reclamation Scrying
+	5 UG11 Axed Fumbling
+	5 UG12 Innovative Reclamation
+	5 UG13 Duel to Death
+	5 RM01 No More Truth
+	5 RM02 Rending Ricochet
+	5 RM03 Withering Engine
+	5 RM04 Pyrohelix
+	5 RM05 Life-Rite Crystal
+	5 RM06 Banishing Darkness
+	5 RM07 Reflect Magic
+	5 RM08 Crypt of Banishment
+	5 RM09 Fiery Extraction
+	5 RM10 Tectonic Boomerang
+[valueslot(2)]
+	5 RC01 Mana to Flesh
+	5 CW14 Blessed Thoughts
+	5 CW15 Honored Burial
+	5 CW16 Heal from Mourning
+	5 UW14 Simple Soul
+	5 UW15 Indebting Assistance
+	5 UW16 Transientize
+	5 CU14 Enlightened Thoughts
+	5 CU15 Death Choice
+	5 CU16 Discoverous Insight
+	5 UU14 Helpful Soul
+	5 UU15 Unsolved Riddle
+	5 UU16 Confusing Plans
+	5 CB14 Cursed Thoughts
+	5 CB15 Lunatic Leeching
+	5 CB16 Read the Corpse
+	5 UB14 Cruel Soul
+	5 UB15 Death Dispute
+	5 UB16 Antagonistic Bloodfire
+	5 CR14 Ascended Thoughts
+	5 CR15 Reduced Catharsis
+	5 CR16 Quickstart Graverobbing
+	5 UR14 Exploratory Soul
+	5 UR15 Serial Graverobbing
+	5 UR16 Impulsive Looting
+	5 CG14 Calm Thoughts
+	5 CG15 Wilden Brutality
+	5 CG16 Rooted Disruption
+	5 UG14 Mighty Soul
+	5 UG15 Graveyard Scouting
+	5 UG16 Tertiary Synopsis
+	5 RU06 Academic Enlightenment
+	5 RW06 Dissonance Stone
+	5 RR06 Fleshifying Wildfire
+	5 RB06 Essential Eyestone
+	5 RG06 Hydraic Discovery
+[messageslot(1)]
+	5 CC03 Envision Color
+	5 RC02 Cloned Messenger
+	5 CW17 Message of Condolences
+	5 CW18 Message of Alliance
+	5 UW17 Message of Eternal Rest
+	5 UW18 Message of Sworn War
+	5 CU17 Message of Insight
+	5 CU18 Message of Information
+	5 UU17 Message of Infinite Evidence
+	5 UU18 Message of Subtle Reversal
+	5 CB17 Message of Mockery
+	5 CB18 Message of Manipulation
+	5 UB17 Message of Omnipotent Mastery
+	5 UB18 Message of Spiteful Return
+	5 CR17 Message of Emotion
+	5 CR18 Message of Encouragement
+	5 UR17 Message of Perpetual Fire
+	5 UR18 Message of Brave Exploration
+	5 CG17 Message of Compassion
+	5 CG18 Message of Growth
+	5 UG17 Message of Boundless Earth
+	5 UG18 Message of Undead Might
+	5 RW07 Letter of Solidarity
+	5 RU07 Letter of Cyclicality
+	5 RB07 Letter of Hostility
+	5 RR07 Letter of Modularity
+	5 RG07 Letter of History
+	5 RA02 Letter of Voidality
+[oddityslot(1)]
+	5 CC04 Soular Pinnacle
+	5 CC05 Immovable Essence
+	5 RC03 Leycore of Worldscapes
+	5 CW19 Ensouled Taxation
+	5 CW20 Sighted Vigil
+	5 RW08 Leycore of Minutia
+	5 UW19 Spherical Shattering
+	5 UW20 Shining Sabotage
+	5 CU19 Clearsight
+	5 CU20 Sighted Twiddle
+	5 MU02 Void Infinitum
+	5 RU08 Leycore of Brilliance
+	5 UU19 Enchanting Insight
+	5 UU20 Cryetic Anticipation
+	5 CB19 One with One Thing
+	5 CB20 Sighted Burial
+	5 RB08 Leycore of Remains
+	5 UB19 Agonious Insight
+	5 UB20 Subtle Suffering
+	5 CR19 Seek Meaning
+	5 CR20 Sighted Pyre
+	5 RR08 Leycore of Inspiration
+	5 UR19 Enchanting Power
+	5 UR20 Pyretic Exploration
+	5 CG19 Maddened Scrying
+	5 CG20 Sighted Daybreak
+	5 RG08 Leycore of Horizons
+	5 UG19 Clay Deadshaping
+	5 UG20 Earthen Inversion
+	5 RA01 Aeon's Bauble
+	5 MC01 Aeon's Sixth Trial
+	5 MW01 Aeon's First Trial
+	5 MU01 Aeon's Second Trial
+	5 MB01 Aeon's Third Trial
+	5 MR01 Aeon's Fourth Trial
+	5 MG01 Aeon's Fifth Trial
+	5 MM01 Aeon's Final Trial
+	5 MW02 Edward, Beholder of Visions
+	5 MG02 Aeon, Exposed to Truth
+	5 ML01 Alacrondais in Ruin
+[relentlessslot(1)]
+	5 CW21 Relentless Infantry
+	5 CU21 Relentless Crabs
+	5 CB21 Relentless Ravens
+	5 CR21 Relentless Fodder
+	5 CG21 Relentless Brushwaggs
+[duallandslot(1)]
+	5 CL01 Watchtower of Frost
+	5 CL02 Watchtower of Darkness
+	5 CL03 Watchtower of Blood
+	5 CL04 Watchtower of Fire
+	5 CL05 Watchtower of Life
+	5 CL06 Watchtower of Bone
+	5 CL07 Watchtower of Thunder
+	5 CL08 Watchtower of Death
+	5 CL09 Watchtower of Light
+	5 CL10 Watchtower of Water
+	5 RL01 Pit of Frost
+	5 RL02 Pit of Darkness
+	5 RL03 Pit of Blood
+	5 RL04 Pit of Fire
+	5 RL05 Pit of Life
+	5 RL06 Pit of Bone
+	5 RL07 Pit of Thunder
+	5 RL08 Pit of Death
+	5 RL09 Pit of Light
+	5 RL10 Pit of Water
+	5 UL01 Observatory of Frost
+	5 UL02 Observatory of Darkness
+	5 UL03 Observatory of Blood
+	5 UL03 Observatory of Fire
+	5 UL05 Observatory of Life
+	5 UL06 Observatory of Bone
+	5 UL07 Observatory of Thunder
+	5 UL08 Observatory of Death
+	5 UL09 Observatory of Light
+	5 UL10 Observatory of Water
+	5 RL11 Tesselation Point
+	5 RL12 Completed Asymptote
+	5 RL13 Sphere's Vertex
+	5 RL14 Hyperbolic Loop
+	5 RL15 Finite Fractal
+	5 RL16 Monolith of Paradoxes
+[utilitylandslot(1)]
+	5 CL11 Authorized Gateway
+	5 CL12 Optimized Gateway
+	5 CL13 Dominated Gateway
+	5 CL14 Randomized Gateway
+	5 CL15 Challenging Gateway
+	5 CL16 Lonely Watchtower
+	5 UL11 Disastrous Cyclone
+	5 UL12 Disastrous Tsunami
+	5 UL13 Disastrous Eruption
+	5 UL14 Disastrous Wildfire
+	5 UL15 Disastrous Earthquake
+	5 UL16 Hall of the Dead

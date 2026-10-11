@@ -1,4 +1,52 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+RC01 Mana to Flesh
+
+RR08 Leycore of Inspiration
+rules_text: Elsewhere 3 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Your starting elsewhere can only have one card named Leycore of Inspiration.
+As long as this card is in your elsewhere and each nonpermanent card in your starting deck had {R} in its cost, you may treat the bracketed text as if this card was on the battlefield.
+[[b]Whenever you cast a spell, add {R}.[/b]] => Elsewhere 3 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Your starting elsewhere can only have one card named Leycore of Inspiration.
+As long as this card is in your elsewhere and each nonpermanent card in your starting deck had {R} in its cost, you may treat the bracketed text as if this card was on the battlefield.
+[[b]Whenever you cast a spell, you get {V}.[/b]]
+
+CG21 Relentless Brushwaggs
+rules_text: Trample
+This creature gets +1/+0 for each creature you control named Relentless Brushwaggs.
+A deck may have any number of cards named Relentless Brushwaggs. => Trample
+This creature gets +1/+0 for each other creature you control named Relentless Brushwaggs.
+A deck may have any number of cards named Relentless Brushwaggs.
+
+MC01 Aeon's Sixth Trial
+
+MW01 Aeon's First Trial
+
+MU01 Aeon's Second Trial
+
+MB01 Aeon's Third Trial
+
+MR01 Aeon's Fourth Trial
+
+MG01 Aeon's Fifth Trial
+
+MM01 Aeon's Final Trial
+
+MW02 Edward, Beholder of Visions
+flavor_text: [i]FT[/i] => [i]The second son of an insignificant noble house, Edward was thrust into power after beginning to receive strange visions of something only called “Solvatim”.[/i]
+
+RU03 Sphinxian Mindbinder
+rules_text: Menace
+Whenever a player draws one or more cards, that player may wander. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i] => Vigilance
+Whenever a player draws one or more cards, that player may wander. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i]
+
+MG02 Aeon, Exposed to Truth
+
+
+VERSION 6 CHANGELOG
 ====================
 
 
