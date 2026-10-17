@@ -5,7 +5,7 @@
 			<name>SVE</name>
 			<longname>Solvatim Envisioned</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-11</releasedate>
+			<releasedate>2026-10-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -221,8 +221,10 @@ When this creature enters, you get {V} (a vision counter).</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW03 Secretive Sage</name>
-			<text>When this creature leaves the battlefield, each player draws a card, then each opponent discards a card.</text>
+			<name>CW03 Thoughtful Lightcaller</name>
+			<text>When this creature enters, choose one —
+• Put a +1/+1 counter on another target creature.
+• Exile target card from a graveyard. You gain 1 life.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/11.png" num="12">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -233,33 +235,32 @@ When this creature enters, you get {V} (a vision counter).</text>
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/1</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW04 Terrain Flattener</name>
-			<text>Kicker—Sacrifice a land (You may sacrifice a land in addition to any other costs as you cast this spell.)
-When this creature enters, if it was kicked, choose one —
-• Destroy target land. You gain 1 life.
-• Draw a card. You may play an additional land this turn.</text>
+			<name>CW04 Hawk of Plucked Eyes</name>
+			<text>Flying
+When this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/12.png" num="13">SVE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Giant Laborer</type>
+				<type>Creature — Bird</type>
 				<maintype>Creature</maintype>
 				<manacost>3W</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>4/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CW05 Spreader of Loyalty</name>
-			<text>Creatures you control get +1/+1.</text>
+			<text>Vigilance
+Whenever this creature attacks, target permanent gains &quot;{T}: You gain 2 life.&quot; until end of turn.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/13.png" num="14">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -270,13 +271,13 @@ When this creature enters, if it was kicked, choose one —
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CW06 Symmetry Aligned</name>
-			<text>When this creature enters, discover 4. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+			<text>When this creature enters, if you control another creature with power equal to its toughness, put a +1/+1 counter on another target creature.
 Basic landcycling {2W}</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/14.png" num="15">SVE</set>
 			<prop>
@@ -288,7 +289,7 @@ Basic landcycling {2W}</text>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -418,7 +419,7 @@ Corpse conjuration into their hand. (It&apos;s a {0} 1/0 creature with &quot;If 
 		<card>
 			<name>CW14 Blessed Thoughts</name>
 			<text>Target creature you control gets +2/+2 until end of turn.
-Add {C}{W}.</text>
+Add {W}.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/22.png" num="23">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -450,7 +451,7 @@ Add {C}{W}.</text>
 		</card>
 		<card>
 			<name>CW16 Heal from Mourning</name>
-			<text>You gain 2 life. Draw a card. Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
+			<text>You gain 4 life. Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/24.png" num="25">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -486,7 +487,7 @@ Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature 
 			<name>CW18 Message of Alliance</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Message—{V}{V}{V}, {1}{W}. (You may cast copies of this spell from your elsewhere for its message cost.)
-Until end of turn, creatures you control have +1/+1.</text>
+Until end of turn, creatures you control get +1/+1.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/26.png" num="27">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -670,7 +671,7 @@ Whenever you cast an instant or sorcery spell, you may pay {W} or {V}. If you do
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -690,7 +691,7 @@ When you discard this card, you get {V}.</text>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>4/4</pt>
+				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -976,7 +977,8 @@ Grandeur — {W}, Discard another card named Shining Sabotage: Counter target sp
 		</card>
 		<card>
 			<name>CU05 Spreader of Knowledge</name>
-			<text>Whenever a creature you control deals combat damage to a player, draw a card, then discard a card.</text>
+			<text>Ward {2}
+Whenever this creature attacks, target permanent gains &quot;{2}, {T}: Draw a card, then discard a card.&quot; until end of turn.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/54.png" num="65">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -987,7 +989,7 @@ Grandeur — {W}, Discard another card named Shining Sabotage: Counter target sp
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>3/3</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1028,7 +1030,7 @@ When this creature dies, create a token that&apos;s a copy of it and attach all 
 		</card>
 		<card>
 			<name>CU06 Symmetry Perfected</name>
-			<text>When this creature enters, discover 4. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+			<text>When this creature enters, put a vigilance counter on it if you control another creature with power equal to its toughness.
 Basic landcycling {2U}</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/57.png" num="66">SVE</set>
 			<prop>
@@ -1040,13 +1042,13 @@ Basic landcycling {2U}</text>
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UW13 Banishing Decay</name>
-			<text>When this enchantment enters, exile target nonland permanent until this enchantment leaves the battlefield. Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
+			<text>When this enchantment enters, exile another target nonland permanent until this enchantment leaves the battlefield. Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/58.png" num="53">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1165,7 +1167,7 @@ Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control
 		<card>
 			<name>CU14 Enlightened Thoughts</name>
 			<text>Target creature you control gets +0/+3 and gains hexproof until end of turn.
-Add {C}{U}.</text>
+Add {U}.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/65.png" num="74">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1453,7 +1455,7 @@ Whenever you cast an instant or sorcery spell, you may pay {U} or {V}. If you do
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1473,7 +1475,7 @@ When you discard this card, you get {V}.</text>
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>4/4</pt>
+				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1793,7 +1795,8 @@ When this creature enters, you get {V} (a vision counter).</text>
 		</card>
 		<card>
 			<name>CB05 Spreader of Persistence</name>
-			<text>Creatures you control have menace.</text>
+			<text>Deathtouch
+Whenever this creature attacks, target permanent gains &quot;{1}, {T}: Surveil 1.&quot; until end of turn.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/101.png" num="116">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1804,13 +1807,13 @@ When this creature enters, you get {V} (a vision counter).</text>
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CB06 Symmetry Obssessed</name>
-			<text>When this creature enters, discover 4. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+			<text>When this creature enters, you may sacrifice a creature with power equal to its toughness. When you do, target creature gets -X/-X until end of turn, where X is the sacrificed creature&apos;s power.
 Basic landcycling {2B}</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/102.png" num="117">SVE</set>
 			<prop>
@@ -1822,7 +1825,7 @@ Basic landcycling {2B}</text>
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1949,7 +1952,7 @@ Menace</text>
 		<card>
 			<name>CB14 Cursed Thoughts</name>
 			<text>Until end of turn, target creature you control gains &quot;When this creature dies, return it to the battlefield tapped.
-Add {C}{B}.</text>
+Add {B}.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/110.png" num="125">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2200,7 +2203,7 @@ Whenever you cast an instant or sorcery spell, you may pay {B} or {V}. If you do
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2220,7 +2223,7 @@ When you discard this card, you get {V}.</text>
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>4/4</pt>
+				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2539,7 +2542,8 @@ When this creature dies, discover 3. (Exile cards from the top of your library u
 		</card>
 		<card>
 			<name>CR05 Spreader of Courage</name>
-			<text>Creatures you control have haste.</text>
+			<text>Menace
+Whenever this creature attacks, target permanent gains &quot;{T}: This permanent deals 1 damage to each opponent.&quot; until end of turn.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/144.png" num="166">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2550,13 +2554,13 @@ When this creature dies, discover 3. (Exile cards from the top of your library u
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CR06 Symmetry Ruined</name>
-			<text>When this creature enters, discover 4. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+			<text>When this creature enters, put a first strike counter on it if you control another creature with power equal to its toughness.
 Basic landcycling {2R}</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/145.png" num="167">SVE</set>
 			<prop>
@@ -2568,7 +2572,7 @@ Basic landcycling {2R}</text>
 				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2696,7 +2700,7 @@ Discard a card, then draw a card.</text>
 		<card>
 			<name>CR14 Ascended Thoughts</name>
 			<text>Target creature you control gets+3/+0 until end of turn.
-Add {C}{R}.</text>
+Add {R}.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/153.png" num="175">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2968,7 +2972,7 @@ Whenever you cast an instant or sorcery spell, you may pay {R} or {V}. If you do
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2988,7 +2992,7 @@ When you discard this card, you get {V}.</text>
 				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/4</pt>
+				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3311,7 +3315,8 @@ When this creature enters, conjure a Corpse conjuration into your hand. (It&apos
 		</card>
 		<card>
 			<name>CG05 Spreader of Strength</name>
-			<text>Creatures you control have trample.</text>
+			<text>Trample
+Whenever this creature attacks, target permanent gains &quot;{4}, {T}: Return target card from your graveyard to your hand.&quot; until end of turn.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/188.png" num="216">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3322,13 +3327,13 @@ When this creature enters, conjure a Corpse conjuration into your hand. (It&apos
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CG06 Symmetry Eternal</name>
-			<text>When this creature enters, discover 4. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+			<text>When this creature enters, return target card with power equal to its toughness from your graveyard to your hand.
 Basic landcycling {2G}</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/189.png" num="217">SVE</set>
 			<prop>
@@ -3340,7 +3345,7 @@ Basic landcycling {2G}</text>
 				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3465,7 +3470,7 @@ Deathtouch</text>
 		<card>
 			<name>CG14 Calm Thoughts</name>
 			<text>Target creature you control gets +1/+3 until end of turn.
-Add {C}{G}.</text>
+Add {G}.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/197.png" num="225">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3737,7 +3742,7 @@ Whenever you cast an instant or sorcery spell, you may pay {G} or {V}. If you do
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3757,7 +3762,7 @@ When you discard this card, you get {V}.</text>
 				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>4/4</pt>
+				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

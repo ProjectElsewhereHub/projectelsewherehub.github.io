@@ -5,7 +5,7 @@
 			<name>AMP</name>
 			<longname>Amplalo, Realm of the Colossi</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-10</releasedate>
+			<releasedate>2026-10-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -898,7 +898,7 @@ Whenever this creature attacks, you may sacrifice another artifact or creature. 
 		</card>
 		<card>
 			<name>Invoker of the Past</name>
-			<text>When this creature enters, you may exile a card from your graveyard. If you do, choose one—
+			<text>When this creature enters, you may exile a card from your graveyard. If you do, choose one —
 • Create a 1/1 white Cleric creature token.
 • Create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/51.png" num="100">AMP</set>
@@ -1717,7 +1717,7 @@ Target creature you control fights target creature you don&apos;t control. (Each
 		</card>
 		<card>
 			<name>Ravage the Canopy</name>
-			<text>Choose one—
+			<text>Choose one —
 • Destroy target artifact.
 • Target creature you control fights target creature with flying. (Each deals damage equal to its power to the other.)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/99.png" num="177">AMP</set>
@@ -2133,7 +2133,7 @@ Whenever an artifact you control enters or leaves the battlefield, you may pay {
 		</card>
 		<card>
 			<name>Exemplary Follower</name>
-			<text>When this creature dies, choose one—
+			<text>When this creature dies, choose one —
 • You gain 2 life.
 • Create a 1/1 white Cleric creature token.
 • Create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
@@ -2236,7 +2236,7 @@ Whenever an artifact you control enters or leaves the battlefield, you may pay {
 		</card>
 		<card>
 			<name>Embrace Oblivion</name>
-			<text>Target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard. Choose one—
+			<text>Target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard. Choose one —
 • For each card put into a graveyard this way, that player loses 1 life and you gain 1 life.
 • For each card put into a graveyard this way, you gain 2 life.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/130.png" num="88">AMP</set>
@@ -2378,7 +2378,7 @@ At the beginning of your end step, sacrifice this enchantment.</text>
 		</card>
 		<card>
 			<name>Churn the Tides</name>
-			<text>Choose one—
+			<text>Choose one —
 • Choose a creature type. For each creature you control of the chosen type, exile the top card of your library.
 • For each sea monster you control, exile the top card of your library. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
 Until the end of your next turn, you may play cards exiled with this spell.</text>
@@ -2850,7 +2850,7 @@ Whenever another sea monster you control enters, control, create a 1/1 blue Fish
 		</card>
 		<card>
 			<name>Lucid Seer</name>
-			<text>{2}{U}, Exile this card from your graveyard: Choose one—
+			<text>{2}{U}, Exile this card from your graveyard: Choose one —
 • Target player mills four cards.
 • Draw a card.
 • Create a 1/1 blue Fish creature token.
@@ -2959,7 +2959,7 @@ Gain control of target permanent.</text>
 		</card>
 		<card>
 			<name>Etchweaver</name>
-			<text>{1}{B}, {T}, Sacrifice another permanent: Choose one that hasn&apos;t been chosen—
+			<text>{1}{B}, {T}, Sacrifice another permanent: Choose one that hasn&apos;t been chosen —
 • Each opponent loses 2 life and you gain 2 life.
 • Each opponent sacrifices a nontoken creature.
 • Exile all cards from target player&apos;s graveyard.
@@ -3177,7 +3177,7 @@ Whenever this creature attacks, it fights up to one other target creature.</text
 		</card>
 		<card>
 			<name>Embers of Creation</name>
-			<text>Choose one—
+			<text>Choose one —
 • Embers of Creation deals X damage to each creature.
 • Create X tapped Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/184.png" num="128">AMP</set>
@@ -3821,7 +3821,7 @@ Nonlegendary creatures you control get +1/+1 for each legendary creature you con
 			<name>Total Devotion</name>
 			<text>Elsewhere 6 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Before you shuffle your deck to start the game, you may put Total Devotion from your elsewhere onto the battlefield. If you do, you can&apos;t cast spells with mana value 5 or less this game.
-At the beginning of your upkeep, choose one that hasn&apos;t been chosen—
+At the beginning of your upkeep, choose one that hasn&apos;t been chosen —
 • Create two 1/1 white Cleric creature tokens.
 • Create two tapped Treasure tokens.
 • Total Devotion deals 2 damage to any target.

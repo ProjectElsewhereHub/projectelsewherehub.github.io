@@ -1,4 +1,15 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+
+
+UG09 Fragmented Naturalization
+rules_text: Cleave {G} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Destroy target artifact [or creature with power less than the greatest power among creatures you control]. => Cleave {G} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Destroy target artifact [[b]or creature with power less than the greatest power among creatures you control[/b]].
+
+
+VERSION 19 CHANGELOG
 ====================
 
 

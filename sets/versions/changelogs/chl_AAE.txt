@@ -1,4 +1,21 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Ur-Colossus
+rules_text: Elsewhere 6 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — Act of Xiphaes, Act of Abussaee, Act of Exodais, Act of Eos, and Act of Biotace. [i](You may cast this card from your elsewhere as long as you've played Act of Xiphaes, Act of Abussaee, Act of Exodais, Act of Eos, and Act of Biotace this game.)[/i]
+This spell can't be countered. It costs {W}{U}{B}{R}{G} less to cast from your elsewhere.
+Indestructible, protection from creatures
+When Ur-Colossus enters, if it wasn't cast or no mana was spent to cast it, exile it. Otherwise, mill ten cards. You may cast any number of nonland cards from among the milled cards without paying their mana costs. => Elsewhere 6
+Ritual — Act of Xiphaes, Act of Abussaee, Act of Exodais, Act of Eos, and Act of Biotace.
+This spell can't be countered. It costs {W}{U}{B}{R}{G} less to cast from your elsewhere.
+Indestructible, protection from creatures
+When Ur-Colossus enters, if it wasn't cast or no mana was spent to cast it, exile it. Otherwise, mill ten cards. You may cast any number of nonland cards from among the milled cards without paying their mana costs.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 No changes.

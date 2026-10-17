@@ -1296,7 +1296,7 @@
             "number": 54,
             "color_identity": "WUBRG",
             "cost": "{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}",
-            "rules_text": "Elsewhere 6 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]\nRitual \u2014 Act of Xiphaes, Act of Abussaee, Act of Exodais, Act of Eos, and Act of Biotace. [i](You may cast this card from your elsewhere as long as you've played Act of Xiphaes, Act of Abussaee, Act of Exodais, Act of Eos, and Act of Biotace this game.)[/i]\nThis spell can't be countered. It costs {W}{U}{B}{R}{G} less to cast from your elsewhere.\nIndestructible, protection from creatures\nWhen Ur-Colossus enters, if it wasn't cast or no mana was spent to cast it, exile it. Otherwise, mill ten cards. You may cast any number of nonland cards from among the milled cards without paying their mana costs.",
+            "rules_text": "Elsewhere 6\nRitual \u2014 Act of Xiphaes, Act of Abussaee, Act of Exodais, Act of Eos, and Act of Biotace.\nThis spell can't be countered. It costs {W}{U}{B}{R}{G} less to cast from your elsewhere.\nIndestructible, protection from creatures\nWhen Ur-Colossus enters, if it wasn't cast or no mana was spent to cast it, exile it. Otherwise, mill ten cards. You may cast any number of nonland cards from among the milled cards without paying their mana costs.",
             "flavor_text": "[i][/i]",
             "pt": "10/10",
             "special_text": "",
@@ -1331,5 +1331,5 @@
             "notes": ""
         }
     ],
-    "version": 10
+    "version": 11
 }

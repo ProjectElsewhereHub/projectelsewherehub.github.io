@@ -3375,7 +3375,7 @@
             "number": 186,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Cleave {G} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]\nDestroy target artifact [or creature with power less than the greatest power among creatures you control].",
+            "rules_text": "Cleave {G} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]\nDestroy target artifact [[b]or creature with power less than the greatest power among creatures you control[/b]].",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6020,5 +6020,5 @@
             "notes": "\n"
         }
     ],
-    "version": 19
+    "version": 20
 }

@@ -5,7 +5,7 @@
 			<name>AAE</name>
 			<longname>Amplalo at Epoch</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-11</releasedate>
+			<releasedate>2026-10-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1084,8 +1084,8 @@ When this creature enters, you gain 1 life for each card in your graveyard, then
 		</card>
 		<card>
 			<name>Ur-Colossus</name>
-			<text>Elsewhere 6 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
-Ritual — Act of Xiphaes, Act of Abussaee, Act of Exodais, Act of Eos, and Act of Biotace. (You may cast this card from your elsewhere as long as you&apos;ve played Act of Xiphaes, Act of Abussaee, Act of Exodais, Act of Eos, and Act of Biotace this game.)
+			<text>Elsewhere 6
+Ritual — Act of Xiphaes, Act of Abussaee, Act of Exodais, Act of Eos, and Act of Biotace.
 This spell can&apos;t be countered. It costs {W}{U}{B}{R}{G} less to cast from your elsewhere.
 Indestructible, protection from creatures
 When Ur-Colossus enters, if it wasn&apos;t cast or no mana was spent to cast it, exile it. Otherwise, mill ten cards. You may cast any number of nonland cards from among the milled cards without paying their mana costs.</text>

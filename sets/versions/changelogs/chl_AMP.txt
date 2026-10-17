@@ -1,4 +1,97 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+
+Invoker of the Past
+rules_text: When this creature enters, you may exile a card from your graveyard. If you do, choose one—
+• Create a 1/1 white Cleric creature token.
+• Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => When this creature enters, you may exile a card from your graveyard. If you do, choose one —
+• Create a 1/1 white Cleric creature token.
+• Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Ravage the Canopy
+rules_text: Choose one—
+• Destroy target artifact.
+• Target creature you control fights target creature with flying. [i](Each deals damage equal to its power to the other.)[/i] => Choose one —
+• Destroy target artifact.
+• Target creature you control fights target creature with flying. [i](Each deals damage equal to its power to the other.)[/i]
+
+Exemplary Follower
+rules_text: When this creature dies, choose one—
+• You gain 2 life.
+• Create a 1/1 white Cleric creature token.
+• Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => When this creature dies, choose one —
+• You gain 2 life.
+• Create a 1/1 white Cleric creature token.
+• Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Embrace Oblivion
+rules_text: Target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard. Choose one—
+• For each card put into a graveyard this way, that player loses 1 life and you gain 1 life.
+• For each card put into a graveyard this way, you gain 2 life. => Target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard. Choose one —
+• For each card put into a graveyard this way, that player loses 1 life and you gain 1 life.
+• For each card put into a graveyard this way, you gain 2 life.
+
+Churn the Tides
+rules_text: Choose one—
+• Choose a creature type. For each creature you control of the chosen type, exile the top card of your library.
+• For each sea monster you control, exile the top card of your library. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+Until the end of your next turn, you may play cards exiled with this spell. => Choose one —
+• Choose a creature type. For each creature you control of the chosen type, exile the top card of your library.
+• For each sea monster you control, exile the top card of your library. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+Until the end of your next turn, you may play cards exiled with this spell.
+
+Lucid Seer
+rules_text: {2}{U}, Exile this card from your graveyard: Choose one—
+• Target player mills four cards.
+• Draw a card.
+• Create a 1/1 blue Fish creature token.
+• Put target instant or sorcery card from your graveyard on top of your library. => {2}{U}, Exile this card from your graveyard: Choose one —
+• Target player mills four cards.
+• Draw a card.
+• Create a 1/1 blue Fish creature token.
+• Put target instant or sorcery card from your graveyard on top of your library.
+
+Etchweaver
+rules_text: {1}{B}, {T}, Sacrifice another permanent: Choose one that hasn't been chosen—
+• Each opponent loses 2 life and you gain 2 life.
+• Each opponent sacrifices a nontoken creature.
+• Exile all cards from target player's graveyard.
+• You gain 2 life and draw a card.
+• Each opponent discards a card.
+• Add {B}{B}{B}{B}. => {1}{B}, {T}, Sacrifice another permanent: Choose one that hasn't been chosen —
+• Each opponent loses 2 life and you gain 2 life.
+• Each opponent sacrifices a nontoken creature.
+• Exile all cards from target player's graveyard.
+• You gain 2 life and draw a card.
+• Each opponent discards a card.
+• Add {B}{B}{B}{B}.
+
+Embers of Creation
+rules_text: Choose one—
+• Embers of Creation deals X damage to each creature.
+• Create X tapped Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Choose one —
+• Embers of Creation deals X damage to each creature.
+• Create X tapped Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Total Devotion
+rules_text: Elsewhere 6 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Before you shuffle your deck to start the game, you may put Total Devotion from your elsewhere onto the battlefield. If you do, you can't cast spells with mana value 5 or less this game.
+At the beginning of your upkeep, choose one that hasn't been chosen—
+• Create two 1/1 white Cleric creature tokens.
+• Create two tapped Treasure tokens.
+• Total Devotion deals 2 damage to any target.
+• Draw a card. => Elsewhere 6 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Before you shuffle your deck to start the game, you may put Total Devotion from your elsewhere onto the battlefield. If you do, you can't cast spells with mana value 5 or less this game.
+At the beginning of your upkeep, choose one that hasn't been chosen —
+• Create two 1/1 white Cleric creature tokens.
+• Create two tapped Treasure tokens.
+• Total Devotion deals 2 damage to any target.
+• Draw a card.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 

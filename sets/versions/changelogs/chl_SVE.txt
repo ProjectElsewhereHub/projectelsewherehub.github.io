@@ -1,4 +1,147 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+CW03 Thoughtful Lightcaller added.
+CW04 Hawk of Plucked Eyes added.
+
+CW03 Secretive Sage removed.
+CW04 Terrain Flattener removed.
+
+CW05 Spreader of Loyalty
+rules_text: Creatures you control get +1/+1. => Vigilance
+Whenever this creature attacks, target permanent gains “{T}: You gain 2 life.” until end of turn.
+pt: 3/3 => 4/5
+
+CW06 Symmetry Aligned
+rules_text: When this creature enters, discover 4. [i](Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+Basic landcycling {2W} => When this creature enters, if you control another creature with power equal to its toughness, put a +1/+1 counter on another target creature.
+Basic landcycling {2W}
+pt: 4/4 => 5/5
+
+CW14 Blessed Thoughts
+rules_text: Target creature you control gets +2/+2 until end of turn.
+Add {C}{W}. => Target creature you control gets +2/+2 until end of turn.
+Add {W}.
+
+CW16 Heal from Mourning
+rules_text: You gain 2 life. Draw a card. Conjure a Corpse conjuration into your graveyard. [i](It's a {0} 1/0 creature with “If this creature dies or this card leaves your graveyard, add {C}.”)[/i] => You gain 4 life. Conjure a Corpse conjuration into your graveyard. [i](It's a {0} 1/0 creature with “If this creature dies or this card leaves your graveyard, add {C}.”)[/i]
+
+CW18 Message of Alliance
+rules_text: Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Message—{V}{V}{V}, {1}{W}. [i](You may cast copies of this spell from your elsewhere for its message cost.)[/i]
+Until end of turn, creatures you control have +1/+1. => Elsewhere 1 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Message—{V}{V}{V}, {1}{W}. [i](You may cast copies of this spell from your elsewhere for its message cost.)[/i]
+Until end of turn, creatures you control get +1/+1.
+
+UW05 Anima of the Living
+pt: 4/4 => 5/5
+
+UW06 Angelic Perspective
+pt: 4/4 => 6/5
+
+CU05 Spreader of Knowledge
+rules_text: Whenever a creature you control deals combat damage to a player, draw a card, then discard a card. => Ward {2}
+Whenever this creature attacks, target permanent gains “{2}, {T}: Draw a card, then discard a card.” until end of turn.
+pt: 3/3 => 5/4
+
+CU06 Symmetry Perfected
+rules_text: When this creature enters, discover 4. [i](Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+Basic landcycling {2U} => When this creature enters, put a vigilance counter on it if you control another creature with power equal to its toughness.
+Basic landcycling {2U}
+pt: 4/4 => 5/5
+
+UW13 Banishing Decay
+rules_text: When this enchantment enters, exile target nonland permanent until this enchantment leaves the battlefield. Conjure a Corpse conjuration into your graveyard. [i](It's a {0} 1/0 creature with “If this creature dies or this card leaves your graveyard, add {C}.”)[/i] => When this enchantment enters, exile another target nonland permanent until this enchantment leaves the battlefield. Conjure a Corpse conjuration into your graveyard. [i](It's a {0} 1/0 creature with “If this creature dies or this card leaves your graveyard, add {C}.”)[/i]
+
+CU14 Enlightened Thoughts
+rules_text: Target creature you control gets +0/+3 and gains hexproof until end of turn.
+Add {C}{U}. => Target creature you control gets +0/+3 and gains hexproof until end of turn.
+Add {U}.
+
+UU05 Anima of the Insane
+pt: 4/4 => 5/5
+
+UU06 Sphinxian Perspective
+pt: 4/4 => 6/5
+
+CB05 Spreader of Persistence
+rules_text: Creatures you control have menace. => Deathtouch
+Whenever this creature attacks, target permanent gains “{1}, {T}: Surveil 1.” until end of turn.
+pt: 3/3 => 4/5
+
+CB06 Symmetry Obssessed
+rules_text: When this creature enters, discover 4. [i](Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+Basic landcycling {2B} => When this creature enters, you may sacrifice a creature with power equal to its toughness. When you do, target creature gets -X/-X until end of turn, where X is the sacrificed creature's power.
+Basic landcycling {2B}
+pt: 4/4 => 5/5
+
+CB14 Cursed Thoughts
+rules_text: Until end of turn, target creature you control gains “When this creature dies, return it to the battlefield tapped.
+Add {C}{B}. => Until end of turn, target creature you control gains “When this creature dies, return it to the battlefield tapped.
+Add {B}.
+
+UB05 Anima of the Dead
+pt: 4/4 => 5/5
+
+UB06 Demonic Perspective
+pt: 4/4 => 6/5
+
+CR05 Spreader of Courage
+rules_text: Creatures you control have haste. => Menace
+Whenever this creature attacks, target permanent gains “{T}: This permanent deals 1 damage to each opponent.” until end of turn.
+pt: 3/3 => 5/4
+
+CR06 Symmetry Ruined
+rules_text: When this creature enters, discover 4. [i](Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+Basic landcycling {2R} => When this creature enters, put a first strike counter on it if you control another creature with power equal to its toughness.
+Basic landcycling {2R}
+pt: 4/4 => 5/5
+
+CR14 Ascended Thoughts
+rules_text: Target creature you control gets+3/+0 until end of turn.
+Add {C}{R}. => Target creature you control gets+3/+0 until end of turn.
+Add {R}.
+
+UR05 Anima of the Obssessive
+pt: 4/4 => 5/5
+
+UR06 Draconic Perspective
+pt: 4/4 => 6/5
+
+CG05 Spreader of Strength
+rules_text: Creatures you control have trample. => Trample
+Whenever this creature attacks, target permanent gains “{4}, {T}: Return target card from your graveyard to your hand.” until end of turn.
+pt: 3/3 => 4/4
+
+CG06 Symmetry Eternal
+rules_text: When this creature enters, discover 4. [i](Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+Basic landcycling {2G} => When this creature enters, return target card with power equal to its toughness from your graveyard to your hand.
+Basic landcycling {2G}
+pt: 4/4 => 5/5
+
+CG14 Calm Thoughts
+rules_text: Target creature you control gets +1/+3 until end of turn.
+Add {C}{G}. => Target creature you control gets +1/+3 until end of turn.
+Add {G}.
+
+UG05 Anima of the Balanced
+pt: 4/4 => 5/5
+
+UG06 Titanic Perspective
+pt: 4/4 => 6/5
+
+RL11 Tesselation Point
+
+RL12 Completed Asymptote
+
+RL13 Sphere's Vertex
+
+RL15 Finite Fractal
+
+RL16 Monolith of Paradoxes
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
