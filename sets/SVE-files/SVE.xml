@@ -5,7 +5,7 @@
 			<name>SVE</name>
 			<longname>Solvatim Envisioned</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-17</releasedate>
+			<releasedate>2026-10-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -42,7 +42,7 @@
 		<card>
 			<name>CC03 Envision Color</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}, {2}. (You may cast copies of this spell from your elsewhere for its message cost.)
+Message—{V}, {2}. (You may copy this and cast the copy for its message cost.)
 Add one mana of any color.
 Surveil 1.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/2.png" num="3">SVE</set>
@@ -153,8 +153,8 @@ Surveil 1.</text>
 		</card>
 		<card>
 			<name>RC02 Cloned Messenger</name>
-			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V} (You may cast copies of this spell from your elsewhere for its message cost.)</text>
+			<text>Elsewhere 3 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V} (You may copy this and cast the copy for its message cost.)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/7.png" num="8">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -467,8 +467,8 @@ Add {W}.</text>
 		</card>
 		<card>
 			<name>CW17 Message of Condolences</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}, {W}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}, {W}. (You may copy this and cast the copy for its message cost.)
 Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/25.png" num="26">SVE</set>
 			<prop>
@@ -485,8 +485,8 @@ Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature 
 		</card>
 		<card>
 			<name>CW18 Message of Alliance</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {1}{W}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {1}{W}. (You may copy this and cast the copy for its message cost.)
 Until end of turn, creatures you control get +1/+1.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/26.png" num="27">SVE</set>
 			<prop>
@@ -820,8 +820,8 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 		</card>
 		<card>
 			<name>UW17 Message of Eternal Rest</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}, {2}{W}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}, {2}{W}. (You may copy this and cast the copy for its message cost.)
 Exile any number of cards from your graveyard.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/45.png" num="57">SVE</set>
 			<prop>
@@ -872,8 +872,8 @@ Sacrifice a land: You gain 2 life.</text>
 		</card>
 		<card>
 			<name>UW18 Message of Sworn War</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {5}{W}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {5}{W}. (You may copy this and cast the copy for its message cost.)
 Conjure two Corpse conjurations onto the battlefield. Put a +1/+1 counter on each of them. (They&apos;re {0} 1/0 creatures with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/48.png" num="58">SVE</set>
 			<prop>
@@ -908,7 +908,7 @@ When this creature enters, you get {V} (a vision counter).</text>
 		</card>
 		<card>
 			<name>UW11 Death Tithe</name>
-			<text>Counter target spell unless its controller pays {1}. They conjure a Corpse conjuration into their hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)
+			<text>Counter target spell unless its controller pays {1}. Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/50.png" num="51">SVE</set>
 			<prop>
@@ -1150,7 +1150,7 @@ Flying</text>
 		<card>
 			<name>CU13 Frozen Soul</name>
 			<text>Invested creature doesn&apos;t untap during its controller&apos;s untap step.
-Invest {2} ({2}: Attach to target non-aura non-investiture permanent you control. Invest only as a sorcery.)</text>
+{2}: Attach this to target creature. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/64.png" num="73">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1215,8 +1215,8 @@ Add {U}.</text>
 		</card>
 		<card>
 			<name>CU17 Message of Insight</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}, {U}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}, {U}. (You may copy this and cast the copy for its message cost.)
 Surveil 2.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/68.png" num="77">SVE</set>
 			<prop>
@@ -1233,8 +1233,8 @@ Surveil 2.</text>
 		</card>
 		<card>
 			<name>CU18 Message of Information</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {1}{U}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {1}{U}. (You may copy this and cast the copy for its message cost.)
 Draw a card.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/69.png" num="78">SVE</set>
 			<prop>
@@ -1653,8 +1653,8 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 		</card>
 		<card>
 			<name>UU17 Message of Infinite Evidence</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}, {2}{U}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}, {2}{U}. (You may copy this and cast the copy for its message cost.)
 Create two Clue tokens.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/93.png" num="108">SVE</set>
 			<prop>
@@ -1671,8 +1671,8 @@ Create two Clue tokens.</text>
 		</card>
 		<card>
 			<name>UU18 Message of Subtle Reversal</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {5}{U}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {5}{U}. (You may copy this and cast the copy for its message cost.)
 Untap each permanent you control.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/94.png" num="109">SVE</set>
 			<prop>
@@ -1778,7 +1778,7 @@ When this creature enters, you get {V} (a vision counter).</text>
 		<card>
 			<name>CB04 Diffused Siphoner</name>
 			<text>Lifelink
-{2W}{2U}{2R}{2G}: Draw a card.</text>
+{2W}{2U}{2R}{2G}: Draw two cards.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/100.png" num="115">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1789,7 +1789,7 @@ When this creature enters, you get {V} (a vision counter).</text>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>WUBRG</coloridentity>
-				<pt>2/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1832,7 +1832,8 @@ Basic landcycling {2B}</text>
 		<card>
 			<name>CB07 Young Crow</name>
 			<text>Fledgling 3—Elder Crow (At the beginning of your end step, put a time counter on this. Then if it has 3 counters on it, sacrifice it and put a card named Elder Crow from your elsewhere onto the battlefield.)
-Flying</text>
+Flying
+When this creature enters, exile target card from a graveyard. If you do, you get {V} (a vision counter).</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/103.png" num="118">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1868,7 +1869,8 @@ Menace</text>
 		<card>
 			<name>CB09 Elder Crow</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Flying</text>
+Flying
+When this creature enters, exile two target cards from graveyards. If you do, you get {V}{V} (a vision counter).</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/105.png" num="120">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2000,8 +2002,8 @@ Add {B}.</text>
 		</card>
 		<card>
 			<name>CB17 Message of Mockery</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}, {B}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}, {B}. (You may copy this and cast the copy for its message cost.)
 Each opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/113.png" num="128">SVE</set>
 			<prop>
@@ -2018,8 +2020,8 @@ Each opponent loses 1 life and you gain 1 life.</text>
 		</card>
 		<card>
 			<name>CB18 Message of Manipulation</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {1}{B}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {1}{B}. (You may copy this and cast the copy for its message cost.)
 Each opponent with three or more cards in hand discards a card.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/114.png" num="129">SVE</set>
 			<prop>
@@ -2247,7 +2249,7 @@ Deathtouch</text>
 		</card>
 		<card>
 			<name>UB08 Young Leech</name>
-			<text>Fledgling 3—Elder Skunk (At the beginning of your end step, put a time counter on this. Then if it has 3 counters on it, sacrifice it and put a card named Elder Skunk from your elsewhere onto the battlefield.)
+			<text>Fledgling 3—Elder Leech (At the beginning of your end step, put a time counter on this. Then if it has 3 counters on it, sacrifice it and put a card named Elder Leech from your elsewhere onto the battlefield.)
 When this creature dies, each opponent loses 2 life and you gain 2 life.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/127.png" num="149">SVE</set>
 			<prop>
@@ -2384,25 +2386,27 @@ Draw two cards. Conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UB16 Antagonistic Bloodfire</name>
-			<text>You gain 2 life and each opponent loses 2 life.</text>
+			<name>UB16 Mound of Eyeballs</name>
+			<text>Defender
+When this creature enters, you get {V}{V} (two vision counters).</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/135.png" num="157">SVE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UB17 Message of Omnipotent Mastery</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}, {2}{B}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}, {2}{B}. (You may copy this and cast the copy for its message cost.)
 Sacrifice a permanent. Draw two cards. You lose 2 life.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/136.png" num="158">SVE</set>
 			<prop>
@@ -2419,8 +2423,8 @@ Sacrifice a permanent. Draw two cards. You lose 2 life.</text>
 		</card>
 		<card>
 			<name>UB18 Message of Spiteful Return</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {5}{B}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {5}{B}. (You may copy this and cast the copy for its message cost.)
 Return target creature card from your graveyard to the battlefield.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/137.png" num="159">SVE</set>
 			<prop>
@@ -2579,7 +2583,7 @@ Basic landcycling {2R}</text>
 		<card>
 			<name>CR07 Young Jackal</name>
 			<text>Fledgling 3—Elder Jackal (At the beginning of your end step, put a time counter on this. Then if it has 3 counters on it, sacrifice it and put a card named Elder Jackal from your elsewhere onto the battlefield.)
-Haste</text>
+When this creature enters, it deals 2 damage to each opponent.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/146.png" num="168">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2615,7 +2619,7 @@ Haste</text>
 		<card>
 			<name>CR09 Elder Jackal</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Haste</text>
+When this creature enters, it deals 4 damage to each opponent.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/148.png" num="170">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2633,7 +2637,7 @@ Haste</text>
 		<card>
 			<name>CR10 Elder Lizard</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-{2}{R}{R}: This creature gets +4/+4 until end of turn. Activate only once each turn as a sorcery.</text>
+{1}{R}: This creature gets +2/+2 until end of turn. Activate only twice each turn as a sorcery.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/149.png" num="171">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2749,8 +2753,8 @@ Draw two cards. If the discarded card was a Corpse or land, you lose 2 life.</te
 		</card>
 		<card>
 			<name>CR17 Message of Emotion</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}, {R}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}, {R}. (You may copy this and cast the copy for its message cost.)
 Discard a card. If you did, draw a card.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/156.png" num="178">SVE</set>
 			<prop>
@@ -2767,8 +2771,8 @@ Discard a card. If you did, draw a card.</text>
 		</card>
 		<card>
 			<name>CR18 Message of Encouragement</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {1}{R}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {1}{R}. (You may copy this and cast the copy for its message cost.)
 Exile the top card of your library. You may play that card this turn.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/157.png" num="179">SVE</set>
 			<prop>
@@ -3173,8 +3177,8 @@ Exile the top two cards of your library. You may play them until end of turn.</t
 		</card>
 		<card>
 			<name>UR17 Message of Perpetual Fire</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}, {2}{R}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}, {2}{R}. (You may copy this and cast the copy for its message cost.)
 This spell deals 3 damage to each player.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/180.png" num="208">SVE</set>
 			<prop>
@@ -3191,8 +3195,8 @@ This spell deals 3 damage to each player.</text>
 		</card>
 		<card>
 			<name>UR18 Message of Brave Exploration</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {5}{R}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {5}{R}. (You may copy this and cast the copy for its message cost.)
 Discover 4 (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/181.png" num="209">SVE</set>
 			<prop>
@@ -3518,8 +3522,8 @@ Add {G}.</text>
 		</card>
 		<card>
 			<name>CG17 Message of Compassion</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}, {G}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}, {G}. (You may copy this and cast the copy for its message cost.)
 You gain 2 life.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/200.png" num="228">SVE</set>
 			<prop>
@@ -3536,8 +3540,8 @@ You gain 2 life.</text>
 		</card>
 		<card>
 			<name>CG18 Message of Growth</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {3}{G}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {3}{G}. (You may copy this and cast the copy for its message cost.)
 Search your library for a basic land card, reveal it, put it onto the battlefield tapped, then shuffle.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/201.png" num="229">SVE</set>
 			<prop>
@@ -3731,7 +3735,7 @@ Whenever you cast an instant or sorcery spell, you may pay {G} or {V}. If you do
 		</card>
 		<card>
 			<name>UG05 Anima of the Balanced</name>
-			<text>{4}{G}{G}, Sacrifice four permanents: Return this card from your graveyard to the battlefield tapped.</text>
+			<text>{4}{G}{G}, Sacrifice a permanent: Return this card from your graveyard to the battlefield tapped.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/212.png" num="247">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3925,7 +3929,7 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 		</card>
 		<card>
 			<name>UG16 Tertiary Synopsis</name>
-			<text>You get {V}{V}{V} (four vision counters).
+			<text>You get {V}{V}{V} (three vision counters).
 Mill three cards. For each of those cards, you may pay {V}{V}. If you do, return that card to your hand.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/223.png" num="258">SVE</set>
 			<prop>
@@ -3942,8 +3946,8 @@ Mill three cards. For each of those cards, you may pay {V}{V}. If you do, return
 		</card>
 		<card>
 			<name>UG17 Message of Boundless Earth</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}, {2}{G}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}, {2}{G}. (You may copy this and cast the copy for its message cost.)
 Search your library for a land card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/224.png" num="259">SVE</set>
 			<prop>
@@ -3960,8 +3964,8 @@ Search your library for a land card, reveal it, put it into your hand, then shuf
 		</card>
 		<card>
 			<name>UG18 Message of Undead Might</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {5}{G}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {5}{G}. (You may copy this and cast the copy for its message cost.)
 Conjure a Corpse conjuration onto the battlefield. Put three +1/+1 counters on that creature. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/225.png" num="260">SVE</set>
 			<prop>
@@ -4452,15 +4456,14 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RL01 Pit of Frost</name>
-			<text>({T}: Add {W} or {U}.)
-Pit of Frost enters tapped.
-{T}, Sacrifice a creature: Add {W}{U}.</text>
+			<name>RL01 Fluxlands of Frost</name>
+			<text>This land enters tapped unless you control an odd number of other lands.
+{T}: Add {W} or {U}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/255.png" num="293">SVE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Plains Island</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -4469,15 +4472,14 @@ Pit of Frost enters tapped.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RL02 Pit of Darkness</name>
-			<text>({T}: Add {U} or {B}.)
-Pit of Darkness enters tapped.
-{T}, Sacrifice a creature: Add {U}{B}.</text>
+			<name>RL02 Fluxlands of Darkness</name>
+			<text>This land enters tapped unless you control an odd number of other lands.
+{T}: Add {U} or {B}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/256.png" num="294">SVE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Island Swamp</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -4486,15 +4488,14 @@ Pit of Darkness enters tapped.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RL03 Pit of Blood</name>
-			<text>({T}: Add {B} or {R}.)
-Pit of Blood enters tapped.
-{T}, Sacrifice a creature: Add {B}{R}.</text>
+			<name>RL03 Fluxlands of Blood</name>
+			<text>This land enters tapped unless you control an odd number of other lands.
+{T}: Add {B} or {R}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/257.png" num="295">SVE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Swamp Mountain</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -4503,15 +4504,14 @@ Pit of Blood enters tapped.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RL04 Pit of Fire</name>
-			<text>({T}: Add {R} or {G}.)
-Pit of Fire enters tapped.
-{T}, Sacrifice a creature: Add {R}{G}.</text>
+			<name>RL04 Fluxlands of Fire</name>
+			<text>This land enters tapped unless you control an odd number of other lands.
+{T}: Add {R} or {G}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/258.png" num="296">SVE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Mountain Forest</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -4520,15 +4520,14 @@ Pit of Fire enters tapped.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RL05 Pit of Life</name>
-			<text>({T}: Add {G} or {W}.)
-Pit of Life enters tapped.
-{T}, Sacrifice a creature: Add {G}{W}.</text>
+			<name>RL05 Fluxlands of Life</name>
+			<text>This land enters tapped unless you control an odd number of other lands.
+{T}: Add {G} or {W}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/259.png" num="297">SVE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Forest Plains</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -4537,15 +4536,14 @@ Pit of Life enters tapped.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RL06 Pit of Bone</name>
-			<text>({T}: Add {W} or {B}.)
-Pit of Bone enters tapped.
-{T}, Sacrifice a creature: Add {W}{B}.</text>
+			<name>RL06 Fluxlands of Bone</name>
+			<text>This land enters tapped unless you control an odd number of other lands.
+{T}: Add {W} or {B}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/260.png" num="298">SVE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Plains Swamp</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -4554,15 +4552,14 @@ Pit of Bone enters tapped.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RL07 Pit of Thunder</name>
-			<text>({T}: Add {U} or {R}.)
-Pit of Thunder enters tapped.
-{T}, Sacrifice a creature: Add {U}{R}.</text>
+			<name>RL07 Fluxlands of Thunder</name>
+			<text>This land enters tapped unless you control an odd number of other lands.
+{T}: Add {U} or {R}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/261.png" num="299">SVE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Island Mountain</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -4571,15 +4568,14 @@ Pit of Thunder enters tapped.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RL08 Pit of Death</name>
-			<text>({T}: Add {B} or {G}.)
-Pit of Death enters tapped.
-{T}, Sacrifice a creature: Add {B}{G}.</text>
+			<name>RL08 Fluxlands of Death</name>
+			<text>This land enters tapped unless you control an odd number of other lands.
+{T}: Add {B} or {G}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/262.png" num="300">SVE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Swamp Forest</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -4588,15 +4584,14 @@ Pit of Death enters tapped.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RL09 Pit of Light</name>
-			<text>({T}: Add {R} or {W}.)
-Pit of Light enters tapped.
-{T}, Sacrifice a creature: Add {R}{W}.</text>
+			<name>RL09 Fluxlands of Light</name>
+			<text>This land enters tapped unless you control an odd number of other lands.
+{T}: Add {R} or {W}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/263.png" num="301">SVE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Mountain Plains</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -4605,15 +4600,14 @@ Pit of Light enters tapped.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RL10 Pit of Water</name>
-			<text>({T}: Add {G} or {U}.)
-Pit of Water enters tapped.
-{T}, Sacrifice a creature: Add {G}{U}.</text>
+			<name>RL10 Fluxlands of Water</name>
+			<text>This land enters tapped unless you control an odd number of other lands.
+{T}: Add {G} or {U}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/264.png" num="302">SVE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Forest Island</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -5221,7 +5215,7 @@ III — Exile this Saga, then return it to the battlefield tapped and transforme
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
-				<type>Legendary Land</type>
+				<type>Legendary Kindred Land — Shapeshifter</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -5707,8 +5701,8 @@ Discard four cards: Draw three cards.</text>
 		</card>
 		<card>
 			<name>RW07 Letter of Solidarity</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {2}{W}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {2}{W}. (You may copy this and cast the copy for its message cost.)
 When this artifact enters, conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)
 Cards and permanents you own have lifelink.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/326.png" num="39">SVE</set>
@@ -5726,8 +5720,8 @@ Cards and permanents you own have lifelink.</text>
 		</card>
 		<card>
 			<name>RU07 Letter of Cyclicality</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {2}{U}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {2}{U}. (You may copy this and cast the copy for its message cost.)
 Cards you own have cycling {2}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/327.png" num="90">SVE</set>
 			<prop>
@@ -5744,8 +5738,8 @@ Cards you own have cycling {2}.</text>
 		</card>
 		<card>
 			<name>RB07 Letter of Hostility</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {2}{B}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {2}{B}. (You may copy this and cast the copy for its message cost.)
 When this artifact enters, draw a card. You lose 1 life.
 Cards and permanents you own have deathtouch.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/328.png" num="140">SVE</set>
@@ -5763,8 +5757,8 @@ Cards and permanents you own have deathtouch.</text>
 		</card>
 		<card>
 			<name>RR07 Letter of Modularity</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {2}{R}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {2}{R}. (You may copy this and cast the copy for its message cost.)
 Cards you own have transmute {4}. ({4}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/329.png" num="190">SVE</set>
 			<prop>
@@ -5781,8 +5775,8 @@ Cards you own have transmute {4}. ({4}, Discard this card: Search your library f
 		</card>
 		<card>
 			<name>RG07 Letter of History</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {2}{G}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {2}{G}. (You may copy this and cast the copy for its message cost.)
 Land cards you own that aren&apos;t on the battlefield are basic and every basic land type.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/330.png" num="241">SVE</set>
 			<prop>
@@ -5799,8 +5793,8 @@ Land cards you own that aren&apos;t on the battlefield are basic and every basic
 		</card>
 		<card>
 			<name>RA02 Letter of Voidality</name>
-			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-Message—{V}{V}{V}, {3}. (You may cast copies of this spell from your elsewhere for its message cost.)
+			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Message—{V}{V}{V}, {3}. (You may copy this and cast the copy for its message cost.)
 You may look at the top card of your library at any time.
 {T}: Exile the top card of your library.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/331.png" num="275">SVE</set>
@@ -5860,7 +5854,7 @@ You may look at the top card of your library at any time.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RL14 Hyperbolic Loop</name>
+			<name>RL14 Hyperbola&apos;s Loop</name>
 			<text>{T}: Add {R}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/335.png" num="306">SVE</set>
 			<prop>

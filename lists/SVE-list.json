@@ -976,7 +976,7 @@
         "position": "91"
     },
     {
-        "card_name": "UB16 Antagonistic Bloodfire",
+        "card_name": "UB16 Mound of Eyeballs",
         "number": 157,
         "shape": "normal",
         "set": "SVE",
@@ -2323,7 +2323,7 @@
         "position": "334"
     },
     {
-        "card_name": "RL14 Hyperbolic Loop",
+        "card_name": "RL14 Hyperbola's Loop",
         "number": 306,
         "shape": "normal",
         "set": "SVE",
@@ -2394,7 +2394,7 @@
         "card_name": "er"
     },
     {
-        "card_name": "RL01 Pit of Frost",
+        "card_name": "RL01 Fluxlands of Frost",
         "number": 293,
         "shape": "normal",
         "set": "SVE",
@@ -2402,7 +2402,7 @@
         "position": "255"
     },
     {
-        "card_name": "RL02 Pit of Darkness",
+        "card_name": "RL02 Fluxlands of Darkness",
         "number": 294,
         "shape": "normal",
         "set": "SVE",
@@ -2410,7 +2410,7 @@
         "position": "256"
     },
     {
-        "card_name": "RL03 Pit of Blood",
+        "card_name": "RL03 Fluxlands of Blood",
         "number": 295,
         "shape": "normal",
         "set": "SVE",
@@ -2418,7 +2418,7 @@
         "position": "257"
     },
     {
-        "card_name": "RL04 Pit of Fire",
+        "card_name": "RL04 Fluxlands of Fire",
         "number": 296,
         "shape": "normal",
         "set": "SVE",
@@ -2426,7 +2426,7 @@
         "position": "258"
     },
     {
-        "card_name": "RL05 Pit of Life",
+        "card_name": "RL05 Fluxlands of Life",
         "number": 297,
         "shape": "normal",
         "set": "SVE",
@@ -2529,7 +2529,7 @@
         "card_name": "er"
     },
     {
-        "card_name": "RL06 Pit of Bone",
+        "card_name": "RL06 Fluxlands of Bone",
         "number": 298,
         "shape": "normal",
         "set": "SVE",
@@ -2537,7 +2537,7 @@
         "position": "260"
     },
     {
-        "card_name": "RL07 Pit of Thunder",
+        "card_name": "RL07 Fluxlands of Thunder",
         "number": 299,
         "shape": "normal",
         "set": "SVE",
@@ -2545,7 +2545,7 @@
         "position": "261"
     },
     {
-        "card_name": "RL08 Pit of Death",
+        "card_name": "RL08 Fluxlands of Death",
         "number": 300,
         "shape": "normal",
         "set": "SVE",
@@ -2553,7 +2553,7 @@
         "position": "262"
     },
     {
-        "card_name": "RL09 Pit of Light",
+        "card_name": "RL09 Fluxlands of Light",
         "number": 301,
         "shape": "normal",
         "set": "SVE",
@@ -2561,7 +2561,7 @@
         "position": "263"
     },
     {
-        "card_name": "RL10 Pit of Water",
+        "card_name": "RL10 Fluxlands of Water",
         "number": 302,
         "shape": "normal",
         "set": "SVE",

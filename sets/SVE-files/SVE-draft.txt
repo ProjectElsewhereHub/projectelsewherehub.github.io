@@ -1351,10 +1351,10 @@
 			}
 		},
 		{
-			"name": "UB16 Antagonistic Bloodfire",
+			"name": "UB16 Mound of Eyeballs",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
-			"type": "Sorcery",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Horror",
 			"collector_number": "157",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/135.png"
@@ -2551,100 +2551,100 @@
 			}
 		},
 		{
-			"name": "RL01 Pit of Frost",
+			"name": "RL01 Fluxlands of Frost",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Plains Island",
+			"type": "Land",
 			"collector_number": "293",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/255.png"
 			}
 		},
 		{
-			"name": "RL02 Pit of Darkness",
+			"name": "RL02 Fluxlands of Darkness",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Island Swamp",
+			"type": "Land",
 			"collector_number": "294",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/256.png"
 			}
 		},
 		{
-			"name": "RL03 Pit of Blood",
+			"name": "RL03 Fluxlands of Blood",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Swamp Mountain",
+			"type": "Land",
 			"collector_number": "295",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/257.png"
 			}
 		},
 		{
-			"name": "RL04 Pit of Fire",
+			"name": "RL04 Fluxlands of Fire",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Mountain Forest",
+			"type": "Land",
 			"collector_number": "296",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/258.png"
 			}
 		},
 		{
-			"name": "RL05 Pit of Life",
+			"name": "RL05 Fluxlands of Life",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Forest Plains",
+			"type": "Land",
 			"collector_number": "297",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/259.png"
 			}
 		},
 		{
-			"name": "RL06 Pit of Bone",
+			"name": "RL06 Fluxlands of Bone",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Plains Swamp",
+			"type": "Land",
 			"collector_number": "298",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/260.png"
 			}
 		},
 		{
-			"name": "RL07 Pit of Thunder",
+			"name": "RL07 Fluxlands of Thunder",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Island Mountain",
+			"type": "Land",
 			"collector_number": "299",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/261.png"
 			}
 		},
 		{
-			"name": "RL08 Pit of Death",
+			"name": "RL08 Fluxlands of Death",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Swamp Forest",
+			"type": "Land",
 			"collector_number": "300",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/262.png"
 			}
 		},
 		{
-			"name": "RL09 Pit of Light",
+			"name": "RL09 Fluxlands of Light",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Mountain Plains",
+			"type": "Land",
 			"collector_number": "301",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/263.png"
 			}
 		},
 		{
-			"name": "RL10 Pit of Water",
+			"name": "RL10 Fluxlands of Water",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Forest Island",
+			"type": "Land",
 			"collector_number": "302",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/264.png"
@@ -3327,7 +3327,7 @@
 			}
 		},
 		{
-			"name": "RL14 Hyperbolic Loop",
+			"name": "RL14 Hyperbola's Loop",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Artifact Enchantment Land",
@@ -3465,7 +3465,7 @@
 	2 RR03 Draconic Mindbinder
 	2 RU03 Sphinxian Mindbinder
 	2 RW03 Angelic Mindbinder
-[fledglingslot(1)]
+[fledglingslot(2)]
 	12 CW07 Young Wildcat
 	12 CW08 Young Camel
 	6 UW07 Young Hamster
@@ -3491,7 +3491,7 @@
 	2 RR04 Visionary Firemage
 	2 RG04 Young Fleshtiller
 	2 RB04 Recursive Ager
-[elderslot(1)]
+[elderslot(2)]
 	12 CW09 Elder Wildcat
 	12 CW10 Elder Camel
 	6 UW09 Elder Hamster
@@ -3577,7 +3577,7 @@
 	12 CB16 Read the Corpse
 	6 UB14 Cruel Soul
 	6 UB15 Death Dispute
-	6 UB16 Antagonistic Bloodfire
+	6 UB16 Mound of Eyeballs
 	12 CR14 Ascended Thoughts
 	12 CR15 Reduced Catharsis
 	12 CR16 Quickstart Graverobbing
@@ -3682,16 +3682,16 @@
 	12 CL08 Watchtower of Death
 	12 CL09 Watchtower of Light
 	12 CL10 Watchtower of Water
-	2 RL01 Pit of Frost
-	2 RL02 Pit of Darkness
-	2 RL03 Pit of Blood
-	2 RL04 Pit of Fire
-	2 RL05 Pit of Life
-	2 RL06 Pit of Bone
-	2 RL07 Pit of Thunder
-	2 RL08 Pit of Death
-	2 RL09 Pit of Light
-	2 RL10 Pit of Water
+	2 RL01 Fluxlands of Frost
+	2 RL02 Fluxlands of Darkness
+	2 RL03 Fluxlands of Blood
+	2 RL04 Fluxlands of Fire
+	2 RL05 Fluxlands of Life
+	2 RL06 Fluxlands of Bone
+	2 RL07 Fluxlands of Thunder
+	2 RL08 Fluxlands of Death
+	2 RL09 Fluxlands of Light
+	2 RL10 Fluxlands of Water
 	6 UL01 Observatory of Frost
 	6 UL02 Observatory of Darkness
 	6 UL03 Observatory of Blood
@@ -3702,7 +3702,7 @@
 	6 UL08 Observatory of Death
 	6 UL09 Observatory of Light
 	6 UL10 Observatory of Water
-	2 RL14 Hyperbolic Loop
+	2 RL14 Hyperbola's Loop
 [utilitylandslot(1)]
 	12 CL11 Authorized Gateway
 	12 CL12 Optimized Gateway
