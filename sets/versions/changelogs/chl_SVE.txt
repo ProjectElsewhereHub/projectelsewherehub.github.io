@@ -1,4 +1,39 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+MB02 Eternor, the Archnemesis added.
+MR02 Void's Alluring Power added.
+
+
+MW02 Edward, Beholder of Visions
+
+RB03 Demonic Mindbinder
+rules_text: Menace
+Whenever a player draws one or more cards, that player may mill two cards, or give a card in their graveyard unearth until end of turn. The unearth cost is equal to its mana cost reduced by {2}. [i](Pay the unearth cost: Return that card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)[/i] => Menace
+Whenever you draw a card, you may mill two cards, or give a card in their graveyard unearth until end of turn. The unearth cost is equal to its mana cost reduced by {2}. [i](Pay the unearth cost: Return that card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)[/i]
+
+RG03 Titanic Mindbinder
+rules_text: Trample
+Whenever a player draws one or more cards, that player may dredge. [i](To dredge, mill cards equal to the mana value of a card in your graveyard, plus 3 if it's a land, then return that card to your hand.)[/i] => Trample
+Whenever you draw a card, you may dredge. [i](To dredge, mill cards equal to the mana value of a card in your graveyard, plus 3 if it's a land, then return that card to your hand.)[/i]
+
+RR03 Draconic Mindbinder
+rules_text: Haste
+Whenever a player draws one or more cards, that player may discover 2. [i](Exile cards from the top of your library until you exile a nonland card with mana value 2 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i] => Haste
+Whenever you draw a card, you may discover 2. [i](Exile cards from the top of your library until you exile a nonland card with mana value 2 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+
+RU03 Sphinxian Mindbinder
+rules_text: Vigilance
+Whenever a player draws one or more cards, that player may wander. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i] => Vigilance
+Whenever you draw a card, you may wander. [i](Reveal the top card of your library. If it's a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)[/i]
+
+RW03 Angelic Mindbinder
+rules_text: Flying
+Whenever a player draws one or more cards, that player may manifest the top card of their deck, or put a face-down permanent they control into its owner's hand. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i] => Flying
+Whenever you draw a card, you may manifest the top card of their deck, or put a face-down permanent they control into its owner's hand. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+
+VERSION 10 CHANGELOG
 ====================
 
 

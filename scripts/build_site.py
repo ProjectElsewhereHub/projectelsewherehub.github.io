@@ -310,6 +310,12 @@ for code in set_codes:
 		print_html_for_preview.generateHTML(code)
 	print_html_for_set.generateHTML(code)
 
+with open('lists/cards.xml', 'w', encoding='utf-8') as f:
+	f.write(print_cockatrice_file.cardsXml())
+
+with open('lists/tokens.xml', 'w', encoding='utf-8') as f:
+	f.write('')
+
 print_html_for_sets_page.generateHTML()
 print_html_for_search.generateHTML(set_codes)
 print_html_for_deckbuilder.generateHTML(set_codes)
