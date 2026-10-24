@@ -1,4 +1,17 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+
+
+MG02 Solatic
+rules_text: Vigilance
+Sunfire — Mill three cards. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+Exile three noncreature cards from your graveyard: Return this creature to its owner's hand. => Vigilance
+Sunfire — Mill three cards. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+Exile three noncreature cards from your graveyard: Return this creature from your graveyard to your hand.
+
+
+VERSION 20 CHANGELOG
 ====================
 
 

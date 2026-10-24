@@ -1,4 +1,13 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+UB19 Agonious Insight
+rules_text: When this enchantment enters, this card is put into your graveyard, or this card leaves your graveyard, draw a card. You lose 2 life. => When this enchantment enters or this card leaves your graveyard, draw a card. You lose 2 life.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 UB16 Mound of Eyeballs added.

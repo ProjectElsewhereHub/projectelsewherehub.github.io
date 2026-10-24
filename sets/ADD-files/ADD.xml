@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version='4'>
 	<sets>
-		<set>
-			<name>ADD</name>
-			<longname>A Dream of Darkness</longname>
-			<settype>Custom</settype>
-			<releasedate>2026-10-17</releasedate>
-		</set>
+		
+			<set>
+				<name>ADD</name>
+				<longname>A Dream of Darkness</longname>
+				<settype>Custom</settype>
+				<releasedate>2026-10-23</releasedate>
+			</set>
 	</sets>
 	<cards>
 		<card>
@@ -2540,7 +2541,7 @@ Whenever this creature deals combat damage to a player, that player mills that m
 			<name>MG02 Solatic</name>
 			<text>Vigilance
 Sunfire — Mill three cards. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
-Exile three noncreature cards from your graveyard: Return this creature to its owner&apos;s hand.</text>
+Exile three noncreature cards from your graveyard: Return this creature from your graveyard to your hand.</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/145.png" num="170">ADD</set>
 			<prop>
 				<layout>normal</layout>

@@ -233,28 +233,47 @@ def render_card(set_data, card, /, *, back=False, flipped=False):
 
 	return card_string
 
+CARDS_XML_START = '''<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>'''
+
+cards_xml_sets = ''
+cards_xml_cards = ''
+
+CARDS_XML_END = '''
+	</cards>
+</cockatrice_carddatabase>
+'''
+
 def generateFile(code):
+	global cards_xml_cards, cards_xml_sets
 	xml_path = os.path.join('sets', code + '-files', code + '.xml')
 	
 	with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as j:
 		set_data = json.load(j)
 
 	new_date = datetime.today().strftime('%Y-%m-%d')
+	set_string = f'''
+			<set>
+				<name>{xml_escape(code)}</name>
+				<longname>{xml_escape(set_data['name'])}</longname>
+				<settype>Custom</settype>
+				<releasedate>{new_date}</releasedate>
+			</set>'''
 	
 	cockatrice_string = f'''<?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version='4'>
 	<sets>
-		<set>
-			<name>{xml_escape(code)}</name>
-			<longname>{xml_escape(set_data['name'])}</longname>
-			<settype>Custom</settype>
-			<releasedate>{new_date}</releasedate>
-		</set>
+		{set_string}
 	</sets>
 	<cards>'''
 
+	cards_xml_sets += set_string
+
 	for card in set_data['cards']:
-		cockatrice_string += render_card(set_data, card)
+		card_string = render_card(set_data, card)
+		cockatrice_string += card_string
+		cards_xml_cards += card_string
 
 	cockatrice_string += '''
 	</cards>
@@ -275,3 +294,6 @@ def generateFile(code):
 
 	with open(xml_path, 'w', encoding='utf-8') as f:
 		f.write(new_content)
+
+def cardsXml():
+	return (CARDS_XML_START + cards_xml_sets + '\n\t</sets>\n\t<cards>' + cards_xml_cards + CARDS_XML_END).replace('\r\n', '\n')

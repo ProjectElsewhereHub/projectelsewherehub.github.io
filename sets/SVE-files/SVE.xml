@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version='4'>
 	<sets>
-		<set>
-			<name>SVE</name>
-			<longname>Solvatim Envisioned</longname>
-			<settype>Custom</settype>
-			<releasedate>2026-10-18</releasedate>
-		</set>
+		
+			<set>
+				<name>SVE</name>
+				<longname>Solvatim Envisioned</longname>
+				<settype>Custom</settype>
+				<releasedate>2026-10-23</releasedate>
+			</set>
 	</sets>
 	<cards>
 		<card>
@@ -2441,7 +2442,7 @@ Return target creature card from your graveyard to the battlefield.</text>
 		</card>
 		<card>
 			<name>UB19 Agonious Insight</name>
-			<text>When this enchantment enters, this card is put into your graveyard, or this card leaves your graveyard, draw a card. You lose 2 life.</text>
+			<text>When this enchantment enters or this card leaves your graveyard, draw a card. You lose 2 life.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/138.png" num="160">SVE</set>
 			<prop>
 				<layout>normal</layout>

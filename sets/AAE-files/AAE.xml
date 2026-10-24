@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version='4'>
 	<sets>
-		<set>
-			<name>AAE</name>
-			<longname>Amplalo at Epoch</longname>
-			<settype>Custom</settype>
-			<releasedate>2026-10-17</releasedate>
-		</set>
+		
+			<set>
+				<name>AAE</name>
+				<longname>Amplalo at Epoch</longname>
+				<settype>Custom</settype>
+				<releasedate>2026-10-23</releasedate>
+			</set>
 	</sets>
 	<cards>
 		<card>

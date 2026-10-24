@@ -2913,7 +2913,7 @@
             "number": 160,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this enchantment enters, this card is put into your graveyard, or this card leaves your graveyard, draw a card. You lose 2 life.",
+            "rules_text": "When this enchantment enters or this card leaves your graveyard, draw a card. You lose 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7088,5 +7088,5 @@
             "notes": "!oddityslot"
         }
     ],
-    "version": 9
+    "version": 10
 }

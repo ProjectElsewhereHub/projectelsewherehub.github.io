@@ -3060,7 +3060,7 @@
             "number": 170,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Vigilance\nSunfire \u2014 Mill three cards. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]\nExile three noncreature cards from your graveyard: Return this creature to its owner's hand.",
+            "rules_text": "Vigilance\nSunfire \u2014 Mill three cards. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]\nExile three noncreature cards from your graveyard: Return this creature from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -6020,5 +6020,5 @@
             "notes": "\n"
         }
     ],
-    "version": 20
+    "version": 21
 }
