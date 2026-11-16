@@ -6,7 +6,7 @@
 				<name>SVE</name>
 				<longname>Solvatim Envisioned</longname>
 				<settype>Custom</settype>
-				<releasedate>2026-10-24</releasedate>
+				<releasedate>2026-11-16</releasedate>
 			</set>
 	</sets>
 	<cards>
@@ -436,7 +436,7 @@ Add {W}.</text>
 		</card>
 		<card>
 			<name>CW15 Honored Burial</name>
-			<text>Exile up to two target cards from graveyards.</text>
+			<text>Exile up to four target cards from graveyards. You gain 4 life.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/23.png" num="24">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -451,8 +451,8 @@ Add {W}.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CW16 Heal from Mourning</name>
-			<text>You gain 4 life. Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
+			<name>CW16 Death Toll</name>
+			<text>If you control less lands than target opponent, conjure Corpse conjurations into your hand equal to the difference. (They&apos;re {0} 1/0 creatures with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/24.png" num="25">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -522,7 +522,7 @@ You can&apos;t cast spells.
 		</card>
 		<card>
 			<name>CW20 Sighted Vigil</name>
-			<text>Untap target creature. You get {V} (a vision counter).</text>
+			<text>Untap target creature. It gets +1/+2 until end of turn. You get {V} (a vision counter).</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/28.png" num="29">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1268,7 +1268,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>CU20 Sighted Twiddle</name>
-			<text>Untap target artifact or enchantment. You get {V} (a vision counter).</text>
+			<text>Untap target artifact or enchantment. Scry 2. You get {V} (a vision counter).</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/71.png" num="80">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2704,7 +2704,7 @@ Discard a card, then draw a card.</text>
 		</card>
 		<card>
 			<name>CR14 Ascended Thoughts</name>
-			<text>Target creature you control gets+3/+0 until end of turn.
+			<text>Target creature you control gets +3/+0 until end of turn.
 Add {R}.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/153.png" num="176">SVE</set>
 			<prop>
@@ -3576,7 +3576,7 @@ Search your library for a land card, reveal it, put it into your hand, then shuf
 		</card>
 		<card>
 			<name>CG20 Sighted Daybreak</name>
-			<text>Untap target land. You get {V} (a vision counter).</text>
+			<text>Untap target land. Surveil 2. You get {V} (a vision counter).</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/203.png" num="233">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4458,7 +4458,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL01 Fluxlands of Frost</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {W} or {U}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/255.png" num="295">SVE</set>
 			<prop>
@@ -4474,7 +4474,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL02 Fluxlands of Darkness</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {U} or {B}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/256.png" num="296">SVE</set>
 			<prop>
@@ -4490,7 +4490,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL03 Fluxlands of Blood</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {B} or {R}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/257.png" num="297">SVE</set>
 			<prop>
@@ -4506,7 +4506,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL04 Fluxlands of Fire</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {R} or {G}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/258.png" num="298">SVE</set>
 			<prop>
@@ -4522,7 +4522,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL05 Fluxlands of Life</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {G} or {W}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/259.png" num="299">SVE</set>
 			<prop>
@@ -4538,7 +4538,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL06 Fluxlands of Bone</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {W} or {B}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/260.png" num="300">SVE</set>
 			<prop>
@@ -4554,7 +4554,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL07 Fluxlands of Thunder</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {U} or {R}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/261.png" num="301">SVE</set>
 			<prop>
@@ -4570,7 +4570,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL08 Fluxlands of Death</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {B} or {G}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/262.png" num="302">SVE</set>
 			<prop>
@@ -4586,7 +4586,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL09 Fluxlands of Light</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {R} or {W}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/263.png" num="303">SVE</set>
 			<prop>
@@ -4602,7 +4602,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL10 Fluxlands of Water</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {G} or {U}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/264.png" num="304">SVE</set>
 			<prop>
@@ -5291,7 +5291,7 @@ III — Exile this Saga, then return it to the battlefield tapped and
 			<name>Aeon, the Envisioner</name>
 			<text>Vigilance
 {T}: Search your library for a Saga card, put it onto the battlefield tapped, then shuffle.
-Whenever an ability of a permanent you control triggers, if that permanent is tapped, counter that ability and you get {V}{V}. This ability triggers only once each turn.
+Whenever an ability of a permanent you control triggers, if that permanent is tapped, counter that ability and you get {V}{V} (two vision counters). This ability triggers only once each turn.
 ---
 (Front): MW02 Edward, Beholder of Visions</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/302_back.png" num="32b">SVE</set>
@@ -5403,7 +5403,7 @@ Whenever you draw a card, you may wander. (Reveal the top card of your library. 
 		<card>
 			<name>RW03 Angelic Mindbinder</name>
 			<text>Flying
-Whenever you draw a card, you may manifest the top card of their deck, or put a face-down permanent they control into its owner&apos;s hand. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+Whenever you draw a card, you may manifest the top card of their deck, or put a face-down permanent you control into its owner&apos;s hand. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/309.png" num="35">SVE</set>
 			<prop>
 				<layout>normal</layout>

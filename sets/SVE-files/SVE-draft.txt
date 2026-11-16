@@ -241,7 +241,7 @@
 			}
 		},
 		{
-			"name": "CW16 Heal from Mourning",
+			"name": "CW16 Death Toll",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
@@ -3582,7 +3582,7 @@
 	2 RC01 Mana to Flesh
 	12 CW14 Blessed Thoughts
 	12 CW15 Honored Burial
-	12 CW16 Heal from Mourning
+	12 CW16 Death Toll
 	6 UW14 Simple Soul
 	6 UW15 Indebting Assistance
 	6 UW16 Transientize

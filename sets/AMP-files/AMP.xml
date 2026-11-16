@@ -6,13 +6,13 @@
 				<name>AMP</name>
 				<longname>Amplalo, Realm of the Colossi</longname>
 				<settype>Custom</settype>
-				<releasedate>2026-10-23</releasedate>
+				<releasedate>2026-11-16</releasedate>
 			</set>
 	</sets>
 	<cards>
 		<card>
 			<name>O&apos;Lime, Reefkeeper</name>
-			<text>If an effect would create one or more tokens under your control, create those tokens plus an additional token that&apos;s a copy of of of those tokens.
+			<text>If an effect would create one or more tokens under your control, create those tokens plus an additional token that&apos;s a copy of those tokens.
 Apex — Creatures you control get +1/+1 as long as you control a creature with mana value 6 or greater.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/0.png" num="205">AMP</set>
 			<prop>

@@ -1,4 +1,27 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+UM07 Faithful Steam-Mage
+rules_text: Whenever you cast an instant or sorcery spell, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{T}, Sacrifice two Prayers: Add {U}{R}. => Whenever you cast a nonpermanent spell, create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{T}, Sacrifice two Prayers: Add {U}{R}.
+
+UU08 Negative Countermagic
+rules_text: This spell costs {1}{U} less to cast if it targets an instant or sorcery spell.
+Counter target spell. Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => This spell costs {1}{U} less to cast if it targets a nonpermanent spell.
+Counter target spell. Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+UR04 Deepfaith Ritualist
+rules_text: Whenever you cast an instant or sorcery spell, choose one —
+• Add {R}.
+• Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i] => Whenever you cast a nonpermanent spell, choose one —
+• Add {R}.
+• Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+
+
+VERSION 18 CHANGELOG
 ====================
 
 No changes.

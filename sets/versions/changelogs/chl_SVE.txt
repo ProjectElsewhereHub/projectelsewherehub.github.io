@@ -1,4 +1,86 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+CW16 Death Toll added.
+
+CW16 Heal from Mourning removed.
+
+CW15 Honored Burial
+rules_text: Exile up to two target cards from graveyards. => Exile up to four target cards from graveyards. You gain 4 life.
+
+CW20 Sighted Vigil
+rules_text: Untap target creature. You get {V} [i](a vision counter)[/i]. => Untap target creature. It gets +1/+2 until end of turn. You get {V} [i](a vision counter)[/i].
+
+CU20 Sighted Twiddle
+rules_text: Untap target artifact or enchantment. You get {V} [i](a vision counter)[/i]. => Untap target artifact or enchantment. Scry 2. You get {V} [i](a vision counter)[/i].
+
+CR14 Ascended Thoughts
+rules_text: Target creature you control gets+3/+0 until end of turn.
+Add {R}. => Target creature you control gets +3/+0 until end of turn.
+Add {R}.
+
+CG20 Sighted Daybreak
+rules_text: Untap target land. You get {V} [i](a vision counter)[/i]. => Untap target land. Surveil 2. You get {V} [i](a vision counter)[/i].
+
+RL01 Fluxlands of Frost
+rules_text: This land enters tapped unless you control an odd number of other lands.
+{T}: Add {W} or {U}. => This land enters tapped unless you control an odd number of other lands. [i](Zero is even.)[/i]
+{T}: Add {W} or {U}.
+
+RL02 Fluxlands of Darkness
+rules_text: This land enters tapped unless you control an odd number of other lands.
+{T}: Add {U} or {B}. => This land enters tapped unless you control an odd number of other lands. [i](Zero is even.)[/i]
+{T}: Add {U} or {B}.
+
+RL03 Fluxlands of Blood
+rules_text: This land enters tapped unless you control an odd number of other lands.
+{T}: Add {B} or {R}. => This land enters tapped unless you control an odd number of other lands. [i](Zero is even.)[/i]
+{T}: Add {B} or {R}.
+
+RL04 Fluxlands of Fire
+rules_text: This land enters tapped unless you control an odd number of other lands.
+{T}: Add {R} or {G}. => This land enters tapped unless you control an odd number of other lands. [i](Zero is even.)[/i]
+{T}: Add {R} or {G}.
+
+RL05 Fluxlands of Life
+rules_text: This land enters tapped unless you control an odd number of other lands.
+{T}: Add {G} or {W}. => This land enters tapped unless you control an odd number of other lands. [i](Zero is even.)[/i]
+{T}: Add {G} or {W}.
+
+RL06 Fluxlands of Bone
+rules_text: This land enters tapped unless you control an odd number of other lands.
+{T}: Add {W} or {B}. => This land enters tapped unless you control an odd number of other lands. [i](Zero is even.)[/i]
+{T}: Add {W} or {B}.
+
+RL07 Fluxlands of Thunder
+rules_text: This land enters tapped unless you control an odd number of other lands.
+{T}: Add {U} or {R}. => This land enters tapped unless you control an odd number of other lands. [i](Zero is even.)[/i]
+{T}: Add {U} or {R}.
+
+RL08 Fluxlands of Death
+rules_text: This land enters tapped unless you control an odd number of other lands.
+{T}: Add {B} or {G}. => This land enters tapped unless you control an odd number of other lands. [i](Zero is even.)[/i]
+{T}: Add {B} or {G}.
+
+RL09 Fluxlands of Light
+rules_text: This land enters tapped unless you control an odd number of other lands.
+{T}: Add {R} or {W}. => This land enters tapped unless you control an odd number of other lands. [i](Zero is even.)[/i]
+{T}: Add {R} or {W}.
+
+RL10 Fluxlands of Water
+rules_text: This land enters tapped unless you control an odd number of other lands.
+{T}: Add {G} or {U}. => This land enters tapped unless you control an odd number of other lands. [i](Zero is even.)[/i]
+{T}: Add {G} or {U}.
+
+MW02 Edward, Beholder of Visions
+
+RW03 Angelic Mindbinder
+rules_text: Flying
+Whenever you draw a card, you may manifest the top card of their deck, or put a face-down permanent they control into its owner's hand. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i] => Flying
+Whenever you draw a card, you may manifest the top card of their deck, or put a face-down permanent you control into its owner's hand. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+
+VERSION 11 CHANGELOG
 ====================
 
 MB02 Eternor, the Archnemesis added.

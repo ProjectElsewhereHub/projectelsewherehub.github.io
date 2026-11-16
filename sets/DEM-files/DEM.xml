@@ -6,7 +6,7 @@
 				<name>DEM</name>
 				<longname>Deus Ex Memoriam</longname>
 				<settype>Custom</settype>
-				<releasedate>2026-10-23</releasedate>
+				<releasedate>2026-11-16</releasedate>
 			</set>
 	</sets>
 	<cards>
@@ -64,7 +64,7 @@ When this creature enters, if mana from three or more differently named sources 
 		</card>
 		<card>
 			<name>UM07 Faithful Steam-Mage</name>
-			<text>Whenever you cast an instant or sorcery spell, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
+			<text>Whenever you cast a nonpermanent spell, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
 {T}, Sacrifice two Prayers: Add {U}{R}.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/3.png" num="205">DEM</set>
 			<prop>
@@ -3046,7 +3046,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>UU08 Negative Countermagic</name>
-			<text>This spell costs {1}{U} less to cast if it targets an instant or sorcery spell.
+			<text>This spell costs {1}{U} less to cast if it targets a nonpermanent spell.
 Counter target spell. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/171.png" num="83">DEM</set>
 			<prop>
@@ -3199,7 +3199,7 @@ Invest {5} ({5}: Attach to target non-aura non-investiture permanent you control
 		</card>
 		<card>
 			<name>UR04 Deepfaith Ritualist</name>
-			<text>Whenever you cast an instant or sorcery spell, choose one —
+			<text>Whenever you cast a nonpermanent spell, choose one —
 • Add {R}.
 • Create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/180.png" num="145">DEM</set>

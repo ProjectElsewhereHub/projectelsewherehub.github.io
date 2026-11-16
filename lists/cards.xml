@@ -5,31 +5,37 @@
 				<name>AAE</name>
 				<longname>Amplalo at Epoch</longname>
 				<settype>Custom</settype>
-				<releasedate>2026-10-24</releasedate>
+				<releasedate>2026-11-16</releasedate>
 			</set>
 			<set>
 				<name>ADD</name>
 				<longname>A Dream of Darkness</longname>
 				<settype>Custom</settype>
-				<releasedate>2026-10-24</releasedate>
+				<releasedate>2026-11-16</releasedate>
 			</set>
 			<set>
 				<name>AMP</name>
 				<longname>Amplalo, Realm of the Colossi</longname>
 				<settype>Custom</settype>
-				<releasedate>2026-10-24</releasedate>
+				<releasedate>2026-11-16</releasedate>
 			</set>
 			<set>
 				<name>DEM</name>
 				<longname>Deus Ex Memoriam</longname>
 				<settype>Custom</settype>
-				<releasedate>2026-10-24</releasedate>
+				<releasedate>2026-11-16</releasedate>
+			</set>
+			<set>
+				<name>PLVBD</name>
+				<longname>Preludes: The Village Before the Dream</longname>
+				<settype>Custom</settype>
+				<releasedate>2026-11-16</releasedate>
 			</set>
 			<set>
 				<name>SVE</name>
 				<longname>Solvatim Envisioned</longname>
 				<settype>Custom</settype>
-				<releasedate>2026-10-24</releasedate>
+				<releasedate>2026-11-16</releasedate>
 			</set>
 	</sets>
 	<cards>
@@ -934,7 +940,7 @@ When A&apos;Akula enters, create two 1/1 white Cleric creature tokens, gain 5 li
 		<card>
 			<name>Dumat, the Fogs As One</name>
 			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
-Ritual — Three monocolored white cards with different names. (You may cast this card from your elsewhere as long as you&apos;ve played Three monocolored white cards with different names this game.)
+Ritual — three monocolored white cards with different names. (You may cast this card from your elsewhere as long as you&apos;ve played three monocolored white cards with different names this game.)
 Vigilance
 When Dumat enters, prevent all damage that would be dealt to you and permanents you control until your next turn.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/52.png" num="6">AAE</set>
@@ -974,7 +980,7 @@ Whenever Ikylix enters or attacks, you may exile a nonland card from a graveyard
 		<card>
 			<name>Naranu, the Tides Alive</name>
 			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
-Ritual — Three blue cards with different names. (You may cast this card from your elsewhere as long as you&apos;ve played Three blue cards with different names this game.)
+Ritual — three blue cards with different names. (You may cast this card from your elsewhere as long as you&apos;ve played three blue cards with different names this game.)
 When Naranu enters, scry X, where X is the number of sea monsters you control, then draw a card.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/54.png" num="18">AAE</set>
 			<prop>
@@ -993,7 +999,7 @@ When Naranu enters, scry X, where X is the number of sea monsters you control, t
 		<card>
 			<name>Naph&apos;zed, the Voice of Death</name>
 			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
-Ritual — Three black cards with different names. (You may cast this card from your elsewhere as long as you&apos;ve played Three black cards with different names this game.)
+Ritual — three black cards with different names. (You may cast this card from your elsewhere as long as you&apos;ve played three black cards with different names this game.)
 When Naph&apos;zed enters, you may return target creature card from your graveyard to the battlefield. If you do, you lose life equal to that card&apos;s mana value.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/55.png" num="28">AAE</set>
 			<prop>
@@ -1052,7 +1058,7 @@ Artifacts you control have &quot;{T}, Sacrifice this artifact: It deals 2 damage
 		<card>
 			<name>Tooth, the Blood in the Water</name>
 			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
-Ritual — Three monocolored red cards with different names. (You may cast this card from your elsewhere as long as you&apos;ve played Three monocolored red cards with different names this game.)
+Ritual — three monocolored red cards with different names. (You may cast this card from your elsewhere as long as you&apos;ve played three monocolored red cards with different names this game.)
 If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/58.png" num="41">AAE</set>
 			<prop>
@@ -1090,7 +1096,7 @@ When Fulgur enters, put a prey counter on up to one target creature, then Fulgur
 		<card>
 			<name>Terun, the Land Anew</name>
 			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
-Ritual — Three monocolored green cards with different names. (You may cast this card from your elsewhere as long as you&apos;ve played Three monocolored green cards with different names this game.)
+Ritual — three monocolored green cards with different names. (You may cast this card from your elsewhere as long as you&apos;ve played three monocolored green cards with different names this game.)
 When this creature enters, you gain 1 life for each card in your graveyard, then choose one of those cards. Return that card to your hand and shuffle each other card in your graveyard into your library.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/60.png" num="49">AAE</set>
 			<prop>
@@ -1131,7 +1137,7 @@ When Ur-Colossus enters, if it wasn&apos;t cast or no mana was spent to cast it,
 			<name>Realmpoint, Arisen Temple</name>
 			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
 Your starting elsewhere can only have one card named Realmpoint, Arisen Temple.
-Ritual — Three other cards with mana value 6 or greater. (You may cast this card from your elsewhere as long as you&apos;ve played Three other cards with mana value 6 or greater this game.)
+Ritual — three other cards with mana value 6 or greater. (You may cast this card from your elsewhere as long as you&apos;ve played three other cards with mana value 6 or greater this game.)
 Vigilance
 At the beginning of your first upkeep, if this card is in your elsewhere and your starting deck contains at least twenty cards more than the minimum deck size, you gain 10 life.</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/62.png" num="59">AAE</set>
@@ -6675,7 +6681,7 @@ Whenever this creature attacks, add {C}. Until end of turn, you don&apos;t lose 
 		</card>
 		<card>
 			<name>O&apos;Lime, Reefkeeper</name>
-			<text>If an effect would create one or more tokens under your control, create those tokens plus an additional token that&apos;s a copy of of of those tokens.
+			<text>If an effect would create one or more tokens under your control, create those tokens plus an additional token that&apos;s a copy of those tokens.
 Apex — Creatures you control get +1/+1 as long as you control a creature with mana value 6 or greater.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/0.png" num="205">AMP</set>
 			<prop>
@@ -12161,7 +12167,7 @@ When this creature enters, if mana from three or more differently named sources 
 		</card>
 		<card>
 			<name>UM07 Faithful Steam-Mage</name>
-			<text>Whenever you cast an instant or sorcery spell, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
+			<text>Whenever you cast a nonpermanent spell, create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)
 {T}, Sacrifice two Prayers: Add {U}{R}.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/3.png" num="205">DEM</set>
 			<prop>
@@ -15143,7 +15149,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>UU08 Negative Countermagic</name>
-			<text>This spell costs {1}{U} less to cast if it targets an instant or sorcery spell.
+			<text>This spell costs {1}{U} less to cast if it targets a nonpermanent spell.
 Counter target spell. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/171.png" num="83">DEM</set>
 			<prop>
@@ -15296,7 +15302,7 @@ Invest {5} ({5}: Attach to target non-aura non-investiture permanent you control
 		</card>
 		<card>
 			<name>UR04 Deepfaith Ritualist</name>
-			<text>Whenever you cast an instant or sorcery spell, choose one —
+			<text>Whenever you cast a nonpermanent spell, choose one —
 • Add {R}.
 • Create a Prayer token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Add one mana of any color&quot; and &quot;Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/DEM-files/img/180.png" num="145">DEM</set>
@@ -16710,6 +16716,1056 @@ When this creature dies, destroy all creatures.</text>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
+			<name>MM01 The Fairytale Pact</name>
+			<text>This spell costs one mana less to cast of each color among sagas you control.
+If an ability of a saga you control would trigger, that ability triggers an additional time.
+Whenever a Saga you control leaves the battlefield, draw a card.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/0.png" num="39">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MC01 The Dreamfated Child</name>
+			<text>This creature enters with a +1/+1 counter.
+Embellish {5}: Proliferate. (While paying an embellish cost, you can tap and/or sacrifice your enchantments to help. Each one pays for {1}. To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/1.png" num="1">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Child</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>-1/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MC02 Dream Foretold</name>
+			<text>{T}: You may cast a spell with mana value 2 or less from your hand without paying its mana cost.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/2.png" num="2">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB01 Legend of Lancel the Dreaded</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Put two -1/-1 counters on target creature.
+II — Draw a card. You lose 1 life.
+III — Each opponent discards a card and loses 1 life.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/3.png" num="24">PLVBD</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW01 Legend of Lancor the Adored</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Put two +1/+1 counters on target creature.
+II — Each player draws a card.
+III — Destroy target nonbasic land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/4.png" num="12">PLVBD</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM01 Legend of the Brickfolk</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — This enchantment gains foundation. (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card. Multiple instances stack.)
+III — Put a +1/+1 counter on a Building you control.
+---
+Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/5.png" num="45">PLVBD</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR01 Legend of the Drunken Duelist</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Discard a card.
+II, III — Draw a card.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/6.png" num="30">PLVBD</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU01 Legend of the Mad Mentalist</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Scry 1.
+III — Draw a card.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/7.png" num="18">PLVBD</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG01 Legend of the Balance</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Spells with mana value 3 or less cost {1} more to cast until the start of your next turn.
+II — Spells with mana value 4 or greater cost {1} less to cast until the start of your next turn.
+III — You gain 5 life.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/8.png" num="36">PLVBD</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM01 Geran, Mason Guildmaster</name>
+			<text>Foundation (When this enters, if you don&apos;t control a Building, create a 0/0 Building artifact creature token. Buildings you control get +1/+1 and have all abilities in square brackets on this card.)
+[[b]Whenever this creature becomes tapped, put a foundation counter on it.[/b]]</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/9.png" num="40">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM02 Legend of the Lunarkin</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Draw a card.
+III — Sacrifice a creature.
+---
+Moonflow 2 (You may play this card from your graveyard as long as 2 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/10.png" num="46">PLVBD</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM02 Veptet, High Mystic</name>
+			<text>Moonflow 3 (You may play this card from your graveyard as long as 3 or more creatures have died this turn. It enters with a finality counter on it.)
+During your turns, cards in your graveyard have moonflow 3. (You may play this card from your graveyard as long as 3 or more creatures have died this turn. It enters with a finality counter on it.)</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/11.png" num="41">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM03 Legend of the Blade Demons</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Revolt — If a permanent you controlled left the battlefield this turn, destroy target creature.
+II — Put two -1/-1 counters on target creature.
+III — Target permanent gains lifelink until end of turn. It deals damage equal to its mana value to target opponent.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/12.png" num="47">PLVBD</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM03 Golthos, Revolution Advocate</name>
+			<text>Revolt — At the beginning of each end step, if a permanent you controlled left the battlefield under your control this turn, this creature deals damage equal to the greatest mana value among permanents that left the battlefield under your control this turn to each opponent.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/13.png" num="42">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM04 Legend of the Solarkin</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — This Saga gains &quot;Sunfire — This permanent deals damage to each opponent equal to the amount of unspent mana you have. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
+II, III — Add {R} or {G}.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/14.png" num="48">PLVBD</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RM04 Vegor, Inspired Imagination</name>
+			<text>Vigilance
+Sunfire — You may pay {X}. If you do, this creature deals X damage to target player or planeswalker. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
+{T}, Sacrifice two lands: Trigger each sunfire ability of permanents you control.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/15.png" num="43">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM05 V&apos;glantor, Intimidating Mayor</name>
+			<text>Formidable — At the beginning of your end step, if creatures you control have total power 8 or greater, look at the top eight cards of your library. Then you may sacrifice this creature. If you do, you may put a creature card from among those cards onto the battlefield.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/16.png" num="44">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM05 Legend of the Triclopses</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Put a +1/+1 counter on target creature.
+III — Formidable — If creatures you control have power 8 or greater, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/17.png" num="49">PLVBD</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU02 Craft New Tales</name>
+			<text>As an additional cost to cast this spell, embellish {4}. (While paying an embellish cost, you can tap and/or sacrifice your enchantments to help. Each one pays for {1}.)
+Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/18.png" num="19">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG02 Exaggerated Idiot</name>
+			<text>As an additional cost to cast this spell, embellish {3}. (While paying an embellish cost, you can tap and/or sacrifice your enchantments to help. Each one pays for {1}.)</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/19.png" num="37">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Coward</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR02 Flames of Rumor</name>
+			<text>As an additional cost to cast this spell, embellish {2}. (While paying an embellish cost, you can tap and/or sacrifice your enchantments to help. Each one pays for {1}.)
+This spell deals 3 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/20.png" num="31">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB02 Rumored Return</name>
+			<text>As an additional cost to cast this spell, embellish {5}. (While paying an embellish cost, you can tap and/or sacrifice your enchantments to help. Each one pays for {1}.)
+Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/21.png" num="25">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW02 Legendary Feat</name>
+			<text>As an additional cost to cast this spell, embellish {2}. (While paying an embellish cost, you can tap and/or sacrifice your enchantments to help. Each one pays for {1}.)
+Target creature you control gets +2/+3 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/22.png" num="13">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RC01 Precursing Blob</name>
+			<text>Changeling (This card is every creature type.)</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/23.png" num="5">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RL01 Road of Frost</name>
+			<text>When this land enters, choose {W} or {U}.
+{T}: Add one of the chosen mana groups. You lose 1 life.
+{2}: Choose {W}, {U}, or {C}{C}.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/24.png" num="50">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL02 Road of Darkness</name>
+			<text>When this land enters, choose {U} or {B}.
+{T}: Add one of the chosen mana groups. You lose 1 life.
+{2}: Choose {U}, {B}, or {C}{C}.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/25.png" num="51">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL07 Road of Thunder</name>
+			<text>When this land enters, choose {U} or {R}.
+{T}: Add one of the chosen mana groups. You lose 1 life.
+{2}: Choose {U}, {R}, or {C}{C}.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/26.png" num="56">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL03 Road of Blood</name>
+			<text>When this land enters, choose {B} or {R}.
+{T}: Add one of the chosen mana groups. You lose 1 life.
+{2}: Choose {B}, {R}, or {C}{C}.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/27.png" num="52">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL08 Road of Death</name>
+			<text>When this land enters, choose {B} or {G}.
+{T}: Add one of the chosen mana groups. You lose 1 life.
+{2}: Choose {B}, {G}, or {C}{C}.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/28.png" num="57">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL04 Road of Fire</name>
+			<text>When this land enters, choose {R} or {G}.
+{T}: Add one of the chosen mana groups. You lose 1 life.
+{2}: Choose {R}, {G}, or {C}{C}.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/29.png" num="53">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL09 Road of Light</name>
+			<text>When this land enters, choose {R} or {W}.
+{T}: Add one of the chosen mana groups. You lose 1 life.
+{2}: Choose {R}, {W}, or {C}{C}.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/30.png" num="58">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL05 Road of Life</name>
+			<text>When this land enters, choose {G} or {W}.
+{T}: Add one of the chosen mana groups. You lose 1 life.
+{2}: Choose {G}, {W}, or {C}{C}.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/31.png" num="54">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL10 Road of Water</name>
+			<text>When this land enters, choose {G} or {U}.
+{T}: Add one of the chosen mana groups. You lose 1 life.
+{2}: Choose {G}, {U}, or {C}{C}.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/32.png" num="59">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RL06 Road of Bone</name>
+			<text>When this land enters, choose {W} or {B}.
+{T}: Add one of the chosen mana groups. You lose 1 life.
+{2}: Choose {W}, {B}, or {C}{C}.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/33.png" num="55">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UR03 Fateful Inspiration</name>
+			<text>Discard a card. You may play it this turn.
+Draw a card. If you cast this spell from your graveyard, draw two cards instead.
+A deck may contain up to seven cards named Fateful Inspiration.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/34.png" num="32">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>MU01 Mysterious Anticipator</name>
+			<text>If you would draw a card, you may wander instead. (Reveal the top card of your library. If it&apos;s a land, put a Wanderer from your elsewhere into your hand. Otherwise, put it into your hand.)</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/35.png" num="17">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MC03 The Wanderer from the Void</name>
+			<text>Elsewhere 3 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Affinity for colorless permanents (This spell costs {1} less to cast for each colorless permanent you control.)
+Defender
+{T}, Put a -1/-1 counter on this creature: Add {C}{C}.
+When this creature dies, if it had six -1/-1 counters on it, exile target permanent that&apos;s one or more colors.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/36.png" num="3">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Transmortal Wanderer</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>0/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW01 Fabled Mightgeist</name>
+			<text>Flash
+Flying
+Embellish {5}: Creatures you control get +1/+1 until end of turn. (While paying an embellish cost, you can tap and/or sacrifice your enchantments to help. Each one pays for {1}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/37.png" num="9">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU01 Enlightened Talespinner</name>
+			<text>Embellish {7}: Draw two cards. (While paying an embellish cost, you can tap and/or sacrifice your enchantments to help. Each one pays for {1}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/38.png" num="15">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB01 Bloodstained Rumorteller</name>
+			<text>Menace
+Embellish {4}, Exile this card from your graveyard: You gain 2 life and each opponent loses 2 life. (While paying an embellish cost, you can tap and/or sacrifice your enchantments to help. Each one pays for {1}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/39.png" num="21">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR01 Boastful Bartender</name>
+			<text>Haste
+When this creature enters, you may embellish {4}. If you do, exile the top two cards of your library. You may play those cards until the end of your next turn. (While paying an embellish cost, you can tap and/or sacrifice your enchantments to help. Each one pays for {1}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/40.png" num="27">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG01 Passionate Taleteller</name>
+			<text>When this creature enters, you may embellish {2}. If you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle. (While paying an embellish cost, you can tap and/or sacrifice your enchantments to help. Each one pays for {1}.)</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/41.png" num="33">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MR01 Telltale Talemage</name>
+			<text>Rather than pay the mana cost of spells you cast, you may embellish {X}, where X is the mana value of those spells. (While paying an embellish cost, you can tap and/or sacrifice your enchantments to help. Each one pays for {1}.)</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/42.png" num="29">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW03 Fateful Guidance</name>
+			<text>Target permanent becomes the color of your choice until end of turn.
+{W}, Exile this card from your graveyard: Target opponent draws a card. You draw two cards. Activate only if you control a permanent of a color lands you control can&apos;t produce.
+A deck may contain up to seven cards named Fateful Guidance.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/43.png" num="14">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU03 Fateful Inspection</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Draw a card. Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+A deck may contain up to seven cards named Fateful Inspection.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/44.png" num="20">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB03 Fateful Advantage</name>
+			<text>You gain X life and each opponent loses X life, where X is 1 plus the number of cards named Fateful Advantage in your graveyard.
+Flashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+A deck may contain up to seven cards named Fateful Advantage.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/45.png" num="26">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG03 Fateful Regrowth</name>
+			<text>Return target land card from your graveyard to the battlefield. You gain 3 life.
+{G}, Discard this card: Search your library for a land card, put it into your graveyard, then shuffle.
+A deck may contain up to seven cards named Fateful Regrowth.</text>
+			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/46.png" num="38">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>MW01 Vulmont, Titan of Town&apos;s Terror</name>
+			<text>When this creature enters, sacrifice it unless it escaped.
+Whenever this creature enters or attacks, it deals 4 damage to target tapped creature and you gain 4 life.
+Escape—{W}{W}{W}{W}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/47.png" num="11">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Titan</type>
+				<maintype>Creature</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MB01 Voidless One</name>
+			<text>Elsewhere 4 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+When this creature enters, if it was cast from your elsewhere, each opponent discards a card.
+Ritual — three multicolored cards with different names and different color identities. (You may cast this card from your elsewhere as long as you&apos;ve played three multicolored cards with different names and different color identities this game.)</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/48.png" num="23">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MG01 Celestial Barterer</name>
+			<text>You don&apos;t lose unspent mana as steps and phases end.
+At the beginning of your end step, you lose life equal to the amount of unspent mana you have.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/49.png" num="35">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar Merchant</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW02 Voidtouched Townsfolk</name>
+			<text>Devoid (This card has no color.)
+When this creature enters, draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/50.png" num="10">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>1C/W</manacost>
+				<cmc>2</cmc>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU02 Voidtouched Messenger</name>
+			<text>Devoid (This card has no color.)
+When this creature enters, surveil 2.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/51.png" num="16">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>C/U</manacost>
+				<cmc>1</cmc>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB02 Voidtouched Cutthroat</name>
+			<text>Devoid (This card has no color.)
+When this creature enters, destroy up to one target creature.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/52.png" num="22">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>4C/B</manacost>
+				<cmc>5</cmc>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR02 Voidtouched Livestock</name>
+			<text>Devoid (This card has no color.)
+When this creature enters, discard a card, then draw a card.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/53.png" num="28">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ox Pig Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2C/R</manacost>
+				<cmc>3</cmc>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG02 Voidtouched Visionary</name>
+			<text>Devoid (This card has no color.)
+When this creature enters, add {C}{C}.</text>
+			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/54.png" num="34">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>1C/G</manacost>
+				<cmc>2</cmc>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RC02 Voidtouched Catalyst</name>
+			<text>Colorless spells you cast have flash.
+{T}: Copy all triggered abilities of colorless permanents you control.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/55.png" num="6">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RC03 Voidtouched Shopkeeper</name>
+			<text>Kicker {CW}{CU}{CB}{CR}{CG} (You may pay an additional {CW}{CU}{CB}{CR}{CG} as you cast this spell.)
+When this creature enters, draw two cards, then discard two cards unless it was kicked or this ability is a copy.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/56.png" num="7">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror Merchant</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MC04 The Roadwalker</name>
+			<text>Elsewhere 5 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
+Ritual — five lands with different names (You may cast this card from your elsewhere as long as you&apos;ve played five lands with different names this game.)</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/57.png" num="4">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Human</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RL11 Village&apos;s Saga</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Scry 1.
+II — You gain 1 life.
+III — Add {C}.
+---
+{T}: Add {C}.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/58.png" num="60">PLVBD</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Land — Saga</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RC04 Seer&apos;s Essence</name>
+			<text>Whenever this enchantment becomes tapped, scry 1.</text>
+			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/59.png" num="8">PLVBD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
 			<name>CC01 Keen-Eyed Farmer</name>
 			<text>When this creature enters, you get {V} (a vision counter).</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/0.png" num="1">SVE</set>
@@ -17135,7 +18191,7 @@ Add {W}.</text>
 		</card>
 		<card>
 			<name>CW15 Honored Burial</name>
-			<text>Exile up to two target cards from graveyards.</text>
+			<text>Exile up to four target cards from graveyards. You gain 4 life.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/23.png" num="24">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -17150,8 +18206,8 @@ Add {W}.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CW16 Heal from Mourning</name>
-			<text>You gain 4 life. Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
+			<name>CW16 Death Toll</name>
+			<text>If you control less lands than target opponent, conjure Corpse conjurations into your hand equal to the difference. (They&apos;re {0} 1/0 creatures with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/24.png" num="25">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -17221,7 +18277,7 @@ You can&apos;t cast spells.
 		</card>
 		<card>
 			<name>CW20 Sighted Vigil</name>
-			<text>Untap target creature. You get {V} (a vision counter).</text>
+			<text>Untap target creature. It gets +1/+2 until end of turn. You get {V} (a vision counter).</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/28.png" num="29">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -17967,7 +19023,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>CU20 Sighted Twiddle</name>
-			<text>Untap target artifact or enchantment. You get {V} (a vision counter).</text>
+			<text>Untap target artifact or enchantment. Scry 2. You get {V} (a vision counter).</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/71.png" num="80">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -19403,7 +20459,7 @@ Discard a card, then draw a card.</text>
 		</card>
 		<card>
 			<name>CR14 Ascended Thoughts</name>
-			<text>Target creature you control gets+3/+0 until end of turn.
+			<text>Target creature you control gets +3/+0 until end of turn.
 Add {R}.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/153.png" num="176">SVE</set>
 			<prop>
@@ -20275,7 +21331,7 @@ Search your library for a land card, reveal it, put it into your hand, then shuf
 		</card>
 		<card>
 			<name>CG20 Sighted Daybreak</name>
-			<text>Untap target land. You get {V} (a vision counter).</text>
+			<text>Untap target land. Surveil 2. You get {V} (a vision counter).</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/203.png" num="233">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -21157,7 +22213,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL01 Fluxlands of Frost</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {W} or {U}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/255.png" num="295">SVE</set>
 			<prop>
@@ -21173,7 +22229,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL02 Fluxlands of Darkness</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {U} or {B}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/256.png" num="296">SVE</set>
 			<prop>
@@ -21189,7 +22245,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL03 Fluxlands of Blood</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {B} or {R}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/257.png" num="297">SVE</set>
 			<prop>
@@ -21205,7 +22261,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL04 Fluxlands of Fire</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {R} or {G}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/258.png" num="298">SVE</set>
 			<prop>
@@ -21221,7 +22277,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL05 Fluxlands of Life</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {G} or {W}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/259.png" num="299">SVE</set>
 			<prop>
@@ -21237,7 +22293,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL06 Fluxlands of Bone</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {W} or {B}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/260.png" num="300">SVE</set>
 			<prop>
@@ -21253,7 +22309,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL07 Fluxlands of Thunder</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {U} or {R}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/261.png" num="301">SVE</set>
 			<prop>
@@ -21269,7 +22325,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL08 Fluxlands of Death</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {B} or {G}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/262.png" num="302">SVE</set>
 			<prop>
@@ -21285,7 +22341,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL09 Fluxlands of Light</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {R} or {W}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/263.png" num="303">SVE</set>
 			<prop>
@@ -21301,7 +22357,7 @@ When Challenging Gateway enters, return a non-Portal land you control to its own
 		</card>
 		<card>
 			<name>RL10 Fluxlands of Water</name>
-			<text>This land enters tapped unless you control an odd number of other lands.
+			<text>This land enters tapped unless you control an odd number of other lands. (Zero is even.)
 {T}: Add {G} or {U}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/264.png" num="304">SVE</set>
 			<prop>
@@ -21990,7 +23046,7 @@ III — Exile this Saga, then return it to the battlefield tapped and
 			<name>Aeon, the Envisioner</name>
 			<text>Vigilance
 {T}: Search your library for a Saga card, put it onto the battlefield tapped, then shuffle.
-Whenever an ability of a permanent you control triggers, if that permanent is tapped, counter that ability and you get {V}{V}. This ability triggers only once each turn.
+Whenever an ability of a permanent you control triggers, if that permanent is tapped, counter that ability and you get {V}{V} (two vision counters). This ability triggers only once each turn.
 ---
 (Front): MW02 Edward, Beholder of Visions</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/302_back.png" num="32b">SVE</set>
@@ -22102,7 +23158,7 @@ Whenever you draw a card, you may wander. (Reveal the top card of your library. 
 		<card>
 			<name>RW03 Angelic Mindbinder</name>
 			<text>Flying
-Whenever you draw a card, you may manifest the top card of their deck, or put a face-down permanent they control into its owner&apos;s hand. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+Whenever you draw a card, you may manifest the top card of their deck, or put a face-down permanent you control into its owner&apos;s hand. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/309.png" num="35">SVE</set>
 			<prop>
 				<layout>normal</layout>
