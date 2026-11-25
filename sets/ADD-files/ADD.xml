@@ -6,7 +6,7 @@
 				<name>ADD</name>
 				<longname>A Dream of Darkness</longname>
 				<settype>Custom</settype>
-				<releasedate>2026-11-16</releasedate>
+				<releasedate>2026-11-25</releasedate>
 			</set>
 	</sets>
 	<cards>
@@ -421,7 +421,7 @@ Whenever you attack with one or more creatures, remove that many -1/-1 counters 
 		<card>
 			<name>RW04 Banishing Ranger</name>
 			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
-When this creature enters, exile target nonland permanent until this creature leaves the battlefield.</text>
+When this creature enters, exile target nonland permanent you don&apos;t control until this creature leaves the battlefield.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/24.png" num="30">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2541,7 +2541,7 @@ Whenever this creature deals combat damage to a player, that player mills that m
 			<name>MG02 Solatic</name>
 			<text>Vigilance
 Sunfire — Mill three cards. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
-Exile three noncreature cards from your graveyard: Return this creature from your graveyard to your hand.</text>
+Exile three noncreature cards from your graveyard: Return this card from your graveyard to your hand.</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/145.png" num="170">ADD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3283,7 +3283,7 @@ Moonflow 2 (You may play this card from your graveyard as long as 2 or more crea
 		</card>
 		<card>
 			<name>UM04 Solarkin Kinmage</name>
-			<text>Sunfire — Add {R} or Gatom-reminder-custom&gt; (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.) (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
+			<text>Sunfire — Add {R} or {G}. (Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card&apos;s sunfire ability.)
 RG, {T}, Discard an Elemental card: Add RRGG. Mill four cards.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/188.png" num="215">ADD</set>
 			<prop>
@@ -3459,7 +3459,8 @@ When this creature enters, surveil 1.</text>
 		</card>
 		<card>
 			<name>RA01 Whimsy Monolith</name>
-			<text>This artifact doesn&apos;t untap during your untap step.
+			<text>This artifact enters tapped.
+This artifact doesn&apos;t untap during your untap step.
 {T}: Add {C}{C}{C}. If you&apos;re whimsical, add an additional {C}. (You&apos;re whimsical if the last non-bound spell you&apos;ve cast was mana value 3 or less.)
 {4}: Untap this artifact.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/ADD-files/img/198.png" num="230">ADD</set>

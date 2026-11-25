@@ -1,4 +1,23 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+
+Wade the Shallows
+rules_text: Mill three cards. You may put an instant, sorcery, land, or sea monster card from among the milled cards into your hand. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i] => Mill three cards. You may put an instant, sorcery, land, sea monster, or Shark card from among the milled cards into your hand. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+
+Unlikely Encounter
+rules_text: Search your library for a creature or planeswalker card, reveal it, then shuffle. If you revealed a sea monster or Arvis card this way, put it into your hand. Otherwise, put it on top of your library. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i] => Search your library for a creature or planeswalker card, reveal it, then shuffle. If you revealed a sea monster, Shark, or Arvis card this way, put it into your hand. Otherwise, put it on top of your library. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+
+Naranu, the Tides Alive
+rules_text: Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — three blue cards with different names. [i](You may cast this card from your elsewhere as long as you've played three blue cards with different names this game.)[/i]
+When Naranu enters, scry X, where X is the number of sea monsters you control, then draw a card. => Elsewhere 4 [i](This card can start in your elsewhere. Your elsewhere's starting value can't exceed 10.)[/i]
+Ritual — three blue cards with different names. [i](You may cast this card from your elsewhere as long as you've played three blue cards with different names this game.)[/i]
+When Naranu enters, scry X, where X is the number of sea monsters and Sharks you control, then draw a card.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 

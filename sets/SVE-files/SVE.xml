@@ -6,7 +6,7 @@
 				<name>SVE</name>
 				<longname>Solvatim Envisioned</longname>
 				<settype>Custom</settype>
-				<releasedate>2026-11-16</releasedate>
+				<releasedate>2026-11-25</releasedate>
 			</set>
 	</sets>
 	<cards>
@@ -100,46 +100,9 @@ Surveil 1.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse-related>RC01 Mana to Flesh</reverse-related>
-			<reverse-related>CW13 Fleshify</reverse-related>
-			<reverse-related>CW16 Heal from Mourning</reverse-related>
-			<reverse-related>CW17 Message of Condolences</reverse-related>
-			<reverse-related>RW07 Letter of Solidarity</reverse-related>
-			<reverse-related>UW03 Murderous Balancer</reverse-related>
-			<reverse-related>UW04 Monastic Visionary</reverse-related>
-			<reverse-related>UW11 Death Tithe</reverse-related>
-			<reverse-related>UW13 Banishing Decay</reverse-related>
-			<reverse-related>UW18 Message of Sworn War</reverse-related>
-			<reverse-related>UW20 Shining Sabotage</reverse-related>
-			<reverse-related>CU15 Death Choice</reverse-related>
-			<reverse-related>UU12 Rotting Arcana</reverse-related>
-			<reverse-related>CB13 Reaping Murder</reverse-related>
-			<reverse-related>CB16 Read the Corpse</reverse-related>
-			<reverse-related>CB20 Sighted Burial</reverse-related>
-			<reverse-related>MB01 Aeon&apos;s Third Trial</reverse-related>
-			<reverse-related>Solvatim-03, The Purging Graveyard</reverse-related>
-			<reverse-related>RB08 Leycore of Remains</reverse-related>
-			<reverse-related>UB12 Fleshseize</reverse-related>
-			<reverse-related>UB13 Fleshblight Wind</reverse-related>
-			<reverse-related>UB15 Death Dispute</reverse-related>
-			<reverse-related>UB20 Subtle Suffering</reverse-related>
-			<reverse-related>CR15 Reduced Catharsis</reverse-related>
-			<reverse-related>CR16 Quickstart Graverobbing</reverse-related>
-			<reverse-related>RR06 Fleshifying Wildfire</reverse-related>
-			<reverse-related>UR03 Flesh Feeder</reverse-related>
-			<reverse-related>UR12 Corpse Cannonade</reverse-related>
-			<reverse-related>UR15 Serial Graverobbing</reverse-related>
-			<reverse-related>CG04 Goring Corpseater</reverse-related>
-			<reverse-related>CG15 Wilden Brutality</reverse-related>
-			<reverse-related>RG05 Grizzled Fleshtiller</reverse-related>
-			<reverse-related>UG13 Duel to Death</reverse-related>
-			<reverse-related>UG15 Graveyard Scouting</reverse-related>
-			<reverse-related>UG18 Message of Undead Might</reverse-related>
-			<reverse-related>UG19 Clay Deadshaping</reverse-related>
-			<reverse-related>UL16 Hall of the Dead</reverse-related>
 		</card>
 		<card>
-			<name>RC01 Mana to Flesh</name>
+			<name>RC01 Mana to Flesh SVE</name>
 			<text>Conjure X Corpse conjurations into your hand. (They&apos;re {0} 1/0 creatures with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/6.png" num="7">SVE</set>
 			<prop>
@@ -151,6 +114,7 @@ Surveil 1.</text>
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>RC02 Cloned Messenger</name>
@@ -401,7 +365,7 @@ Enchanted creature can&apos;t attack or block.
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CW13 Fleshify</name>
+			<name>CW13 Fleshify SVE</name>
 			<text>Destroy target artifact or enchantment. Each player conjures a 
 Corpse conjuration into their hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/21.png" num="22">SVE</set>
@@ -416,6 +380,7 @@ Corpse conjuration into their hand. (It&apos;s a {0} 1/0 creature with &quot;If 
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>CW14 Blessed Thoughts</name>
@@ -451,7 +416,7 @@ Add {W}.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CW16 Death Toll</name>
+			<name>CW16 Death Toll SVE</name>
 			<text>If you control less lands than target opponent, conjure Corpse conjurations into your hand equal to the difference. (They&apos;re {0} 1/0 creatures with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/24.png" num="25">SVE</set>
 			<prop>
@@ -465,9 +430,10 @@ Add {W}.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
-			<name>CW17 Message of Condolences</name>
+			<name>CW17 Message of Condolences SVE</name>
 			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Message—{V}, {W}. (You may copy this and cast the copy for its message cost.)
 Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
@@ -483,6 +449,7 @@ Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature 
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>CW18 Message of Alliance</name>
@@ -625,7 +592,7 @@ As long as this card is in your elsewhere and each creature card in your startin
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UW03 Murderous Balancer</name>
+			<name>UW03 Murderous Balancer SVE</name>
 			<text>When this creature enters, if an opponent controls more lands than you, conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/34.png" num="43">SVE</set>
 			<prop>
@@ -640,9 +607,10 @@ As long as this card is in your elsewhere and each creature card in your startin
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 		<card>
-			<name>UW04 Monastic Visionary</name>
+			<name>UW04 Monastic Visionary SVE</name>
 			<text>When this creature enters, you get {V} (a vision counter).
 Whenever you cast an instant or sorcery spell, you may pay {W} or {V}. If you do, conjure a Corpse conjuration onto the battlefield. Put a +1/+1 counter on it. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/35.png" num="44">SVE</set>
@@ -658,6 +626,7 @@ Whenever you cast an instant or sorcery spell, you may pay {W} or {V}. If you do
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>UW05 Anima of the Living</name>
@@ -872,7 +841,7 @@ Sacrifice a land: You gain 2 life.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UW18 Message of Sworn War</name>
+			<name>UW18 Message of Sworn War SVE</name>
 			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Message—{V}{V}{V}, {5}{W}. (You may copy this and cast the copy for its message cost.)
 Conjure two Corpse conjurations onto the battlefield. Put a +1/+1 counter on each of them. (They&apos;re {0} 1/0 creatures with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
@@ -888,6 +857,7 @@ Conjure two Corpse conjurations onto the battlefield. Put a +1/+1 counter on eac
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>CU01 Keen-Eyed Guardian</name>
@@ -908,7 +878,7 @@ When this creature enters, you get {V} (a vision counter).</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UW11 Death Tithe</name>
+			<name>UW11 Death Tithe SVE</name>
 			<text>Counter target spell unless its controller pays {1}. Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/50.png" num="51">SVE</set>
@@ -923,9 +893,10 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
-			<name>UW20 Shining Sabotage</name>
+			<name>UW20 Shining Sabotage SVE</name>
 			<text>Whenever you counter a spell or ability you control, conjure a Corpse conjuration onto the battlefield. Put a +1/+1 counter on it. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)
 Grandeur — {W}, Discard another card named Shining Sabotage: Counter target spell, activated ability, or triggered ability you control.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/51.png" num="60">SVE</set>
@@ -940,6 +911,7 @@ Grandeur — {W}, Discard another card named Shining Sabotage: Counter target sp
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>CU03 Recursive Arcanist</name>
@@ -997,7 +969,7 @@ Whenever this creature attacks, target permanent gains &quot;{2}, {T}: Draw a ca
 		<card>
 			<name>CU04 Mimesis Mockingbird</name>
 			<text>Flying
-When this creature dies, create a token that&apos;s a copy of it and attach all permanents that were attached to this creature to that token.</text>
+When this creature dies, if it&apos;s not a token create a token that&apos;s a copy of it and attach all permanents that were attached to this creature to that token.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/55.png" num="64">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1048,8 +1020,8 @@ Basic landcycling {2U}</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UW13 Banishing Decay</name>
-			<text>When this enchantment enters, exile another target nonland permanent until this enchantment leaves the battlefield. Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
+			<name>UW13 Banishing Decay SVE</name>
+			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/58.png" num="53">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1062,6 +1034,7 @@ Basic landcycling {2U}</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>CU08 Young Drake</name>
@@ -1183,7 +1156,7 @@ Add {U}.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CU15 Death Choice</name>
+			<name>CU15 Death Choice SVE</name>
 			<text>Draw a card. Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/66.png" num="75">SVE</set>
 			<prop>
@@ -1197,6 +1170,7 @@ Add {U}.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>CU16 Discoverous Insight</name>
@@ -1570,7 +1544,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UU12 Rotting Arcana</name>
+			<name>UU12 Rotting Arcana SVE</name>
 			<text>Counter target noncreature spell.
 {2}{U}, Exile this card from your graveyard: Conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/88.png" num="103">SVE</set>
@@ -1585,6 +1559,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>UU13 Icy Logic Rite</name>
@@ -1927,8 +1902,8 @@ Menace</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>3BB</manacost>
 				<cmc>5</cmc>
 				<colors>B</colors>
@@ -1937,7 +1912,7 @@ Menace</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CB13 Reaping Murder</name>
+			<name>CB13 Reaping Murder SVE</name>
 			<text>Destroy target creature. Conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/109.png" num="124">SVE</set>
 			<prop>
@@ -1951,6 +1926,7 @@ Menace</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>CB14 Cursed Thoughts</name>
@@ -1986,7 +1962,7 @@ Add {B}.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CB16 Read the Corpse</name>
+			<name>CB16 Read the Corpse SVE</name>
 			<text>Draw two cards. You lose 2 life. Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/112.png" num="127">SVE</set>
 			<prop>
@@ -2000,6 +1976,7 @@ Add {B}.</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>CB17 Message of Mockery</name>
@@ -2054,7 +2031,7 @@ Each opponent with three or more cards in hand discards a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CB20 Sighted Burial</name>
+			<name>CB20 Sighted Burial SVE</name>
 			<text>Conjure a Corpse conjuration into your hand. You get {V} (a vision counter). (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/116.png" num="131">SVE</set>
 			<prop>
@@ -2068,6 +2045,7 @@ Each opponent with three or more cards in hand discards a card.</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>CB21 Relentless Ravens</name>
@@ -2106,7 +2084,7 @@ A deck may have any number of cards named Relentless Ravens.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RB08 Leycore of Remains</name>
+			<name>RB08 Leycore of Remains SVE</name>
 			<text>Elsewhere 3 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Your starting elsewhere can only have one card named Leycore of Remains.
 As long as this card is in your elsewhere, and each creature card in your starting deck had {B} in its cost and had an even mana value, you may treat the bracketed text as if this card was on the battlefield.
@@ -2123,6 +2101,7 @@ As long as this card is in your elsewhere, and each creature card in your starti
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>UB01 Unsolved Pactling</name>
@@ -2320,7 +2299,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UB12 Fleshseize</name>
+			<name>UB12 Fleshseize SVE</name>
 			<text>Target opponent reveals their hand. You choose a nonland card from it. They discard that card. If that card was a creature card, conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/131.png" num="154">SVE</set>
 			<prop>
@@ -2334,9 +2313,10 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
-			<name>UB13 Fleshblight Wind</name>
+			<name>UB13 Fleshblight Wind SVE</name>
 			<text>Destroy each creature you don&apos;t control. For each creature destroyed this way, its controller conjures a Corpse conjuration into their hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/132.png" num="155">SVE</set>
 			<prop>
@@ -2350,6 +2330,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>UB14 Cruel Soul</name>
@@ -2370,7 +2351,7 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UB15 Death Dispute</name>
+			<name>UB15 Death Dispute SVE</name>
 			<text>As an additional cost to cast this spell, sacrifice a nonland permanent.
 Draw two cards. Conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/134.png" num="157">SVE</set>
@@ -2385,6 +2366,7 @@ Draw two cards. Conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>UB16 Mound of Eyeballs</name>
@@ -2457,7 +2439,7 @@ Return target creature card from your graveyard to the battlefield.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UB20 Subtle Suffering</name>
+			<name>UB20 Subtle Suffering SVE</name>
 			<text>Corpses you control get +0/+1 and have &quot;{T}: Add {C}. You lose 1 life.&quot; 
 Grandeur — {B}, Discard another card named Subtle Suffering: Conjure a Corpse conjuration onto the battlefield. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/139.png" num="162">SVE</set>
@@ -2472,6 +2454,7 @@ Grandeur — {B}, Discard another card named Subtle Suffering: Conjure a Corpse 
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>CR01 Keen-Eyed Thief</name>
@@ -2722,7 +2705,7 @@ Add {R}.</text>
 		<card>
 			<name>CR15 Reduced Catharsis</name>
 			<text>As an additional cost to cast this spell, discard a card.
-Draw two cards. If the discarded card was a Corpse or land, you lose 2 life.</text>
+Draw two cards. If the discarded card was a land, you lose 2 life.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/154.png" num="177">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2737,7 +2720,7 @@ Draw two cards. If the discarded card was a Corpse or land, you lose 2 life.</te
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CR16 Quickstart Graverobbing</name>
+			<name>CR16 Quickstart Graverobbing SVE</name>
 			<text>Conjure three Corpse conjurations into exile. You may play them this turn. (They&apos;re {0} 1/0 creatures with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/155.png" num="178">SVE</set>
 			<prop>
@@ -2751,6 +2734,7 @@ Draw two cards. If the discarded card was a Corpse or land, you lose 2 life.</te
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>CR17 Message of Emotion</name>
@@ -2860,7 +2844,7 @@ A deck may have any number of cards named Relentless Fodder.</text>
 			<name>RR02 Life&apos;s Broken Facade</name>
 			<text>Double strike
 When this permanent or another permanent you control that shares a card type with it dies, add {C}.
-Whenever this card leaves your graveyard, add {C}.
+When this card leaves your graveyard, add {C}.
 Whenever another card that shares a card type with this permanent leaves your graveyard, add {C}.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/162.png" num="187">SVE</set>
 			<prop>
@@ -2930,7 +2914,7 @@ As long as this card is in your elsewhere and each nonpermanent card in your sta
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR03 Flesh Feeder</name>
+			<name>UR03 Flesh Feeder SVE</name>
 			<text>Whenever a triggered ability of a Corpse you control or a Corpse card you own adds {C}, add {C}.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/166.png" num="196">SVE</set>
 			<prop>
@@ -2945,6 +2929,7 @@ As long as this card is in your elsewhere and each nonpermanent card in your sta
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>UR04 Exploring Visionary</name>
@@ -3091,7 +3076,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UR12 Corpse Cannonade</name>
+			<name>UR12 Corpse Cannonade SVE</name>
 			<text>Choose one —
 • This spell deals 3 damage to any target.
 • Destroy target artifact.
@@ -3108,6 +3093,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>UR13 Fiery Instict Rite</name>
@@ -3144,7 +3130,7 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UR15 Serial Graverobbing</name>
+			<name>UR15 Serial Graverobbing SVE</name>
 			<text>Conjure six Corpse conjurations into exile. You may play them this turn. (They&apos;re {0} 1/0 creatures with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/178.png" num="208">SVE</set>
 			<prop>
@@ -3158,6 +3144,7 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>UR16 Impulsive Looting</name>
@@ -3301,7 +3288,7 @@ When this creature enters, if it was kicked, search your library for a land card
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG04 Goring Corpseater</name>
+			<name>CG04 Goring Corpseater SVE</name>
 			<text>Trample
 When this creature enters, conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/187.png" num="217">SVE</set>
@@ -3317,6 +3304,7 @@ When this creature enters, conjure a Corpse conjuration into your hand. (It&apos
 				<pt>4/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>CG05 Spreader of Strength</name>
@@ -3490,7 +3478,7 @@ Add {G}.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CG15 Wilden Brutality</name>
+			<name>CG15 Wilden Brutality SVE</name>
 			<text>Reveal the top three cards of your library. Put the land cards into your hand and the rest into your graveyard. If you didn&apos;t put any cards into your hand this way, conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/198.png" num="228">SVE</set>
 			<prop>
@@ -3504,6 +3492,7 @@ Add {G}.</text>
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>CG16 Rooted Disruption</name>
@@ -3879,7 +3868,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UG13 Duel to Death</name>
+			<name>UG13 Duel to Death SVE</name>
 			<text>Put a +1/+1 counter on target creature you control. It fights target creature you don&apos;t control. Until end of turn, whenever a creature dies, conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/220.png" num="257">SVE</set>
 			<prop>
@@ -3893,6 +3882,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>UG14 Mighty Soul</name>
@@ -3913,7 +3903,7 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UG15 Graveyard Scouting</name>
+			<name>UG15 Graveyard Scouting SVE</name>
 			<text>Conjure a Corpse conjuration into your hand. Surveil 1. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/222.png" num="259">SVE</set>
 			<prop>
@@ -3927,6 +3917,7 @@ Invest {1} ({1}: Attach to target non-aura non-investiture permanent you control
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>UG16 Tertiary Synopsis</name>
@@ -3964,7 +3955,7 @@ Search your library for a land card, reveal it, put it into your hand, then shuf
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UG18 Message of Undead Might</name>
+			<name>UG18 Message of Undead Might SVE</name>
 			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Message—{V}{V}{V}, {5}{G}. (You may copy this and cast the copy for its message cost.)
 Conjure a Corpse conjuration onto the battlefield. Put three +1/+1 counters on that creature. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
@@ -3980,9 +3971,10 @@ Conjure a Corpse conjuration onto the battlefield. Put three +1/+1 counters on t
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
-			<name>UG19 Clay Deadshaping</name>
+			<name>UG19 Clay Deadshaping SVE</name>
 			<text>{T}: Conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)
 {T}, Exile five cards from your graveyard: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/226.png" num="263">SVE</set>
@@ -3997,6 +3989,7 @@ Conjure a Corpse conjuration onto the battlefield. Put three +1/+1 counters on t
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>UG20 Earthen Inversion</name>
@@ -4852,7 +4845,7 @@ This land enters tapped. When it enters, you get {V} (a vision counter). Then yo
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>UL16 Hall of the Dead</name>
+			<name>UL16 Hall of the Dead SVE</name>
 			<text>This land enters tapped.
 {T}: Conjure a Corpse conjuration into your graveyard. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)
 {T}: Exile up to two target cards from your graveyard.</text>
@@ -4866,6 +4859,7 @@ This land enters tapped. When it enters, you get {V} (a vision counter). Then yo
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>Plains</name>
@@ -5017,7 +5011,7 @@ III — Exile this Saga, then return it to the battlefield tapped and transforme
 		<card>
 			<name>MW01 Aeon&apos;s First Trial</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Creatures you control get -1/-1 and lose flying until end of turn.
+I — Creatures you control lose flying until end of turn.
 II — Put a flying counter on target creature you control.
 III — Exile this Saga, then return it to the battlefield tapped and transformed.
 ---
@@ -5040,6 +5034,7 @@ III — Exile this Saga, then return it to the battlefield tapped and transforme
 			<name>Solvatim-01, The Living Prison</name>
 			<text>Indestructible
 Flying
+This creature can&apos;t block.
 {T}: Add {W}.
 ---
 (Front): MW01 Aeon&apos;s First Trial</text>
@@ -5100,16 +5095,14 @@ III — Exile this Saga, then return it to the battlefield tapped and transforme
 			<related attach="transform">MU01 Aeon&apos;s Second Trial</related>
 		</card>
 		<card>
-			<name>MB01 Aeon&apos;s Third Trial</name>
+			<name>MB01 Aeon&apos;s Third Trial SVE</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Sacrifice a permanent.
 II — Conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)
-III — Exile this Saga, then return it to the battlefield tapped and transformed.
----
-(Back): Solvatim-03, The Purging Graveyard</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/292_front.png" num="133a">SVE</set>
+III — Exile this Saga, then return it to the battlefield tapped and transformed.</text>
+			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/292.png" num="133">SVE</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>saga</layout>
 				<side>front</side>
 				<type>Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
@@ -5119,27 +5112,7 @@ III — Exile this Saga, then return it to the battlefield tapped and transforme
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">Solvatim-03, The Purging Graveyard</related>
-		</card>
-		<card>
-			<name>Solvatim-03, The Purging Graveyard</name>
-			<text>Indestructible
-{T}: Add {B}.
-{T}: Conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)
----
-(Front): MB01 Aeon&apos;s Third Trial</text>
-			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/292_back.png" num="133b">SVE</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Legendary Enchantment Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-			<related attach="transform">MB01 Aeon&apos;s Third Trial</related>
+			<token>1</token>
 		</card>
 		<card>
 			<name>MR01 Aeon&apos;s Fourth Trial</name>
@@ -5312,8 +5285,8 @@ Whenever an ability of a permanent you control triggers, if that permanent is ta
 		<card>
 			<name>RB02 Mindsharer Magus</name>
 			<text>Flash
-You share the effects of phases of players you control. (This doesn&apos;t stack your own phases.)
-4 in any combination of {1} and {V}: You control target player during your choice of their next untap, upkeep, draw, or end step.</text>
+When this creature enters, you control target player during your choice of their next untap, upkeep, draw, or end step.
+You share the effects of phases of opponents you control. (This doesn&apos;t stack your own phases.)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/304.png" num="136">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -5565,7 +5538,7 @@ Vigilance
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RG05 Grizzled Fleshtiller</name>
+			<name>RG05 Grizzled Fleshtiller SVE</name>
 			<text>Elsewhere 1 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Whenever this creature deals excess damage, conjure that many Corpse conjurations into your hand. (They&apos;re {0} 1/0 creatures with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/318.png" num="241">SVE</set>
@@ -5581,6 +5554,7 @@ Whenever this creature deals excess damage, conjure that many Corpse conjuration
 				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>RB04 Recursive Ager</name>
@@ -5653,7 +5627,7 @@ Discard four cards: Draw three cards.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RR06 Fleshifying Wildfire</name>
+			<name>RR06 Fleshifying Wildfire SVE</name>
 			<text>{T}, Sacrifice a land: Conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/323.png" num="191">SVE</set>
 			<prop>
@@ -5667,6 +5641,7 @@ Discard four cards: Draw three cards.</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>RB06 Essential Eyestone</name>
@@ -5701,11 +5676,11 @@ Discard four cards: Draw three cards.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>RW07 Letter of Solidarity</name>
+			<name>RW07 Letter of Solidarity SVE</name>
 			<text>Elsewhere 2 (This card can start in your elsewhere. An elsewhere&apos;s starting value can&apos;t exceed 10.)
 Message—{V}{V}{V}, {2}{W}. (You may copy this and cast the copy for its message cost.)
 When this artifact enters, conjure a Corpse conjuration into your hand. (It&apos;s a {0} 1/0 creature with &quot;If this creature dies or this card leaves your graveyard, add {C}.&quot;)
-Cards and permanents you own have lifelink.</text>
+Cards, permanents, and spells you own have lifelink.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/SVE-files/img/326.png" num="39">SVE</set>
 			<prop>
 				<layout>normal</layout>
@@ -5718,6 +5693,7 @@ Cards and permanents you own have lifelink.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>RU07 Letter of Cyclicality</name>

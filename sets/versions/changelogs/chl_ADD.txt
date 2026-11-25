@@ -1,4 +1,35 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+
+
+RW04 Banishing Ranger
+rules_text: Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+When this creature enters, exile target nonland permanent until this creature leaves the battlefield. => Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+When this creature enters, exile target nonland permanent you don't control until this creature leaves the battlefield.
+
+MG02 Solatic
+rules_text: Vigilance
+Sunfire — Mill three cards. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+Exile three noncreature cards from your graveyard: Return this creature from your graveyard to your hand. => Vigilance
+Sunfire — Mill three cards. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+Exile three noncreature cards from your graveyard: Return this card from your graveyard to your hand.
+
+UM04 Solarkin Kinmage
+rules_text: Sunfire — Add {R} or Gatom-reminder-custom> [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i] [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+RG, {T}, Discard an Elemental card: Add RRGG. Mill four cards. => Sunfire — Add {R} or {G}. [i](Exile a creature card from your graveyard as a sorcery once per turn or attack with this to trigger this card's sunfire ability.)[/i]
+RG, {T}, Discard an Elemental card: Add RRGG. Mill four cards.
+
+RA01 Whimsy Monolith
+rules_text: This artifact doesn't untap during your untap step.
+{T}: Add {C}{C}{C}. If you're whimsical, add an additional {C}. [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less.)[/i]
+{4}: Untap this artifact. => This artifact enters tapped.
+This artifact doesn't untap during your untap step.
+{T}: Add {C}{C}{C}. If you're whimsical, add an additional {C}. [i](You're whimsical if the last non-bound spell you've cast was mana value 3 or less.)[/i]
+{4}: Untap this artifact.
+
+
+VERSION 23 CHANGELOG
 ====================
 
 No changes.

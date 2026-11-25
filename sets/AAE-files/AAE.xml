@@ -6,7 +6,7 @@
 				<name>AAE</name>
 				<longname>Amplalo at Epoch</longname>
 				<settype>Custom</settype>
-				<releasedate>2026-11-16</releasedate>
+				<releasedate>2026-11-25</releasedate>
 			</set>
 	</sets>
 	<cards>
@@ -51,7 +51,7 @@
 		</card>
 		<card>
 			<name>Wade the Shallows</name>
-			<text>Mill three cards. You may put an instant, sorcery, land, or sea monster card from among the milled cards into your hand. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)</text>
+			<text>Mill three cards. You may put an instant, sorcery, land, sea monster, or Shark card from among the milled cards into your hand. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/2.png" num="21">AAE</set>
 			<prop>
 				<layout>normal</layout>
@@ -616,7 +616,7 @@ Grandeur — Discard another card named Begin the Feeding: Put a prey counter on
 		</card>
 		<card>
 			<name>Unlikely Encounter</name>
-			<text>Search your library for a creature or planeswalker card, reveal it, then shuffle. If you revealed a sea monster or Arvis card this way, put it into your hand. Otherwise, put it on top of your library. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)</text>
+			<text>Search your library for a creature or planeswalker card, reveal it, then shuffle. If you revealed a sea monster, Shark, or Arvis card this way, put it into your hand. Otherwise, put it on top of your library. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/35.png" num="50">AAE</set>
 			<prop>
 				<layout>normal</layout>
@@ -952,7 +952,7 @@ Whenever Ikylix enters or attacks, you may exile a nonland card from a graveyard
 			<name>Naranu, the Tides Alive</name>
 			<text>Elsewhere 4 (This card can start in your elsewhere. Your elsewhere&apos;s starting value can&apos;t exceed 10.)
 Ritual — three blue cards with different names. (You may cast this card from your elsewhere as long as you&apos;ve played three blue cards with different names this game.)
-When Naranu enters, scry X, where X is the number of sea monsters you control, then draw a card.</text>
+When Naranu enters, scry X, where X is the number of sea monsters and Sharks you control, then draw a card.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AAE-files/img/54.png" num="18">AAE</set>
 			<prop>
 				<layout>normal</layout>

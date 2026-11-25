@@ -131,7 +131,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "!exportname Corpse conjuration\n!conjured\n!related RC01 Mana to Flesh;CW13 Fleshify;CW16 Heal from Mourning;CW17 Message of Condolences;RW07 Letter of Solidarity;UW03 Murderous Balancer;UW04 Monastic Visionary;UW11 Death Tithe;UW13 Banishing Decay;UW18 Message of Sworn War;UW20 Shining Sabotage;CU15 Death Choice;UU12 Rotting Arcana;CB13 Reaping Murder;CB16 Read the Corpse;CB20 Sighted Burial;MB01 Aeon's Third Trial;Solvatim-03, The Purging Graveyard;RB08 Leycore of Remains;UB12 Fleshseize;UB13 Fleshblight Wind;UB15 Death Dispute;UB20 Subtle Suffering;CR15 Reduced Catharsis;CR16 Quickstart Graverobbing;RR06 Fleshifying Wildfire;UR03 Flesh Feeder;UR12 Corpse Cannonade;UR15 Serial Graverobbing;CG04 Goring Corpseater;CG15 Wilden Brutality;RG05 Grizzled Fleshtiller;UG13 Duel to Death;UG15 Graveyard Scouting;UG18 Message of Undead Might;UG19 Clay Deadshaping;UL16 Hall of the Dead"
+            "notes": "!exportname Corpse conjuration"
         },
         {
             "card_name": "RC01 Mana to Flesh",
@@ -145,14 +145,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "!valueslot"
+            "notes": "!valueslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "RC02 Cloned Messenger",
@@ -460,14 +460,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "!interactionslot"
+            "notes": "!interactionslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CW14 Blessed Thoughts",
@@ -523,14 +523,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": "!valueslot"
+            "notes": "!valueslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CW17 Message of Condolences",
@@ -544,14 +544,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "!messageslot"
+            "notes": "!messageslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CW18 Message of Alliance",
@@ -733,14 +733,14 @@
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": "!mediumcreatureslot"
+            "notes": "!mediumcreatureslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UW04 Monastic Visionary",
@@ -754,14 +754,14 @@
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": "!mediumcreatureslot"
+            "notes": "!mediumcreatureslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UW05 Anima of the Living",
@@ -1027,14 +1027,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": "!messageslot"
+            "notes": "!messageslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CU01 Keen-Eyed Guardian",
@@ -1069,14 +1069,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "!interactionslot"
+            "notes": "!interactionslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UW20 Shining Sabotage",
@@ -1090,14 +1090,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "!oddityslot"
+            "notes": "!oddityslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CU03 Recursive Arcanist",
@@ -1170,7 +1170,7 @@
             "number": 64,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Flying\nWhen this creature dies, create a token that's a copy of it and attach all permanents that were attached to this creature to that token.",
+            "rules_text": "Flying\nWhen this creature dies, if it's not a token create a token that's a copy of it and attach all permanents that were attached to this creature to that token.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -1233,18 +1233,18 @@
             "number": 53,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When this enchantment enters, exile another target nonland permanent until this enchantment leaves the battlefield. Conjure a Corpse conjuration into your graveyard. [i](It's a {0} 1/0 creature with \u201cIf this creature dies or this card leaves your graveyard, add {C}.\u201d)[/i]",
+            "rules_text": "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. Conjure a Corpse conjuration into your graveyard. [i](It's a {0} 1/0 creature with \u201cIf this creature dies or this card leaves your graveyard, add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": "!interactionslot"
+            "notes": "!interactionslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CU08 Young Drake",
@@ -1405,14 +1405,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": "!valueslot"
+            "notes": "!valueslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CU16 Discoverous Insight",
@@ -1867,14 +1867,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": "!interactionslot"
+            "notes": "!interactionslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UU13 Icy Logic Rite",
@@ -2279,7 +2279,7 @@
             "card_name": "CB12 Enlightening Grief",
             "color": "B",
             "rarity": "common",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 123,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
@@ -2308,14 +2308,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "109",
             "rotated": false,
-            "notes": "!interactionslot"
+            "notes": "!interactionslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CB14 Cursed Thoughts",
@@ -2371,14 +2371,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": "!valueslot"
+            "notes": "!valueslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CB17 Message of Mockery",
@@ -2455,14 +2455,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": "!oddityslot"
+            "notes": "!oddityslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CB21 Relentless Ravens",
@@ -2518,14 +2518,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": "!oddityslot"
+            "notes": "!oddityslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UB01 Unsolved Pactling",
@@ -2770,14 +2770,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "131",
             "rotated": false,
-            "notes": "!interactionslot"
+            "notes": "!interactionslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UB13 Fleshblight Wind",
@@ -2791,14 +2791,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "132",
             "rotated": false,
-            "notes": "!interactionslot"
+            "notes": "!interactionslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UB14 Cruel Soul",
@@ -2833,14 +2833,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "134",
             "rotated": false,
-            "notes": "!valueslot"
+            "notes": "!valueslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UB16 Mound of Eyeballs",
@@ -2938,14 +2938,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "139",
             "rotated": false,
-            "notes": "!oddityslot"
+            "notes": "!oddityslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CR01 Keen-Eyed Thief",
@@ -3249,7 +3249,7 @@
             "number": 177,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards. If the discarded card was a Corpse or land, you lose 2 life.",
+            "rules_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards. If the discarded card was a land, you lose 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3274,14 +3274,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "155",
             "rotated": false,
-            "notes": "!valueslot"
+            "notes": "!valueslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CR17 Message of Emotion",
@@ -3417,7 +3417,7 @@
             "number": 187,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Double strike\nWhen this permanent or another permanent you control that shares a card type with it dies, add {C}.\nWhenever this card leaves your graveyard, add {C}.\nWhenever another card that shares a card type with this permanent leaves your graveyard, add {C}.",
+            "rules_text": "Double strike\nWhen this permanent or another permanent you control that shares a card type with it dies, add {C}.\nWhen this card leaves your graveyard, add {C}.\nWhenever another card that shares a card type with this permanent leaves your graveyard, add {C}.",
             "flavor_text": "[i]Life, a shattered remnant of what's to come. Death, a purest art of all that came before.[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -3505,14 +3505,14 @@
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "166",
             "rotated": false,
-            "notes": "!mediumcreatureslot"
+            "notes": "!mediumcreatureslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UR04 Exploring Visionary",
@@ -3694,14 +3694,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "175",
             "rotated": false,
-            "notes": "!interactionslot"
+            "notes": "!interactionslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UR13 Fiery Instict Rite",
@@ -3757,14 +3757,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "178",
             "rotated": false,
-            "notes": "!valueslot"
+            "notes": "!valueslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UR16 Impulsive Looting",
@@ -3946,14 +3946,14 @@
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "187",
             "rotated": false,
-            "notes": "!mediumcreatureslot"
+            "notes": "!mediumcreatureslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CG05 Spreader of Strength",
@@ -4177,14 +4177,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "198",
             "rotated": false,
-            "notes": "!valueslot"
+            "notes": "!valueslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "CG16 Rooted Disruption",
@@ -4639,14 +4639,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "220",
             "rotated": false,
-            "notes": "!interactionslot"
+            "notes": "!interactionslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UG14 Mighty Soul",
@@ -4681,14 +4681,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "222",
             "rotated": false,
-            "notes": "!valueslot"
+            "notes": "!valueslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UG16 Tertiary Synopsis",
@@ -4744,14 +4744,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "225",
             "rotated": false,
-            "notes": "!messageslot"
+            "notes": "!messageslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UG19 Clay Deadshaping",
@@ -4765,14 +4765,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "226",
             "rotated": false,
-            "notes": "!oddityslot"
+            "notes": "!oddityslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "UG20 Earthen Inversion",
@@ -5899,14 +5899,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "280",
             "rotated": false,
-            "notes": "!utilitylandslot"
+            "notes": "!utilitylandslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "Plains",
@@ -6096,10 +6096,10 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Creatures you control get -1/-1 and lose flying until end of turn.\nII \u2014 Put a flying counter on target creature you control.\nIII \u2014 Exile this Saga, then return it to the battlefield tapped and transformed.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Creatures you control lose flying until end of turn.\nII \u2014 Put a flying counter on target creature you control.\nIII \u2014 Exile this Saga, then return it to the battlefield tapped and transformed.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Creatures you control get -1/-1 and lose flying until end of turn.\nII \u2014 Put a flying counter on target creature you control.\nIII \u2014 Exile this Saga, then return it to the battlefield tapped and transformed.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Creatures you control lose flying until end of turn.\nII \u2014 Put a flying counter on target creature you control.\nIII \u2014 Exile this Saga, then return it to the battlefield tapped and transformed.",
             "shape": "transform double faced",
             "set": "SVE",
             "loyalty": "",
@@ -6110,7 +6110,7 @@
             "color2": "",
             "type2": "Legendary Land Creature \u2014 Construct",
             "cost2": "",
-            "rules_text2": "Indestructible\nFlying\n{T}: Add {W}.",
+            "rules_text2": "Indestructible\nFlying\nThis creature can't block.\n{T}: Add {W}.",
             "flavor_text2": "[i]Aeon sought to contain threats to society. But Solvatim knows not who is a threat.[/i]",
             "pt2": "2/2",
             "special_text2": "",
@@ -6166,7 +6166,7 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Sacrifice a permanent.\nII \u2014 Conjure a Corpse conjuration into your hand. [i](It's a {0} 1/0 creature with \u201cIf this creature dies or this card leaves your graveyard, add {C}.\u201d)[/i]\nIII \u2014 Exile this Saga, then return it to the battlefield tapped and transformed.",
-            "shape": "transform double faced",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
@@ -6185,7 +6185,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "!oddityslot\n"
+            "notes": "!oddityslot\n!token Corpse conjuration<conjure>\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "MR01 Aeon's Fourth Trial",
@@ -6327,7 +6327,7 @@
             "number": 136,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Flash\nYou share the effects of phases of players you control. [i](This doesn't stack your own phases.)[/i]\n4 in any combination of {1} and {V}: You control target player during your choice of their next untap, upkeep, draw, or end step.",
+            "rules_text": "Flash\nWhen this creature enters, you control target player during your choice of their next untap, upkeep, draw, or end step.\nYou share the effects of phases of opponents you control. [i](This doesn't stack your own phases.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -6625,14 +6625,14 @@
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "318",
             "rotated": false,
-            "notes": "!elderslot"
+            "notes": "!elderslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "RB04 Recursive Ager",
@@ -6730,14 +6730,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "323",
             "rotated": false,
-            "notes": "!valueslot"
+            "notes": "!valueslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "RB06 Essential Eyestone",
@@ -6789,18 +6789,18 @@
             "number": 39,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nMessage\u2014{V}{V}{V}, {2}{W}. [i](You may copy this and cast the copy for its message cost.)[/i]\nWhen this artifact enters, conjure a Corpse conjuration into your hand. [i](It's a {0} 1/0 creature with \u201cIf this creature dies or this card leaves your graveyard, add {C}.\u201d)[/i]\nCards and permanents you own have lifelink.",
+            "rules_text": "Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]\nMessage\u2014{V}{V}{V}, {2}{W}. [i](You may copy this and cast the copy for its message cost.)[/i]\nWhen this artifact enters, conjure a Corpse conjuration into your hand. [i](It's a {0} 1/0 creature with \u201cIf this creature dies or this card leaves your graveyard, add {C}.\u201d)[/i]\nCards, permanents, and spells you own have lifelink.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "SVE",
             "loyalty": "",
             "artist": "",
             "alias": "",
             "position": "326",
             "rotated": false,
-            "notes": "!messageslot"
+            "notes": "!messageslot\n!token Corpse conjuration<conjure>"
         },
         {
             "card_name": "RU07 Letter of Cyclicality",
@@ -7130,5 +7130,5 @@
             "notes": "!oddityslot"
         }
     ],
-    "version": 12
+    "version": 13
 }

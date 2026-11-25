@@ -1,4 +1,23 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+MC02 Dream Foretold
+flavor_text: [i][/i] => [i]To save the village, a prophet uttered, a dream foretold, to doom a child.[/i]
+
+RC01 Precursing Blob
+flavor_text: [i][/i] => [i]Some things predate even the village, though no one knows how or why. While some speculate that they are of the void, the majority are too drunken to question the silly little blob offering free entertainment.[/i]
+
+UG03 Fateful Regrowth
+rules_text: Return target land card from your graveyard to the battlefield. You gain 3 life.
+{G}, Discard this card: Search your library for a land card, put it into your graveyard, then shuffle.
+A deck may contain up to seven cards named Fateful Regrowth. => Return target land card from your graveyard to the battlefield tapped. You gain 2 life.
+{G}, Discard this card: Search your library for a land card, put it into your graveyard, then shuffle.
+A deck may contain up to seven cards named Fateful Regrowth.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

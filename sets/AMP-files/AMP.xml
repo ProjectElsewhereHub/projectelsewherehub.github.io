@@ -6,7 +6,7 @@
 				<name>AMP</name>
 				<longname>Amplalo, Realm of the Colossi</longname>
 				<settype>Custom</settype>
-				<releasedate>2026-11-16</releasedate>
+				<releasedate>2026-11-25</releasedate>
 			</set>
 	</sets>
 	<cards>
@@ -175,7 +175,7 @@ Whenever a creature or planeswalker an opponent controls is dealt excess noncomb
 		</card>
 		<card>
 			<name>Marine, Kraken Breeder</name>
-			<text>Whenever a sea monster you control enters, draw a card. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
+			<text>Whenever a sea monster or Shark you control enters, draw a card. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)
 {T}: Add {G}{U}. Spend this mana only to cast sea monster spells.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/9.png" num="202">AMP</set>
 			<prop>
@@ -572,7 +572,7 @@ Apex — This creature gets +2/+1 as long as you control a creature with mana va
 		</card>
 		<card>
 			<name>Sanity Drowner</name>
-			<text>Whenever this creature or another sea monster you control enters, target player mills two cards. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)</text>
+			<text>Whenever this creature or another sea monster or Shark you control enters, target player mills two cards. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/32.png" num="69">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -693,7 +693,7 @@ You may sacrifice an artifact. If you do, draw a card. If you don&apos;t, create
 		<card>
 			<name>Grip of Tentacles</name>
 			<text>Enchant creature
-When this Aura enters, if you control a sea monster, tap enchanted creature. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
+When this Aura enters, if you control a sea monster or Shark, tap enchanted creature. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)
 Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/39.png" num="57">AMP</set>
 			<prop>
@@ -1394,7 +1394,7 @@ Draw two cards and create a tapped Treasure token. (It&apos;s an artifact with &
 		</card>
 		<card>
 			<name>Dominate the Shallows</name>
-			<text>This spell costs {2} less to cast if it targets a sea monster you control. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
+			<text>This spell costs {2} less to cast if it targets a sea monster or Shark you control. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)
 Enchant creature
 When this Aura enters, enchanted creature fights up to one target creature you don&apos;t control.
 Enchanted creature gets +1/+1.</text>
@@ -1549,7 +1549,7 @@ Apex — This creature gets +2/+1 as long as you control a creature with mana va
 		</card>
 		<card>
 			<name>Seaweaver Serpent</name>
-			<text>When this creature enters, put a +1/+1 counter on target sea monster you control. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)</text>
+			<text>When this creature enters, put a +1/+1 counter on target sea monster or Shark you control. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)</text>
 			<set rarity="common" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/89.png" num="180">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2013,8 +2013,8 @@ Apex — This enchantment has indestructible as long as you control a creature w
 		</card>
 		<card>
 			<name>Evergrowing Kraken</name>
-			<text>Whenever another non-Tentacle sea monster you control enters, create a 1/1 blue Tentacle creature token. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
-This creature gets +0/+1 for each tentacle you control.</text>
+			<text>Whenever another non-Tentacle sea monster or Shark you control enters, create a 1/1 blue Tentacle creature token. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)
+This creature gets +0/+1 for each Tentacle you control.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/117.png" num="53">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2032,7 +2032,7 @@ This creature gets +0/+1 for each tentacle you control.</text>
 		<card>
 			<name>Keeper of the Sunken</name>
 			<text>When this creature enters, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
-Treasures you control have &quot;{T}, Sacrifice this artifact: Add two mana of any one color. Spend this mana only to cast sea monster spells.&quot; (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)</text>
+Treasures you control have &quot;{T}, Sacrifice this artifact: Add two mana of any one color. Spend this mana only to cast sea monster and Shark spells.&quot; (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/118.png" num="58">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2084,7 +2084,7 @@ If X is 0, scry 1 and create a tapped Treasure token. (It&apos;s an artifact wit
 		</card>
 		<card>
 			<name>Glimpse the Deep-Keeper</name>
-			<text>Look at the top five cards of your library. You may reveal up to one sea monster card, up to one nonbasic land card, and up to one artifact card from among them. Put two cards revealed this way into your hand the rest on the bottom of your library in a random order. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)</text>
+			<text>Look at the top five cards of your library. You may reveal up to one sea monster or Shark card, up to one nonbasic land card, and up to one artifact card from among them. Put two cards revealed this way into your hand the rest on the bottom of your library in a random order. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/121.png" num="55">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2381,7 +2381,7 @@ At the beginning of your end step, sacrifice this enchantment.</text>
 			<name>Churn the Tides</name>
 			<text>Choose one —
 • Choose a creature type. For each creature you control of the chosen type, exile the top card of your library.
-• For each sea monster you control, exile the top card of your library. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
+• For each sea monster and Shark you control, exile the top card of your library. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)
 Until the end of your next turn, you may play cards exiled with this spell.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/138.png" num="122">AMP</set>
 			<prop>
@@ -2833,7 +2833,7 @@ Double strike, vigilance, trample, indestructible</text>
 		<card>
 			<name>Arvis, the Tidewaker</name>
 			<text>Each land is an Island in addition to its other types.
-Whenever another sea monster you control enters, control, create a 1/1 blue Fish creature token. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
+Whenever another sea monster or Shark you control enters, control, create a 1/1 blue Fish creature token. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)
 {U}{U}{U}{U}{U}{U}{U}{U}: Fish and sea monster creatures you control can&apos;t be blocked this turn.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/165.png" num="41">AMP</set>
 			<prop>
@@ -2926,7 +2926,7 @@ Ward {6} (Whenever this creature becomes the target of a spell or ability an opp
 		</card>
 		<card>
 			<name>Bident of Kiora</name>
-			<text>Whenever a creature you control deals combat damage to a player, you may draw a card. If that creature is a sea monster, you may also put a loyalty counter on each Kiora you control. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
+			<text>Whenever a creature you control deals combat damage to a player, you may draw a card. If that creature is a sea monster or Shark, you may also put a loyalty counter on each Kiora you control. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)
 {5}{U}, {T}: Search your library for a sea monster, nonbasic land, or Kiora planeswalker card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/170.png" num="43">AMP</set>
 			<prop>
@@ -2943,7 +2943,7 @@ Ward {6} (Whenever this creature becomes the target of a spell or ability an opp
 		</card>
 		<card>
 			<name>Command the Deep</name>
-			<text>This spell costs {1} less to cast for each sea monster you control. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
+			<text>This spell costs {1} less to cast for each sea monster and Shark you control. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)
 Gain control of target permanent.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/171.png" num="45">AMP</set>
 			<prop>
@@ -3087,8 +3087,8 @@ Each opponent loses X life. You gain life equal to the life lost this way.</text
 		</card>
 		<card>
 			<name>Ruinator Scourge</name>
-			<text>Whenever this creature or another sea monster you control attacks, add {R}. (You lose that mana at the end of the declare attackers step. Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
-{R}: Target sea monster gets +1/+0 until end of turn.
+			<text>Whenever this creature or another sea monster or Shark you control attacks, add {R}. (You lose that mana at the end of the declare attackers step. Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
+{R}: Target sea monster or Shark gets +1/+0 until end of turn.
 {R}{R}{R}{R}: Destroy target artifact.</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/179.png" num="147">AMP</set>
 			<prop>
@@ -3552,7 +3552,7 @@ Spells of the chosen type cost {1} less to cast for each charge counter on this 
 		</card>
 		<card>
 			<name>Nuvan, the Deep-Favored</name>
-			<text>Whenever a sea monster enters the battlefield under your control, you may pay {3}. If you do and {U} was spent this way, draw a card. If you do and {R} was spent this way, that creature deals damage equal to its power to each opponent. If you do and {G} was spent this way, you gain life equal to its power. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters. Do each applicable effect if {U}{R}, {R}{G}, {G}{U}, or {G}{U}{R} was spent.)</text>
+			<text>Whenever a sea monster or Shark enters the battlefield under your control, you may pay {3}. If you do and {U} was spent this way, draw a card. If you do and {R} was spent this way, that creature deals damage equal to its power to each opponent. If you do and {G} was spent this way, you gain life equal to its power. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters. Do each applicable effect if {U}{R}, {R}{G}, {G}{U}, or {G}{U}{R} was spent.)</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/206.png" num="63">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -3660,7 +3660,7 @@ Whenever a creature Pulai convoked enters, create a 1/1 white Cleric creature to
 			<text>This spell can&apos;t be countered.
 Normungan, Crabs, and other Trilobites you control are sea monsters.
 When Normungan enters, create a 0/2 blue Trilobite creature token for each Island you control.
-Sacrifice another sea monster: Target creature gains hexproof until end of turn.</text>
+Sacrifice another sea monster or Shark: Target creature gains hexproof until end of turn.</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/212.png" num="62">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -3946,10 +3946,10 @@ Enchanted creature gets +2/+2 and has trample.</text>
 		</card>
 		<card>
 			<name>Kiora, Caller of the Deep</name>
-			<text>Sea monster spells you cast cost {1} less to cast.
+			<text>Sea monster and Shark spells you cast cost {1} less to cast.
 [+1]: Untap target permanent you control. You may return that permanent to its owner&apos;s hand..
 [-1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
-[-10]: Search your library for any number of sea monster cards and any number of land cards, reveal them, put them into your hand, then shuffle. Add five {G} and five {U}.</text>
+[-10]: Search your library for any number of sea monster cards, any number of Shark cards, and any number of land cards, reveal them, put them into your hand, then shuffle. Add five {G} and five {U}.</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/228.png" num="201">AMP</set>
 			<prop>
 				<layout>normal</layout>
@@ -4837,7 +4837,7 @@ Everlasting Typhoon enters tapped.
 		</card>
 		<card>
 			<name>Sturmstrik, Typhoon-Bringer</name>
-			<text>Whenever Sturmstrik or another sea monster you control enters, tap up to one target creature. That creature doesn&apos;t untap during its controller&apos;s untap step for as long as you control Sturmstrik. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
+			<text>Whenever Sturmstrik or another sea monster or Shark you control enters, tap up to one target creature. That creature doesn&apos;t untap during its controller&apos;s untap step for as long as you control Sturmstrik. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)
 ---
 (Front): Everlasting Typhoon</text>
 			<set rarity="rare" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/271_back.png" num="235b">AMP</set>
@@ -5294,7 +5294,7 @@ Maw of the Deep enters tapped.
 			<text>Abussaee is a sea monster.
 This spell can&apos;t be countered.
 Hexproof, indestructible
-When Abussaee enters, draw seven cards. Until end of turn, you may pay {0} rather than pay the mana cost for non-Colossus sea monster spells you cast. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)
+When Abussaee enters, draw seven cards. Until end of turn, you may pay {0} rather than pay the mana cost for non-Colossus sea monster and Shark spells you cast. (Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)
 ---
 (Front): Maw of the Deep</text>
 			<set rarity="mythic" picurl="https://projectelsewherehub.github.io/sets/AMP-files/img/293_back.png" num="246b">AMP</set>

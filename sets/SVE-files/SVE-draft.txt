@@ -1084,7 +1084,7 @@
 			"name": "CB12 Enlightening Grief",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "123",
 			"image_uris": {
 				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/108.png"
@@ -2937,15 +2937,8 @@
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "133",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/292_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/292_front.png"
+				"en": "https://projectelsewherehub.github.io/sets/SVE-files/img/292.png"
 			}
 		},
 		{

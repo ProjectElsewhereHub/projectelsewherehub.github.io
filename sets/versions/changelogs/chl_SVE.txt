@@ -1,4 +1,135 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Corpse conjuration
+
+RC01 Mana to Flesh
+
+CW13 Fleshify
+
+CW16 Death Toll
+
+CW17 Message of Condolences
+
+UW03 Murderous Balancer
+
+UW04 Monastic Visionary
+
+UW18 Message of Sworn War
+
+UW11 Death Tithe
+
+UW20 Shining Sabotage
+
+CU04 Mimesis Mockingbird
+rules_text: Flying
+When this creature dies, create a token that's a copy of it and attach all permanents that were attached to this creature to that token. => Flying
+When this creature dies, if it's not a token create a token that's a copy of it and attach all permanents that were attached to this creature to that token.
+
+UW13 Banishing Decay
+rules_text: When this enchantment enters, exile another target nonland permanent until this enchantment leaves the battlefield. Conjure a Corpse conjuration into your graveyard. [i](It's a {0} 1/0 creature with “If this creature dies or this card leaves your graveyard, add {C}.”)[/i] => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. Conjure a Corpse conjuration into your graveyard. [i](It's a {0} 1/0 creature with “If this creature dies or this card leaves your graveyard, add {C}.”)[/i]
+
+CU15 Death Choice
+
+UU12 Rotting Arcana
+
+CB12 Enlightening Grief
+type: Instant => Sorcery
+
+CB13 Reaping Murder
+
+CB16 Read the Corpse
+
+CB20 Sighted Burial
+
+RB08 Leycore of Remains
+
+UB12 Fleshseize
+
+UB13 Fleshblight Wind
+
+UB15 Death Dispute
+
+UB20 Subtle Suffering
+
+CR15 Reduced Catharsis
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards. If the discarded card was a Corpse or land, you lose 2 life. => As an additional cost to cast this spell, discard a card.
+Draw two cards. If the discarded card was a land, you lose 2 life.
+
+CR16 Quickstart Graverobbing
+
+RR02 Life's Broken Facade
+rules_text: Double strike
+When this permanent or another permanent you control that shares a card type with it dies, add {C}.
+Whenever this card leaves your graveyard, add {C}.
+Whenever another card that shares a card type with this permanent leaves your graveyard, add {C}. => Double strike
+When this permanent or another permanent you control that shares a card type with it dies, add {C}.
+When this card leaves your graveyard, add {C}.
+Whenever another card that shares a card type with this permanent leaves your graveyard, add {C}.
+
+UR03 Flesh Feeder
+
+UR12 Corpse Cannonade
+
+UR15 Serial Graverobbing
+
+CG04 Goring Corpseater
+
+CG15 Wilden Brutality
+
+UG13 Duel to Death
+
+UG15 Graveyard Scouting
+
+UG18 Message of Undead Might
+
+UG19 Clay Deadshaping
+
+UL16 Hall of the Dead
+
+MW01 Aeon's First Trial
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control get -1/-1 and lose flying until end of turn.
+II — Put a flying counter on target creature you control.
+III — Exile this Saga, then return it to the battlefield tapped and transformed. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control lose flying until end of turn.
+II — Put a flying counter on target creature you control.
+III — Exile this Saga, then return it to the battlefield tapped and transformed.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control get -1/-1 and lose flying until end of turn.
+II — Put a flying counter on target creature you control.
+III — Exile this Saga, then return it to the battlefield tapped and transformed. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Creatures you control lose flying until end of turn.
+II — Put a flying counter on target creature you control.
+III — Exile this Saga, then return it to the battlefield tapped and transformed.
+
+MB01 Aeon's Third Trial
+
+RB02 Mindsharer Magus
+rules_text: Flash
+You share the effects of phases of players you control. [i](This doesn't stack your own phases.)[/i]
+4 in any combination of {1} and {V}: You control target player during your choice of their next untap, upkeep, draw, or end step. => Flash
+When this creature enters, you control target player during your choice of their next untap, upkeep, draw, or end step.
+You share the effects of phases of opponents you control. [i](This doesn't stack your own phases.)[/i]
+
+RG05 Grizzled Fleshtiller
+
+RR06 Fleshifying Wildfire
+
+RW07 Letter of Solidarity
+rules_text: Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Message—{V}{V}{V}, {2}{W}. [i](You may copy this and cast the copy for its message cost.)[/i]
+When this artifact enters, conjure a Corpse conjuration into your hand. [i](It's a {0} 1/0 creature with “If this creature dies or this card leaves your graveyard, add {C}.”)[/i]
+Cards and permanents you own have lifelink. => Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+Message—{V}{V}{V}, {2}{W}. [i](You may copy this and cast the copy for its message cost.)[/i]
+When this artifact enters, conjure a Corpse conjuration into your hand. [i](It's a {0} 1/0 creature with “If this creature dies or this card leaves your graveyard, add {C}.”)[/i]
+Cards, permanents, and spells you own have lifelink.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 CW16 Death Toll added.

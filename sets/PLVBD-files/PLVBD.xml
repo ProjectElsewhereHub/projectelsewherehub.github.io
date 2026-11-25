@@ -6,7 +6,7 @@
 				<name>PLVBD</name>
 				<longname>Preludes: The Village Before the Dream</longname>
 				<settype>Custom</settype>
-				<releasedate>2026-11-16</releasedate>
+				<releasedate>2026-11-25</releasedate>
 			</set>
 	</sets>
 	<cards>
@@ -821,7 +821,7 @@ A deck may contain up to seven cards named Fateful Advantage.</text>
 		</card>
 		<card>
 			<name>UG03 Fateful Regrowth</name>
-			<text>Return target land card from your graveyard to the battlefield. You gain 3 life.
+			<text>Return target land card from your graveyard to the battlefield tapped. You gain 2 life.
 {G}, Discard this card: Search your library for a land card, put it into your graveyard, then shuffle.
 A deck may contain up to seven cards named Fateful Regrowth.</text>
 			<set rarity="uncommon" picurl="https://projectelsewherehub.github.io/sets/PLVBD-files/img/46.png" num="38">PLVBD</set>

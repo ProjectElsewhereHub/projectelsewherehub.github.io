@@ -1,4 +1,105 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+
+
+RA01 Exertion Amplifier
+rules_text: Whenever you activate a non-mana ability of a tapped permanent not named Amplifier of Exertion or an ability of a tapped permanent you control not named Amplifier of Exertion triggers, copy that ability. You may choose new targets for the copy. => Whenever you activate a non-mana ability of a tapped permanent not named Exertion Amplifier or an ability of a tapped permanent you control not named Exertion Amplifier triggers, copy that ability. You may choose new targets for the copy.
+
+CC03 Lightform of the Tongue
+rules_text: [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{B} — Add X mana in any combination of colors.
+{R} — This spell deals X damage to each opponent. => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{B} — Add one mana of any color.
+{R} — This spell deals X damage to each opponent.
+special_text: [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{B} — Add X mana in any combination of colors.
+{R} — This spell deals X damage to each opponent. => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Create a Prayer token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Add one mana of any color” and “Sacrifice X Prayers: Cast a Savior card with mana value X or less from your elsewhere without paying its mana cost. Activate only as a sorcery.”)[/i]
+{B} — Add one mana of any color.
+{R} — This spell deals X damage to each opponent.
+
+RL01 Bedrock of Pearl
+rules_text: Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+{T}: Add {W}.
+This enters tapped.
+You may play this land from your elsewhere as long as you control no Bedrocks. => Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+{T}: Add {W}.
+This land enters tapped.
+You may play this land from your elsewhere as long as you control no Bedrocks.
+
+RL02 Bedrock of Sapphire
+rules_text: Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+{T}: Add {U}.
+This enters tapped.
+You may play this land from your elsewhere as long as you control no Bedrocks. => Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+{T}: Add {U}.
+This land enters tapped.
+You may play this land from your elsewhere as long as you control no Bedrocks.
+
+RL03 Bedrock of Jet
+rules_text: Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+{T}: Add {B}.
+This enters tapped.
+You may play this land from your elsewhere as long as you control no Bedrocks. => Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+{T}: Add {B}.
+This land enters tapped.
+You may play this land from your elsewhere as long as you control no Bedrocks.
+
+RL04 Bedrock of Ruby
+rules_text: Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+{T}: Add {R}.
+This enters tapped.
+You may play this land from your elsewhere as long as you control no Bedrocks. => Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+{T}: Add {R}.
+This land enters tapped.
+You may play this land from your elsewhere as long as you control no Bedrocks.
+
+RL05 Bedrock of Emerald
+rules_text: Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+{T}: Add {G}.
+This enters tapped.
+You may play this land from your elsewhere as long as you control no Bedrocks. => Elsewhere 2 [i](This card can start in your elsewhere. An elsewhere's starting value can't exceed 10.)[/i]
+{T}: Add {G}.
+This land enters tapped.
+You may play this land from your elsewhere as long as you control no Bedrocks.
+
+UW10 Banishing Soul-Scars
+rules_text: When this enchantment enters, exile target nonland permanent until this enchantment leaves the battlefield.
+Invested permanent can't attack or block, and its non-mana abilities can't be activated.
+{1}{W}: Attach to target non-aura non-investiture permanent you don't control. Activate only as a sorcery. => When this enchantment enters, exile target nonland permanent you don't control until this enchantment leaves the battlefield.
+Invested permanent can't attack or block, and its non-mana abilities can't be activated.
+{1}{W}: Attach to target non-aura non-investiture permanent you don't control. Activate only as a sorcery.
+
+RW06 Heralding Crusader
+rules_text: Vigilance
+Whenever this creature attacks, if you control three or more other creatures, exile target creature until this creature leaves the battlefield. => Vigilance
+Whenever this creature attacks, if you control three or more other creatures, exile target creature you don't control until this creature leaves the battlefield.
+
+RB04 Lightform of Domination
+rules_text: [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Surveil X. [i](Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{R} — Each player discards their hand, then draws X cards.
+{G}{W} — Return a permanent card with mana value 5 or less from your graveyard to the battlefield. => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Surveil X. [i](Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{R} — Each player discards X cards, then draws X cards.
+{G}{W} — Return a permanent card with mana value 5 or less from your graveyard to the battlefield.
+special_text: [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Surveil X. [i](Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{R} — Each player discards their hand, then draws X cards.
+{G}{W} — Return a permanent card with mana value 5 or less from your graveyard to the battlefield. => [i](This spell gains effects based on the sources and colors of mana spent to cast it.)[/i]
+{U} — Surveil X. [i](Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{R} — Each player discards X cards, then draws X cards.
+{G}{W} — Return a permanent card with mana value 5 or less from your graveyard to the battlefield.
+
+MC06 Tagross, Void Ascendant
+rules_text: Sacrifice five permanents invested by God-Shards and a God-Shard investing each of them: If this creature is no longer longer on the battlefield, search your deck for a card named Tagross, [/i][i]Void[/i][i] Deified, put it onto the battlefield, then shuffle. => Sacrifice five permanents invested by God-Shards and a God-Shard investing each of them: If this creature is no longer on the battlefield, search your deck for a card named Tagross, [/i][i]Void[/i][i] Deified, put it onto the battlefield, then shuffle.
+
+
+VERSION 19 CHANGELOG
 ====================
 
 
